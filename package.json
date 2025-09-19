@@ -1,0 +1,21 @@
+{
+  "name": "seminary-slides",
+  "version": "1.0.0",
+  "description": "Weekly seminary lesson slides built with Slidev",
+  "main": "index.js",
+  "scripts": {
+    "dev": "slidev",
+    "build": "slidev build",
+    "export": "slidev export",
+    "export-pdf": "slidev export --format pdf",
+    "export-png": "slidev export --format png",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["seminary", "slides", "presentation", "lds", "church"],
+  "author": "Garth Brownlee",
+  "license": "MIT",
+  "dependencies": {
+    "@slidev/cli": "^52.1.0",
+    "@slidev/theme-default": "^0.25.0"
+  }
+}
