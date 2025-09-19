@@ -7,6 +7,7 @@ lineNumbers: false
 info: |
   ## Seminary Lesson - September 19, 2025
   Weekly lesson for Seminary class
+  Source materials available in ./materials/
 drawings:
   persist: false
 transition: slide-left
@@ -54,12 +55,42 @@ layout: default
 
 ## Class Structure
 1. **Opening Prayer** (2 min)
-2. **Scripture Study** (15 min)
-3. **Discussion** (20 min)
-4. **Application** (10 min)
-5. **Closing Prayer** (3 min)
+2. **QT Time** (10 min) - Christopher
+3. **Scripture Study** (15 min)
+4. **Discussion** (20 min)
+5. **Application** (10 min)
+6. **Closing Prayer** (3 min)
 
 </div>
+
+</div>
+
+---
+layout: section
+---
+
+# QT Time
+
+<div class="text-center space-y-6">
+
+## This Week's Leader
+**Christopher** - QT Time Leader
+
+## Question & Answer
+<div class="bg-blue-50 p-6 rounded-lg text-left max-w-4xl mx-auto">
+
+### Question
+"Can we help each other in dissecting or feasting on the blessings that others have in store for them?"
+
+### Answer
+[Christopher's prepared answer]
+
+</div>
+
+## Group Discussion
+- What are your thoughts on this question?
+- How does this relate to your personal study?
+- What additional insights can we share?
 
 </div>
 

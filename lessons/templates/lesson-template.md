@@ -55,10 +55,49 @@ layout: default
 
 ## Class Structure
 1. **Opening Prayer** (2 min)
-2. **Scripture Study** (15 min)
-3. **Discussion** (20 min)
-4. **Application** (10 min)
-5. **Closing Prayer** (3 min)
+2. **QT Time** (10 min) - [Student Name]
+3. **Scripture Study** (15 min)
+4. **Discussion** (20 min)
+5. **Application** (10 min)
+6. **Closing Prayer** (3 min)
+
+</div>
+
+</div>
+
+---
+layout: section
+---
+
+# QT Time
+
+<div class="text-center space-y-2">
+
+### This Week's Leader: [Student Name]
+
+#### Main Question
+**[Student's main question from virtual lessons]**
+
+### Light Bulb Moments
+
+<div class="text-left space-y-1 text-sm">
+
+• **[Student 1's Topic]**: [Their question or insight]  
+  *[Their answer or explanation]*
+
+• **[Student 2's Topic]**: [Their question or insight]  
+  *[Their answer or explanation]*
+
+• **[Student 3's Topic]**: [Their question or insight]  
+  *[Their answer or explanation]*
+
+</div>
+
+<div class="flex justify-center space-x-4 mt-4">
+
+<img src="./lessons/[YYYY-MM-DD]/materials/qt-time/meme1.png" class="h-32 w-auto rounded" />
+
+<img src="./lessons/[YYYY-MM-DD]/materials/qt-time/meme2.png" class="h-32 w-auto rounded" />
 
 </div>
 

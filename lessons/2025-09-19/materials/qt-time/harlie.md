@@ -1,0 +1,1 @@
+How can I trust in him better when I don't see the full picture and don't see all the different sides? 
