@@ -7,6 +7,7 @@ lineNumbers: false
 info: |
   ## Seminary Lesson - [DATE]
   Weekly lesson for Seminary class
+  Source materials available in ./materials/
 drawings:
   persist: false
 transition: slide-left

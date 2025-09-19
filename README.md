@@ -8,7 +8,11 @@ A collection of weekly seminary lesson presentations built with [Slidev](https:/
 seminary/
 ├── lessons/
 │   ├── 2025-09-19/          # Today's lesson
-│   │   └── slides.md
+│   │   ├── slides.md        # Main presentation
+│   │   └── materials/       # Source materials
+│   │       ├── canvas-lesson.md
+│   │       ├── scripture-references.md
+│   │       └── additional-resources.md
 │   ├── templates/            # Reusable templates
 │   │   └── lesson-template.md
 │   └── [YYYY-MM-DD]/        # Future lessons
@@ -44,22 +48,33 @@ npm run dev
 
 ## 📝 Creating a New Lesson
 
-1. **Copy the template:**
+1. **Create the lesson directory:**
+   ```bash
+   mkdir -p lessons/YYYY-MM-DD/materials
+   ```
+
+2. **Copy the template:**
    ```bash
    cp lessons/templates/lesson-template.md lessons/YYYY-MM-DD/slides.md
    ```
 
-2. **Update the date and content:**
+3. **Add Canvas materials:**
+   - Download your lesson from Canvas LMS
+   - Convert to markdown and save as `lessons/YYYY-MM-DD/materials/canvas-lesson.md`
+   - Add any additional resources to the `materials/` folder
+
+4. **Update the date and content:**
    - Replace `[DATE]` with the actual date
+   - Reference the Canvas materials to fill in content
    - Fill in scripture references
    - Add key principles and discussion questions
    - Customize the application section
 
-3. **Add any images:**
+5. **Add any images:**
    - Place images in `assets/images/`
    - Reference them in your slides using relative paths
 
-4. **Run the lesson:**
+6. **Run the lesson:**
    ```bash
    cd lessons/YYYY-MM-DD
    npm run dev
