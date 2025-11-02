@@ -362,15 +362,15 @@ layout: default
 
 # Protecting Your Identity
 
-<div class="space-y-8">
+<div class="space-y-3 text-sm">
 
 ## The Plea
 
-<div class="p-6 bg-yellow-50 rounded-lg text-lg">
+<div class="p-3 bg-yellow-50 rounded-lg">
 
 Do not **replace** these three paramount and unchanging identifiers with any others. No identifier should **displace**, **replace**, or **take priority over** these three enduring designations:
 
-<div class="mt-4 text-center text-xl">
+<div class="mt-2 text-center text-base">
 
 **Child of God • Child of the Covenant • Disciple of Jesus Christ**
 
@@ -380,9 +380,9 @@ Do not **replace** these three paramount and unchanging identifiers with any oth
 
 ## Why This Matters
 
-<div class="grid grid-cols-2 gap-8 mt-8">
+<div class="grid grid-cols-2 gap-4 mt-4">
 
-<div class="p-6 bg-blue-50 rounded-lg">
+<div class="p-3 bg-blue-50 rounded-lg">
 
 ### These Identities Are:
 - Eternal and unchanging
@@ -391,7 +391,7 @@ Do not **replace** these three paramount and unchanging identifiers with any oth
 
 </div>
 
-<div class="p-6 bg-purple-50 rounded-lg">
+<div class="p-3 bg-purple-50 rounded-lg">
 
 ### Other Labels May:
 - Be temporary
@@ -502,11 +502,11 @@ layout: default
 
 # The Father's Plan
 
-<div class="space-y-6">
+<div class="space-y-3 text-sm">
 
 ## Everything!
 
-<div class="p-6 bg-purple-50 rounded-lg text-lg">
+<div class="p-2 bg-purple-50 rounded-lg">
 
 In short, They have offered you **everything!**
 
@@ -518,7 +518,7 @@ Heavenly Father's plan for His children allows us to live where and how He lives
 
 ## God Knows You
 
-<div class="mt-6 p-6 bg-blue-50 rounded-lg">
+<div class="p-2 bg-blue-50 rounded-lg">
 
 God knows all and sees all. In all of eternity, **no one will ever know you or care about you more than He does.** No one will ever be closer to you than He is.
 
@@ -596,11 +596,11 @@ layout: default
 
 # Covenants and Blessings
 
-<div class="space-y-6">
+<div class="space-y-3 text-sm">
 
 ## Special Love for Covenant Keepers
 
-<div class="p-6 bg-blue-50 rounded-lg">
+<div class="p-3 bg-blue-50 rounded-lg">
 
 God has a special love for each person who makes a covenant with Him in the waters of baptism. And that divine love deepens as additional covenants are made and faithfully kept.
 
@@ -608,7 +608,7 @@ God has a special love for each person who makes a covenant with Him in the wate
 
 ## The Reunion
 
-<div class="p-6 bg-purple-50 rounded-lg text-lg">
+<div class="p-3 bg-purple-50 rounded-lg">
 
 Then at the end of mortal life, precious is the reunion of each covenant child with our Heavenly Father ([Psalm 116:15](https://www.churchofjesuschrist.org/study/scriptures/ot/ps/116?lang=eng&id=p15#p15)).
 
@@ -616,7 +616,7 @@ Then at the end of mortal life, precious is the reunion of each covenant child w
 
 ## The Most Important Cause
 
-<div class="mt-6 p-6 bg-green-50 rounded-lg">
+<div class="p-3 bg-green-50 rounded-lg">
 
 The gathering of Israel on both sides of the veil is **the** most important cause on earth today. You have an essential role in this gathering.
 
@@ -697,11 +697,11 @@ layout: default
 
 # Nourishing Your Testimony
 
-<div class="space-y-6">
+<div class="space-y-3 text-sm">
 
 ## Feed It Truth
 
-<div class="p-6 bg-blue-50 rounded-lg">
+<div class="p-2 bg-blue-50 rounded-lg">
 
 Feed it truth. **Don't pollute it** with the false philosophies of unbelieving men and women and then wonder why your testimony is waning.
 
@@ -709,9 +709,9 @@ Feed it truth. **Don't pollute it** with the false philosophies of unbelieving m
 
 ## Daily Practices
 
-<div class="grid grid-cols-2 gap-6 mt-6">
+<div class="grid grid-cols-2 gap-4 mt-3">
 
-<div class="p-4 bg-purple-50 rounded-lg">
+<div class="p-3 bg-purple-50 rounded-lg">
 
 ### Daily Actions
 
@@ -721,7 +721,7 @@ Feed it truth. **Don't pollute it** with the false philosophies of unbelieving m
 
 </div>
 
-<div class="p-4 bg-green-50 rounded-lg">
+<div class="p-3 bg-green-50 rounded-lg">
 
 ### Regular Practices
 
@@ -751,11 +751,11 @@ layout: default
 
 # Seeking Answers
 
-<div class="space-y-6">
+<div class="space-y-2 text-sm">
 
 ## Questions Are Good
 
-<div class="p-6 bg-blue-50 rounded-lg text-lg">
+<div class="p-2 bg-blue-50 rounded-lg">
 
 If you have questions—and **I hope you do**—seek answers with the **fervent desire to believe.** Learn all you can about the gospel and be sure to turn to **truth-filled sources** for guidance.
 
@@ -763,7 +763,7 @@ If you have questions—and **I hope you do**—seek answers with the **fervent 
 
 ## The Dispensation of Fullness
 
-<div class="p-6 bg-purple-50 rounded-lg">
+<div class="p-2 bg-purple-50 rounded-lg">
 
 We live in the dispensation when "nothing shall be withheld" ([D&C 121:28](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/121?lang=eng&id=p28#p28)). Thus, in time, the Lord will answer all our questions.
 
@@ -771,11 +771,9 @@ We live in the dispensation when "nothing shall be withheld" ([D&C 121:28](https
 
 ## The Promise
 
-<div class="p-6 bg-green-50 rounded-lg">
+<div class="p-2 bg-green-50 rounded-lg">
 
-Immerse yourself in the rich reservoir of revelation we have at our fingertips. I promise that doing so will **strengthen your testimony**, even if some of your questions are not yet answered.
-
-Your sincere questions, asked in faith, will **always** lead to greater faith and more knowledge.
+Immerse yourself in the rich reservoir of revelation we have at our fingertips. I promise that doing so will **strengthen your testimony**, even if some of your questions are not yet answered. Your sincere questions, asked in faith, will **always** lead to greater faith and more knowledge.
 
 </div>
 
@@ -798,11 +796,11 @@ layout: default
 
 # Your Role in the Gathering
 
-<div class="space-y-6">
+<div class="space-y-2 text-sm">
 
 ## A Better Cause
 
-<div class="p-6 bg-blue-50 rounded-lg text-lg">
+<div class="p-2 bg-blue-50 rounded-lg">
 
 As you take charge of your testimony and cause it to grow, you will become a more potent instrument in the hands of the Lord. You will be "inspired by a better cause" ([Alma 43:45](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/43?lang=eng&id=p45#p45))—the cause of Jesus Christ!
 
@@ -810,7 +808,7 @@ As you take charge of your testimony and cause it to grow, you will become a mor
 
 ## The Most Important Work
 
-<div class="p-6 bg-purple-50 rounded-lg text-xl">
+<div class="p-2 bg-purple-50 rounded-lg">
 
 There is nothing happening on this earth more important than gathering Israel **for Him**.
 
@@ -818,7 +816,7 @@ There is nothing happening on this earth more important than gathering Israel **
 
 ## Your Invitation
 
-<div class="p-6 bg-green-50 rounded-lg">
+<div class="p-2 bg-green-50 rounded-lg">
 
 Let your Heavenly Father know that you want to help. Ask Him to put you to work in this glorious cause. And then stand back and marvel at what happens when you **let God prevail** in your life.
 
@@ -842,15 +840,15 @@ layout: default
 
 # The Prophet's Blessing
 
-<div class="space-y-6 text-center">
+<div class="space-y-3 text-center text-sm">
 
 ## "I love you. I thank you. I believe in you."
 
-<div class="text-left max-w-4xl mx-auto space-y-6 mt-8">
+<div class="text-left max-w-4xl mx-auto space-y-2 mt-4">
 
 ### As the Lord's prophet, President Nelson blesses us:
 
-<div class="p-6 bg-blue-50 rounded-lg">
+<div class="p-2 bg-blue-50 rounded-lg">
 
 ✓ To **know the truth** about who you are  
 ✓ To **treasure the truth** about your glorious potential  
@@ -861,7 +859,7 @@ layout: default
 
 ### The Promises
 
-<div class="p-6 bg-green-50 rounded-lg">
+<div class="p-2 bg-green-50 rounded-lg">
 
 - You will experience **spiritual growth**
 - You will have **freedom from fear**
