@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "canvas-mcp": {
+      "command": "/Users/garthdb/Projects/canvas-mcp/.venv/bin/canvas-mcp-server",
+      "env": {
+        "CANVAS_API_TOKEN": "10451~3w3CtVWV7QvhWTxnTXr4PfhazARY92LnVeeGwrYe6JNTy26mRnXAhB86KTQuxxCh",
+        "CANVAS_API_URL": "https://si.instructure.com/api/v1",
+        "ENABLE_DATA_ANONYMIZATION": "false",
+        "ANONYMIZATION_DEBUG": "false",
+        "INSTITUTION_NAME": "Seminary",
+        "TIMEZONE": "America/Boise"
+      }
+    }
+  }
+}

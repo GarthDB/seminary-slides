@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "slidev",
+    "dev-remote": "slidev",
     "build": "slidev build",
     "export": "slidev export",
     "export-pdf": "slidev export --format pdf",
