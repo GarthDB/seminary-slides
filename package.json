@@ -12,11 +12,20 @@
     "export-png": "slidev export --format png",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["seminary", "slides", "presentation", "lds", "church"],
+  "keywords": [
+    "seminary",
+    "slides",
+    "presentation",
+    "lds",
+    "church"
+  ],
   "author": "Garth Brownlee",
   "license": "MIT",
   "dependencies": {
     "@slidev/cli": "^52.1.0",
     "@slidev/theme-default": "^0.25.0"
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.56.1"
   }
 }
