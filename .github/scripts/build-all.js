@@ -52,12 +52,25 @@ for (const dir of dirs) {
         { stdio: 'inherit', cwd: path.join(__dirname, '../..') }
       );
       
+      // Verify the build was successful
+      const indexPath = path.join(outputDir, 'index.html');
+      if (!fs.existsSync(indexPath)) {
+        throw new Error('Build completed but index.html not found');
+      }
+      
       console.log(`✅ Built ${dir}\n`);
       successCount++;
     } catch (error) {
       console.error(`❌ Failed to build ${dir}`);
       console.error(error.message);
+      if (error.stack) {
+        console.error(error.stack);
+      }
       failCount++;
+      // Exit with error in CI
+      if (isGitHubActions) {
+        process.exit(1);
+      }
     }
   }
 }
@@ -74,13 +87,20 @@ try {
 
 // Summary
 console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
-console.log(`✨ Build complete!`);
-console.log(`   Success: ${successCount}`);
-if (failCount > 0) {
+if (failCount === 0) {
+  console.log(`✨ Build complete!`);
+  console.log(`   Success: ${successCount}`);
+  console.log(`   Output: ${distDir}`);
+  console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n');
+  if (!isGitHubActions) {
+    console.log('💡 To preview locally, run:');
+    console.log(`   npx serve dist\n`);
+  }
+} else {
+  console.log(`❌ Build failed!`);
+  console.log(`   Success: ${successCount}`);
   console.log(`   Failed: ${failCount}`);
+  console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n');
+  process.exit(1);
 }
-console.log(`   Output: ${distDir}`);
-console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n');
-console.log('💡 To preview locally, run:');
-console.log(`   npx serve dist\n`);
 
