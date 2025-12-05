@@ -1010,23 +1010,23 @@ layout: default
 <v-clicks>
 
 <div class="p-3 bg-blue-50 rounded-lg text-base font-semibold max-w-3xl mx-auto">
-✝️ **All who would have received the gospel will inherit the celestial kingdom**
+✝️ All who would have received the gospel will inherit the celestial kingdom
 </div>
 
 <div class="p-3 bg-green-50 rounded-lg text-base font-semibold max-w-3xl mx-auto">
-❤️ **The Lord judges us by our works AND the desires of our hearts**
+❤️ The Lord judges us by our works AND the desires of our hearts
 </div>
 
 <div class="p-3 bg-purple-50 rounded-lg text-base font-semibold max-w-3xl mx-auto">
-👶 **All children who die before accountability are saved in the celestial kingdom**
+👶 All children who die before accountability are saved in the celestial kingdom
 </div>
 
 <div class="p-3 bg-yellow-50 rounded-lg text-base font-semibold max-w-3xl mx-auto">
-🏛️ **Temple work extends these blessings to our ancestors**
+🏛️ Temple work extends these blessings to our ancestors
 </div>
 
 <div class="p-3 bg-pink-50 rounded-lg text-base font-semibold max-w-3xl mx-auto">
-💝 **God's plan is big enough for all His children**
+💝 God's plan is big enough for all His children
 </div>
 
 </v-clicks>
