@@ -1,6 +1,12 @@
 const fs = require('fs');
 const path = require('path');
 
+// ===============================================
+// CONFIGURATION: Update this date for each new trimester
+// ===============================================
+const ARCHIVE_DATE = '2025-12-01'; // Lessons before this date go to archive
+// ===============================================
+
 // Read all lesson directories
 const lessonsDir = path.join(__dirname, '../../lessons');
 const distDir = path.join(__dirname, '../../dist');
@@ -51,6 +57,13 @@ for (const dir of dirs) {
   }
 }
 
+// Split lessons into current and archived
+const archiveDate = new Date(ARCHIVE_DATE);
+const currentLessons = lessons.filter(lesson => new Date(lesson.date) >= archiveDate);
+const archivedLessons = lessons.filter(lesson => new Date(lesson.date) < archiveDate);
+
+console.log(`📊 Current lessons: ${currentLessons.length}, Archived: ${archivedLessons.length}`);
+
 // Generate HTML
 const html = `<!DOCTYPE html>
 <html lang="en">
@@ -92,6 +105,39 @@ const html = `<!DOCTYPE html>
     .subtitle {
       font-size: 1.2rem;
       opacity: 0.9;
+    }
+    
+    section {
+      margin-bottom: 3rem;
+    }
+    
+    .section-title {
+      font-size: 2rem;
+      color: white;
+      text-align: center;
+      margin-bottom: 1.5rem;
+      font-weight: 600;
+    }
+    
+    .archive-divider {
+      border: none;
+      height: 2px;
+      background: linear-gradient(to right, transparent, rgba(255,255,255,0.3), transparent);
+      margin: 3rem auto;
+      max-width: 800px;
+    }
+    
+    .archive-title {
+      opacity: 0.8;
+      font-size: 1.5rem;
+    }
+    
+    .archive-description {
+      text-align: center;
+      color: white;
+      opacity: 0.7;
+      font-size: 1rem;
+      margin-bottom: 1.5rem;
     }
     
     .lessons-grid {
@@ -154,6 +200,15 @@ const html = `<!DOCTYPE html>
       text-decoration: underline;
     }
     
+    .lesson-card.archived {
+      opacity: 0.85;
+      background: #f7fafc;
+    }
+    
+    .lesson-card.archived:hover {
+      opacity: 1;
+    }
+    
     footer {
       text-align: center;
       color: white;
@@ -180,17 +235,42 @@ const html = `<!DOCTYPE html>
       <p class="subtitle">Doctrine and Covenants 2025</p>
     </header>
     
-    <div class="lessons-grid">
-      ${lessons.map(lesson => `
-        <a href="${lesson.path}" class="lesson-card">
-          <div class="lesson-date">${lesson.date}</div>
-          <div class="lesson-title">${lesson.title}</div>
-          ${lesson.subtitle ? `<div class="lesson-subtitle">${lesson.subtitle}</div>` : ''}
-          ${lesson.description ? `<div class="lesson-description">${lesson.description}</div>` : ''}
-          <div class="view-link">View Slideshow →</div>
-        </a>
-      `).join('')}
-    </div>
+    ${currentLessons.length > 0 ? `
+    <section>
+      <h2 class="section-title">Current Trimester</h2>
+      <div class="lessons-grid">
+        ${currentLessons.map(lesson => `
+          <a href="${lesson.path}" class="lesson-card">
+            <div class="lesson-date">${lesson.date}</div>
+            <div class="lesson-title">${lesson.title}</div>
+            ${lesson.subtitle ? `<div class="lesson-subtitle">${lesson.subtitle}</div>` : ''}
+            ${lesson.description ? `<div class="lesson-description">${lesson.description}</div>` : ''}
+            <div class="view-link">View Slideshow →</div>
+          </a>
+        `).join('')}
+      </div>
+    </section>
+    ` : ''}
+    
+    ${archivedLessons.length > 0 ? `
+    <hr class="archive-divider" />
+    
+    <section>
+      <h2 class="section-title archive-title">📦 Archived Lessons</h2>
+      <p class="archive-description">Lessons from previous trimesters</p>
+      <div class="lessons-grid">
+        ${archivedLessons.map(lesson => `
+          <a href="${lesson.path}" class="lesson-card archived">
+            <div class="lesson-date">${lesson.date}</div>
+            <div class="lesson-title">${lesson.title}</div>
+            ${lesson.subtitle ? `<div class="lesson-subtitle">${lesson.subtitle}</div>` : ''}
+            ${lesson.description ? `<div class="lesson-description">${lesson.description}</div>` : ''}
+            <div class="view-link">View Slideshow →</div>
+          </a>
+        `).join('')}
+      </div>
+    </section>
+    ` : ''}
     
     <footer>
       <p>Built with ❤️ using Slidev</p>
