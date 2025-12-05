@@ -1156,7 +1156,7 @@ Feel free to ask any questions about today's lesson.
 
 ## This Week's Challenge
 
-<div class="max-w-xl mx-auto text-left space-y-1 bg-blue-50 p-4 rounded-lg text-sm">
+<div class="max-w-xl mx-auto text-left space-y-1 bg-white p-4 rounded-lg text-sm text-gray-900">
 
 1. 📖 Read Doctrine and Covenants 137 again
 2. 🙏 Pray about your righteous desires
