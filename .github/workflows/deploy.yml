@@ -30,23 +30,48 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Install Playwright browsers
+        run: npx playwright install chromium --with-deps
+
       - name: Build all slideshows
         run: |
+          set -e  # Exit on error
           mkdir -p dist
           
           # Find all slides.md files in lessons directories
           for lesson_dir in lessons/*/; do
             if [ -f "${lesson_dir}slides.md" ]; then
               lesson_name=$(basename "$lesson_dir")
+              echo "========================================"
               echo "Building slides for $lesson_name..."
+              echo "========================================"
               
               # Create output directory
               mkdir -p "dist/$lesson_name"
               
               # Build the slideshow with correct base path for GitHub Pages
-              npx slidev build "${lesson_dir}slides.md" --base "/seminary-slides/$lesson_name/" --out "dist/$lesson_name"
+              npx slidev build "${lesson_dir}slides.md" --base "/seminary-slides/$lesson_name/" --out "dist/$lesson_name" || {
+                echo "❌ Failed to build $lesson_name"
+                exit 1
+              }
+              
+              # Verify output was created
+              if [ -f "dist/$lesson_name/index.html" ]; then
+                echo "✅ Successfully built $lesson_name"
+                echo "   Files created:"
+                ls -lh "dist/$lesson_name" | head -10
+              else
+                echo "❌ Build failed - no index.html found for $lesson_name"
+                exit 1
+              fi
+              
+              echo ""
             fi
           done
+          
+          echo "========================================"
+          echo "All builds complete!"
+          echo "========================================"
 
       - name: Generate landing page
         run: node .github/scripts/generate-index.js
