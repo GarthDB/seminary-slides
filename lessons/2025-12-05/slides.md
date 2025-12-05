@@ -773,35 +773,32 @@ Presenter Notes:
 -->
 
 ---
-layout: section
+layout: default
 ---
 
 # False Traditions Corrected
 
-<div class="text-center space-y-6">
+<div class="space-y-3">
 
 ## What People Believed in Joseph Smith's Day
 
-<div class="text-left max-w-4xl mx-auto space-y-6">
+<div class="max-w-3xl mx-auto space-y-3 text-sm">
 
-<div class="p-6 bg-red-100 rounded-lg">
+<div class="p-4 bg-red-100 rounded-lg">
 
-### ❌ False Teaching #1
-Only a tiny fraction of humanity would be saved. The vast majority would suffer eternal torment.
-
-</div>
-
-<div class="p-6 bg-red-100 rounded-lg">
-
-### ❌ False Teaching #2
-If you weren't baptized in the "right" church, you couldn't be saved—even if you never had the opportunity to hear the truth.
+**❌ False Teaching #1:** Only a tiny fraction of humanity would be saved. The vast majority would suffer eternal torment.
 
 </div>
 
-<div class="p-6 bg-red-100 rounded-lg">
+<div class="p-4 bg-red-100 rounded-lg">
 
-### ❌ False Teaching #3
-Babies and children who died without baptism could not enter heaven.
+**❌ False Teaching #2:** If you weren't baptized in the "right" church, you couldn't be saved—even if you never had the opportunity to hear the truth.
+
+</div>
+
+<div class="p-4 bg-red-100 rounded-lg">
+
+**❌ False Teaching #3:** Babies and children who died without baptism could not enter heaven.
 
 </div>
 
@@ -859,44 +856,40 @@ Presenter Notes:
 -->
 
 ---
-layout: section
+layout: default
 ---
 
 # What This Means for Us
 
-<div class="text-center space-y-8">
+<div class="space-y-3">
 
 ## How These Truths Impact Our Lives
 
-<div class="text-left max-w-4xl mx-auto space-y-4">
+<div class="max-w-3xl mx-auto space-y-2 text-sm">
 
 <v-clicks>
 
-<div class="p-6 bg-blue-100 rounded-lg">
+<div class="p-3 bg-blue-100 rounded-lg">
 
-### 🏛️ Temple and Family History Work Matters
-We can perform ordinances for ancestors who would have accepted the gospel but never had the chance.
-
-</div>
-
-<div class="p-6 bg-green-100 rounded-lg">
-
-### 💝 Our Righteous Desires Count
-Even if we can't fulfill all our righteous desires in this life, God knows our hearts and will bless us accordingly.
+**🏛️ Temple and Family History Work Matters** - We can perform ordinances for ancestors who would have accepted the gospel but never had the chance.
 
 </div>
 
-<div class="p-6 bg-purple-100 rounded-lg">
+<div class="p-3 bg-green-100 rounded-lg">
 
-### 🕊️ We Can Trust God's Justice and Mercy
-No one is condemned for lack of opportunity. God's judgment is perfectly fair.
+**💝 Our Righteous Desires Count** - Even if we can't fulfill all our righteous desires in this life, God knows our hearts and will bless us accordingly.
 
 </div>
 
-<div class="p-6 bg-pink-100 rounded-lg">
+<div class="p-3 bg-purple-100 rounded-lg">
 
-### 👨‍👩‍👧‍👦 Families Can Be Together Forever
-Through temple ordinances and God's mercy, families can be sealed for eternity.
+**🕊️ We Can Trust God's Justice and Mercy** - No one is condemned for lack of opportunity. God's judgment is perfectly fair.
+
+</div>
+
+<div class="p-3 bg-pink-100 rounded-lg">
+
+**👨‍👩‍👧‍👦 Families Can Be Together Forever** - Through temple ordinances and God's mercy, families can be sealed for eternity.
 
 </div>
 
@@ -1005,34 +998,34 @@ Presenter Notes:
 -->
 
 ---
-layout: section
+layout: default
 ---
 
 # Key Takeaways
 
-<div class="text-center space-y-6">
+<div class="space-y-3">
 
 ## Remember These Truths
 
 <v-clicks>
 
-<div class="p-6 bg-blue-50 rounded-lg text-xl font-semibold max-w-4xl mx-auto">
+<div class="p-3 bg-blue-50 rounded-lg text-base font-semibold max-w-3xl mx-auto">
 ✝️ **All who would have received the gospel will inherit the celestial kingdom**
 </div>
 
-<div class="p-6 bg-green-50 rounded-lg text-xl font-semibold max-w-4xl mx-auto">
+<div class="p-3 bg-green-50 rounded-lg text-base font-semibold max-w-3xl mx-auto">
 ❤️ **The Lord judges us by our works AND the desires of our hearts**
 </div>
 
-<div class="p-6 bg-purple-50 rounded-lg text-xl font-semibold max-w-4xl mx-auto">
+<div class="p-3 bg-purple-50 rounded-lg text-base font-semibold max-w-3xl mx-auto">
 👶 **All children who die before accountability are saved in the celestial kingdom**
 </div>
 
-<div class="p-6 bg-yellow-50 rounded-lg text-xl font-semibold max-w-4xl mx-auto">
+<div class="p-3 bg-yellow-50 rounded-lg text-base font-semibold max-w-3xl mx-auto">
 🏛️ **Temple work extends these blessings to our ancestors**
 </div>
 
-<div class="p-6 bg-pink-50 rounded-lg text-xl font-semibold max-w-4xl mx-auto">
+<div class="p-3 bg-pink-50 rounded-lg text-base font-semibold max-w-3xl mx-auto">
 💝 **God's plan is big enough for all His children**
 </div>
 
