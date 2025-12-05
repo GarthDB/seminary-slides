@@ -42,6 +42,7 @@ npm run dev
 
 - `npm run dev` - Start the development server
 - `npm run build` - Build the presentation for production
+- `npm run build-all` - Build all lessons and generate landing page
 - `npm run export` - Export slides as HTML
 - `npm run export-pdf` - Export slides as PDF
 - `npm run export-png` - Export slides as PNG images
@@ -120,11 +121,35 @@ Each lesson follows this structure:
 - Make application sections practical and actionable
 - Use consistent formatting across all lessons
 
+## 🌐 GitHub Pages Deployment
+
+This repository automatically deploys to GitHub Pages on every push to `main`:
+
+1. **Builds all slideshows** from `lessons/*/slides.md`
+2. **Generates a landing page** with links to all lessons
+3. **Publishes to GitHub Pages** at `https://[username].github.io/seminary-slides/`
+
+See [DEPLOYMENT.md](./DEPLOYMENT.md) for detailed setup instructions.
+
+### Quick Deploy
+
+```bash
+# Test build locally
+npm run build-all
+
+# Preview locally
+npx serve dist
+
+# Deploy (push to main)
+git push origin main
+```
+
 ## 📖 Resources
 
 - [Slidev Documentation](https://sli.dev/)
 - [Markdown Guide](https://www.markdownguide.org/)
 - [LDS Seminary Resources](https://www.churchofjesuschrist.org/study/manual/seminary)
+- [GitHub Pages Docs](https://docs.github.com/en/pages)
 
 ## 🤝 Contributing
 

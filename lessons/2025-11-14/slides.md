@@ -198,40 +198,93 @@ Presenter Notes:
 layout: default
 ---
 
-# Doctrinal Mastery Review
+# The Power of Memorizing Scriptures
 
 <div class="space-y-6">
+
+## Elder Richard G. Scott
+
+<div class="p-8 bg-gradient-to-br from-blue-50 to-purple-50 rounded-xl">
+
+<div class="text-xl italic text-gray-800 leading-relaxed">
+
+"Great power can come from memorizing scriptures. To memorize a scripture is to forge a new friendship. It is like discovering a new individual who can help in time of need, give inspiration and comfort, and be a source of motivation for needed change."
+
+</div>
+
+<div class="text-right text-sm text-gray-600 mt-6">
+— Elder Richard G. Scott<br>
+"The Power of Scripture," November 2011 General Conference
+</div>
+
+</div>
+
+<div class="mt-6 p-6 bg-yellow-50 rounded-lg">
+
+### Reflection
+
+Think about the scriptures you've memorized this trimester. How have they become your friends?
+
+</div>
+
+</div>
+
+<!--
+Presenter Notes:
+- This beautiful quote reframes scripture memorization
+- Not just memorization - it's building relationships with truths
+- Scriptures become companions we can turn to
+- Personal and powerful perspective
+- Consider sharing your own experience with a memorized scripture
+-->
+
+---
+layout: default
+---
+
+# Doctrinal Mastery Review
+
+<div class="space-y-3">
 
 ## The Three Principles of Acquiring Spiritual Knowledge
 
 <v-clicks>
 
-<div class="p-6 bg-blue-50 rounded-lg">
+<div class="p-3 bg-blue-50 rounded-lg">
 
 ### 1️⃣ Act in Faith
+<div class="text-sm">
+
 - Exercise faith in Jesus Christ
 - Rely on Him to help you find truth
 - Take action on what you learn
 
 </div>
+</div>
 
-<div class="p-6 bg-green-50 rounded-lg">
+<div class="p-3 bg-green-50 rounded-lg">
 
 ### 2️⃣ Examine Concepts with an Eternal Perspective
+<div class="text-sm">
+
 - Look beyond worldly views
 - Consider God's plan of salvation
 - See things as Heavenly Father sees them
 
 </div>
+</div>
 
-<div class="p-6 bg-purple-50 rounded-lg">
+<div class="p-3 bg-purple-50 rounded-lg">
 
 ### 3️⃣ Seek Further Understanding Through Divinely Appointed Sources
+<div class="text-sm">
+
 - Scriptures
 - Living prophets
 - The Holy Ghost
 - Temple ordinances
 
+</div>
 </div>
 
 </v-clicks>
@@ -258,14 +311,14 @@ layout: two-cols
 
 <div class="text-sm space-y-3">
 
-**D&C 130:20-21**
+**[D&C 130:20-21](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/130.20-21?lang=eng)**
 - Blessings based on obedience
 
-**D&C 131:1-4**
+**[D&C 131:1-4](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/131.1-4?lang=eng)**
 - The new and everlasting covenant
 - Celestial marriage
 
-**D&C 132:19-20**
+**[D&C 132:19-20](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/132.19-20?lang=eng)**
 - Sealed by the Holy Spirit of Promise
 
 </div>
@@ -298,15 +351,15 @@ layout: default
 
 # This Week's Lessons Review
 
-<div class="space-y-6">
+<div class="space-y-3">
 
 ## Key Topics We Covered
 
-<div class="grid grid-cols-2 gap-6">
+<div class="grid grid-cols-2 gap-4 text-sm">
 
-<div class="p-4 bg-blue-50 rounded-lg">
+<div class="p-3 bg-blue-50 rounded-lg">
 
-### D&C 130
+### [D&C 130](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/130?lang=eng)
 - Principles of truth
 - The nature of God
 - How we receive blessings
@@ -315,9 +368,9 @@ layout: default
 
 </div>
 
-<div class="p-4 bg-green-50 rounded-lg">
+<div class="p-3 bg-green-50 rounded-lg">
 
-### D&C 131
+### [D&C 131](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/131?lang=eng)
 - Three degrees of glory
 - Celestial marriage
 - Becoming like God
@@ -326,9 +379,9 @@ layout: default
 
 </div>
 
-<div class="p-4 bg-purple-50 rounded-lg">
+<div class="p-3 bg-purple-50 rounded-lg">
 
-### D&C 132:1-2, 34-66
+### [D&C 132:1-2, 34-66](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/132.1-2,34-66?lang=eng)
 - The new and everlasting covenant
 - Obedience to God's commands
 - Historical context
@@ -337,7 +390,7 @@ layout: default
 
 </div>
 
-<div class="p-4 bg-yellow-50 rounded-lg">
+<div class="p-3 bg-yellow-50 rounded-lg">
 
 ### Doctrinal Mastery
 - Review of key passages
@@ -358,90 +411,6 @@ Presenter Notes:
 - Connect it to today's Doctrinal Mastery Practice
 - These questions can spark discussion
 - Choose 1-2 to discuss based on student interest
--->
-
----
-layout: center
-class: text-center
----
-
-# Activity: Object Lessons
-
-<div class="space-y-8 max-w-4xl mx-auto">
-
-<div class="p-10 bg-gradient-to-br from-blue-50 to-purple-50 rounded-xl">
-
-<div class="text-2xl font-bold mb-6">
-Quick Challenge!
-</div>
-
-<div class="text-left space-y-4 text-lg">
-
-1. **Grab an object** from the room you're in (30 seconds)
-2. **Create a short object lesson** relating it to something you learned this trimester (2 minutes)
-3. **Share with the group** (1 minute each)
-
-</div>
-
-<div class="text-sm italic text-gray-600 mt-6">
-This can be anything - a pencil, a book, your phone, a plant, etc.
-</div>
-
-</div>
-
-</div>
-
-<!--
-Presenter Notes:
-- This is a fun, interactive activity
-- Gets students thinking creatively about what they learned
-- Can be done in breakout rooms if online
-- Keep it light and fun
-- Model with your own example if needed
--->
-
----
-layout: default
----
-
-# President Russell M. Nelson on Celestial Marriage
-
-<div class="space-y-6">
-
-## Watch and Discuss
-
-<div class="p-6 bg-blue-50 rounded-lg">
-
-**Talk:** "[Celestial Marriage](https://www.churchofjesuschrist.org/study/general-conference/2008/10/celestial-marriage?lang=eng)"
-**Speaker:** President Russell M. Nelson (then Elder)
-**Conference:** October 2008
-**Time Code:** 0:55 to 2:40
-
-</div>
-
-## Discussion Question
-
-<div class="p-8 bg-gradient-to-r from-purple-50 to-pink-50 rounded-xl text-center">
-
-<div class="text-2xl font-semibold text-gray-800">
-"How does celestial marriage compare with anything else?"
-</div>
-
-</div>
-
-<div class="mt-4 text-sm text-gray-600">
-*Consider: What makes celestial marriage unique? Why is it worth striving for?*
-</div>
-
-</div>
-
-<!--
-Presenter Notes:
-- This is from the Doctrinal Mastery Practice lesson
-- Short video clip (less than 2 minutes)
-- Powerful teaching about eternal marriage
-- Could discuss in small groups or as a class
-- This ties together the week's theme
 -->
 
 ---
@@ -727,7 +696,7 @@ layout: default
 </div>
 
 <div class="text-center text-sm text-gray-500">
-- Doctrine and Covenants 1:20–21
+- [Doctrine and Covenants 1:20–21](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/1.20-21?lang=eng)
 </div>
 
 </div>
@@ -865,7 +834,7 @@ class: text-center
 </div>
 
 <div class="text-sm text-gray-500">
-- Doctrine and Covenants 67:13
+- [Doctrine and Covenants 67:13](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/67.13?lang=eng)
 </div>
 
 </div>
@@ -905,7 +874,7 @@ layout: end
 </div>
 
 <div class="text-sm text-gray-500 mt-4">
-- Doctrine and Covenants 84:88
+- [Doctrine and Covenants 84:88](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84.88?lang=eng)
 </div>
 
 </div>

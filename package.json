@@ -7,6 +7,7 @@
     "dev": "slidev",
     "dev-remote": "slidev",
     "build": "slidev build",
+    "build-all": "node .github/scripts/build-all.js",
     "export": "slidev export",
     "export-pdf": "slidev export --format pdf",
     "export-png": "slidev export --format png",
