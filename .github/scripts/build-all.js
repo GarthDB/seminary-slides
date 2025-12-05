@@ -5,7 +5,16 @@ const { execSync } = require('child_process');
 const lessonsDir = path.join(__dirname, '../../lessons');
 const distDir = path.join(__dirname, '../../dist');
 
+// Check if running in GitHub Actions (for correct base path)
+const isGitHubActions = process.env.GITHUB_ACTIONS === 'true';
+const basePathPrefix = isGitHubActions ? '/seminary-slides' : '';
+
 console.log('🔨 Building all seminary slideshows...\n');
+if (isGitHubActions) {
+  console.log('📍 Running in GitHub Actions - using full base path\n');
+} else {
+  console.log('📍 Running locally - using relative base path\n');
+}
 
 // Create dist directory
 if (!fs.existsSync(distDir)) {
@@ -36,9 +45,10 @@ for (const dir of dirs) {
         fs.mkdirSync(outputDir, { recursive: true });
       }
       
-      // Build the slideshow
+      // Build the slideshow with correct base path
+      const basePath = `${basePathPrefix}/${dir}/`;
       execSync(
-        `npx slidev build "${slidesPath}" --base "/${dir}/" --out "${outputDir}"`,
+        `npx slidev build "${slidesPath}" --base "${basePath}" --out "${outputDir}"`,
         { stdio: 'inherit', cwd: path.join(__dirname, '../..') }
       );
       

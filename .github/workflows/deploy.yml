@@ -43,8 +43,8 @@ jobs:
               # Create output directory
               mkdir -p "dist/$lesson_name"
               
-              # Build the slideshow
-              npx slidev build "${lesson_dir}slides.md" --base "/$lesson_name/" --out "dist/$lesson_name"
+              # Build the slideshow with correct base path for GitHub Pages
+              npx slidev build "${lesson_dir}slides.md" --base "/seminary-slides/$lesson_name/" --out "dist/$lesson_name"
             fi
           done
 

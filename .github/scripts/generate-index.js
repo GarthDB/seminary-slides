@@ -46,7 +46,7 @@ for (const dir of dirs) {
       title: title,
       subtitle: subtitle,
       description: description,
-      path: `${dir}/index.html`
+      path: `${dir}/`
     });
   }
 }
