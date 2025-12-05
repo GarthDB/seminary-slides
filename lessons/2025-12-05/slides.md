@@ -1087,43 +1087,43 @@ layout: default
 
 # Additional Resources
 
-<div class="space-y-6">
+<div class="space-y-3">
 
 ## Videos to Watch
 
-<div class="grid grid-cols-2 gap-6">
+<div class="grid grid-cols-2 gap-3 text-sm">
 
-<div class="p-6 bg-blue-50 rounded-lg text-sm">
+<div class="p-3 bg-blue-50 rounded-lg">
 
-### "Ministry of Joseph Smith: Temples"
-**2:19 minutes**
+**"Ministry of Joseph Smith: Temples"**  
+2:19 minutes
 
 Understanding the vision in D&C 137 and Joseph's concerns about Alvin
 
 </div>
 
-<div class="p-6 bg-green-50 rounded-lg text-sm">
+<div class="p-3 bg-green-50 rounded-lg">
 
-### "Joseph Smith: The Prophet of the Restoration"
-**Available on ChurchofJesusChrist.org**
+**"Joseph Smith: The Prophet of the Restoration"**  
+Available on ChurchofJesusChrist.org
 
 Context about the Smith family and their losses
 
 </div>
 
-<div class="p-6 bg-purple-50 rounded-lg text-sm">
+<div class="p-3 bg-purple-50 rounded-lg">
 
-### "If We Are Well Prepared, Death Brings No Terror"
-**1:10 minutes**
+**"If We Are Well Prepared, Death Brings No Terror"**  
+1:10 minutes
 
 Understanding the plan of salvation and death
 
 </div>
 
-<div class="p-6 bg-pink-50 rounded-lg text-sm">
+<div class="p-3 bg-pink-50 rounded-lg">
 
-### "Rise"
-**1:42 minutes**
+**"Rise"**  
+1:42 minutes
 
 Dealing with loss of loved ones
 
