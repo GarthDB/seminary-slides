@@ -1148,7 +1148,7 @@ layout: end
 
 # Thank You
 
-<div class="text-center space-y-6">
+<div class="text-center space-y-3">
 
 ## Questions?
 
@@ -1156,7 +1156,7 @@ Feel free to ask any questions about today's lesson.
 
 ## This Week's Challenge
 
-<div class="max-w-2xl mx-auto text-left space-y-2 bg-blue-50 p-6 rounded-lg">
+<div class="max-w-xl mx-auto text-left space-y-1 bg-blue-50 p-4 rounded-lg text-sm">
 
 1. 📖 Read Doctrine and Covenants 137 again
 2. 🙏 Pray about your righteous desires
@@ -1166,17 +1166,17 @@ Feel free to ask any questions about today's lesson.
 
 </div>
 
-<div class="mt-8 text-2xl italic text-blue-600">
+<div class="mt-4 text-lg italic text-blue-600">
 "For I, the Lord, will judge all men according to their works, according to the desire of their hearts"
 </div>
 
-<div class="text-sm text-gray-500">
+<div class="text-xs text-gray-500">
 - Doctrine and Covenants 137:9
 </div>
 
 </div>
 
-<div class="abs-br m-6 text-sm text-gray-400">
+<div class="abs-br m-6 text-xs text-gray-400">
 Seminary Lesson - December 5, 2025
 </div>
 
