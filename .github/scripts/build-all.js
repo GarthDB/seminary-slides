@@ -61,6 +61,17 @@ for (const dir of dirs) {
       // Note: 404.html is automatically created by @sctg/vite-plugin-github-pages-spa
       // This plugin handles SPA routing on GitHub Pages
       
+      // Create presenter and overview subdirectories with 404.html for nested route support
+      const nestedRoutes = ['presenter', 'overview'];
+      for (const route of nestedRoutes) {
+        const routeDir = path.join(outputDir, route);
+        if (!fs.existsSync(routeDir)) {
+          fs.mkdirSync(routeDir, { recursive: true });
+        }
+        // Copy index.html to each subdirectory as 404.html for SPA routing
+        fs.copyFileSync(indexPath, path.join(routeDir, '404.html'));
+      }
+      
       console.log(`✅ Built ${dir}\n`);
       successCount++;
     } catch (error) {
