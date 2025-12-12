@@ -27,6 +27,7 @@
     "@slidev/theme-default": "^0.25.0"
   },
   "devDependencies": {
+    "@sctg/vite-plugin-github-pages-spa": "^0.1.1",
     "playwright-chromium": "^1.56.1"
   }
 }

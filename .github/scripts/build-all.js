@@ -58,6 +58,9 @@ for (const dir of dirs) {
         throw new Error('Build completed but index.html not found');
       }
       
+      // Note: 404.html is automatically created by @sctg/vite-plugin-github-pages-spa
+      // This plugin handles SPA routing on GitHub Pages
+      
       console.log(`✅ Built ${dir}\n`);
       successCount++;
     } catch (error) {

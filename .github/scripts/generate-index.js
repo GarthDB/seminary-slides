@@ -285,3 +285,19 @@ const html = `<!DOCTYPE html>
 fs.writeFileSync(path.join(distDir, 'index.html'), html);
 console.log(`✓ Generated landing page with ${lessons.length} lessons`);
 
+// Create root 404.html for landing page fallback
+const html404Root = `<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="refresh" content="0;url=./index.html">
+  <title>Redirecting...</title>
+</head>
+<body>
+  <p>Redirecting to landing page...</p>
+</body>
+</html>`;
+
+fs.writeFileSync(path.join(distDir, '404.html'), html404Root);
+console.log(`✓ Generated root 404.html fallback`);
+
