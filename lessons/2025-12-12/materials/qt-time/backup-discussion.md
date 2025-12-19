@@ -28,3 +28,4 @@ This can be about trusting:
 
 The goal is to get students thinking about faith and trust in uncertain situations before we study how the Martins family and early Saints exercised faith regarding the priesthood restriction.
 
+
