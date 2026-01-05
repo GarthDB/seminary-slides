@@ -5,19 +5,19 @@ class: text-center
 highlighter: shiki
 lineNumbers: false
 info: |
-  ## Seminary Lesson - January 9, 2025
+  ## Seminary Lesson - January 9, 2026
   Weekly lesson for Seminary class
   Moses 1:27–42: "This Is My Work and My Glory"
   Source materials available in ./materials/
 drawings:
   persist: false
 transition: slide-left
-title: Seminary Lesson - January 9, 2025
+title: Seminary Lesson - January 9, 2026
 mdc: true
 ---
 
 # Seminary Lesson
-## January 9, 2025
+## January 9, 2026
 
 ### Moses 1:27–42
 **"This Is My Work and My Glory"**
@@ -912,7 +912,7 @@ layout: end
 </div>
 
 <div class="abs-br m-6 text-xs text-gray-400">
-Seminary Lesson - January 9, 2025
+Seminary Lesson - January 9, 2026
 </div>
 
 <!--
