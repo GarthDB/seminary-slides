@@ -165,3 +165,6 @@ Read [Doctrine and Covenants 137:1–10](https://www.churchofjesuschrist.org/stu
 
 *Source: [Doctrine and Covenants Seminary Teacher Manual 2025 - Lesson 151](https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/481-doctrine-and-covenants-137?lang=eng)*
 
+
+
+

@@ -30,3 +30,6 @@
 ### Source
 Based on [Doctrine and Covenants Seminary Teacher Manual 2025 - Lesson 151](https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-seminary-teacher-manual-2025/481-doctrine-and-covenants-137?lang=eng)
 
+
+
+

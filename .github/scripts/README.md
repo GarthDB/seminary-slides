@@ -50,3 +50,6 @@ The landing page will automatically:
 - Show archived lessons below with slightly muted styling
 - Display counts: "Current lessons: X, Archived: Y" in build logs
 
+
+
+

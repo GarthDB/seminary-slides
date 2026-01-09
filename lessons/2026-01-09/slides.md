@@ -64,7 +64,9 @@ Ask someone to say the opening prayer
 
 <div class="bg-purple-50 p-4 rounded-lg">
 
-**Question:** "What questions do you have about the purpose of life? Why are we here?"
+**Jursey is leading QT Time this week**
+
+**Question:** "How do we find joy in our trials?"
 
 </div>
 
@@ -73,11 +75,11 @@ Ask someone to say the opening prayer
 <!--
 Presenter Notes:
 - Ask someone to say opening prayer (2 minutes)
-- Lead QT Time discussion (5-8 minutes)
-- This question connects to today's lesson - Moses asked similar questions
-- Today's lesson will help answer these fundamental questions
-- Let students share their thoughts without judgment
-- These are important questions everyone asks
+- Jursey leads QT Time discussion (5-8 minutes)
+- Question: "How do we find joy in our trials?"
+- This question helps students think about finding meaning and purpose in challenges
+- Let students share their experiences and thoughts
+- Connect this to how understanding God's work and glory gives us perspective
 -->
 
 ---
@@ -354,34 +356,34 @@ layout: default
 
 # God's Work FOR Us
 
-<div class="space-y-4">
+<div class="space-y-2">
 
 ## What Has God Done?
 
 <v-clicks>
 
-<div class="p-4 bg-blue-50 rounded-lg">
-✝️ **Sent Jesus Christ** to atone for our sins and overcome death
+<div class="p-3 bg-blue-50 rounded-lg text-sm">
+<strong>Sent Jesus Christ</strong> to atone for our sins and overcome death
 </div>
 
-<div class="p-4 bg-green-50 rounded-lg">
-🌍 **Created the Earth** as a place for us to grow and learn
+<div class="p-3 bg-green-50 rounded-lg text-sm">
+🌍 <strong>Created the Earth</strong> as a place for us to grow and learn
 </div>
 
-<div class="p-4 bg-purple-50 rounded-lg">
-📖 **Revealed the gospel** through prophets and scriptures
+<div class="p-3 bg-purple-50 rounded-lg text-sm">
+📖 <strong>Revealed the gospel</strong> through prophets and scriptures
 </div>
 
-<div class="p-4 bg-yellow-50 rounded-lg">
-🏛️ **Provided temples** where we can make eternal covenants
+<div class="p-3 bg-yellow-50 rounded-lg text-sm">
+🏛️ <strong>Provided temples</strong> where we can make eternal covenants
 </div>
 
-<div class="p-4 bg-pink-50 rounded-lg">
-🕊️ **Given the Holy Ghost** to guide and comfort us
+<div class="p-3 bg-pink-50 rounded-lg text-sm">
+🕊️ <strong>Given the Holy Ghost</strong> to guide and comfort us
 </div>
 
-<div class="p-4 bg-orange-50 rounded-lg">
-⛪ **Restored His Church** with prophets, ordinances, and authority
+<div class="p-3 bg-orange-50 rounded-lg text-sm">
+⛪ <strong>Restored His Church</strong> with prophets, ordinances, and authority
 </div>
 
 </v-clicks>
@@ -555,7 +557,7 @@ Access Heavenly Father's help anytime
 
 <div class="p-3 bg-purple-50 rounded-lg">
 
-**✝️ Follow Jesus Christ**
+**Follow Jesus Christ**
 
 Accept His Atonement in your life
 
@@ -809,7 +811,7 @@ layout: default
 </div>
 
 <div class="p-3 bg-purple-50 rounded-lg text-base font-semibold max-w-3xl mx-auto">
-✝️ Jesus Christ makes immortality and eternal life possible
+Jesus Christ makes immortality and eternal life possible
 </div>
 
 <div class="p-3 bg-yellow-50 rounded-lg text-base font-semibold max-w-3xl mx-auto">
