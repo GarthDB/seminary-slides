@@ -336,27 +336,34 @@ layout: default
 
 </div>
 
-## Understanding "Help Meet"
+---
+layout: default
+---
 
-<div class="p-4 bg-yellow-50 rounded-lg text-sm mt-4">
+# Understanding "Help Meet"
+
+<div class="space-y-4">
+
+<div class="p-6 bg-yellow-50 rounded-lg text-lg">
 
 **Footnote 18_b**: "Help meet" means "a helper suited to, worthy of, or corresponding to" Adam
 
 </div>
 
-<div class="p-4 bg-pink-50 rounded-lg text-sm mt-2">
+<div class="p-6 bg-pink-50 rounded-lg text-lg">
 
 **Note**: The account of Eve being created from Adam's rib is symbolic and represents the **equal partnership** between husband and wife.
 
 </div>
 
+</div>
+
 <!--
 Presenter Notes:
-- God saw that Adam needed a companion
-- Eve was created to be Adam's equal partner
 - "Help meet" doesn't mean inferior - it means perfectly suited
 - The rib story is symbolic of equality and partnership
 - They were meant to work together as one
+- Eve was Adam's equal companion and partner
 -->
 
 ---
