@@ -7,6 +7,7 @@
 
 ### Key Scriptures
 - Genesis 1:27–28 - God's commandment to multiply and replenish the earth
+- Genesis 2:15 - God's commandment to care for and keep the earth
 - Genesis 2:18, 21–23 - Creation of Eve
 - Genesis 2:24 - Commandment to cleave and be one (Doctrinal Mastery)
 - Doctrine and Covenants 49:15–17 - Revelation on marriage
@@ -19,8 +20,9 @@
 1. Marriage between a man and a woman is ordained of God
 2. The family is central to the Creator's plan for the eternal destiny of His children
 3. The earth was created that families might be
-4. Husband and wife should cleave to each other and be one
-5. Satan attacks families because they are central to God's plan
+4. God commanded us to care for and protect the earth as stewards of His creation
+5. Husband and wife should cleave to each other and be one
+6. Satan attacks families because they are central to God's plan
 
 ### Additional Resources
 - "The Family: A Proclamation to the World"

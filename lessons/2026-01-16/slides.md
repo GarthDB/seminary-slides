@@ -275,6 +275,41 @@ Presenter Notes:
 layout: default
 ---
 
+# God's Commandment to Care for the Earth
+
+## [Genesis 2:15](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/2.15?lang=eng)
+
+<div class="space-y-4">
+
+<div class="p-6 bg-green-50 rounded-lg text-lg">
+
+"And the Lord God took the man, and put him into the garden of Eden **to dress it and to keep it**."
+
+</div>
+
+</div>
+
+## Key Truth
+
+<div class="p-6 bg-blue-50 rounded-lg text-xl font-semibold mt-6">
+🌍 God gave Adam (and us) the responsibility to care for and protect the earth
+</div>
+
+<!--
+Presenter Notes:
+- God gave Adam stewardship over the earth
+- "Dress it" means to cultivate, tend, work with it
+- "Keep it" means to guard, protect, preserve it
+- This was given BEFORE the Fall - caring for creation is part of God's plan
+- We are stewards, not owners - the earth belongs to God
+- This responsibility extends to our families and future generations
+- Taking care of the earth helps provide for families
+-->
+
+---
+layout: default
+---
+
 # The Creation of Eve
 
 ## [Genesis 2:18, 21–23](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/2.18?lang=eng)
@@ -858,6 +893,12 @@ layout: default
 <div class="p-2 bg-purple-50 rounded-lg text-sm max-w-3xl mx-auto">
 
 🌍 **The earth was created that families might be** - this is the purpose of creation
+
+</div>
+
+<div class="p-2 bg-teal-50 rounded-lg text-sm max-w-3xl mx-auto">
+
+🌱 **God commanded us to care for and protect the earth** - we are stewards of His creation
 
 </div>
 
