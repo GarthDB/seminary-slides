@@ -38,18 +38,33 @@ for (const dir of dirs) {
     }
     
     // Try to extract subtitle from the markdown (e.g., "### Doctrine and Covenants 137")
-    const subtitleMatch = slidesContent.match(/###\s*(.+)/);
+    // Look for the first ### that comes after the title slide (after the first --- separator)
+    const contentAfterTitle = slidesContent.split('---').slice(2).join('---');
+    const subtitleMatch = contentAfterTitle.match(/###\s*(.+)/);
     if (subtitleMatch) {
       subtitle = subtitleMatch[1].trim();
       
-      // Convert markdown links to HTML anchor tags
-      // Matches [text](url) and converts to <a href="url" target="_blank">text</a>
-      subtitle = subtitle.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank">$1</a>');
+      // Extract just the text from markdown links (don't create nested anchor tags)
+      // Since the entire card is already a link, we just want the text
+      subtitle = subtitle.replace(/\[([^\]]+)\]\([^)]+\)/g, '$1');
     }
     
-    // Try to extract description
-    const descMatch = slidesContent.match(/\*\*(.+?)\*\*/);
-    const description = descMatch ? descMatch[1] : '';
+    // Try to extract description - look for bold text after the subtitle
+    // First try to find description on the same line or next line after subtitle
+    let description = '';
+    if (subtitleMatch) {
+      const afterSubtitle = contentAfterTitle.substring(contentAfterTitle.indexOf(subtitleMatch[0]) + subtitleMatch[0].length);
+      const descMatch = afterSubtitle.match(/\*\*(.+?)\*\*/);
+      if (descMatch) {
+        description = descMatch[1].trim();
+      }
+    }
+    
+    // Fallback: if no description found, try the first bold text in the file
+    if (!description) {
+      const descMatch = slidesContent.match(/\*\*(.+?)\*\*/);
+      description = descMatch ? descMatch[1].trim() : '';
+    }
     
     lessons.push({
       date: dir,
