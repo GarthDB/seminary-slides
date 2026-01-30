@@ -288,4 +288,3 @@ console.log(`✓ Generated landing page with ${lessons.length} lessons`);
 // Create .nojekyll file to prevent GitHub Pages from processing with Jekyll
 fs.writeFileSync(path.join(distDir, '.nojekyll'), '');
 console.log(`✓ Created .nojekyll file for GitHub Pages`);
-
