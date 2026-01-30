@@ -41,6 +41,10 @@ for (const dir of dirs) {
     const subtitleMatch = slidesContent.match(/###\s*(.+)/);
     if (subtitleMatch) {
       subtitle = subtitleMatch[1].trim();
+      
+      // Convert markdown links to HTML anchor tags
+      // Matches [text](url) and converts to <a href="url" target="_blank">text</a>
+      subtitle = subtitle.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank">$1</a>');
     }
     
     // Try to extract description
@@ -180,6 +184,16 @@ const html = `<!DOCTYPE html>
       font-size: 1rem;
       color: #4a5568;
       margin-bottom: 0.5rem;
+    }
+    
+    .lesson-subtitle a {
+      color: #667eea;
+      text-decoration: underline;
+    }
+    
+    .lesson-subtitle a:hover {
+      color: #764ba2;
+      text-decoration: none;
     }
     
     .lesson-description {
