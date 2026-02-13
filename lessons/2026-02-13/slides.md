@@ -63,7 +63,16 @@ Ask someone to say the opening prayer
 
 <div class="bg-purple-50 p-4 rounded-lg">
 
-**Question:** Annalisa will lead our discussion today
+**Question:** Why did President Oaks choose these 4 areas to focus on in his first message to the youth?
+
+<div class="mt-3 grid grid-cols-2 gap-2 text-sm">
+
+<div class="p-2 bg-white/50 rounded">1. Strengthen Our Faith in Him</div>
+<div class="p-2 bg-white/50 rounded">2. Increase Our Humility</div>
+<div class="p-2 bg-white/50 rounded">3. Seek Help from Others</div>
+<div class="p-2 bg-white/50 rounded">4. Be Patient</div>
+
+</div>
 
 </div>
 
@@ -72,7 +81,9 @@ Ask someone to say the opening prayer
 <!--
 Presenter Notes:
 - Ask someone to say opening prayer (2 minutes)
-- Annalisa leads QT Time (5-8 minutes)
+- Annalisa leads QT Time discussion on President Oaks' message (5-8 minutes)
+- She'll discuss why he chose these 4 specific areas for youth
+- Follow-up questions: Which is most important? How are they connected?
 - If Annalisa forgot, use backup question from materials/qt-time/backup-discussion.md
 - Keep QT time to about 5-8 minutes to stay on schedule
 -->
