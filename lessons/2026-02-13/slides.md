@@ -628,6 +628,53 @@ Presenter Notes:
 layout: default
 ---
 
+# President Dieter F. Uchtdorf
+
+<div class="space-y-4">
+
+<div class="p-8 bg-gradient-to-r from-blue-50 to-purple-50 rounded-xl">
+
+<div class="text-lg text-gray-800 leading-relaxed">
+
+"Small errors and minor drifts away from the doctrine of the gospel of Jesus Christ can bring sorrowful consequences into our lives. It is therefore of critical importance that we become self-disciplined enough to make early and decisive corrections to get back on the right track and not wait or hope that errors will somehow correct themselves."
+
+</div>
+
+<div class="text-sm text-gray-600 mt-4">
+
+— President Dieter F. Uchtdorf<br/>
+["A Matter of a Few Degrees,"](https://www.churchofjesuschrist.org/study/ensign/2008/05/a-matter-of-a-few-degrees?lang=eng) Ensign, May 2008
+
+</div>
+
+</div>
+
+<div class="p-4 bg-yellow-50 rounded-lg text-center">
+
+<div class="text-base font-semibold">
+
+Even small deviations from obedience can lead to big consequences
+
+</div>
+
+</div>
+
+</div>
+
+<!--
+Presenter Notes:
+- President Uchtdorf uses the airplane analogy - off by a few degrees
+- Small errors compound over time
+- Don't wait to make course corrections
+- In missionary work, small deviations from standards can have big impacts
+- We need to be self-disciplined and make early corrections
+- This connects perfectly to why obedience matters in representing the Savior
+-->
+
+---
+layout: default
+---
+
 # Elder Ulisses Soares
 
 <div class="space-y-4">
