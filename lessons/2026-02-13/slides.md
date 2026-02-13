@@ -636,7 +636,7 @@ layout: default
 
 <div class="text-lg text-gray-800 leading-relaxed">
 
-"Small errors and minor drifts away from the doctrine of the gospel of Jesus Christ can bring sorrowful consequences into our lives. It is therefore of critical importance that we become self-disciplined enough to make early and decisive corrections to get back on the right track and not wait or hope that errors will somehow correct themselves."
+"Remember: the heavens will not be filled with those who never made mistakes but with those who recognized that they were off course and who corrected their ways to get back in the light of gospel truth."
 
 </div>
 
@@ -653,7 +653,7 @@ layout: default
 
 <div class="text-base font-semibold">
 
-Even small deviations from obedience can lead to big consequences
+Obedience includes repenting and making course corrections when needed
 
 </div>
 
@@ -663,12 +663,12 @@ Even small deviations from obedience can lead to big consequences
 
 <!--
 Presenter Notes:
-- President Uchtdorf uses the airplane analogy - off by a few degrees
-- Small errors compound over time
-- Don't wait to make course corrections
-- In missionary work, small deviations from standards can have big impacts
-- We need to be self-disciplined and make early corrections
-- This connects perfectly to why obedience matters in representing the Savior
+- Heaven is filled with people who made course corrections, not those who were perfect
+- We all make mistakes - that's why repentance is part of obedience
+- The key is recognizing when we're off course and correcting it
+- Don't give up if you've made mistakes - repent and get back on track
+- This is encouraging - obedience isn't perfection, it's continuing to turn to the Lord
+- In missionary work, if we mess up, we repent and keep going
 -->
 
 ---
