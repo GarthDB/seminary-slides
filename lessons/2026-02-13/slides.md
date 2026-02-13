@@ -709,43 +709,43 @@ Presenter Notes:
 layout: default
 ---
 
-# Create Your Talk Outline
+# How to Prepare a Talk
 
 <div class="space-y-3">
 
-## Include at Least 3 of These Elements:
+## Build Your Talk with These Elements:
 
-<div class="space-y-2 text-sm">
+<div class="p-4 bg-blue-50 rounded-lg text-center font-semibold">
 
-<div class="p-2 bg-blue-50 rounded-lg">
-
-**1.** A scripture about obedience and how it applies to sharing the gospel
+Topic
 
 </div>
 
-<div class="p-2 bg-green-50 rounded-lg">
+<div class="grid grid-cols-3 gap-3 text-sm">
 
-**2.** An example from the life or teachings of Jesus Christ
+<div class="p-4 bg-green-50 rounded-lg text-center">
 
-</div>
-
-<div class="p-2 bg-purple-50 rounded-lg">
-
-**3.** A modern-day example of obedience and how God blesses our efforts
+**Scripture**
 
 </div>
 
-<div class="p-2 bg-yellow-50 rounded-lg">
+<div class="p-4 bg-purple-50 rounded-lg text-center">
 
-**4.** A statement by a Church leader emphasizing obedience
+**Gen Conf**
+
+</div>
+
+<div class="p-4 bg-yellow-50 rounded-lg text-center">
+
+**Personal Experience**
 
 </div>
 
-<div class="p-2 bg-pink-50 rounded-lg">
-
-**5.** Your personal feelings about why obedience matters when representing the Savior
-
 </div>
+
+<div class="p-4 bg-pink-50 rounded-lg text-center font-semibold mt-3">
+
+Topic and Testimony
 
 </div>
 
@@ -753,12 +753,15 @@ layout: default
 
 <!--
 Presenter Notes:
-- Give students 5-7 minutes to create an outline
+- This is a simple framework for preparing talks
+- Start with your TOPIC - what you're asked to speak about
+- Find a SCRIPTURE that teaches about your topic
+- Find a GEN CONF talk or quote from Church leaders
+- Think of a PERSONAL EXPERIENCE that illustrates the principle
+- End by restating your TOPIC and bearing your TESTIMONY
+- Give students 5-7 minutes to create their outline using this framework
 - They should write this in their journals or on paper
-- They're preparing a 3-5 minute talk on obedience
 - Encourage them to use the scriptures they just studied
-- Include personal testimony and feelings
-- This helps them internalize the doctrine
 -->
 
 ---
