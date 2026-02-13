@@ -2,19 +2,20 @@
 ## February 13, 2026
 
 ### Main Question
-[Annalisa will provide her question from her virtual seminary assignment]
+**"Did you watch the Devotional?"**
 
 ### Instructions for Teacher
-- Annalisa has been assigned the QT time question for today
-- She should share her main question from her virtual seminary work this week
-- Allow her to lead the discussion (5-8 minutes total)
+- Annalisa will lead the discussion about the devotional
+- Allow her to share what she learned and ask others about their experience (5-8 minutes total)
+- Encourage discussion about key messages or insights from the devotional
 - If she forgot or didn't prepare, use the backup question from backup-discussion.md
 
 ### Follow-Up Questions (if needed)
-- What made you think of this question?
+- What stood out to you from the devotional?
 - How does this relate to what we're studying today?
-- What insights did you gain from studying this?
-- How can this help us in our daily lives?
+- What insights did you gain from the devotional?
+- How can you apply what you learned?
+- What message do you think the speaker wanted us to remember?
 
 ### Connection to Today's Lesson
 - QT time helps us think about gospel principles personally
