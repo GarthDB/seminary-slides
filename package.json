@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "slidev",
-    "dev-remote": "slidev",
+    "dev-remote": "slidev --remote",
     "build": "slidev build",
     "build-all": "node .github/scripts/build-all.js",
     "export": "slidev export",
