@@ -362,26 +362,26 @@ layout: default
 
 <div class="p-2 bg-blue-50 rounded text-xs">
 
-Jacob taught that the sacrifice was **"a similitude of God and his Only Begotten Son."** A similitude is a similarity, comparison, likeness, or shadow.
+Jacob taught that the sacrifice was <strong>"a similitude of God and his Only Begotten Son."</strong> A similitude is a similarity, comparison, likeness, or shadow.
 
 </div>
 
 <div class="grid grid-cols-2 gap-1.5 text-[11px] leading-tight">
 
-<div class="p-1.5 bg-green-50 rounded">**[Gen 22:2, 12](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/22?lang=eng&id=p2,p12)** — "thine only son"</div>
-<div class="p-1.5 bg-white/70 rounded">Jesus is the **Only Begotten Son** ([John 3:16](https://www.churchofjesuschrist.org/study/scriptures/nt/john/3?lang=eng&id=p16))</div>
+<div class="p-1.5 bg-green-50 rounded"><strong><a href="https://www.churchofjesuschrist.org/study/scriptures/ot/gen/22?lang=eng&id=p2,p12" target="_blank" rel="noopener">Gen 22:2, 12</a></strong> — "thine only son"</div>
+<div class="p-1.5 bg-white/70 rounded">Jesus is the <strong>Only Begotten Son</strong> (<a href="https://www.churchofjesuschrist.org/study/scriptures/nt/john/3?lang=eng&id=p16" target="_blank" rel="noopener">John 3:16</a>)</div>
 
-<div class="p-1.5 bg-green-50 rounded">**[Gen 22:2](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/22?lang=eng&id=p2)** — "a burnt offering"</div>
-<div class="p-1.5 bg-white/70 rounded">Sacrifice was **symbolic of Christ** ([Moses 5:4–7](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/5?lang=eng&id=p4-p7))</div>
+<div class="p-1.5 bg-green-50 rounded"><strong><a href="https://www.churchofjesuschrist.org/study/scriptures/ot/gen/22?lang=eng&id=p2" target="_blank" rel="noopener">Gen 22:2</a></strong> — "a burnt offering"</div>
+<div class="p-1.5 bg-white/70 rounded">Sacrifice was <strong>symbolic of Christ</strong> (<a href="https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/5?lang=eng&id=p4-p7" target="_blank" rel="noopener">Moses 5:4–7</a>)</div>
 
-<div class="p-1.5 bg-green-50 rounded">**[Gen 22:6](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/22?lang=eng&id=p6)** — wood laid upon Isaac</div>
-<div class="p-1.5 bg-white/70 rounded">**Christ carried His cross** ([John 19:16–18](https://www.churchofjesuschrist.org/study/scriptures/nt/john/19?lang=eng&id=p16-p18))</div>
+<div class="p-1.5 bg-green-50 rounded"><strong><a href="https://www.churchofjesuschrist.org/study/scriptures/ot/gen/22?lang=eng&id=p6" target="_blank" rel="noopener">Gen 22:6</a></strong> — wood laid upon Isaac</div>
+<div class="p-1.5 bg-white/70 rounded"><strong>Christ carried His cross</strong> (<a href="https://www.churchofjesuschrist.org/study/scriptures/nt/john/19?lang=eng&id=p16-p18" target="_blank" rel="noopener">John 19:16–18</a>)</div>
 
-<div class="p-1.5 bg-green-50 rounded">**[Gen 22:7–8](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/22?lang=eng&id=p7-p8)** — "God will provide himself a lamb"</div>
-<div class="p-1.5 bg-white/70 rounded">**Lamb of God**, atoning sacrifice ([John 1:29](https://www.churchofjesuschrist.org/study/scriptures/nt/john/1?lang=eng&id=p29))</div>
+<div class="p-1.5 bg-green-50 rounded"><strong><a href="https://www.churchofjesuschrist.org/study/scriptures/ot/gen/22?lang=eng&id=p7-p8" target="_blank" rel="noopener">Gen 22:7–8</a></strong> — "God will provide himself a lamb"</div>
+<div class="p-1.5 bg-white/70 rounded"><strong>Lamb of God</strong>, atoning sacrifice (<a href="https://www.churchofjesuschrist.org/study/scriptures/nt/john/1?lang=eng&id=p29" target="_blank" rel="noopener">John 1:29</a>)</div>
 
-<div class="p-1.5 bg-green-50 rounded">**[Gen 22:9](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/22?lang=eng&id=p9)** — "bound Isaac his son"</div>
-<div class="p-1.5 bg-white/70 rounded">**Christ bound to the cross** ([1 Nephi 11:33](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/11?lang=eng&id=p33))</div>
+<div class="p-1.5 bg-green-50 rounded"><strong><a href="https://www.churchofjesuschrist.org/study/scriptures/ot/gen/22?lang=eng&id=p9" target="_blank" rel="noopener">Gen 22:9</a></strong> — "bound Isaac his son"</div>
+<div class="p-1.5 bg-white/70 rounded"><strong>Christ bound to the cross</strong> (<a href="https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/11?lang=eng&id=p33" target="_blank" rel="noopener">1 Nephi 11:33</a>)</div>
 
 </div>
 
