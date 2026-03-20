@@ -47,6 +47,10 @@ npm run dev
 - `npm run export-pdf` - Export slides as PDF
 - `npm run export-png` - Export slides as PNG images
 
+## 🤖 Agent skill (Cursor / Agent Skills)
+
+This repo includes an [Agent Skills](https://agentskills.io/specification)-style skill at [`skills/seminary-lesson/`](./skills/seminary-lesson/) to generate `lessons/YYYY-MM-DD/slides.md` from a Church seminary student-manual URL (scrapes the lesson page, writes materials, then you review in Slidev). Point your agent at that folder or copy `SKILL.md` into your skills directory if you use global skills.
+
 ## 📝 Creating a New Lesson
 
 1. **Create the lesson directory:**

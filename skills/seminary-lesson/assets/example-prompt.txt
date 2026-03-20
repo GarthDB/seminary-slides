@@ -1,0 +1,15 @@
+Example 1 (full):
+Review the existing lessons, create a slidev for friday's lesson (1/30/2026) https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-student-manual-2026/05-genesis-5-moses-6/052-moses-6-47-68?lang=eng . Finnley is in charge of QT time this week.
+
+Example 2 (minimal):
+Create seminary slides for 2026-02-07 from this manual URL: https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-student-manual-2026/... QT leader: Maria
+
+Example 3 (CLI after content is ready):
+python3 skills/seminary-lesson/scripts/create-lesson.py \
+  --url "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-student-manual-2026/05-genesis-5-moses-6/052-moses-6-47-68?lang=eng" \
+  --date 2026-01-30 \
+  --student Finnley \
+  --seminary-root /Users/garthdb/Seminary
+
+Optional: use a different folder name under lessons/ (for testing):
+  --lesson-folder _skill-verify-2026-01-30

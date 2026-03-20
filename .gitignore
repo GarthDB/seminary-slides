@@ -1,5 +1,6 @@
 # Dependencies
 node_modules/
+skills/seminary-lesson/.venv/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
@@ -7,6 +8,7 @@ yarn-error.log*
 # Build outputs
 dist/
 .slidev/
+lessons/*/index.html
 
 # Environment variables
 .env
