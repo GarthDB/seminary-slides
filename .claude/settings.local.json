@@ -1,0 +1,43 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx slidev *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "WebFetch(domain:www.churchofjesuschrist.org)",
+      "Bash(curl -sI \"https://www.churchofjesuschrist.org/imgs/959df8a8bba511ee8135eeeeac1ed760e6380929/full/%21500%2C/0/default\")",
+      "Bash(curl -s \"https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-student-manual-2026/17-exodus-35-40-leviticus-1-4-16-19?lang=eng\" -o /tmp/unit17.html -w \"%{http_code}\\\\n\")",
+      "Bash(curl -sL \"https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-student-manual-2026/17-exodus-35-40-leviticus-1-4-16-19?lang=eng\" -o /tmp/unit17.html -w \"%{http_code}\\\\n\")",
+      "Read(//private/tmp/**)",
+      "Bash(curl -sLI \"https://www.churchofjesuschrist.org/media/image/the-tabernacle?lang=eng\")",
+      "Bash(curl -sLI \"https://www.churchofjesuschrist.org/media/image/moses-and-aaron?lang=eng\")",
+      "Bash(curl -sLI \"https://www.churchofjesuschrist.org/media/image/day-of-atonement?lang=eng\")",
+      "Bash(curl -sL \"https://www.churchofjesuschrist.org/study/manual/old-testament-student-manual-genesis-2-samuel/exodus-25-30-the-tabernacle?lang=eng\" -o /tmp/tab.html)",
+      "Bash(curl -sL \"https://www.churchofjesuschrist.org/study/manual/old-testament-student-manual-genesis-2-samuel/leviticus?lang=eng\" -o /tmp/lev.html)",
+      "Read(//tmp/**)",
+      "Bash(curl -sLI \"https://www.churchofjesuschrist.org/imgs/041db897e4459201fe26a67252eb9cdfc1790773/full/%21500%2C/0/default\")",
+      "Bash(curl -sLo /tmp/search_ma.html -w \"%{http_code}\\\\n\" \"https://www.churchofjesuschrist.org/search?lang=eng&query=moses+and+aaron&type=image\")",
+      "Bash(curl -sLo /tmp/search_doa.html -w \"%{http_code}\\\\n\" \"https://www.churchofjesuschrist.org/search?lang=eng&query=day+of+atonement&type=image\")",
+      "Bash(curl -sLo /tmp/search_tab.html -w \"%{http_code}\\\\n\" \"https://www.churchofjesuschrist.org/search?lang=eng&query=tabernacle+barrett&type=image\")",
+      "Bash(curl -sL \"https://site-search.churchofjesuschrist.org/search?lang=eng&query=moses+and+aaron&start=1&rows=10&site=imageweb\" -o /tmp/api1.json -w \"%{http_code}\\\\n\")",
+      "Bash(curl -sL \"https://site-search.churchofjesuschrist.org/search?lang=eng&query=day+of+atonement&start=1&rows=10&site=imageweb\" -o /tmp/api2.json -w \"%{http_code}\\\\n\")",
+      "Bash(curl -sL -A \"Mozilla/5.0\" \"https://www.churchofjesuschrist.org/search?lang=eng&query=moses%20and%20aaron&type=image\" -o /tmp/s1.html -w \"%{http_code} %{size_download}\\\\n\")",
+      "Bash(curl -sL -A \"Mozilla/5.0\" \"https://duckduckgo.com/html/?q=site%3Achurchofjesuschrist.org+%22moses+and+aaron%22+image\" -o /tmp/dd1.html -w \"%{http_code} %{size_download}\\\\n\")",
+      "Bash(curl -sLI \"https://www.churchofjesuschrist.org/media/image/moses-aaron-pharaoh-3ebeec7?lang=eng\")",
+      "Bash(curl -sL \"https://www.churchofjesuschrist.org/media/image/moses-aaron-pharaoh-3ebeec7?lang=eng\" -o /tmp/ma.html -w \"%{http_code} %{size_download}\\\\n\")",
+      "Bash(curl -sL -A \"Mozilla/5.0\" \"https://duckduckgo.com/html/?q=site%3Achurchofjesuschrist.org+%22day+of+atonement%22+image+media\" -o /tmp/dd2.html)",
+      "Bash(curl -sL -A \"Mozilla/5.0\" \"https://duckduckgo.com/html/?q=site%3Achurchofjesuschrist.org+tabernacle+barrett+image\" -o /tmp/dd3.html)",
+      "Bash(curl -sL -A \"Mozilla/5.0\" \"https://duckduckgo.com/html/?q=site%3Achurchofjesuschrist.org+%22the+tabernacle%22+%22Robert+T.+Barrett%22\" -o /tmp/dd4.html)",
+      "WebSearch",
+      "Bash(curl -sL \"https://www.churchofjesuschrist.org/media/image/moses-tabernacle-3c5180f?lang=eng\" -o /tmp/tab2.html)",
+      "Bash(curl -sL \"https://www.churchofjesuschrist.org/media/image/old-testament-manual-c2f9577?lang=eng\" -o /tmp/diag.html)",
+      "Bash(curl -sL \"https://www.churchofjesuschrist.org/manual/old-testament-seminary-student-study-guide/the-book-of-leviticus/leviticus-15-16-the-day-of-atonement?lang=eng\" -o /tmp/sg.html -w \"%{http_code} %{size_download}\\\\n\")",
+      "Bash(python3 -c ' *)",
+      "Bash(curl -sL \"https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-teacher-manual/leviticus/lesson-49-leviticus-16-27?lang=eng\" -o /tmp/sg2.html)",
+      "Bash(curl -sL \"https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/17-thoughts?lang=eng\" -o /tmp/cfm.html)",
+      "Bash(curl -sLI \"https://www.churchofjesuschrist.org/imgs/2cef7651dda411ee9ffdeeeeac1ee3a01619d483/full/%21500%2C/0/default\")",
+      "Bash(curl -sLI \"https://www.churchofjesuschrist.org/imgs/3c5180f1f9e581c320ddbce831cd11705d613502/full/%21500%2C/0/default\")",
+      "Bash(curl -sLI \"https://www.churchofjesuschrist.org/imgs/3ebeec7b18a6676d0fecaba35a50a2c8308932a2/full/%21500%2C/0/default\")"
+    ]
+  }
+}
