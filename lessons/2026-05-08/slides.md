@@ -242,8 +242,6 @@ layout: default
 
 # [Numbers 21:8–9](https://www.churchofjesuschrist.org/study/scriptures/ot/num/21?lang=eng&id=p8-p9#p8) — Look and live
 
-<div class="grid grid-cols-[1fr,220px] gap-6 items-start">
-
 <div class="space-y-4">
 
 <div class="p-6 bg-gradient-to-r from-blue-50 to-teal-50 rounded-xl">
@@ -262,17 +260,24 @@ Moses made a **brass serpent** and put it on a pole. **Everyone who looked at it
 
 </div>
 
-<div class="flex justify-center">
-  <img src="https://www.churchofjesuschrist.org/imgs/75102f69f21cb73401737521399c00d680490bc6/full/400,/0/default" alt="Moses and the Brass Serpent" class="rounded-xl shadow-lg w-52 object-cover" />
-</div>
-
-</div>
-
 <!--
 Presenter Notes:
 - 1 Nephi 17:41 says many perished because they didn't believe looking would work — "because of the simpleness of the way."
 - The action required was tiny. The faith required was real.
 - This is the setup for the next slide: Christ explains what the brass serpent really meant.
+-->
+
+---
+layout: center
+class: text-center
+---
+
+<img src="https://www.churchofjesuschrist.org/imgs/75102f69f21cb73401737521399c00d680490bc6/full/1920%2C/0/default" alt="Moses and the Brass Serpent" class="mx-auto max-h-[80vh] rounded-xl shadow-xl object-contain" />
+
+<!--
+Presenter Notes:
+- "Moses and the Brass Serpent" by Mehr (Gospel Art Kit).
+- Let the image speak before moving on to John 3.
 -->
 
 ---
