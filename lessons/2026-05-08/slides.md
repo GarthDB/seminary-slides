@@ -242,6 +242,8 @@ layout: default
 
 # [Numbers 21:8–9](https://www.churchofjesuschrist.org/study/scriptures/ot/num/21?lang=eng&id=p8-p9#p8) — Look and live
 
+<div class="grid grid-cols-[1fr,220px] gap-6 items-start">
+
 <div class="space-y-4">
 
 <div class="p-6 bg-gradient-to-r from-blue-50 to-teal-50 rounded-xl">
@@ -256,6 +258,12 @@ Moses made a **brass serpent** and put it on a pole. **Everyone who looked at it
 
 **Think about it:** Why might some people have refused to look? What would it take to believe something so simple could save your life?
 
+</div>
+
+</div>
+
+<div class="flex justify-center">
+  <img src="https://www.churchofjesuschrist.org/imgs/75102f69f21cb73401737521399c00d680490bc6/full/400,/0/default" alt="Moses and the Brass Serpent" class="rounded-xl shadow-lg w-52 object-cover" />
 </div>
 
 </div>
