@@ -439,11 +439,11 @@ layout: default
 **Tag three or more** of these passages as *"forgiveness"* in your scriptures:
 
 <div class="grid grid-cols-2 gap-3 mt-3">
-<div class="p-3 bg-white border border-purple-200 rounded">[Matthew 18:21–22](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/18?lang=eng&id=p21-p22#p21) — how many times?</div>
-<div class="p-3 bg-white border border-purple-200 rounded">[Luke 23:34](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/23?lang=eng&id=p34#p34) — Christ on the cross</div>
-<div class="p-3 bg-white border border-purple-200 rounded">[Ephesians 4:32](https://www.churchofjesuschrist.org/study/scriptures/nt/eph/4?lang=eng&id=p32#p32) — tender-hearted, forgiving</div>
-<div class="p-3 bg-white border border-purple-200 rounded">[D&C 45:3–5](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/45?lang=eng&id=p3-p5#p3) — Christ pleads our cause</div>
-<div class="p-3 bg-white border border-teal-200 rounded col-span-2">[D&C 64:8–11](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/64?lang=eng&id=p8-p11#p8) — "I, the Lord, will forgive whom I will forgive…"</div>
+<div class="p-3 bg-white border border-purple-200 rounded"><a href="https://www.churchofjesuschrist.org/study/scriptures/nt/matt/18?lang=eng&id=p21-p22#p21" target="_blank">Matthew 18:21–22</a> — how many times?</div>
+<div class="p-3 bg-white border border-purple-200 rounded"><a href="https://www.churchofjesuschrist.org/study/scriptures/nt/luke/23?lang=eng&id=p34#p34" target="_blank">Luke 23:34</a> — Christ on the cross</div>
+<div class="p-3 bg-white border border-purple-200 rounded"><a href="https://www.churchofjesuschrist.org/study/scriptures/nt/eph/4?lang=eng&id=p32#p32" target="_blank">Ephesians 4:32</a> — tender-hearted, forgiving</div>
+<div class="p-3 bg-white border border-purple-200 rounded"><a href="https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/45?lang=eng&id=p3-p5#p3" target="_blank">D&C 45:3–5</a> — Christ pleads our cause</div>
+<div class="p-3 bg-white border border-teal-200 rounded col-span-2"><a href="https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/64?lang=eng&id=p8-p11#p8" target="_blank">D&C 64:8–11</a> — "I, the Lord, will forgive whom I will forgive…"</div>
 </div>
 
 </div>
