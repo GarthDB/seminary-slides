@@ -1,6 +1,6 @@
 ---
 theme: default
-background: https://source.unsplash.com/1920x1080/?scripture,book,ancient
+background: https://www.churchofjesuschrist.org/imgs/ab9ff60deb6711eea519eeeeac1ec054f74bd07f/full/!1920,/0/default
 class: text-center
 highlighter: shiki
 lineNumbers: false
