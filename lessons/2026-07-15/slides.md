@@ -315,29 +315,29 @@ Presenter Notes:
 layout: default
 ---
 
-# Option B — What effect can God's word have on my life?
+# Option B — What effect can God's word have on me?
 
-<div class="space-y-3 max-w-4xl mx-auto text-sm">
+<div class="space-y-2 max-w-4xl mx-auto text-xs">
 
-<div class="p-5 bg-purple-50 rounded-lg leading-relaxed">
+<div class="p-3 bg-purple-50 rounded-lg leading-snug">
 
 Read **2 Kings 23:1–3** and **[Mosiah 5:1–5](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/5?lang=eng&id=p1-p5#p1)**. King Benjamin, a Book of Mormon king, also gathered his people to teach them God's word.
 
-**Compare** King Benjamin's people with King Josiah's people. Link 2 Kings 23:3 to Mosiah 5:5.
+**Compare** the two peoples. Link 2 Kings 23:3 to Mosiah 5:5.
 
 </div>
 
-<div class="p-4 bg-teal-50 rounded-lg leading-relaxed">
+<div class="p-3 bg-teal-50 rounded-lg leading-snug">
 
-President Spencer W. Kimball taught: *"If I immerse myself in the scriptures the distance narrows and the spirituality returns."* — Teachings of Presidents of the Church: Spencer W. Kimball (2006), 67
+President Spencer W. Kimball: *"If I immerse myself in the scriptures the distance narrows and the spirituality returns."* — Teachings of Presidents of the Church: Spencer W. Kimball (2006), 67
 
 </div>
 
-<div class="p-4 bg-indigo-50 rounded-lg">
+<div class="p-3 bg-indigo-50 rounded-lg">
 
 **In your notebook, record:**
 - Similarities between King Benjamin's people and King Josiah's people
-- Connections between the people's hearts and their willingness to make and keep covenants — and how that applies to you
+- Connections between the people's hearts and their willingness to keep covenants — and how that applies to you
 
 </div>
 
