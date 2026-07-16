@@ -183,13 +183,13 @@ layout: default
 
 While workers repair the temple, **Hilkiah** the priest finds the "book of the law" — the scriptures — buried and forgotten inside it.
 
-King Josiah decides to have the book read aloud to **all the people of Jerusalem** (see 2 Kings 22:14–20; 23:1–2).
+King Josiah decides to have the book read aloud to **all the people of Jerusalem** (see [2 Kings 22:14–20](https://www.churchofjesuschrist.org/study/scriptures/ot/2-kgs/22?lang=eng&id=p14-p20#p14); [23:1–2](https://www.churchofjesuschrist.org/study/scriptures/ot/2-kgs/23?lang=eng&id=p1-p2#p1)).
 
 </div>
 
 <div class="p-4 bg-indigo-50 rounded-lg">
 
-**Mark in your scriptures:** what Josiah does the moment he hears the words of the law read to him (2 Kings 22:11).
+**Mark in your scriptures:** what Josiah does the moment he hears the words of the law read to him ([2 Kings 22:11](https://www.churchofjesuschrist.org/study/scriptures/ot/2-kgs/22?lang=eng&id=p11#p11)).
 
 </div>
 
@@ -218,7 +218,7 @@ Josiah reads the book of the law to all the people. Then he — and the whole na
 
 <div class="p-4 bg-indigo-50 rounded-lg">
 
-**Read and mark:** what the people did after Josiah read them the scriptures (2 Kings 23:1–3).
+**Read and mark:** what the people did after Josiah read them the scriptures ([2 Kings 23:1–3](https://www.churchofjesuschrist.org/study/scriptures/ot/2-kgs/23?lang=eng&id=p1-p3#p1)).
 
 </div>
 
@@ -287,7 +287,7 @@ layout: default
 
 <div class="p-5 bg-blue-50 rounded-lg leading-relaxed">
 
-Read **2 Kings 23:3–4, 21, 24–25** again. Ponder:
+Read **[2 Kings 23:3–4, 21, 24–25](https://www.churchofjesuschrist.org/study/scriptures/ot/2-kgs/23?lang=eng&id=p3-p4,p21,p24-p25#p3)** again. Ponder:
 
 - Why do you think the people needed to destroy all their idols to turn to the Lord with all their hearts?
 - What are some things you feel the Savior might want you to cast out of your life so you can better follow Him?
@@ -321,9 +321,9 @@ layout: default
 
 <div class="p-3 bg-purple-50 rounded-lg leading-snug">
 
-Read **2 Kings 23:1–3** and **[Mosiah 5:1–5](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/5?lang=eng&id=p1-p5#p1)**. King Benjamin, a Book of Mormon king, also gathered his people to teach them God's word.
+Read **[2 Kings 23:1–3](https://www.churchofjesuschrist.org/study/scriptures/ot/2-kgs/23?lang=eng&id=p1-p3#p1)** and **[Mosiah 5:1–5](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/5?lang=eng&id=p1-p5#p1)**. King Benjamin, a Book of Mormon king, also gathered his people to teach them God's word.
 
-**Compare** the two peoples. Link 2 Kings 23:3 to Mosiah 5:5.
+**Compare** the two peoples. Link **[2 Kings 23:3](https://www.churchofjesuschrist.org/study/scriptures/ot/2-kgs/23?lang=eng&id=p3#p3)** to **[Mosiah 5:5](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/5?lang=eng&id=p5#p5)**.
 
 </div>
 
