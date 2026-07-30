@@ -62,7 +62,7 @@ layout: default
 
 ## Class structure (40 min)
 1. **Opening prayer** (2 min)
-2. **QT Time** (10 min) — [Student Name]
+2. **QT Time** (10 min) — Jamie
 3. **Lesson** (20 min) — Our Divine Identity and Purpose
 4. **Discussion** (5 min)
 5. **Closing** (3 min)
@@ -73,7 +73,7 @@ layout: default
 
 <!--
 Presenter Notes:
-- Replace [Student Name] once you know who's leading QT.
+- Jamie is leading QT this week.
 - The lesson turns on one question: what happens to your sense of self when every other label gets stripped away?
 -->
 
@@ -95,9 +95,9 @@ Ask someone to offer the opening prayer.
 
 <div class="bg-purple-50 p-4 rounded-lg">
 
-**[Student Name] is leading QT Time this week.**
+**Jamie is leading QT Time this week.**
 
-**Question:** *[Add the student's discussion question before class]*
+**Question:** *What can you do now to prepare for the temple?*
 
 **Flow:** Small groups → discuss → come back together → **one** person per group shares a **short** highlight (1–2 sentences).
 

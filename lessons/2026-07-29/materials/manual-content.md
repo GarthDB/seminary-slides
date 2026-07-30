@@ -1,6 +1,6 @@
 ---
 date: 2026-07-29
-qt_leader: [Student Name]
+qt_leader: Jamie
 source_url: https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-student-manual-2026/63-for-the-strength-of-youth/633-divine-identity?lang=eng
 ---
 
