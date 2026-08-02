@@ -14,6 +14,12 @@ drawings:
 transition: slide-left
 title: Gospel Doctrine — August 2, 2026
 mdc: true
+layout: image
+image: https://newsroom.churchofjesuschrist.org/media/960x540/zx0y3v3dpndce6b2x6deibz98c7p2yp98tnchqs8.png
+---
+
+---
+class: text-center
 ---
 
 # Gospel Doctrine
