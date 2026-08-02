@@ -5,18 +5,18 @@ class: text-center
 highlighter: shiki
 lineNumbers: false
 info: |
-  ## Seminary Lesson — August 2, 2026
+  ## Gospel Doctrine — August 2, 2026
   "I Am Doing a Great Work" — Ezra 1;3–7; Nehemiah 2;4–6;8
   Focus: Nehemiah 8 — I am blessed when I study the scriptures
   Source materials in ./materials/
 drawings:
   persist: false
 transition: slide-left
-title: Seminary Lesson — August 2, 2026
+title: Gospel Doctrine — August 2, 2026
 mdc: true
 ---
 
-# Seminary Lesson
+# Gospel Doctrine
 ## August 2, 2026
 
 ### "I Am Doing a Great Work" — Ezra 1;3–7 · Nehemiah 2;4–6;8
@@ -37,9 +37,9 @@ mdc: true
 <!--
 Presenter Notes:
 - This week's full block covers the return from Babylonian captivity: Zerubbabel rebuilding the temple, Ezra restoring the law, Nehemiah rebuilding the walls (Ezra 1;3–7; Nehemiah 2;4–6).
-- This lesson narrows to one beat from that block — Nehemiah 8 — because 25 minutes isn't enough to do the whole sweep justice.
+- This lesson narrows to one beat from that block — Nehemiah 8 — because 15 minutes isn't enough to do the whole sweep justice.
 - Core idea: after generations without direct access to the book of the law, the people gather as one to hear it read — and it changes them.
-- Lesson time ~25 minutes.
+- Lesson time ~15 minutes.
 -->
 
 ---
@@ -61,10 +61,10 @@ layout: default
 
 <div>
 
-## Class structure (40 min)
+## Class structure (25 min)
 1. **Opening prayer** (2 min)
-2. **QT Time** (10 min) — [Student Name]
-3. **Lesson** (25 min) — I Am Blessed When I Study the Scriptures
+2. **QT Time** (5 min) — [Student Name]
+3. **Lesson** (15 min) — I Am Blessed When I Study the Scriptures
 4. **Closing** (3 min)
 
 </div>
@@ -73,7 +73,7 @@ layout: default
 
 <!--
 Presenter Notes:
-- Lesson block is 25 min this week — trimmed the separate discussion block and folded application/discussion into the lesson flow to protect the time on Nehemiah 8 itself.
+- Lesson block is 15 min this week — trimmed the separate discussion block and folded application/discussion into the lesson flow to protect the time on Nehemiah 8 itself.
 - [Student Name] is a placeholder — fill in the QT leader before class.
 -->
 
@@ -268,7 +268,7 @@ Ask someone to offer the closing prayer.
 </div>
 
 <div class="abs-br m-6 text-xs text-gray-400">
-Seminary Lesson — August 2, 2026
+Gospel Doctrine — August 2, 2026
 </div>
 
 <!--
