@@ -86,13 +86,13 @@ layout: default
 
 ## Opening prayer
 
-<div class="bg-blue-50 p-4 rounded-lg">
+<div class="bg-blue-50 p-4 rounded-lg text-gray-900">
 Ask someone to offer the opening prayer.
 </div>
 
 ## QT Time
 
-<div class="bg-purple-50 p-4 rounded-lg">
+<div class="bg-purple-50 p-4 rounded-lg text-gray-900">
 
 **[Student Name] is leading QT Time this week.**
 
@@ -119,7 +119,7 @@ class: text-center
 
 <div class="space-y-6 max-w-3xl mx-auto text-lg">
 
-<div class="p-8 bg-gradient-to-r from-blue-50 to-cyan-50 rounded-xl text-left">
+<div class="p-8 bg-gradient-to-r from-blue-50 to-cyan-50 rounded-xl text-left text-gray-900">
 
 In sports, a team plays better on its home field — familiar ground, a crowd on their side, fewer surprises. The environment shapes the outcome.
 
@@ -143,7 +143,7 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto text-sm">
 
-<div class="p-6 bg-blue-50 rounded-lg text-base leading-relaxed">
+<div class="p-6 bg-blue-50 rounded-lg text-base leading-relaxed text-gray-900">
 
 **Ada** has a busy schedule and struggles to find consistent time to study the scriptures. **Zuri** wakes up early so she can study every day before anything else competes for her attention.
 
@@ -175,7 +175,7 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto text-sm">
 
-<div class="p-5 bg-green-50 rounded-lg leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg leading-relaxed text-gray-900">
 
 **Read:** [Matthew 14:22–23](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/14?lang=eng&id=p22-p23#p22). Notice how Jesus Christ managed distractions after a long, demanding day — He sent the crowd away and went up a mountain alone to pray.
 
@@ -199,7 +199,7 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto text-sm">
 
-<div class="p-6 bg-gradient-to-r from-amber-50 to-yellow-50 rounded-xl text-base leading-relaxed border border-amber-200">
+<div class="p-6 bg-gradient-to-r from-amber-50 to-yellow-50 rounded-xl text-base leading-relaxed border border-amber-200 text-gray-900">
 
 President **Dallin H. Oaks** taught:
 
@@ -208,7 +208,7 @@ President **Dallin H. Oaks** taught:
 
 </div>
 
-<div class="p-4 bg-indigo-50 rounded-lg">
+<div class="p-4 bg-indigo-50 rounded-lg text-gray-900">
 
 **Reflect:** How does opening your study with prayer show Heavenly Father you actually want to connect with Him — not just finish an assignment?
 
@@ -229,13 +229,13 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto text-sm">
 
-<div class="p-5 bg-blue-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-blue-50 rounded-lg text-base leading-relaxed text-gray-900">
 
 **Guide to the Scriptures:** to ponder means *"to meditate and think deeply, often upon the scriptures or other things of God."*
 
 </div>
 
-<div class="p-6 bg-gradient-to-r from-amber-50 to-yellow-50 rounded-xl text-base leading-relaxed border border-amber-200">
+<div class="p-6 bg-gradient-to-r from-amber-50 to-yellow-50 rounded-xl text-base leading-relaxed border border-amber-200 text-gray-900">
 
 Elder **D. Todd Christofferson** taught:
 
@@ -244,7 +244,7 @@ Elder **D. Todd Christofferson** taught:
 
 </div>
 
-<div class="p-4 bg-indigo-50 rounded-lg">
+<div class="p-4 bg-indigo-50 rounded-lg text-gray-900">
 
 **Pattern:** read a verse or two → stop and ponder → re-read carefully → pray for understanding → write down impressions.
 
@@ -264,7 +264,7 @@ layout: default
 
 # Guided practice — [Isaiah 55:1–3, 8–11](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/55?lang=eng&id=p1-p3,p8-p11#p1)
 
-<div class="p-6 bg-purple-50 rounded-lg text-base leading-relaxed max-w-4xl mx-auto space-y-2">
+<div class="p-6 bg-purple-50 rounded-lg text-base leading-relaxed max-w-4xl mx-auto space-y-2 text-gray-900">
 
 Take **5 minutes** to practice all three skills together, using [Isaiah 55:1–3, 8–11](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/55?lang=eng&id=p1-p3,p8-p11#p1) (or a passage of your choice):
 
@@ -297,7 +297,7 @@ layout: default
 
 # Discussion questions
 
-<div class="p-8 bg-gradient-to-r from-blue-50 to-purple-50 rounded-xl text-left text-lg space-y-4 max-w-4xl mx-auto">
+<div class="p-8 bg-gradient-to-r from-blue-50 to-purple-50 rounded-xl text-left text-lg space-y-4 max-w-4xl mx-auto text-gray-900">
 
 1. **Which of the three actions — removing distractions, prayer, or pondering — is hardest for you, and why?**
 
@@ -322,7 +322,7 @@ layout: default
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm">
 
-<div class="p-5 bg-yellow-50 rounded-lg">
+<div class="p-5 bg-yellow-50 rounded-lg text-gray-900">
 
 ## Challenge
 - Practice all three actions — remove distractions, pray, ponder — in one study session this week.
@@ -330,7 +330,7 @@ layout: default
 
 </div>
 
-<div class="p-5 bg-pink-50 rounded-lg">
+<div class="p-5 bg-pink-50 rounded-lg text-gray-900">
 
 ## Personal reflection
 Share with your teacher or class: *what you learned or felt today that you would share with Ada or Zuri.*
