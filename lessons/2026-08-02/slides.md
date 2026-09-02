@@ -69,7 +69,7 @@ layout: default
 
 ## Class structure (25 min)
 1. **Opening prayer** (2 min)
-2. **QT Time** (5 min) — [Student Name]
+2. **QT Time** (5 min) — Jamie Braithwaite
 3. **Lesson** (15 min) — I Am Blessed When I Study the Scriptures
 4. **Closing** (3 min)
 
