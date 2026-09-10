@@ -4,7 +4,7 @@ const path = require('path');
 // ===============================================
 // CONFIGURATION: Update this date for each new trimester
 // ===============================================
-const ARCHIVE_DATE = '2025-12-01'; // Lessons before this date go to archive
+const ARCHIVE_DATE = '2026-09-01'; // Lessons before this date go to archive
 // ===============================================
 
 // Read all lesson directories
