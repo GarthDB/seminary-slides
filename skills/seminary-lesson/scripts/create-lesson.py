@@ -8,6 +8,7 @@ from __future__ import annotations
 
 import argparse
 import html
+import re
 import sys
 from dataclasses import dataclass, field
 from datetime import datetime
@@ -43,6 +44,17 @@ class LessonOutline:
     sections: list[dict] = field(default_factory=list)
     question_candidates: list[str] = field(default_factory=list)
     plain_text_outline: str = ""
+    student_manual_url: str = ""  # set when --url was rewritten from a student-manual link
+
+
+def to_teacher_manual_url(url: str) -> str:
+    """Rewrite a seminary *student* manual URL to the corresponding *teacher* manual URL.
+
+    Church manual URLs follow `<book>-seminary-student-manual-<year>` for the
+    student manual and `<book>-seminary-manual-<year>` for the teacher manual,
+    with an otherwise identical path. Non-student-manual URLs pass through unchanged.
+    """
+    return re.sub(r"seminary-student-manual-", "seminary-manual-", url)
 
 
 def _text(el: Tag | None) -> str:
@@ -570,6 +582,10 @@ def write_manual_markdown(
         f"date: {iso_date}",
         f"qt_leader: {student}",
         f"source_url: {outline.source_url}",
+    ]
+    if outline.student_manual_url:
+        lines.append(f"student_manual_url: {outline.student_manual_url}")
+    lines += [
         "---",
         "",
         f"# Manual content outline ({iso_date})",
@@ -612,8 +628,15 @@ def write_materials_readme(dest: Path, outline: LessonOutline, iso_date: str) ->
     lines = [
         f"# Materials — {iso_date}",
         "",
-        "- Student manual lesson: "
+        "- Teacher manual lesson: "
         f"[Open on ChurchofJesusChrist.org]({u})",
+    ]
+    if outline.student_manual_url:
+        lines.append(
+            "- Student manual lesson (link originally provided): "
+            f"[Open on ChurchofJesusChrist.org]({outline.student_manual_url})"
+        )
+    lines += [
         f"- Host: `{parsed.netloc}`",
         "",
         "Supporting files for this week (images, QT prep, etc.) can live in subfolders under `materials/`.",
@@ -651,12 +674,19 @@ def main() -> int:
     materials = lesson_dir / "materials"
     materials.mkdir(parents=True, exist_ok=True)
 
+    original_url = args.url.strip()
+    teacher_url = to_teacher_manual_url(original_url)
+    if teacher_url != original_url:
+        print(f"Detected student manual URL; using teacher manual instead: {teacher_url}")
+
     try:
-        doc = fetch_html(args.url)
-        outline = parse_lesson(doc, args.url.strip())
+        doc = fetch_html(teacher_url)
+        outline = parse_lesson(doc, teacher_url)
     except Exception as e:
         print(f"Failed to fetch or parse manual: {e}", file=sys.stderr)
         return 1
+    if teacher_url != original_url:
+        outline.student_manual_url = original_url
 
     slides_md = build_slides(outline, args.date, args.student)
     (lesson_dir / "slides.md").write_text(slides_md, encoding="utf-8")

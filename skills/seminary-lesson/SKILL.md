@@ -33,7 +33,7 @@ Trigger when the user:
 
 1. **Gather inputs**
    - **Date:** normalize to `YYYY-MM-DD` (e.g. `1/30/2026` → `2026-01-30`).
-   - **Manual URL:** full `https://www.churchofjesuschrist.org/study/manual/...` lesson link.
+   - **Manual URL:** full `https://www.churchofjesuschrist.org/study/manual/...` lesson link. Either the **teacher manual** (`<book>-seminary-manual-<year>`) or **student manual** (`<book>-seminary-student-manual-<year>`) URL is fine — the generator always fetches the **teacher manual**, since it has the fuller lesson content (quotes, definitions, activities) that the student manual omits. If a student-manual URL is passed, it's automatically rewritten to the matching teacher-manual URL (same path, `-student-manual-` → `-manual-`) before fetching; the original link is preserved in `materials/manual-content.md` and `materials/README.md`.
    - **QT leader:** first name (or full name if the user prefers); if missing, use `[Student Name]` and note it in the reply.
    - If any of these are missing, ask before writing files.
 
