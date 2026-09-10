@@ -96,7 +96,7 @@ Ask someone to offer the opening prayer.
 
 **[Student Name] is leading QT Time this week.**
 
-**Question:** *[Add the student's discussion question before class]*
+**Question:** *What choices are most affected by having an eternal perspective?*
 
 **Flow:** Small groups → discuss → return together → one person per group shares a highlight.
 
@@ -108,6 +108,7 @@ Ask someone to offer the opening prayer.
 Presenter Notes:
 - QT (~10 min): opening question, breakouts, gather and report.
 - If time is tight, shorten breakouts or limit group reporters to 1–2 sentences each.
+- Fallback question (used because none was provided ahead of time) — previews the lesson's core move: temporal vs. eternal perspective on our choices. Swap in [Student Name]'s own question if they share one before class.
 -->
 
 ---
