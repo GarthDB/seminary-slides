@@ -131,6 +131,8 @@ Elder David A. Bednar used the image of a cheetah hiding in tall grass to teach 
 
 </div>
 
+<img src="https://assets.churchofjesuschrist.org/23/9f/239f0081010211ef8c6eeeeeac1e35a49b7ea392/cheetah_wildlife_africa.jpeg" alt="A cheetah hidden in tall grass" class="rounded-xl mx-auto max-h-72" />
+
 </div>
 
 <!--
