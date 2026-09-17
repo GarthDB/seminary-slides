@@ -61,7 +61,7 @@ layout: default
 
 ## Class structure (40 min)
 1. **Opening prayer** (2 min)
-2. **QT Time** (10 min) — [Student Name]
+2. **QT Time** (10 min) — Azul
 3. **Lesson** (20 min) — Isaiah 5
 4. **Discussion & application** (5 min)
 5. **Closing** (3 min)
@@ -72,7 +72,7 @@ layout: default
 
 <!--
 Presenter Notes:
-- [Student Name] is leading QT this week.
+- Azul is leading QT this week.
 -->
 
 ---
@@ -93,9 +93,9 @@ Ask someone to offer the opening prayer.
 
 <div class="bg-purple-50 p-4 rounded-lg text-gray-900">
 
-**[Student Name] is leading QT Time this week.**
+**Azul is leading QT Time this week.**
 
-**Question:** *[Add the student's discussion question before class]*
+**Question:** *"What's one of your favorite places (or times) to feel the Spirit?"*
 
 **Flow:** Small groups → discuss → return together → one person per group shares a highlight.
 
