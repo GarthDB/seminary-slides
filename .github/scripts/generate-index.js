@@ -261,7 +261,7 @@ const html = `<!DOCTYPE html>
   <div class="container">
     <header>
       <h1>📖 Seminary Slides</h1>
-      <p class="subtitle">Doctrine and Covenants 2025</p>
+      <p class="subtitle">Old Testament 2026</p>
     </header>
     
     ${currentLessons.length > 0 ? `
