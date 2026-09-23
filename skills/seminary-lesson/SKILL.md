@@ -1,7 +1,7 @@
 ---
 name: seminary-lesson
-description: Creates seminary Slidev lessons in the Seminary repo from churchofjesuschrist.org student-manual URLs. Scrapes the manual page, writes lessons/YYYY-MM-DD/slides.md plus materials/manual-content.md, and follows a 40-minute flow with QT Time. Use when the user asks to create or prep a seminary lesson, build Slidev for a class date, or provides a seminary manual link and QT leader name.
-compatibility: Requires Python 3.10+ in a venv (see workflow; scripts/requirements.txt), network access to churchofjesuschrist.org, Node/npm for Slidev at the Seminary repo root, and a browser to review slides for overflow.
+description: Creates seminary Slidev lessons in the Seminary repo from churchofjesuschrist.org student-manual URLs. Scrapes the manual page, writes lessons/YYYY-MM-DD/slides.md plus materials/manual-content.md, and follows a 40-minute flow with QT Time. Use when the user asks to create or prep a seminary lesson, build Slidev for a class date, or provides a seminary manual link and QT leader name. Also handles batch mode: sync all remaining Wed/Fri lessons for a trimester straight from a Canvas assignment group.
+compatibility: Requires Python 3.10+ in a venv (see workflow; scripts/requirements.txt), network access to churchofjesuschrist.org (and to Canvas for batch mode), Node/npm for Slidev at the Seminary repo root, and a browser to review slides for overflow.
 metadata:
   author: garthdb
   version: "1.0"
@@ -89,6 +89,41 @@ Trigger when the user:
 
 8. **Report back**  
    Tell the user the paths written, approximate slide count, and remind them to verify overflow in the browser and add the QT question.
+
+## Batch mode: sync from Canvas
+
+Trigger when the user asks to **sync**, **prep**, or **catch up** the **remaining** decks
+**from Canvas**, or to build the rest of the trimester's Wed/Fri lessons in one go.
+
+Every Wed/Fri ("Live Class Attendance") assignment description already contains the same
+Gospel Library manual link used to build a deck — [scripts/sync-from-canvas.py](scripts/sync-from-canvas.py)
+pulls the whole assignment group via the Canvas REST API, extracts each assignment's date
+(from its title, e.g. `W5D3 WEDNESDAY 9/30: Isaiah 49 LIVE ZOOM or/ Assignment`) and manual
+URL (the first `churchofjesuschrist.org/study/manual/...` link in the description), skips
+any date that already has a `lessons/<date>/slides.md`, and calls
+[scripts/create-lesson.py](scripts/create-lesson.py) — unchanged — for everything new.
+
+```bash
+source skills/seminary-lesson/.venv/bin/activate  # same venv as single-lesson mode
+python3 skills/seminary-lesson/scripts/sync-from-canvas.py --seminary-root .
+```
+
+Defaults assume this repo's course (`--course-id 116313`, `--group-id 347676`, `--year
+2026` — see the project `CLAUDE.md`); override for a different course/trimester. Credentials
+come from `CANVAS_API_TOKEN`/`CANVAS_API_URL` in `~/Projects/canvas-mcp/.env` (same ones the
+Canvas MCP server uses) unless those env vars are already set. Pass `--force` to regenerate
+a deck that already exists (careful — this overwrites any manual edits).
+
+The script has no way to know a QT leader's name, so every generated deck gets the same
+`[Student Name]` placeholder — fill it in per the normal single-lesson workflow (step 5
+above). Titles that don't match the `W_D_ WEDNESDAY/FRIDAY M/D: ... LIVE ZOOM` pattern (e.g.
+`WEEK 1 LIVE LESSON`) are reported as `skipped-unparsed`, not an error — build those by hand.
+
+Give every generated deck the normal per-lesson review pass (QT leader + question, Slidev
+overflow check). Pay extra attention to **Doctrinal Mastery Practice** and **Life
+Preparation Lesson** decks: those manual pages are topical rather than scripture-block
+commentary, so the auto-chunked sections are more likely to need manual tightening than a
+straight scripture lesson.
 
 ## Manual page failures
 
