@@ -349,6 +349,7 @@ def build_slides(outline: LessonOutline, iso_date: str, student: str) -> str:
 
     header = f"""---
 theme: default
+routerMode: hash
 background: https://source.unsplash.com/1920x1080/?scripture,faith
 class: text-center
 highlighter: shiki

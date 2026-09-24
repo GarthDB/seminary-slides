@@ -1,5 +1,6 @@
 ---
 theme: default
+routerMode: hash
 background: https://source.unsplash.com/1920x1080/?light,peace,sky
 class: text-center
 highlighter: shiki

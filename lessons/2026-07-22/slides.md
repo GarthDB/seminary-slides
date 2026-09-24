@@ -1,5 +1,6 @@
 ---
 theme: default
+routerMode: hash
 background: https://www.churchofjesuschrist.org/imgs/9e34a200f95311ebb042eeeeac1e1a0e28e12548/full/!1920,/0/default
 class: text-center
 highlighter: shiki
