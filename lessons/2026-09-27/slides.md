@@ -8,7 +8,7 @@ lineNumbers: false
 info: |
   ## Come, Follow Me — September 27, 2026
   September 21–27: "A Marvellous Work and a Wonder"
-  Isaiah 13–14; 22; 24–30; 35
+  [Isaiah 13–14](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/13?lang=eng); 22; 24–30; 35
   Source materials available in ./materials/
 drawings:
   persist: false
@@ -21,7 +21,7 @@ mdc: true
 ## September 21–27, 2026
 
 ### "A Marvellous Work and a Wonder"
-**Isaiah 13–14; 22; 24–30; 35**
+**[Isaiah 13–14](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/13?lang=eng); 22; 24–30; 35**
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
@@ -55,7 +55,7 @@ One thing the Lord asks prophets to do is warn about the consequences of sin. Fo
 
 <!--
 Presenter Notes:
-- See Isaiah 13–23.
+- See [Isaiah 13–23](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/13?lang=eng).
 -->
 
 ---
@@ -81,7 +81,7 @@ layout: section
 
 # Pride and worldliness will fail
 
-<!-- Presenter Notes: Isaiah 13–14 -->
+<!-- Presenter Notes: [Isaiah 13–14](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/13?lang=eng) -->
 
 ---
 layout: default
@@ -91,7 +91,7 @@ layout: default
 
 <div class="p-5 bg-green-50 rounded-lg text-gray-800 text-base leading-relaxed">
 
-In Isaiah's day, Babylon was a mighty kingdom with a powerful ruler. Now Babylon is ancient history — so why does Isaiah's message to Babylon (Isaiah 13–14) matter to us today? Because Babylon symbolizes pride, greed, and sin, things that still surround us. Read [Isaiah 13:1](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/13?lang=eng&id=p1#p1)–11, 19–22; 14:1–20 with this symbolism in mind.
+In Isaiah's day, Babylon was a mighty kingdom with a powerful ruler. Now Babylon is ancient history — so why does Isaiah's message to Babylon ([Isaiah 13–14](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/13?lang=eng)) matter to us today? Because Babylon symbolizes pride, greed, and sin, things that still surround us. Read [Isaiah 13:1](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/13?lang=eng&id=p1#p1)–11, 19–22; 14:1–20 with this symbolism in mind.
 
 </div>
 
@@ -150,7 +150,7 @@ layout: section
 
 # Turning away from the Lord brings spiritual danger
 
-<!-- Presenter Notes: Isaiah 24; 28–30 -->
+<!-- Presenter Notes: [Isaiah 24](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/24?lang=eng); 28–30 -->
 
 ---
 layout: default
@@ -201,7 +201,7 @@ layout: section
 
 # The Lord can restore what is lost or broken
 
-<!-- Presenter Notes: Isaiah 29; 30:18–26; 35 -->
+<!-- Presenter Notes: [Isaiah 29](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/29?lang=eng); 30:18–26; 35 -->
 
 ---
 layout: default
@@ -224,12 +224,12 @@ Presenter Notes:
 layout: default
 ---
 
-# Isaiah 29 and the Restoration
+# [Isaiah 29](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/29?lang=eng) and the Restoration
 
 <div class="space-y-3 text-base max-w-4xl mx-auto">
 
 - Compare [Isaiah 29:11](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/29?lang=eng&id=p11#p11)–12 with [2 Nephi 27:6](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/27?lang=eng&id=p6#p6)–26 and Joseph Smith—History 1:63–65.
-- Compare [Isaiah 29:13](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/29?lang=eng&id=p13#p13)–14 with Doctrine and Covenants 4 and Joseph Smith—History 1:17–19.
+- Compare [Isaiah 29:13](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/29?lang=eng&id=p13#p13)–14 with [Doctrine and Covenants 4](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/4?lang=eng) and Joseph Smith—History 1:17–19.
 - Compare [Isaiah 29:18](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/29?lang=eng&id=p18#p18)–24 with the title page of the Book of Mormon.
 
 </div>
@@ -332,7 +332,7 @@ layout: default
 1. **What similarities do you see between the pride of the Babylonian king and the pride of Satan? What warnings do you find for yourself?** ([Isaiah 14:4](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/14?lang=eng&id=p4#p4)–20; [Moses 4:1](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/4?lang=eng&id=p1#p1)–4)
 2. **How does the Savior provide "rest from thy sorrow, and from thy fear"?** ([Isaiah 14:3](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/14?lang=eng&id=p3#p3))
 3. **What aspects of the Savior's mission come to mind as you read [Isaiah 22:22](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/22?lang=eng&id=p22#p22)–23; 24:21–23; 25:6–8; 26:19; 28:16?**
-4. **Why are pride, drunkenness, hunger, and a broken vessel good pictures of turning away from the Lord?** (Isaiah 24, 28–30)
+4. **Why are pride, drunkenness, hunger, and a broken vessel good pictures of turning away from the Lord?** ([Isaiah 24](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/24?lang=eng), 28–30)
 5. **What do [Isaiah 29:13](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/29?lang=eng&id=p13#p13)–24; 30:18–26; 35 teach you about the Lord's love and power to restore what's broken?**
 6. **Why are "marvellous" and "wonder" good words for the Restoration of the gospel?** ([Isaiah 29:14](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/29?lang=eng&id=p14#p14))
 
