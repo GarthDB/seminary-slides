@@ -86,13 +86,13 @@ layout: default
 
 ## 🙏 Opening Prayer
 
-<div class="bg-blue-50 p-4 rounded-lg">
+<div class="bg-blue-50 p-4 rounded-lg text-gray-800">
 Ask someone to offer the opening prayer.
 </div>
 
 ## 💬 QT Time
 
-<div class="bg-purple-50 p-4 rounded-lg">
+<div class="bg-purple-50 p-4 rounded-lg text-gray-800">
 
 **[Student Name] is leading QT Time this week.**
 
@@ -124,7 +124,7 @@ layout: default
 
 # Lesson focus
 
-<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed">
+<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed text-gray-800">
 
 How well do you adapt to the emotional challenges you face? Difficult feelings are a normal part of life. Our ability to faithfully endure these feelings increases as we rely on the strength and power of Heavenly Father and Jesus Christ. This lesson can help students draw strength from Heavenly Father and Jesus Christ to cope with their emotional challenges.
 
@@ -141,7 +141,7 @@ layout: default
 
 # Lesson focus
 
-<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed">
+<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed text-gray-800">
 
 Emotions are the body’s normal response to daily experiences. Sometimes, these feelings are light and easy to manage, like a summer breeze. Sometimes, we experience difficult emotions that may feel like whirlwinds.
 
@@ -183,7 +183,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Emotions are the body’s normal response to daily experiences. Sometimes, these feelings are light and easy to manage, like a summer breeze. Sometimes, we experience difficult emotions that may feel like whirlwinds.
 
@@ -200,7 +200,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Trees hit by whirlwinds often have roots that grow faster, thicker, and spread out farther, strengthening the tree’s ability to endure. As the wind batters it, the tree also creates cell structures that make the trunk and branches thicker. In the same way, learning to respond to powerful emotional moments by following the Savior will strengthen our ability to endure. In your study journal, write some of the emotional whirlwinds you have faced in the past or are facing today.
 
@@ -217,7 +217,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 In speaking of life’s whirlwinds, Elder Neil L. Andersen of the Quorum of the Twelve Apostles taught: Increasing our emotional resilience helps us develop appropriate ways to deal with the difficult thoughts and feelings we experience. We can learn to recognize how Heavenly Father and Jesus Christ are strengthening us when we feel this way and when they are prompting us to seek additional help.
 
@@ -262,7 +262,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Joshua was in a difficult position as he assumed the roles of prophet and military leader responsible for establishing a new nation following the leadership of Moses. Read Joshua 1:1, 5–9 (https://www.churchofjesuschrist.org/study/scriptures/ot/josh/1?lang=eng&id=p1,p5-p9#p1) , looking for what the Lord promised Joshua as he faced these challenges. Complete the following prompts in your study journal under your drawing of the tree.
 
@@ -305,7 +305,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Read Joshua 1:8 (https://www.churchofjesuschrist.org/study/scriptures/ot/josh/1?lang=eng&id=p8#p8) , again looking for what would help Joshua follow the Lord. Looking at the list of emotions on the board, find one or more scripture passages that might be able to help someone feeling these emotions. Overwhelmed: Isaiah 40:28–31 (https://www.churchofjesuschrist.org/study/scriptures/ot/isa/40?lang=eng&id=p28-p31#p28) .
 
@@ -322,7 +322,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Afraid: John 14:27 (https://www.churchofjesuschrist.org/study/scriptures/nt/john/14?lang=eng&id=p27#p27) Sad: Revelation 21:3–5 (https://www.churchofjesuschrist.org/study/scriptures/nt/rev/21?lang=eng&id=p3-p5#p3) Forgotten: Luke 12:6–7 (https://www.churchofjesuschrist.org/study/scriptures/nt/luke/12?lang=eng&id=p6-p7#p6) Discouraged: Isaiah 43:1–2, 5 (https://www.churchofjesuschrist.org/study/scriptures/ot/isa/43?lang=eng&id=p1-p2,p5#p1)
 
@@ -339,7 +339,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Lonely: Doctrine and Covenants 68:6 (https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/68?lang=eng&id=p6#p6)
 
@@ -383,7 +383,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Select an emotion listed on the board that you are feeling or have felt in the past. Read the scripture next to the emotion and ponder the words of the verse by asking yourself questions such as these:
 
@@ -445,7 +445,7 @@ layout: default
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm">
 
-<div class="p-5 bg-yellow-50 rounded-lg">
+<div class="p-5 bg-yellow-50 rounded-lg text-gray-800">
 
 ## Challenge
 - Complete **one** study option from the manual that fits your class time.
@@ -453,7 +453,7 @@ layout: default
 
 </div>
 
-<div class="p-5 bg-pink-50 rounded-lg">
+<div class="p-5 bg-pink-50 rounded-lg text-gray-800">
 
 ## Personal reflection
 - What will you **do** differently because of Christ?

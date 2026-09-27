@@ -88,13 +88,13 @@ layout: default
 
 ## Opening prayer
 
-<div class="bg-blue-50 p-4 rounded-lg">
+<div class="bg-blue-50 p-4 rounded-lg text-gray-800">
 Ask someone to offer the opening prayer.
 </div>
 
 ## QT Time
 
-<div class="bg-purple-50 p-4 rounded-lg">
+<div class="bg-purple-50 p-4 rounded-lg text-gray-800">
 
 **[Student Name] is leading QT Time this week.**
 
@@ -149,7 +149,7 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto text-sm">
 
-<div class="p-5 bg-red-50 rounded-lg leading-relaxed">
+<div class="p-5 bg-red-50 rounded-lg leading-relaxed text-gray-800">
 
 Over time, the scriptures were lost, and the kingdom of Judah forgot about God. Kings **Manasseh** and **Amon** led the people to do terrible things — worshipping idols, even sacrificing children.
 
@@ -157,7 +157,7 @@ When Amon died, his son **Josiah** became king. He was only **eight years old**.
 
 </div>
 
-<div class="p-4 bg-indigo-50 rounded-lg">
+<div class="p-4 bg-indigo-50 rounded-lg text-gray-800">
 
 **Notice:** it took two generations of bad kings to lose the scriptures entirely — but it only took one good, young king willing to seek the Lord to start finding them again.
 
@@ -180,7 +180,7 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto text-sm">
 
-<div class="p-5 bg-green-50 rounded-lg leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg leading-relaxed text-gray-800">
 
 While workers repair the temple, **Hilkiah** the priest finds the "book of the law" — the scriptures — buried and forgotten inside it.
 
@@ -188,7 +188,7 @@ King Josiah decides to have the book read aloud to **all the people of Jerusalem
 
 </div>
 
-<div class="p-4 bg-indigo-50 rounded-lg">
+<div class="p-4 bg-indigo-50 rounded-lg text-gray-800">
 
 **Mark in your scriptures:** what Josiah does the moment he hears the words of the law read to him ([2 Kings 22:11](https://www.churchofjesuschrist.org/study/scriptures/ot/2-kgs/22?lang=eng&id=p11#p11)).
 
@@ -217,7 +217,7 @@ Josiah reads the book of the law to all the people. Then he — and the whole na
 
 </div>
 
-<div class="p-4 bg-indigo-50 rounded-lg">
+<div class="p-4 bg-indigo-50 rounded-lg text-gray-800">
 
 **Read and mark:** what the people did after Josiah read them the scriptures ([2 Kings 23:1–3](https://www.churchofjesuschrist.org/study/scriptures/ot/2-kgs/23?lang=eng&id=p1-p3#p1)).
 
@@ -239,13 +239,13 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto text-sm">
 
-<div class="p-5 bg-blue-50 rounded-lg leading-relaxed">
+<div class="p-5 bg-blue-50 rounded-lg leading-relaxed text-gray-800">
 
 As Josiah and his people learned from the scriptures and turned to the Lord, they were inspired to make changes in their lives — destroying idols and restoring true worship and obedience to the law of Moses.
 
 </div>
 
-<div class="p-4 bg-indigo-50 rounded-lg">
+<div class="p-4 bg-indigo-50 rounded-lg text-gray-800">
 
 **Mark in your scriptures:** what King Josiah did to restore true worship of the Lord.
 
@@ -286,7 +286,7 @@ layout: default
 
 <div class="space-y-3 max-w-4xl mx-auto text-sm">
 
-<div class="p-5 bg-blue-50 rounded-lg leading-relaxed">
+<div class="p-5 bg-blue-50 rounded-lg leading-relaxed text-gray-800">
 
 Read **[2 Kings 23:3–4, 21, 24–25](https://www.churchofjesuschrist.org/study/scriptures/ot/2-kgs/23?lang=eng&id=p3-p4,p21,p24-p25#p3)** again. Ponder:
 
@@ -296,7 +296,7 @@ Read **[2 Kings 23:3–4, 21, 24–25](https://www.churchofjesuschrist.org/study
 
 </div>
 
-<div class="p-4 bg-indigo-50 rounded-lg">
+<div class="p-4 bg-indigo-50 rounded-lg text-gray-800">
 
 **In your notebook:** identify a scripture passage that has helped (or could help) you turn to Heavenly Father and Jesus Christ. Consider your seminary tags and markings, or the doctrinal mastery passages.
 
@@ -320,7 +320,7 @@ layout: default
 
 <div class="space-y-2 max-w-4xl mx-auto text-xs">
 
-<div class="p-3 bg-purple-50 rounded-lg leading-snug">
+<div class="p-3 bg-purple-50 rounded-lg leading-snug text-gray-800">
 
 Read **[2 Kings 23:1–3](https://www.churchofjesuschrist.org/study/scriptures/ot/2-kgs/23?lang=eng&id=p1-p3#p1)** and **[Mosiah 5:1–5](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/5?lang=eng&id=p1-p5#p1)**. King Benjamin, a Book of Mormon king, also gathered his people to teach them God's word.
 
@@ -328,13 +328,13 @@ Read **[2 Kings 23:1–3](https://www.churchofjesuschrist.org/study/scriptures/o
 
 </div>
 
-<div class="p-3 bg-teal-50 rounded-lg leading-snug">
+<div class="p-3 bg-teal-50 rounded-lg leading-snug text-gray-800">
 
 President Spencer W. Kimball: *"If I immerse myself in the scriptures the distance narrows and the spirituality returns."* — Teachings of Presidents of the Church: Spencer W. Kimball (2006), 67
 
 </div>
 
-<div class="p-3 bg-indigo-50 rounded-lg">
+<div class="p-3 bg-indigo-50 rounded-lg text-gray-800">
 
 **In your notebook, record:**
 - Similarities between King Benjamin's people and King Josiah's people
@@ -365,7 +365,7 @@ President Spencer W. Kimball shared:
 
 </div>
 
-<div class="p-4 bg-green-50 rounded-lg text-sm">
+<div class="p-4 bg-green-50 rounded-lg text-sm text-gray-800">
 
 **Respond in your notebook:**
 1. Is your current scripture study goal helping you fully turn to Heavenly Father and Jesus Christ? If so, how have you seen this happen? If not, what will you adjust?

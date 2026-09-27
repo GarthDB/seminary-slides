@@ -88,13 +88,13 @@ layout: default
 
 ## Opening prayer
 
-<div class="bg-blue-50 p-4 rounded-lg">
+<div class="bg-blue-50 p-4 rounded-lg text-gray-800">
 Ask someone to offer the opening prayer.
 </div>
 
 ## QT Time
 
-<div class="bg-purple-50 p-4 rounded-lg">
+<div class="bg-purple-50 p-4 rounded-lg text-gray-800">
 
 **[Student Name] is leading QT Time this week.**
 
@@ -160,7 +160,7 @@ layout: default
 
 <div class="space-y-1.5">
 
-<div class="p-2 bg-blue-50 rounded text-xs">
+<div class="p-2 bg-blue-50 rounded text-xs text-gray-800">
 
 As you scan these, **mark one or two** you feel most confident using — and one you'd like to understand better.
 
@@ -168,34 +168,34 @@ As you scan these, **mark one or two** you feel most confident using — and one
 
 <div class="grid grid-cols-2 gap-1.5 text-[11px] leading-tight">
 
-<div class="p-2 bg-indigo-50 rounded font-semibold"><a href="https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/1?lang=eng&id=p39#p39" target="_blank" rel="noopener">Moses 1:39</a></div>
+<div class="p-2 bg-indigo-50 rounded font-semibold text-gray-800"><a href="https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/1?lang=eng&id=p39#p39" target="_blank" rel="noopener">Moses 1:39</a></div>
 <div class="p-2 bg-white/70 rounded">"This is my work and my glory — to bring to pass the immortality and eternal life of man."</div>
 
-<div class="p-2 bg-indigo-50 rounded font-semibold"><a href="https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/7?lang=eng&id=p18#p18" target="_blank" rel="noopener">Moses 7:18</a></div>
+<div class="p-2 bg-indigo-50 rounded font-semibold text-gray-800"><a href="https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/7?lang=eng&id=p18#p18" target="_blank" rel="noopener">Moses 7:18</a></div>
 <div class="p-2 bg-white/70 rounded">"The Lord called his people Zion, because they were of one heart and one mind."</div>
 
-<div class="p-2 bg-indigo-50 rounded font-semibold"><a href="https://www.churchofjesuschrist.org/study/scriptures/pgp/abr/2?lang=eng&id=p9-p11#p9" target="_blank" rel="noopener">Abraham 2:9–11</a></div>
+<div class="p-2 bg-indigo-50 rounded font-semibold text-gray-800"><a href="https://www.churchofjesuschrist.org/study/scriptures/pgp/abr/2?lang=eng&id=p9-p11#p9" target="_blank" rel="noopener">Abraham 2:9–11</a></div>
 <div class="p-2 bg-white/70 rounded">Abraham's seed to "bear this ministry and Priesthood unto all nations."</div>
 
-<div class="p-2 bg-indigo-50 rounded font-semibold"><a href="https://www.churchofjesuschrist.org/study/scriptures/pgp/abr/3?lang=eng&id=p22-p23#p22" target="_blank" rel="noopener">Abraham 3:22–23</a></div>
+<div class="p-2 bg-indigo-50 rounded font-semibold text-gray-800"><a href="https://www.churchofjesuschrist.org/study/scriptures/pgp/abr/3?lang=eng&id=p22-p23#p22" target="_blank" rel="noopener">Abraham 3:22–23</a></div>
 <div class="p-2 bg-white/70 rounded">As spirits we "were organized before the world was."</div>
 
-<div class="p-2 bg-indigo-50 rounded font-semibold"><a href="https://www.churchofjesuschrist.org/study/scriptures/ot/gen/1?lang=eng&id=p26-p27#p26" target="_blank" rel="noopener">Genesis 1:26–27</a></div>
+<div class="p-2 bg-indigo-50 rounded font-semibold text-gray-800"><a href="https://www.churchofjesuschrist.org/study/scriptures/ot/gen/1?lang=eng&id=p26-p27#p26" target="_blank" rel="noopener">Genesis 1:26–27</a></div>
 <div class="p-2 bg-white/70 rounded">"God created man in his own image."</div>
 
-<div class="p-2 bg-indigo-50 rounded font-semibold"><a href="https://www.churchofjesuschrist.org/study/scriptures/ot/gen/2?lang=eng&id=p24#p24" target="_blank" rel="noopener">Genesis 2:24</a></div>
+<div class="p-2 bg-indigo-50 rounded font-semibold text-gray-800"><a href="https://www.churchofjesuschrist.org/study/scriptures/ot/gen/2?lang=eng&id=p24#p24" target="_blank" rel="noopener">Genesis 2:24</a></div>
 <div class="p-2 bg-white/70 rounded">"Shall cleave unto his wife: and they shall be one flesh."</div>
 
-<div class="p-2 bg-indigo-50 rounded font-semibold"><a href="https://www.churchofjesuschrist.org/study/scriptures/ot/gen/39?lang=eng&id=p9#p9" target="_blank" rel="noopener">Genesis 39:9</a></div>
+<div class="p-2 bg-indigo-50 rounded font-semibold text-gray-800"><a href="https://www.churchofjesuschrist.org/study/scriptures/ot/gen/39?lang=eng&id=p9#p9" target="_blank" rel="noopener">Genesis 39:9</a></div>
 <div class="p-2 bg-white/70 rounded">"How then can I do this great wickedness, and sin against God?"</div>
 
-<div class="p-2 bg-indigo-50 rounded font-semibold"><a href="https://www.churchofjesuschrist.org/study/scriptures/ot/ex/20?lang=eng&id=p3-p17#p3" target="_blank" rel="noopener">Exodus 20:3–17</a></div>
+<div class="p-2 bg-indigo-50 rounded font-semibold text-gray-800"><a href="https://www.churchofjesuschrist.org/study/scriptures/ot/ex/20?lang=eng&id=p3-p17#p3" target="_blank" rel="noopener">Exodus 20:3–17</a></div>
 <div class="p-2 bg-white/70 rounded">The Ten Commandments</div>
 
-<div class="p-2 bg-indigo-50 rounded font-semibold"><a href="https://www.churchofjesuschrist.org/study/scriptures/ot/josh/24?lang=eng&id=p15#p15" target="_blank" rel="noopener">Joshua 24:15</a></div>
+<div class="p-2 bg-indigo-50 rounded font-semibold text-gray-800"><a href="https://www.churchofjesuschrist.org/study/scriptures/ot/josh/24?lang=eng&id=p15#p15" target="_blank" rel="noopener">Joshua 24:15</a></div>
 <div class="p-2 bg-white/70 rounded">"Choose you this day whom ye will serve."</div>
 
-<div class="p-2 bg-indigo-50 rounded font-semibold"><a href="https://www.churchofjesuschrist.org/study/scriptures/ot/ps/24?lang=eng&id=p3-p4#p3" target="_blank" rel="noopener">Psalm 24:3–4</a></div>
+<div class="p-2 bg-indigo-50 rounded font-semibold text-gray-800"><a href="https://www.churchofjesuschrist.org/study/scriptures/ot/ps/24?lang=eng&id=p3-p4#p3" target="_blank" rel="noopener">Psalm 24:3–4</a></div>
 <div class="p-2 bg-white/70 rounded">"He that hath clean hands, and a pure heart."</div>
 
 </div>
@@ -227,13 +227,13 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto text-sm">
 
-<div class="p-4 bg-blue-50 rounded-lg leading-relaxed">
+<div class="p-4 bg-blue-50 rounded-lg leading-relaxed text-gray-800">
 
 Choose **three DM passages** (other than [Joshua 24:15](https://www.churchofjesuschrist.org/study/scriptures/ot/josh/24?lang=eng&id=p15#p15)). For each one, write a **realistic scenario** — a situation someone your age might face where that doctrine could make a difference.
 
 </div>
 
-<div class="p-4 bg-green-50 rounded-lg">
+<div class="p-4 bg-green-50 rounded-lg text-gray-800">
 
 **Example from the manual:**
 
@@ -241,7 +241,7 @@ A girl is at a party and feels pressured to do something she knows the Lord does
 
 </div>
 
-<div class="p-3 bg-purple-50 rounded-lg text-xs">
+<div class="p-3 bg-purple-50 rounded-lg text-xs text-gray-800">
 
 Write your three scenarios in your notebook. Be specific — the more realistic the situation, the more useful the practice.
 
@@ -262,7 +262,7 @@ layout: default
 
 <div class="space-y-6 max-w-4xl mx-auto">
 
-<div class="p-5 bg-blue-50 rounded-lg text-base">
+<div class="p-5 bg-blue-50 rounded-lg text-base text-gray-800">
 
 **Turn to someone nearby.** Share one of your scenarios and explain:
 
@@ -271,7 +271,7 @@ layout: default
 
 </div>
 
-<div class="p-4 bg-purple-50 rounded-lg text-sm">
+<div class="p-4 bg-purple-50 rounded-lg text-sm text-gray-800">
 
 After sharing, your partner asks: *"Would that really work in that situation? Why or why not?"*
 
@@ -305,7 +305,7 @@ He feels confused and doesn't know what to do.
 
 </div>
 
-<div class="p-3 bg-blue-50 rounded-lg text-sm">
+<div class="p-3 bg-blue-50 rounded-lg text-sm text-gray-800">
 
 Now choose **one** of the three options on the next slide to help him.
 
@@ -327,7 +327,7 @@ layout: default
 
 <div class="grid grid-cols-3 gap-3 text-xs max-w-5xl mx-auto">
 
-<div class="p-4 bg-blue-50 rounded-lg space-y-2">
+<div class="p-4 bg-blue-50 rounded-lg space-y-2 text-gray-800">
 
 ## A — Act in Faith
 
@@ -340,7 +340,7 @@ Help the young man by writing a response based on **acting in faith** — even b
 
 </div>
 
-<div class="p-4 bg-purple-50 rounded-lg space-y-2">
+<div class="p-4 bg-purple-50 rounded-lg space-y-2 text-gray-800">
 
 ## B — Eternal Perspective
 
@@ -353,7 +353,7 @@ Help him **examine the situation** with an eternal perspective.
 
 </div>
 
-<div class="p-4 bg-green-50 rounded-lg space-y-2">
+<div class="p-4 bg-green-50 rounded-lg space-y-2 text-gray-800">
 
 ## C — Divinely Appointed Sources
 

@@ -87,13 +87,13 @@ layout: default
 
 ## Opening prayer
 
-<div class="bg-blue-50 p-4 rounded-lg">
+<div class="bg-blue-50 p-4 rounded-lg text-gray-800">
 Ask someone to offer the opening prayer.
 </div>
 
 ## QT Time
 
-<div class="bg-purple-50 p-4 rounded-lg">
+<div class="bg-purple-50 p-4 rounded-lg text-gray-800">
 
 **[Student Name] is leading QT Time this week.**
 
@@ -152,7 +152,7 @@ layout: default
 
 <div class="grid grid-cols-2 gap-4">
 
-<div class="p-5 bg-blue-50 rounded-lg leading-relaxed">
+<div class="p-5 bg-blue-50 rounded-lg leading-relaxed text-gray-800">
 
 **How Solomon became king:**
 
@@ -162,7 +162,7 @@ He didn't seize power. He was placed on the throne by God's plan.
 
 </div>
 
-<div class="p-5 bg-green-50 rounded-lg leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg leading-relaxed text-gray-800">
 
 **Solomon's heart in chapter 3:**
 
@@ -174,7 +174,7 @@ He wasn't perfect — but he was oriented toward God. That posture was what made
 
 </div>
 
-<div class="p-4 bg-yellow-50 rounded-lg text-sm italic">
+<div class="p-4 bg-yellow-50 rounded-lg text-sm italic text-gray-800">
 Consider: What does it mean to "love the Lord" at the beginning of a huge responsibility?
 </div>
 
@@ -243,7 +243,7 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto text-sm">
 
-<div class="p-5 bg-blue-50 rounded-lg leading-relaxed">
+<div class="p-5 bg-blue-50 rounded-lg leading-relaxed text-gray-800">
 
 Solomon started by acknowledging what God had already done:
 
@@ -259,7 +259,7 @@ And he named his real problem — the people he was now responsible for:
 
 </div>
 
-<div class="p-4 bg-indigo-50 rounded-lg">
+<div class="p-4 bg-indigo-50 rounded-lg text-gray-800">
 
 **Mark in your scriptures** any phrases in verses 6–9 that show Solomon's attitude toward himself, toward God, and toward the people he was called to serve.
 
@@ -295,7 +295,7 @@ Because Solomon didn't ask for riches or long life, the Lord gave him:
 
 </div>
 
-<div class="p-4 bg-green-50 rounded-lg text-sm">
+<div class="p-4 bg-green-50 rounded-lg text-sm text-gray-800">
 
 **Principle:** When Solomon asked for what he needed to *bless others*, the Lord gave him that — plus everything he hadn't asked for.
 
@@ -319,7 +319,7 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto text-sm">
 
-<div class="p-5 bg-teal-50 rounded-lg leading-relaxed">
+<div class="p-5 bg-teal-50 rounded-lg leading-relaxed text-gray-800">
 
 Two women came to Solomon with one living baby and one dead one. Each claimed the living child was hers. There were no witnesses. No evidence.
 
@@ -331,7 +331,7 @@ Solomon knew exactly what that meant. He gave her the child.
 
 </div>
 
-<div class="p-5 bg-blue-50 rounded-lg">
+<div class="p-5 bg-blue-50 rounded-lg text-gray-800">
 
 > *"And all Israel heard of the judgment … and they saw that the wisdom of God was in him."*
 > — [1 Kings 3:28](https://www.churchofjesuschrist.org/study/scriptures/ot/1-kgs/3?lang=eng&id=p28#p28)
@@ -359,7 +359,7 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto">
 
-<div class="p-4 bg-yellow-50 rounded-lg text-sm italic">
+<div class="p-4 bg-yellow-50 rounded-lg text-sm italic text-gray-800">
 Finish this sentence: <em>"Because of the Lord's help, I can …"</em>
 </div>
 
@@ -373,17 +373,17 @@ As we humbly recognize our weakness and seek the Lord's help to bless others, He
 
 <div class="grid grid-cols-3 gap-3 text-sm">
 
-<div class="p-4 bg-blue-50 rounded-lg">
+<div class="p-4 bg-blue-50 rounded-lg text-gray-800">
 **Acknowledge weakness**
 "I am but a little child." (1 Kings 3:7)
 </div>
 
-<div class="p-4 bg-green-50 rounded-lg">
+<div class="p-4 bg-green-50 rounded-lg text-gray-800">
 **Ask to bless others**
 "Give me what I need to serve." (1 Kings 3:9)
 </div>
 
-<div class="p-4 bg-purple-50 rounded-lg">
+<div class="p-4 bg-purple-50 rounded-lg text-gray-800">
 **Receive the Lord's increase**
 Wisdom, and more. (1 Kings 3:12–13)
 </div>
@@ -407,7 +407,7 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto text-sm">
 
-<div class="p-5 bg-blue-50 rounded-lg leading-relaxed">
+<div class="p-5 bg-blue-50 rounded-lg leading-relaxed text-gray-800">
 
 **President Thomas S. Monson:**
 
@@ -417,7 +417,7 @@ layout: default
 
 </div>
 
-<div class="p-5 bg-purple-50 rounded-lg leading-relaxed">
+<div class="p-5 bg-purple-50 rounded-lg leading-relaxed text-gray-800">
 
 **Elder Dieter F. Uchtdorf:**
 
@@ -455,7 +455,7 @@ Then wait for the Holy Ghost to answer — and act on what comes.
 
 </div>
 
-<div class="p-5 bg-indigo-50 rounded-lg text-sm space-y-2">
+<div class="p-5 bg-indigo-50 rounded-lg text-sm space-y-2 text-gray-800">
 
 **Why this connects to Solomon:**
 
@@ -500,7 +500,7 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto text-sm">
 
-<div class="p-5 bg-blue-50 rounded-lg leading-relaxed">
+<div class="p-5 bg-blue-50 rounded-lg leading-relaxed text-gray-800">
 
 Read these scriptures and **mark** phrases that show why the Lord gives us weakness — and what He promises when we bring it to Him:
 
@@ -511,7 +511,7 @@ Read these scriptures and **mark** phrases that show why the Lord gives us weakn
 
 </div>
 
-<div class="p-4 bg-indigo-50 rounded-lg">
+<div class="p-4 bg-indigo-50 rounded-lg text-gray-800">
 
 **Try Elder Lawrence's exercise:**
 
@@ -540,7 +540,7 @@ layout: default
 
 <div class="space-y-3 max-w-4xl mx-auto text-sm">
 
-<div class="p-5 bg-purple-50 rounded-lg leading-relaxed">
+<div class="p-5 bg-purple-50 rounded-lg leading-relaxed text-gray-800">
 
 **Tag three or more** of these passages as *"the Lord magnifies"* in your scriptures:
 
@@ -554,7 +554,7 @@ layout: default
 
 </div>
 
-<div class="p-4 bg-teal-50 rounded-lg">
+<div class="p-4 bg-teal-50 rounded-lg text-gray-800">
 
 **Then add to your drawing:** What blessings could help you participate in the Lord's work? Where have you already seen Him magnify you?
 

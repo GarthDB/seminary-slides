@@ -53,7 +53,7 @@ layout: default
 
 ## 🙏 Opening Prayer
 
-<div class="bg-blue-50 p-4 rounded-lg">
+<div class="bg-blue-50 p-4 rounded-lg text-gray-800">
 
 Ask someone to say the opening prayer
 
@@ -61,7 +61,7 @@ Ask someone to say the opening prayer
 
 ## 💬 QT Time with Haylee
 
-<div class="bg-purple-50 p-4 rounded-lg">
+<div class="bg-purple-50 p-4 rounded-lg text-gray-800">
 
 **Question:** Haylee will lead our discussion today
 
@@ -153,13 +153,13 @@ layout: default
 
 <div class="space-y-4">
 
-<div class="p-6 bg-blue-50 rounded-lg">
+<div class="p-6 bg-blue-50 rounded-lg text-gray-800">
 
 **Read** [John 3:16](https://www.churchofjesuschrist.org/study/scriptures/nt/john/3?lang=eng&id=p16), looking for the **greatest manifestation** of Heavenly Father's love.
 
 </div>
 
-<div class="p-4 bg-green-50 rounded-lg text-center">
+<div class="p-4 bg-green-50 rounded-lg text-center text-gray-800">
 
 Make a note summarizing what this verse teaches you about the love of Heavenly Father and Jesus Christ.
 
@@ -182,7 +182,7 @@ layout: default
 
 <div class="space-y-4">
 
-<div class="p-6 bg-blue-50 rounded-lg">
+<div class="p-6 bg-blue-50 rounded-lg text-gray-800">
 
 **Watch:** "For God So Loved the World" (4:48)
 
@@ -190,7 +190,7 @@ layout: default
 
 </div>
 
-<div class="p-4 bg-purple-50 rounded-lg text-center text-sm">
+<div class="p-4 bg-purple-50 rounded-lg text-center text-sm text-gray-800">
 
 https://www.churchofjesuschrist.org/media/video/2011-10-0042-for-god-so-loved-the-world?lang=eng
 
@@ -237,13 +237,13 @@ layout: default
 
 <div class="space-y-4">
 
-<div class="p-6 bg-blue-50 rounded-lg">
+<div class="p-6 bg-blue-50 rounded-lg text-gray-800">
 
 God commanded Abraham to offer **his son**, **his only son Isaac**, as a **burnt offering**.
 
 </div>
 
-<div class="p-4 bg-purple-50 rounded-lg">
+<div class="p-4 bg-purple-50 rounded-lg text-gray-800">
 
 **Think about:** What questions might Abraham have had?
 
@@ -272,7 +272,7 @@ layout: default
 
 </div>
 
-<div class="p-4 bg-green-50 rounded-lg">
+<div class="p-4 bg-green-50 rounded-lg text-gray-800">
 
 **Note:** "He took the wood of the burnt offering, and laid it upon **Isaac his son**"—Isaac carried the wood, as Christ would carry His cross ([John 19:16–18](https://www.churchofjesuschrist.org/study/scriptures/nt/john/19?lang=eng&id=p16-p18)).
 
@@ -295,7 +295,7 @@ layout: default
 
 <div class="space-y-4">
 
-<div class="p-6 bg-blue-50 rounded-lg">
+<div class="p-6 bg-blue-50 rounded-lg text-gray-800">
 
 Isaac asked: "Where is the lamb for a burnt offering?"
 
@@ -303,13 +303,13 @@ Abraham said: **"God will provide himself a lamb."**
 
 </div>
 
-<div class="p-4 bg-purple-50 rounded-lg">
+<div class="p-4 bg-purple-50 rounded-lg text-gray-800">
 
 **Look for:** Ways **Isaac reminds you of Jesus Christ**.
 
 </div>
 
-<div class="p-4 bg-yellow-50 rounded-lg text-center text-sm">
+<div class="p-4 bg-yellow-50 rounded-lg text-center text-sm text-gray-800">
 
 Then Abraham **bound Isaac** his son and laid him on the altar.
 
@@ -332,13 +332,13 @@ layout: default
 
 <div class="space-y-4">
 
-<div class="p-6 bg-blue-50 rounded-lg">
+<div class="p-6 bg-blue-50 rounded-lg text-gray-800">
 
 The **angel of the Lord** called and said: "Lay not thine hand upon the lad." Abraham saw a **ram** and offered it instead.
 
 </div>
 
-<div class="p-4 bg-green-50 rounded-lg">
+<div class="p-4 bg-green-50 rounded-lg text-gray-800">
 
 **Record:** What did you learn about **Heavenly Father and Jesus Christ** from this story?
 
@@ -361,7 +361,7 @@ layout: default
 
 <div class="space-y-1.5">
 
-<div class="p-2 bg-blue-50 rounded text-xs">
+<div class="p-2 bg-blue-50 rounded text-xs text-gray-800">
 
 Jacob taught that the sacrifice was <strong>"a similitude of God and his Only Begotten Son."</strong> A similitude is a similarity, comparison, likeness, or shadow.
 
@@ -369,19 +369,19 @@ Jacob taught that the sacrifice was <strong>"a similitude of God and his Only Be
 
 <div class="grid grid-cols-2 gap-1.5 text-[11px] leading-tight">
 
-<div class="p-1.5 bg-green-50 rounded"><strong><a href="https://www.churchofjesuschrist.org/study/scriptures/ot/gen/22?lang=eng&id=p2,p12" target="_blank" rel="noopener">Gen 22:2, 12</a></strong> — "thine only son"</div>
+<div class="p-1.5 bg-green-50 rounded text-gray-800"><strong><a href="https://www.churchofjesuschrist.org/study/scriptures/ot/gen/22?lang=eng&id=p2,p12" target="_blank" rel="noopener">Gen 22:2, 12</a></strong> — "thine only son"</div>
 <div class="p-1.5 bg-white/70 rounded">Jesus is the <strong>Only Begotten Son</strong> (<a href="https://www.churchofjesuschrist.org/study/scriptures/nt/john/3?lang=eng&id=p16" target="_blank" rel="noopener">John 3:16</a>)</div>
 
-<div class="p-1.5 bg-green-50 rounded"><strong><a href="https://www.churchofjesuschrist.org/study/scriptures/ot/gen/22?lang=eng&id=p2" target="_blank" rel="noopener">Gen 22:2</a></strong> — "a burnt offering"</div>
+<div class="p-1.5 bg-green-50 rounded text-gray-800"><strong><a href="https://www.churchofjesuschrist.org/study/scriptures/ot/gen/22?lang=eng&id=p2" target="_blank" rel="noopener">Gen 22:2</a></strong> — "a burnt offering"</div>
 <div class="p-1.5 bg-white/70 rounded">Sacrifice was <strong>symbolic of Christ</strong> (<a href="https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/5?lang=eng&id=p4-p7" target="_blank" rel="noopener">Moses 5:4–7</a>)</div>
 
-<div class="p-1.5 bg-green-50 rounded"><strong><a href="https://www.churchofjesuschrist.org/study/scriptures/ot/gen/22?lang=eng&id=p6" target="_blank" rel="noopener">Gen 22:6</a></strong> — wood laid upon Isaac</div>
+<div class="p-1.5 bg-green-50 rounded text-gray-800"><strong><a href="https://www.churchofjesuschrist.org/study/scriptures/ot/gen/22?lang=eng&id=p6" target="_blank" rel="noopener">Gen 22:6</a></strong> — wood laid upon Isaac</div>
 <div class="p-1.5 bg-white/70 rounded"><strong>Christ carried His cross</strong> (<a href="https://www.churchofjesuschrist.org/study/scriptures/nt/john/19?lang=eng&id=p16-p18" target="_blank" rel="noopener">John 19:16–18</a>)</div>
 
-<div class="p-1.5 bg-green-50 rounded"><strong><a href="https://www.churchofjesuschrist.org/study/scriptures/ot/gen/22?lang=eng&id=p7-p8" target="_blank" rel="noopener">Gen 22:7–8</a></strong> — "God will provide himself a lamb"</div>
+<div class="p-1.5 bg-green-50 rounded text-gray-800"><strong><a href="https://www.churchofjesuschrist.org/study/scriptures/ot/gen/22?lang=eng&id=p7-p8" target="_blank" rel="noopener">Gen 22:7–8</a></strong> — "God will provide himself a lamb"</div>
 <div class="p-1.5 bg-white/70 rounded"><strong>Lamb of God</strong>, atoning sacrifice (<a href="https://www.churchofjesuschrist.org/study/scriptures/nt/john/1?lang=eng&id=p29" target="_blank" rel="noopener">John 1:29</a>)</div>
 
-<div class="p-1.5 bg-green-50 rounded"><strong><a href="https://www.churchofjesuschrist.org/study/scriptures/ot/gen/22?lang=eng&id=p9" target="_blank" rel="noopener">Gen 22:9</a></strong> — "bound Isaac his son"</div>
+<div class="p-1.5 bg-green-50 rounded text-gray-800"><strong><a href="https://www.churchofjesuschrist.org/study/scriptures/ot/gen/22?lang=eng&id=p9" target="_blank" rel="noopener">Gen 22:9</a></strong> — "bound Isaac his son"</div>
 <div class="p-1.5 bg-white/70 rounded"><strong>Christ bound to the cross</strong> (<a href="https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/11?lang=eng&id=p33" target="_blank" rel="noopener">1 Nephi 11:33</a>)</div>
 
 </div>
@@ -480,7 +480,7 @@ layout: default
 
 <div class="space-y-2">
 
-<div class="p-4 bg-blue-50 rounded-lg text-sm">
+<div class="p-4 bg-blue-50 rounded-lg text-sm text-gray-800">
 
 **Share one or more** with your teacher or class:
 
@@ -488,25 +488,25 @@ layout: default
 
 <div class="space-y-1.5 text-xs">
 
-<div class="p-2 bg-green-50 rounded-lg leading-tight">
+<div class="p-2 bg-green-50 rounded-lg leading-tight text-gray-800">
 
 Song lyrics that help you feel loved—and why
 
 </div>
 
-<div class="p-2 bg-purple-50 rounded-lg leading-tight">
+<div class="p-2 bg-purple-50 rounded-lg leading-tight text-gray-800">
 
 What you learned about Heavenly Father and Jesus Christ from the story of Abraham and Isaac
 
 </div>
 
-<div class="p-2 bg-yellow-50 rounded-lg leading-tight">
+<div class="p-2 bg-yellow-50 rounded-lg leading-tight text-gray-800">
 
 Something specific you did to achieve the purpose of this lesson
 
 </div>
 
-<div class="p-2 bg-pink-50 rounded-lg leading-tight">
+<div class="p-2 bg-pink-50 rounded-lg leading-tight text-gray-800">
 
 Any questions this lesson raised—and how you will try to find answers
 
@@ -534,37 +534,37 @@ layout: default
 
 <v-clicks>
 
-<div class="p-1.5 bg-blue-50 rounded-lg text-xs leading-tight">
+<div class="p-1.5 bg-blue-50 rounded-lg text-xs leading-tight text-gray-800">
 
 **God's love for you** is infinite—multiply the purest love you can imagine by an infinite amount (President Uchtdorf)
 
 </div>
 
-<div class="p-1.5 bg-green-50 rounded-lg text-xs leading-tight">
+<div class="p-1.5 bg-green-50 rounded-lg text-xs leading-tight text-gray-800">
 
 **The greatest manifestation** of Heavenly Father's love: He gave His Only Begotten Son ([John 3:16](https://www.churchofjesuschrist.org/study/scriptures/nt/john/3?lang=eng&id=p16))
 
 </div>
 
-<div class="p-1.5 bg-purple-50 rounded-lg text-xs leading-tight">
+<div class="p-1.5 bg-purple-50 rounded-lg text-xs leading-tight text-gray-800">
 
 **Abraham and Isaac** are a **similitude** of Heavenly Father and Jesus Christ ([Jacob 4:5](https://www.churchofjesuschrist.org/study/scriptures/bofm/jacob/4?lang=eng&id=p5))
 
 </div>
 
-<div class="p-1.5 bg-yellow-50 rounded-lg text-xs leading-tight">
+<div class="p-1.5 bg-yellow-50 rounded-lg text-xs leading-tight text-gray-800">
 
 **Isaac** carried the wood; **Christ** carried His cross. Isaac was bound; **Christ** was bound to the cross.
 
 </div>
 
-<div class="p-1.5 bg-pink-50 rounded-lg text-xs leading-tight">
+<div class="p-1.5 bg-pink-50 rounded-lg text-xs leading-tight text-gray-800">
 
 **God's love is always there**—not changed by appearance, possessions, or whether we feel we deserve it (President Monson)
 
 </div>
 
-<div class="p-1.5 bg-teal-50 rounded-lg text-xs leading-tight">
+<div class="p-1.5 bg-teal-50 rounded-lg text-xs leading-tight text-gray-800">
 
 **Lesson purpose:** To help you feel the love Heavenly Father and Jesus Christ have for you
 

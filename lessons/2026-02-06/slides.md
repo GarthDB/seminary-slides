@@ -53,7 +53,7 @@ layout: default
 
 ## 🙏 Opening Prayer
 
-<div class="bg-blue-50 p-4 rounded-lg">
+<div class="bg-blue-50 p-4 rounded-lg text-gray-800">
 
 Ask someone to say the opening prayer
 
@@ -61,7 +61,7 @@ Ask someone to say the opening prayer
 
 ## 💬 QT Time with Gabe
 
-<div class="bg-purple-50 p-4 rounded-lg">
+<div class="bg-purple-50 p-4 rounded-lg text-gray-800">
 
 **Question:** Gabe will lead our discussion today
 
@@ -110,7 +110,7 @@ layout: default
 
 ## Scripture Study
 
-<div class="p-4 bg-blue-50 rounded-lg text-sm">
+<div class="p-4 bg-blue-50 rounded-lg text-sm text-gray-800">
 
 **Tag each difficulty** as "last days" or "Second Coming" in your scriptures.
 
@@ -118,7 +118,7 @@ layout: default
 
 <div class="grid grid-cols-2 gap-3 text-sm">
 
-<div class="p-3 bg-green-50 rounded-lg">
+<div class="p-3 bg-green-50 rounded-lg text-gray-800">
 
 **Read:**
 - [D&C 45:26–28, 31, 33](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/45?lang=eng&id=p26-p28,p31,p33)
@@ -126,7 +126,7 @@ layout: default
 
 </div>
 
-<div class="p-3 bg-purple-50 rounded-lg">
+<div class="p-3 bg-purple-50 rounded-lg text-gray-800">
 
 **Look for:** Prophesied trials and tribulations before the Savior returns
 
@@ -134,7 +134,7 @@ layout: default
 
 </div>
 
-<div class="p-4 bg-yellow-50 rounded-lg text-center mt-3">
+<div class="p-4 bg-yellow-50 rounded-lg text-center mt-3 text-gray-800">
 
 How do these prophesied events make you feel?
 
@@ -173,7 +173,7 @@ layout: default
 
 </div>
 
-<div class="p-4 bg-green-50 rounded-lg text-center">
+<div class="p-4 bg-green-50 rounded-lg text-center text-gray-800">
 
 How could President Nelson's perspective influence how you feel about the Second Coming?
 
@@ -219,13 +219,13 @@ layout: default
 
 <div class="space-y-4">
 
-<div class="p-6 bg-blue-50 rounded-lg text-base">
+<div class="p-6 bg-blue-50 rounded-lg text-base text-gray-800">
 
 **Read verse 53** and mark the **titles the Savior used to describe Himself**.
 
 </div>
 
-<div class="p-6 bg-purple-50 rounded-lg text-base">
+<div class="p-6 bg-purple-50 rounded-lg text-base text-gray-800">
 
 **Create a note** next to verse 53 and answer one or two of these:
 
@@ -254,13 +254,13 @@ layout: default
 
 ## [Moses 7:60–62](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/7?lang=eng&id=p60-p62)
 
-<div class="p-4 bg-blue-50 rounded-lg text-sm">
+<div class="p-4 bg-blue-50 rounded-lg text-sm text-gray-800">
 
 **Mark every use of *I* and the verbs that follow.** Also mark *my* or *mine* and what they are associated with.
 
 </div>
 
-<div class="p-6 bg-green-50 rounded-lg text-base">
+<div class="p-6 bg-green-50 rounded-lg text-base text-gray-800">
 
 The Lord showed Enoch the last days and **what He would do for people who strive to follow Him**.
 
@@ -287,19 +287,19 @@ layout: default
 
 <div class="grid grid-cols-1 gap-3 text-sm">
 
-<div class="p-4 bg-blue-50 rounded-lg">
+<div class="p-4 bg-blue-50 rounded-lg text-gray-800">
 
 **1. Send righteousness out of heaven**
 
 </div>
 
-<div class="p-4 bg-green-50 rounded-lg">
+<div class="p-4 bg-green-50 rounded-lg text-gray-800">
 
 **2. Send truth out of the earth**
 
 </div>
 
-<div class="p-4 bg-purple-50 rounded-lg">
+<div class="p-4 bg-purple-50 rounded-lg text-gray-800">
 
 **3. Gather His people to Zion**
 
@@ -307,7 +307,7 @@ layout: default
 
 </div>
 
-<div class="p-4 bg-yellow-50 rounded-lg text-center mt-3">
+<div class="p-4 bg-yellow-50 rounded-lg text-center mt-3 text-gray-800">
 
 The Lord does these things to **preserve** His people in the last days.
 
@@ -333,19 +333,19 @@ layout: default
 
 ## What has God already done?
 
-<div class="p-4 bg-blue-50 rounded-lg text-sm">
+<div class="p-4 bg-blue-50 rounded-lg text-sm text-gray-800">
 
 See [D&C 128:20–21](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/128?lang=eng&id=p20-p21) — Joseph Smith recounts events of the Restoration.
 
 </div>
 
-<div class="p-4 bg-green-50 rounded-lg text-sm">
+<div class="p-4 bg-green-50 rounded-lg text-sm text-gray-800">
 
 What "righteousness from heaven" has God promised is still to come? See [Moses 7:63](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/7?lang=eng&id=p63).
 
 </div>
 
-<div class="p-4 bg-purple-50 rounded-lg text-sm">
+<div class="p-4 bg-purple-50 rounded-lg text-sm text-gray-800">
 
 **How have you seen** God send righteousness from heaven in your own life?
 
@@ -370,19 +370,19 @@ layout: default
 
 ## What has God already done?
 
-<div class="p-4 bg-blue-50 rounded-lg text-sm">
+<div class="p-4 bg-blue-50 rounded-lg text-sm text-gray-800">
 
 See [Joseph Smith—History 1:34–35, 51–53, 60](https://www.churchofjesuschrist.org/study/scriptures/pgp/js-h/1?lang=eng&id=p34-p35,p51-p53,p60) — Moroni's instructions about the plates.
 
 </div>
 
-<div class="p-4 bg-green-50 rounded-lg text-sm">
+<div class="p-4 bg-green-50 rounded-lg text-sm text-gray-800">
 
 What "truth from the earth" is still to come? See [1 Nephi 14:24–26](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/14?lang=eng&id=p24-p26).
 
 </div>
 
-<div class="p-4 bg-purple-50 rounded-lg text-sm">
+<div class="p-4 bg-purple-50 rounded-lg text-sm text-gray-800">
 
 **How have you seen** God send truth from the earth in your life?
 
@@ -406,19 +406,19 @@ layout: default
 
 ## What has God already done?
 
-<div class="p-4 bg-blue-50 rounded-lg text-sm">
+<div class="p-4 bg-blue-50 rounded-lg text-sm text-gray-800">
 
 See [D&C 110:11](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/110?lang=eng&id=p11) — vision at the Kirtland Temple dedication.
 
 </div>
 
-<div class="p-4 bg-green-50 rounded-lg text-sm">
+<div class="p-4 bg-green-50 rounded-lg text-sm text-gray-800">
 
 What future gathering has God promised? See [1 Nephi 22:11–12](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/22?lang=eng&id=p11-p12).
 
 </div>
 
-<div class="p-4 bg-purple-50 rounded-lg text-sm">
+<div class="p-4 bg-purple-50 rounded-lg text-sm text-gray-800">
 
 **How have you seen** God gathering His people to Zion in your life?
 
@@ -462,7 +462,7 @@ layout: default
 
 <div class="space-y-2">
 
-<div class="p-4 bg-blue-50 rounded-lg text-sm">
+<div class="p-4 bg-blue-50 rounded-lg text-sm text-gray-800">
 
 **Share one or more** with your teacher or class:
 
@@ -470,25 +470,25 @@ layout: default
 
 <div class="space-y-1.5 text-xs">
 
-<div class="p-2 bg-green-50 rounded-lg leading-tight">
+<div class="p-2 bg-green-50 rounded-lg leading-tight text-gray-800">
 
 One way that God is **preserving you** from the difficulties of our day.
 
 </div>
 
-<div class="p-2 bg-purple-50 rounded-lg leading-tight">
+<div class="p-2 bg-purple-50 rounded-lg leading-tight text-gray-800">
 
 What you learned about the **character and nature of God** from the ways He is preserving you.
 
 </div>
 
-<div class="p-2 bg-yellow-50 rounded-lg leading-tight">
+<div class="p-2 bg-yellow-50 rounded-lg leading-tight text-gray-800">
 
 Something specific you did to achieve the purpose of this lesson.
 
 </div>
 
-<div class="p-2 bg-pink-50 rounded-lg leading-tight">
+<div class="p-2 bg-pink-50 rounded-lg leading-tight text-gray-800">
 
 Any questions this lesson raised—and how you will try to find answers.
 
@@ -551,37 +551,37 @@ layout: default
 
 <v-clicks>
 
-<div class="p-1.5 bg-blue-50 rounded-lg text-xs leading-tight">
+<div class="p-1.5 bg-blue-50 rounded-lg text-xs leading-tight text-gray-800">
 
 **The Savior is "the King of Zion"** (Moses 7:53) — He watches over and preserves His people.
 
 </div>
 
-<div class="p-1.5 bg-green-50 rounded-lg text-xs leading-tight">
+<div class="p-1.5 bg-green-50 rounded-lg text-xs leading-tight text-gray-800">
 
 **The Lord will send righteousness from heaven**, send truth from the earth, and **gather His people to Zion** (Moses 7:62).
 
 </div>
 
-<div class="p-1.5 bg-purple-50 rounded-lg text-xs leading-tight">
+<div class="p-1.5 bg-purple-50 rounded-lg text-xs leading-tight text-gray-800">
 
 **We will see the greatest manifestations of the Savior's power** that the world has ever seen (President Nelson).
 
 </div>
 
-<div class="p-1.5 bg-yellow-50 rounded-lg text-xs leading-tight">
+<div class="p-1.5 bg-yellow-50 rounded-lg text-xs leading-tight text-gray-800">
 
 **God is already preserving us** through the Restoration, scripture, and gathering to Zion.
 
 </div>
 
-<div class="p-1.5 bg-pink-50 rounded-lg text-xs leading-tight">
+<div class="p-1.5 bg-pink-50 rounded-lg text-xs leading-tight text-gray-800">
 
 **We can see and appreciate** what the Lord is doing to help us overcome the trials of our time.
 
 </div>
 
-<div class="p-1.5 bg-teal-50 rounded-lg text-xs leading-tight">
+<div class="p-1.5 bg-teal-50 rounded-lg text-xs leading-tight text-gray-800">
 
 **The faithful will receive** countless privileges, blessings, and miracles from the Lord.
 

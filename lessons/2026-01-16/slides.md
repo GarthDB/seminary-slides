@@ -54,7 +54,7 @@ layout: default
 
 ## 🙏 Opening Prayer
 
-<div class="bg-blue-50 p-4 rounded-lg">
+<div class="bg-blue-50 p-4 rounded-lg text-gray-800">
 
 Ask someone to say the opening prayer
 
@@ -62,7 +62,7 @@ Ask someone to say the opening prayer
 
 ## 💬 QT Time
 
-<div class="bg-purple-50 p-4 rounded-lg">
+<div class="bg-purple-50 p-4 rounded-lg text-gray-800">
 
 **Discussion Question:** "How does reflecting on what is central in our lives help us understand God's plan?"
 
@@ -111,7 +111,7 @@ layout: default
 
 <div class="grid grid-cols-3 gap-4 text-sm">
 
-<div class="p-4 bg-blue-50 rounded-lg">
+<div class="p-4 bg-blue-50 rounded-lg text-gray-800">
 
 ### Statement 1
 
@@ -119,7 +119,7 @@ layout: default
 
 </div>
 
-<div class="p-4 bg-green-50 rounded-lg">
+<div class="p-4 bg-green-50 rounded-lg text-gray-800">
 
 ### Statement 2
 
@@ -127,7 +127,7 @@ layout: default
 
 </div>
 
-<div class="p-4 bg-purple-50 rounded-lg">
+<div class="p-4 bg-purple-50 rounded-lg text-gray-800">
 
 ### Statement 3
 
@@ -137,7 +137,7 @@ layout: default
 
 </div>
 
-<div class="mt-6 p-6 bg-yellow-50 rounded-lg text-center">
+<div class="mt-6 p-6 bg-yellow-50 rounded-lg text-center text-gray-800">
 
 <div class="text-xl font-semibold">
 Now let's see what God says is central...
@@ -243,13 +243,13 @@ layout: default
 
 <div class="space-y-4">
 
-<div class="p-6 bg-blue-50 rounded-lg text-lg">
+<div class="p-6 bg-blue-50 rounded-lg text-lg text-gray-800">
 
 **Verse 27**: "So God created man in his own image, in the image of God created he him; **male and female created he them**."
 
 </div>
 
-<div class="p-6 bg-green-50 rounded-lg text-lg">
+<div class="p-6 bg-green-50 rounded-lg text-lg text-gray-800">
 
 **Verse 28**: "And God blessed them, and God said unto them, **Be fruitful, and multiply, and replenish the earth**, and subdue it..."
 
@@ -259,7 +259,7 @@ layout: default
 
 ## Key Truth
 
-<div class="p-6 bg-yellow-50 rounded-lg text-xl font-semibold mt-6">
+<div class="p-6 bg-yellow-50 rounded-lg text-xl font-semibold mt-6 text-gray-800">
 💡 From the very beginning, God commanded Adam and Eve to create families
 </div>
 
@@ -282,7 +282,7 @@ layout: default
 
 <div class="space-y-4">
 
-<div class="p-6 bg-green-50 rounded-lg text-lg">
+<div class="p-6 bg-green-50 rounded-lg text-lg text-gray-800">
 
 "And the Lord God took the man, and put him into the garden of Eden **to dress it and to keep it**."
 
@@ -292,7 +292,7 @@ layout: default
 
 ## Key Truth
 
-<div class="p-6 bg-blue-50 rounded-lg text-xl font-semibold mt-6">
+<div class="p-6 bg-blue-50 rounded-lg text-xl font-semibold mt-6 text-gray-800">
 🌍 God gave Adam (and us) the responsibility to care for and protect the earth
 </div>
 
@@ -317,19 +317,19 @@ layout: default
 
 <div class="space-y-4">
 
-<div class="p-6 bg-purple-50 rounded-lg text-lg">
+<div class="p-6 bg-purple-50 rounded-lg text-lg text-gray-800">
 
 **Verse 18**: "And the Lord God said, It is not good that the man should be alone; I will make him **an help meet** for him."
 
 </div>
 
-<div class="p-6 bg-blue-50 rounded-lg text-lg">
+<div class="p-6 bg-blue-50 rounded-lg text-lg text-gray-800">
 
 **Verses 21–22**: God created Eve from Adam's rib
 
 </div>
 
-<div class="p-6 bg-green-50 rounded-lg text-lg">
+<div class="p-6 bg-green-50 rounded-lg text-lg text-gray-800">
 
 **Verse 23**: "And Adam said, This is now bone of my bones, and flesh of my flesh: she shall be called Woman, because she was taken out of Man."
 
@@ -345,13 +345,13 @@ layout: default
 
 <div class="space-y-4">
 
-<div class="p-6 bg-yellow-50 rounded-lg text-lg">
+<div class="p-6 bg-yellow-50 rounded-lg text-lg text-gray-800">
 
 **Footnote 18_b**: "Help meet" means "a helper suited to, worthy of, or corresponding to" Adam
 
 </div>
 
-<div class="p-6 bg-pink-50 rounded-lg text-lg">
+<div class="p-6 bg-pink-50 rounded-lg text-lg text-gray-800">
 
 **Note**: The account of Eve being created from Adam's rib is symbolic and represents the **equal partnership** between husband and wife.
 
@@ -411,7 +411,7 @@ layout: default
 
 ## [D&C 49:15](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/49.15?lang=eng)
 
-<div class="p-6 bg-purple-50 rounded-lg text-lg">
+<div class="p-6 bg-purple-50 rounded-lg text-lg text-gray-800">
 
 "And again, verily I say unto you, that whoso forbiddeth to marry is not ordained of God, for **marriage is ordained of God** unto man."
 
@@ -425,13 +425,13 @@ layout: default
 
 <div class="space-y-4">
 
-<div class="p-6 bg-blue-50 rounded-lg text-lg">
+<div class="p-6 bg-blue-50 rounded-lg text-lg text-gray-800">
 
 **Verse 16**: "Wherefore, it is lawful that he should have one wife, and they twain shall be one flesh, and all this that **the earth might answer the end of its creation**"
 
 </div>
 
-<div class="p-6 bg-green-50 rounded-lg text-lg">
+<div class="p-6 bg-green-50 rounded-lg text-lg text-gray-800">
 
 **Verse 17**: "And it is pleasing unto me that they should not be separated, for the Lord God hath said that no man who putteth away his wife, except it be for fornication, shall have salvation..."
 
@@ -516,7 +516,7 @@ layout: default
 
 ## Think About It
 
-<div class="p-6 bg-red-50 rounded-lg">
+<div class="p-6 bg-red-50 rounded-lg text-gray-800">
 
 If the family is central to God's plan, what would Satan want to do?
 
@@ -524,7 +524,7 @@ If the family is central to God's plan, what would Satan want to do?
 
 <div class="grid grid-cols-2 gap-4">
 
-<div class="p-4 bg-blue-50 rounded-lg text-sm">
+<div class="p-4 bg-blue-50 rounded-lg text-sm text-gray-800">
 
 ### Satan's Strategy
 
@@ -535,7 +535,7 @@ If the family is central to God's plan, what would Satan want to do?
 
 </div>
 
-<div class="p-4 bg-green-50 rounded-lg text-sm">
+<div class="p-4 bg-green-50 rounded-lg text-sm text-gray-800">
 
 ### Why It Matters
 
@@ -572,7 +572,7 @@ layout: default
 
 <v-clicks>
 
-<div class="p-3 bg-blue-50 rounded-lg">
+<div class="p-3 bg-blue-50 rounded-lg text-gray-800">
 
 **1. Understand God's Plan**
 
@@ -580,7 +580,7 @@ Study what prophets teach about marriage and family
 
 </div>
 
-<div class="p-3 bg-green-50 rounded-lg">
+<div class="p-3 bg-green-50 rounded-lg text-gray-800">
 
 **2. Prepare for Marriage**
 
@@ -588,7 +588,7 @@ Learn what makes a successful marriage
 
 </div>
 
-<div class="p-3 bg-purple-50 rounded-lg">
+<div class="p-3 bg-purple-50 rounded-lg text-gray-800">
 
 **3. Strengthen Your Own Family**
 
@@ -596,7 +596,7 @@ Be a peacemaker, show love, serve family members
 
 </div>
 
-<div class="p-3 bg-yellow-50 rounded-lg">
+<div class="p-3 bg-yellow-50 rounded-lg text-gray-800">
 
 **4. Support Others**
 
@@ -604,7 +604,7 @@ Encourage friends who are preparing for marriage
 
 </div>
 
-<div class="p-3 bg-pink-50 rounded-lg">
+<div class="p-3 bg-pink-50 rounded-lg text-gray-800">
 
 **5. Stand for Truth**
 
@@ -612,7 +612,7 @@ Share what you know about God's plan for families
 
 </div>
 
-<div class="p-3 bg-orange-50 rounded-lg">
+<div class="p-3 bg-orange-50 rounded-lg text-gray-800">
 
 **6. Trust God's Timing**
 
@@ -707,7 +707,7 @@ layout: default
 
 ## What Should Elizabeth Say?
 
-<div class="p-6 bg-yellow-50 rounded-lg">
+<div class="p-6 bg-yellow-50 rounded-lg text-gray-800">
 
 Using what you've learned today, write a response that Elizabeth could share with her classmate. Include:
 
@@ -719,7 +719,7 @@ Using what you've learned today, write a response that Elizabeth could share wit
 
 <div class="grid grid-cols-2 gap-4 text-sm">
 
-<div class="p-4 bg-blue-50 rounded-lg">
+<div class="p-4 bg-blue-50 rounded-lg text-gray-800">
 
 ### Key Points to Include
 
@@ -731,7 +731,7 @@ Using what you've learned today, write a response that Elizabeth could share wit
 
 </div>
 
-<div class="p-4 bg-green-50 rounded-lg">
+<div class="p-4 bg-green-50 rounded-lg text-gray-800">
 
 ### How to Share
 
@@ -806,7 +806,7 @@ layout: two-cols
 
 ## This Week
 
-<div class="p-4 bg-yellow-50 rounded-lg text-sm space-y-3">
+<div class="p-4 bg-yellow-50 rounded-lg text-sm space-y-3 text-gray-800">
 
 ### Try This:
 
@@ -886,37 +886,37 @@ layout: default
 
 <v-clicks>
 
-<div class="p-2 bg-blue-50 rounded-lg text-sm max-w-3xl mx-auto">
+<div class="p-2 bg-blue-50 rounded-lg text-sm max-w-3xl mx-auto text-gray-800">
 
 💑 **Marriage between a man and a woman is ordained of God**
 
 </div>
 
-<div class="p-2 bg-green-50 rounded-lg text-sm max-w-3xl mx-auto">
+<div class="p-2 bg-green-50 rounded-lg text-sm max-w-3xl mx-auto text-gray-800">
 
 👨‍👩‍👧‍👦 **The family is central to the Creator's plan** for the eternal destiny of His children
 
 </div>
 
-<div class="p-2 bg-purple-50 rounded-lg text-sm max-w-3xl mx-auto">
+<div class="p-2 bg-purple-50 rounded-lg text-sm max-w-3xl mx-auto text-gray-800">
 
 🌍 **The earth was created that families might be** - this is the purpose of creation
 
 </div>
 
-<div class="p-2 bg-teal-50 rounded-lg text-sm max-w-3xl mx-auto">
+<div class="p-2 bg-teal-50 rounded-lg text-sm max-w-3xl mx-auto text-gray-800">
 
 🌱 **God commanded us to care for and protect the earth** - we are stewards of His creation
 
 </div>
 
-<div class="p-2 bg-yellow-50 rounded-lg text-sm max-w-3xl mx-auto">
+<div class="p-2 bg-yellow-50 rounded-lg text-sm max-w-3xl mx-auto text-gray-800">
 
 🤝 **Husband and wife should "cleave" to each other and be one** - unity is essential
 
 </div>
 
-<div class="p-2 bg-pink-50 rounded-lg text-sm max-w-3xl mx-auto">
+<div class="p-2 bg-pink-50 rounded-lg text-sm max-w-3xl mx-auto text-gray-800">
 
 ⚔️ **Satan attacks families** because they are central to God's plan - we must defend them
 

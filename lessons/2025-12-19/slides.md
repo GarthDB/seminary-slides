@@ -54,7 +54,7 @@ layout: default
 
 ## 🙏 Opening Prayer
 
-<div class="bg-blue-50 p-4 rounded-lg">
+<div class="bg-blue-50 p-4 rounded-lg text-gray-800">
 
 Ask someone to say the opening prayer
 
@@ -62,7 +62,7 @@ Ask someone to say the opening prayer
 
 ## 💬 QT Time with Kaeden
 
-<div class="bg-purple-50 p-4 rounded-lg">
+<div class="bg-purple-50 p-4 rounded-lg text-gray-800">
 
 **Discussion Question:** "How does reflecting on our past experiences help us become a better disciple of Jesus Christ?"
 
@@ -114,7 +114,7 @@ layout: default
 
 <div class="grid grid-cols-3 gap-4 text-center">
 
-<div class="p-6 bg-blue-50 rounded-lg">
+<div class="p-6 bg-blue-50 rounded-lg text-gray-800">
 
 ### 🌟 Question 1
 
@@ -122,7 +122,7 @@ layout: default
 
 </div>
 
-<div class="p-6 bg-green-50 rounded-lg">
+<div class="p-6 bg-green-50 rounded-lg text-gray-800">
 
 ### 🎯 Question 2
 
@@ -130,7 +130,7 @@ layout: default
 
 </div>
 
-<div class="p-6 bg-purple-50 rounded-lg">
+<div class="p-6 bg-purple-50 rounded-lg text-gray-800">
 
 ### 🕊️ Question 3
 
@@ -140,7 +140,7 @@ layout: default
 
 </div>
 
-<div class="mt-6 p-6 bg-yellow-50 rounded-lg text-center">
+<div class="mt-6 p-6 bg-yellow-50 rounded-lg text-center text-gray-800">
 
 <div class="text-xl font-semibold">
 The plan of salvation answers all three questions!
@@ -207,7 +207,7 @@ layout: default
 
 ## President Dallin H. Oaks
 
-<div class="p-6 bg-blue-50 rounded-lg text-lg">
+<div class="p-6 bg-blue-50 rounded-lg text-lg text-gray-800">
 
 <div class="italic">
 
@@ -221,7 +221,7 @@ layout: default
 
 </div>
 
-<div class="mt-4 p-4 bg-green-50 rounded-lg text-center">
+<div class="mt-4 p-4 bg-green-50 rounded-lg text-center text-gray-800">
 
 **Key Truth:** Jesus Christ is at the center of everything in Heavenly Father's plan
 
@@ -301,7 +301,7 @@ layout: default
 
 <div class="grid grid-cols-2 gap-4 text-sm">
 
-<div class="p-4 bg-blue-50 rounded-lg">
+<div class="p-4 bg-blue-50 rounded-lg text-gray-800">
 
 ### [D&C 138:55-56](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/138.55-56?lang=eng)
 
@@ -309,7 +309,7 @@ We lived as spirit children of God before coming to earth
 
 </div>
 
-<div class="p-4 bg-green-50 rounded-lg">
+<div class="p-4 bg-green-50 rounded-lg text-gray-800">
 
 ### [Job 38:7](https://www.churchofjesuschrist.org/study/scriptures/ot/job/38.7?lang=eng)
 
@@ -321,7 +321,7 @@ We shouted for joy when we learned about God's plan!
 
 ## President Dieter F. Uchtdorf
 
-<div class="p-6 bg-purple-50 rounded-lg text-base">
+<div class="p-6 bg-purple-50 rounded-lg text-base text-gray-800">
 
 "Back in that first estate, you knew with absolute certainty that God existed because you saw and heard Him. You knew Jesus Christ, who would become the Lamb of God. You had faith in Him."
 
@@ -351,7 +351,7 @@ layout: default
 
 <div class="grid grid-cols-3 gap-3 text-sm">
 
-<div class="p-4 bg-blue-50 rounded-lg">
+<div class="p-4 bg-blue-50 rounded-lg text-gray-800">
 
 ### [John 1:3](https://www.churchofjesuschrist.org/study/scriptures/nt/john/1.3?lang=eng)
 
@@ -361,7 +361,7 @@ Jesus created all things under the Father's direction
 
 </div>
 
-<div class="p-4 bg-green-50 rounded-lg">
+<div class="p-4 bg-green-50 rounded-lg text-gray-800">
 
 ### [Moses 4:1-2](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/4.1-2?lang=eng)
 
@@ -371,7 +371,7 @@ He was chosen to be our Savior and said, "Here am I, send me"
 
 </div>
 
-<div class="p-4 bg-purple-50 rounded-lg">
+<div class="p-4 bg-purple-50 rounded-lg text-gray-800">
 
 ### [Abraham 3:24-27](https://www.churchofjesuschrist.org/study/scriptures/pgp/abr/3.24-27?lang=eng)
 
@@ -383,7 +383,7 @@ He offered to give all glory to the Father
 
 </div>
 
-<div class="mt-4 p-6 bg-yellow-50 rounded-lg text-center text-lg font-semibold">
+<div class="mt-4 p-6 bg-yellow-50 rounded-lg text-center text-lg font-semibold text-gray-800">
 Before we were born, Jesus volunteered to save us
 </div>
 
@@ -433,7 +433,7 @@ layout: default
 
 ## [Alma 34:32](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/34.32?lang=eng)
 
-<div class="p-6 bg-blue-50 rounded-lg text-xl text-center font-semibold">
+<div class="p-6 bg-blue-50 rounded-lg text-xl text-center font-semibold text-gray-800">
 
 "This life is the time for men to prepare to meet God"
 
@@ -441,7 +441,7 @@ layout: default
 
 ## Elder Gary E. Stevenson
 
-<div class="p-6 bg-green-50 rounded-lg text-base">
+<div class="p-6 bg-green-50 rounded-lg text-base text-gray-800">
 
 "As a child of God, you came to earth to receive a physical body. With your body, you can choose to faithfully follow Jesus Christ. You can choose to obey God's commandments, receive holy ordinances, and make and keep gospel covenants."
 
@@ -469,7 +469,7 @@ layout: default
 
 <div class="grid grid-cols-3 gap-3 text-sm">
 
-<div class="p-3 bg-blue-50 rounded-lg">
+<div class="p-3 bg-blue-50 rounded-lg text-gray-800">
 
 ### [Isaiah 53:3-5](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/53.3-5?lang=eng)
 
@@ -479,7 +479,7 @@ layout: default
 
 </div>
 
-<div class="p-3 bg-green-50 rounded-lg">
+<div class="p-3 bg-green-50 rounded-lg text-gray-800">
 
 ### [John 13:15](https://www.churchofjesuschrist.org/study/scriptures/nt/john/13.15?lang=eng)
 
@@ -489,7 +489,7 @@ layout: default
 
 </div>
 
-<div class="p-3 bg-purple-50 rounded-lg">
+<div class="p-3 bg-purple-50 rounded-lg text-gray-800">
 
 ### [Alma 7:11-13](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/7.11-13?lang=eng)
 
@@ -595,7 +595,7 @@ layout: default
 
 <div class="grid grid-cols-2 gap-4 text-sm">
 
-<div class="p-4 bg-blue-50 rounded-lg">
+<div class="p-4 bg-blue-50 rounded-lg text-gray-800">
 
 ### [Alma 40:11-14](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/40.11-14?lang=eng)
 
@@ -603,7 +603,7 @@ After death, our spirits go to the spirit world - paradise or spirit prison
 
 </div>
 
-<div class="p-4 bg-green-50 rounded-lg">
+<div class="p-4 bg-green-50 rounded-lg text-gray-800">
 
 ### [1 Cor 15:22](https://www.churchofjesuschrist.org/study/scriptures/nt/1-cor/15.22?lang=eng)
 
@@ -611,7 +611,7 @@ After death, our spirits go to the spirit world - paradise or spirit prison
 
 </div>
 
-<div class="p-4 bg-purple-50 rounded-lg">
+<div class="p-4 bg-purple-50 rounded-lg text-gray-800">
 
 ### [Mormon 3:20](https://www.churchofjesuschrist.org/study/scriptures/bofm/morm/3.20?lang=eng)
 
@@ -619,7 +619,7 @@ We will stand before God to be judged
 
 </div>
 
-<div class="p-4 bg-yellow-50 rounded-lg">
+<div class="p-4 bg-yellow-50 rounded-lg text-gray-800">
 
 ### [D&C 138:18-19](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/138.18-19?lang=eng)
 
@@ -800,7 +800,7 @@ layout: two-cols
 
 ## This Week
 
-<div class="p-4 bg-yellow-50 rounded-lg text-sm space-y-3">
+<div class="p-4 bg-yellow-50 rounded-lg text-sm space-y-3 text-gray-800">
 
 ### Try This:
 
@@ -878,31 +878,31 @@ layout: default
 
 <v-clicks>
 
-<div class="p-2 bg-blue-50 rounded-lg text-sm max-w-3xl mx-auto">
+<div class="p-2 bg-blue-50 rounded-lg text-sm max-w-3xl mx-auto text-gray-800">
 
 ✝️ **Jesus Christ is central** to every part of Heavenly Father's plan
 
 </div>
 
-<div class="p-2 bg-green-50 rounded-lg text-sm max-w-3xl mx-auto">
+<div class="p-2 bg-green-50 rounded-lg text-sm max-w-3xl mx-auto text-gray-800">
 
 🌟 **We lived with God** before coming to earth and chose to follow His plan
 
 </div>
 
-<div class="p-2 bg-purple-50 rounded-lg text-sm max-w-3xl mx-auto">
+<div class="p-2 bg-purple-50 rounded-lg text-sm max-w-3xl mx-auto text-gray-800">
 
 🎯 **This life is the time** to prepare to meet God through faith and obedience
 
 </div>
 
-<div class="p-2 bg-yellow-50 rounded-lg text-sm max-w-3xl mx-auto">
+<div class="p-2 bg-yellow-50 rounded-lg text-sm max-w-3xl mx-auto text-gray-800">
 
 🕊️ **Death is not the end** - we will be resurrected and can return to Heavenly Father
 
 </div>
 
-<div class="p-2 bg-pink-50 rounded-lg text-sm max-w-3xl mx-auto">
+<div class="p-2 bg-pink-50 rounded-lg text-sm max-w-3xl mx-auto text-gray-800">
 
 💝 **The Atonement of Jesus Christ** makes all the blessings of the plan possible
 

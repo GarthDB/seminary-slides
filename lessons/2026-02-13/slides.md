@@ -54,7 +54,7 @@ layout: default
 
 ## 🙏 Opening Prayer
 
-<div class="bg-blue-50 p-4 rounded-lg">
+<div class="bg-blue-50 p-4 rounded-lg text-gray-800">
 
 Ask someone to say the opening prayer
 
@@ -62,7 +62,7 @@ Ask someone to say the opening prayer
 
 ## 💬 QT Time with Annalisa
 
-<div class="bg-purple-50 p-4 rounded-lg">
+<div class="bg-purple-50 p-4 rounded-lg text-gray-800">
 
 **Question:** Why did President Oaks choose these 4 areas to focus on in his first message to the youth?
 
@@ -140,7 +140,7 @@ layout: default
 
 </div>
 
-<div class="p-4 bg-yellow-50 rounded-lg text-center">
+<div class="p-4 bg-yellow-50 rounded-lg text-center text-gray-800">
 
 <div class="text-base font-semibold">
 
@@ -195,7 +195,7 @@ layout: default
 
 ## Standards for All God's Children
 
-<div class="p-4 bg-blue-50 rounded-lg text-sm">
+<div class="p-4 bg-blue-50 rounded-lg text-sm text-gray-800">
 
 These apply to all members of the Church, whether on a mission or not:
 
@@ -203,7 +203,7 @@ These apply to all members of the Church, whether on a mission or not:
 
 <div class="grid grid-cols-2 gap-3 text-sm">
 
-<div class="p-3 bg-green-50 rounded-lg">
+<div class="p-3 bg-green-50 rounded-lg text-gray-800">
 
 - **Law of Chastity**
 - **Word of Wisdom**
@@ -211,7 +211,7 @@ These apply to all members of the Church, whether on a mission or not:
 
 </div>
 
-<div class="p-3 bg-purple-50 rounded-lg">
+<div class="p-3 bg-purple-50 rounded-lg text-gray-800">
 
 - **Honesty**
 - **Tithing**
@@ -221,7 +221,7 @@ These apply to all members of the Church, whether on a mission or not:
 
 </div>
 
-<div class="p-4 bg-yellow-50 rounded-lg text-center mt-3">
+<div class="p-4 bg-yellow-50 rounded-lg text-center mt-3 text-gray-800">
 
 These commandments prepare us to share the gospel with power
 
@@ -248,7 +248,7 @@ layout: default
 
 ## Specific to Full-Time Missionaries
 
-<div class="p-3 bg-blue-50 rounded-lg text-sm">
+<div class="p-3 bg-blue-50 rounded-lg text-sm text-gray-800">
 
 These focus on physical and spiritual safety:
 
@@ -256,25 +256,25 @@ These focus on physical and spiritual safety:
 
 <div class="space-y-1.5 text-xs">
 
-<div class="p-2.5 bg-green-50 rounded-lg">
+<div class="p-2.5 bg-green-50 rounded-lg text-gray-800">
 
 **Always stay with your companion** - for safety and spiritual protection
 
 </div>
 
-<div class="p-2.5 bg-purple-50 rounded-lg">
+<div class="p-2.5 bg-purple-50 rounded-lg text-gray-800">
 
 **Avoid dangerous situations** - no power tools, heavy machinery, tractors, trailers, or truck beds
 
 </div>
 
-<div class="p-2.5 bg-yellow-50 rounded-lg">
+<div class="p-2.5 bg-yellow-50 rounded-lg text-gray-800">
 
 **Media restrictions** - avoid TV, movies, video games, and unauthorized videos
 
 </div>
 
-<div class="p-2.5 bg-pink-50 rounded-lg">
+<div class="p-2.5 bg-pink-50 rounded-lg text-gray-800">
 
 **Physical contact** - limit to handshakes with opposite gender
 
@@ -301,7 +301,7 @@ layout: default
 
 <div class="space-y-4">
 
-<div class="p-6 bg-blue-50 rounded-lg">
+<div class="p-6 bg-blue-50 rounded-lg text-gray-800">
 
 **Watch:** "Stay Within the Lines" (5:10)
 
@@ -309,7 +309,7 @@ layout: default
 
 </div>
 
-<div class="p-4 bg-purple-50 rounded-lg text-center">
+<div class="p-4 bg-purple-50 rounded-lg text-center text-gray-800">
 
 https://www.churchofjesuschrist.org/media/video/2012-07-0007-stay-within-the-lines?lang=eng
 
@@ -408,43 +408,43 @@ layout: default
 
 <div class="grid grid-cols-2 gap-2 text-xs">
 
-<div class="p-2 bg-blue-50 rounded-lg leading-tight">
+<div class="p-2 bg-blue-50 rounded-lg leading-tight text-gray-800">
 
 **[Deuteronomy 6:1–3](https://www.churchofjesuschrist.org/study/scriptures/ot/deut/6?lang=eng&id=p1-p3)** - Blessings of keeping commandments
 
 </div>
 
-<div class="p-2 bg-green-50 rounded-lg leading-tight">
+<div class="p-2 bg-green-50 rounded-lg leading-tight text-gray-800">
 
 **[John 14:15, 21](https://www.churchofjesuschrist.org/study/scriptures/nt/john/14?lang=eng&id=p15,p21)** - If ye love me, keep my commandments
 
 </div>
 
-<div class="p-2 bg-purple-50 rounded-lg leading-tight">
+<div class="p-2 bg-purple-50 rounded-lg leading-tight text-gray-800">
 
 **[1 Nephi 3:7](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/3?lang=eng&id=p7)** - The Lord prepares a way
 
 </div>
 
-<div class="p-2 bg-yellow-50 rounded-lg leading-tight">
+<div class="p-2 bg-yellow-50 rounded-lg leading-tight text-gray-800">
 
 **[2 Nephi 31:10](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/31?lang=eng&id=p10)** - Follow Christ in obedience
 
 </div>
 
-<div class="p-2 bg-pink-50 rounded-lg leading-tight">
+<div class="p-2 bg-pink-50 rounded-lg leading-tight text-gray-800">
 
 **[Mosiah 2:41](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/2?lang=eng&id=p41)** - Happy are they who keep commandments
 
 </div>
 
-<div class="p-2 bg-teal-50 rounded-lg leading-tight">
+<div class="p-2 bg-teal-50 rounded-lg leading-tight text-gray-800">
 
 **[Alma 57:21](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/57?lang=eng&id=p21)** - Stripling warriors' exact obedience
 
 </div>
 
-<div class="p-2 bg-red-50 rounded-lg leading-tight" style="grid-column: span 2;">
+<div class="p-2 bg-red-50 rounded-lg leading-tight text-gray-800" style="grid-column: span 2;">
 
 **[D&C 130:20–21](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/130?lang=eng&id=p20-p21)** - Blessings predicated on obedience to law
 
@@ -483,7 +483,7 @@ layout: default
 
 </div>
 
-<div class="p-4 bg-green-50 rounded-lg text-center">
+<div class="p-4 bg-green-50 rounded-lg text-center text-gray-800">
 
 <div class="text-base font-semibold">
 
@@ -522,7 +522,7 @@ layout: default
 
 </div>
 
-<div class="p-4 bg-yellow-50 rounded-lg text-center">
+<div class="p-4 bg-yellow-50 rounded-lg text-center text-gray-800">
 
 <div class="text-base font-semibold">
 
@@ -561,7 +561,7 @@ layout: default
 
 </div>
 
-<div class="p-4 bg-blue-50 rounded-lg text-center">
+<div class="p-4 bg-blue-50 rounded-lg text-center text-gray-800">
 
 <div class="text-base font-semibold">
 
@@ -603,7 +603,7 @@ layout: default
 
 </div>
 
-<div class="p-4 bg-green-50 rounded-lg text-center">
+<div class="p-4 bg-green-50 rounded-lg text-center text-gray-800">
 
 <div class="text-base font-semibold">
 
@@ -650,7 +650,7 @@ layout: default
 
 </div>
 
-<div class="p-4 bg-yellow-50 rounded-lg text-center">
+<div class="p-4 bg-yellow-50 rounded-lg text-center text-gray-800">
 
 <div class="text-base font-semibold">
 
@@ -732,7 +732,7 @@ layout: default
 
 </div>
 
-<div class="p-4 bg-yellow-50 rounded-lg text-center">
+<div class="p-4 bg-yellow-50 rounded-lg text-center text-gray-800">
 
 <div class="text-base font-semibold">
 
@@ -763,7 +763,7 @@ layout: default
 
 ## Build Your Talk with These Elements:
 
-<div class="p-4 bg-blue-50 rounded-lg text-center font-semibold">
+<div class="p-4 bg-blue-50 rounded-lg text-center font-semibold text-gray-800">
 
 Topic
 
@@ -771,19 +771,19 @@ Topic
 
 <div class="grid grid-cols-3 gap-3 text-sm">
 
-<div class="p-4 bg-green-50 rounded-lg text-center">
+<div class="p-4 bg-green-50 rounded-lg text-center text-gray-800">
 
 **Scripture**
 
 </div>
 
-<div class="p-4 bg-purple-50 rounded-lg text-center">
+<div class="p-4 bg-purple-50 rounded-lg text-center text-gray-800">
 
 **Gen Conf**
 
 </div>
 
-<div class="p-4 bg-yellow-50 rounded-lg text-center">
+<div class="p-4 bg-yellow-50 rounded-lg text-center text-gray-800">
 
 **Personal Experience**
 
@@ -791,7 +791,7 @@ Topic
 
 </div>
 
-<div class="p-4 bg-pink-50 rounded-lg text-center font-semibold mt-3">
+<div class="p-4 bg-pink-50 rounded-lg text-center font-semibold mt-3 text-gray-800">
 
 Topic and Testimony
 
@@ -820,7 +820,7 @@ layout: default
 
 <div class="space-y-4">
 
-<div class="p-6 bg-blue-50 rounded-lg">
+<div class="p-6 bg-blue-50 rounded-lg text-gray-800">
 
 **Volunteer to share:** Would anyone like to share one part of your talk outline?
 
@@ -828,7 +828,7 @@ layout: default
 
 <div class="grid grid-cols-2 gap-4 text-sm">
 
-<div class="p-4 bg-green-50 rounded-lg">
+<div class="p-4 bg-green-50 rounded-lg text-gray-800">
 
 ### You Could Share:
 
@@ -839,7 +839,7 @@ layout: default
 
 </div>
 
-<div class="p-4 bg-purple-50 rounded-lg">
+<div class="p-4 bg-purple-50 rounded-lg text-gray-800">
 
 ### Remember:
 
@@ -913,37 +913,37 @@ layout: default
 
 <v-clicks>
 
-<div class="p-1.5 bg-blue-50 rounded-lg text-xs leading-tight">
+<div class="p-1.5 bg-blue-50 rounded-lg text-xs leading-tight text-gray-800">
 
 **Personal righteousness** qualifies us to represent the Savior and have the Spirit's companionship
 
 </div>
 
-<div class="p-1.5 bg-green-50 rounded-lg text-xs leading-tight">
+<div class="p-1.5 bg-green-50 rounded-lg text-xs leading-tight text-gray-800">
 
 **Obedience is how we show our love** for Heavenly Father and Jesus Christ ([John 14:15](https://www.churchofjesuschrist.org/study/scriptures/nt/john/14?lang=eng&id=p15))
 
 </div>
 
-<div class="p-1.5 bg-purple-50 rounded-lg text-xs leading-tight">
+<div class="p-1.5 bg-purple-50 rounded-lg text-xs leading-tight text-gray-800">
 
 **God prepares a way** for us to keep His commandments ([1 Nephi 3:7](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/3?lang=eng&id=p7))
 
 </div>
 
-<div class="p-1.5 bg-yellow-50 rounded-lg text-xs leading-tight">
+<div class="p-1.5 bg-yellow-50 rounded-lg text-xs leading-tight text-gray-800">
 
 **All blessings are predicated on obedience** to God's laws ([D&C 130:20-21](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/130?lang=eng&id=p20-p21))
 
 </div>
 
-<div class="p-1.5 bg-pink-50 rounded-lg text-xs leading-tight">
+<div class="p-1.5 bg-pink-50 rounded-lg text-xs leading-tight text-gray-800">
 
 **Without the Spirit, we cannot effectively share the gospel** - and obedience brings the Spirit
 
 </div>
 
-<div class="p-1.5 bg-teal-50 rounded-lg text-xs leading-tight">
+<div class="p-1.5 bg-teal-50 rounded-lg text-xs leading-tight text-gray-800">
 
 **Our obedience makes us examples** of hope and light to others
 

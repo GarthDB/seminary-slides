@@ -88,13 +88,13 @@ layout: default
 
 ## Opening prayer
 
-<div class="bg-blue-50 p-4 rounded-lg">
+<div class="bg-blue-50 p-4 rounded-lg text-gray-800">
 Ask someone to offer the opening prayer.
 </div>
 
 ## QT Time
 
-<div class="bg-purple-50 p-4 rounded-lg">
+<div class="bg-purple-50 p-4 rounded-lg text-gray-800">
 
 **[Student Name] is leading QT Time this week.**
 
@@ -151,7 +151,7 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto text-sm">
 
-<div class="p-5 bg-blue-50 rounded-lg leading-relaxed">
+<div class="p-5 bg-blue-50 rounded-lg leading-relaxed text-gray-800">
 
 > *"Now Naaman, captain of the host of the king of Syria, was a great man with his master, and honourable, because by him the Lord had given deliverance unto Syria: he was also a mighty man in valour, but he was a leper."*
 > — 2 Kings 5:1
@@ -160,7 +160,7 @@ layout: default
 
 </div>
 
-<div class="p-4 bg-indigo-50 rounded-lg">
+<div class="p-4 bg-indigo-50 rounded-lg text-gray-800">
 
 **Mark in your scriptures** everything you learn about Naaman in this verse — his status, his strength, and the one thing all of it couldn't fix.
 
@@ -189,7 +189,7 @@ layout: default
 
 </div>
 
-<div class="p-5 bg-yellow-50 rounded-lg text-sm italic">
+<div class="p-5 bg-yellow-50 rounded-lg text-sm italic text-gray-800">
 
 Reflect: What small, steady efforts are you making as a disciple of Jesus Christ right now — and what results are you seeing?
 
@@ -213,7 +213,7 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto text-sm">
 
-<div class="p-5 bg-green-50 rounded-lg leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg leading-relaxed text-gray-800">
 
 A young captive Israelite girl tells her mistress — Naaman's wife — about a prophet in Israel who could heal him (vv. 2–4). Naaman travels to Elisha's house expecting a dramatic encounter.
 
@@ -224,7 +224,7 @@ Elisha doesn't even come to the door. He sends a simple message:
 
 </div>
 
-<div class="p-4 bg-indigo-50 rounded-lg">
+<div class="p-4 bg-indigo-50 rounded-lg text-gray-800">
 
 **Look for:** what Naaman expected, how he reacted to the instruction, and who convinced him to actually try it (vv. 11–14).
 
@@ -247,7 +247,7 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto text-sm">
 
-<div class="p-5 bg-blue-50 rounded-lg leading-relaxed">
+<div class="p-5 bg-blue-50 rounded-lg leading-relaxed text-gray-800">
 
 What are some important lessons a teenager today could learn from Naaman's experience?
 
@@ -257,7 +257,7 @@ What are some important lessons a teenager today could learn from Naaman's exper
 Optional: watch ["Naaman and Elisha"](https://www.churchofjesuschrist.org/media/video/2011-03-0074-naaman-and-elisha) (14:30) to help find lessons.
 </div>
 
-<div class="p-5 bg-yellow-50 rounded-lg">
+<div class="p-5 bg-yellow-50 rounded-lg text-gray-800">
 
 **Next to a verse in 2 Kings 5**, note any lessons you learned from Naaman's experience. Consider including this truth:
 
@@ -296,7 +296,7 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto text-sm">
 
-<div class="p-5 bg-blue-50 rounded-lg leading-relaxed">
+<div class="p-5 bg-blue-50 rounded-lg leading-relaxed text-gray-800">
 
 **President Dallin H. Oaks** taught:
 
@@ -305,7 +305,7 @@ layout: default
 
 </div>
 
-<div class="p-4 bg-indigo-50 rounded-lg">
+<div class="p-4 bg-indigo-50 rounded-lg text-gray-800">
 
 **In your notebook:** list five or more small and simple things you could do that lead to great blessings. Choose one, search the scriptures and prophets for its promised blessings, and record or draw what you find.
 
@@ -331,7 +331,7 @@ layout: default
 
 <div class="space-y-3 max-w-4xl mx-auto text-sm">
 
-<div class="p-5 bg-purple-50 rounded-lg leading-relaxed">
+<div class="p-5 bg-purple-50 rounded-lg leading-relaxed text-gray-800">
 
 Ella's friend Greta isn't familiar with the restored Church. Greta's mother recently died, and Ella sees her struggling. Ella wants to share about eternal families — that Greta can be with her mom again — but she's nervous and doesn't want to offend her.
 
@@ -339,7 +339,7 @@ Ella's friend Greta isn't familiar with the restored Church. Greta's mother rece
 
 </div>
 
-<div class="p-4 bg-teal-50 rounded-lg leading-relaxed">
+<div class="p-4 bg-teal-50 rounded-lg leading-relaxed text-gray-800">
 
 Naaman was healed because people around him spoke up. Read and mark **who** gave each message and what it was:
 
@@ -351,7 +351,7 @@ Naaman was healed because people around him spoke up. Read and mark **who** gave
 
 </div>
 
-<div class="p-4 bg-indigo-50 rounded-lg">
+<div class="p-4 bg-indigo-50 rounded-lg text-gray-800">
 
 **In your notebook:** How did each small message strengthen Naaman's relationship with Heavenly Father and Jesus Christ? What advice would you give Ella to help her share what she knows with Greta?
 
@@ -382,7 +382,7 @@ One small act of obedience changed Naaman's testimony completely.
 
 </div>
 
-<div class="p-4 bg-green-50 rounded-lg text-sm">
+<div class="p-4 bg-green-50 rounded-lg text-sm text-gray-800">
 
 **Respond to one or both in your notebook:**
 1. A small and simple thing you feel you're already doing well — how has obeying it strengthened your relationship with Heavenly Father and Jesus Christ?

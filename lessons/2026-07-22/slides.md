@@ -88,13 +88,13 @@ layout: default
 
 ## Opening prayer
 
-<div class="bg-blue-50 p-4 rounded-lg">
+<div class="bg-blue-50 p-4 rounded-lg text-gray-800">
 Ask someone to offer the opening prayer.
 </div>
 
 ## QT Time
 
-<div class="bg-purple-50 p-4 rounded-lg">
+<div class="bg-purple-50 p-4 rounded-lg text-gray-800">
 
 **[Student Name] is leading QT Time this week.**
 
@@ -148,7 +148,7 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto text-sm">
 
-<div class="p-5 bg-red-50 rounded-lg leading-relaxed">
+<div class="p-5 bg-red-50 rounded-lg leading-relaxed text-gray-800">
 
 After a period of wickedness, the Israelites were oppressed by the Midianites. The Lord prepared a man named **Gideon** to help deliver Israel from their enemies (see [Judges 6:11–14](https://www.churchofjesuschrist.org/study/scriptures/ot/judg/6?lang=eng&id=p11-p14#p11)).
 
@@ -156,7 +156,7 @@ As he received the Lord's assignment, Gideon expressed concern that he would not
 
 </div>
 
-<div class="p-4 bg-indigo-50 rounded-lg">
+<div class="p-4 bg-indigo-50 rounded-lg text-gray-800">
 
 **Read and mark:** the comforting promise the Lord made to Gideon in [Judges 6:16](https://www.churchofjesuschrist.org/study/scriptures/ot/judg/6?lang=eng&id=p16#p16).
 
@@ -178,7 +178,7 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto text-sm">
 
-<div class="p-5 bg-green-50 rounded-lg leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg leading-relaxed text-gray-800">
 
 The Lord asked Gideon to **tear down** his father's altar to Baal — **then build** a new altar to the Lord in its place (see [Judges 6:25–26](https://www.churchofjesuschrist.org/study/scriptures/ot/judg/6?lang=eng&id=p25-p26#p25)).
 
@@ -186,7 +186,7 @@ The Lord asked Gideon to **tear down** his father's altar to Baal — **then bui
 
 </div>
 
-<div class="p-4 bg-indigo-50 rounded-lg">
+<div class="p-4 bg-indigo-50 rounded-lg text-gray-800">
 
 **Discuss:** Why do you think the Lord instructed Gideon to tear down the old altar *before* building the new one? Why does it matter which habits we get rid of, and which we develop?
 
@@ -220,7 +220,7 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto text-sm">
 
-<div class="p-5 bg-purple-50 rounded-lg leading-relaxed">
+<div class="p-5 bg-purple-50 rounded-lg leading-relaxed text-gray-800">
 
 Imagine **Amara**, a teenager living in Ghana. She has a younger sister, works a part-time job, and attends school.
 
@@ -228,7 +228,7 @@ Think of a situation in which Amara might feel stress, loneliness, or boredom. T
 
 </div>
 
-<div class="p-4 bg-indigo-50 rounded-lg">
+<div class="p-4 bg-indigo-50 rounded-lg text-gray-800">
 
 **Discuss:** How might recognizing what leads to an unhealthy habit help Amara begin to overcome it?
 
@@ -273,13 +273,13 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto text-sm">
 
-<div class="p-5 bg-blue-50 rounded-lg leading-relaxed">
+<div class="p-5 bg-blue-50 rounded-lg leading-relaxed text-gray-800">
 
 Changing our habits is hard work. Fortunately, Heavenly Father and Jesus Christ promise to help us change.
 
 </div>
 
-<div class="p-4 bg-indigo-50 rounded-lg">
+<div class="p-4 bg-indigo-50 rounded-lg text-gray-800">
 
 **Read and mark:** what these scriptures teach about how Jesus Christ can help us change —
 [Ezekiel 36:26–27](https://www.churchofjesuschrist.org/study/scriptures/ot/ezek/36?lang=eng&id=p26-p27#p26),
@@ -313,7 +313,7 @@ President **Jeffrey R. Holland** taught:
 
 </div>
 
-<div class="p-4 bg-indigo-50 rounded-lg text-sm">
+<div class="p-4 bg-indigo-50 rounded-lg text-sm text-gray-800">
 
 **Discuss:** Why do we need the help of Jesus Christ to change our habits? What are some ways we can come unto Him so He can help us?
 
@@ -335,7 +335,7 @@ class: text-center
 
 <div class="max-w-2xl mx-auto text-left space-y-3">
 
-<div class="p-6 bg-green-50 rounded-xl text-base leading-relaxed">
+<div class="p-6 bg-green-50 rounded-xl text-base leading-relaxed text-gray-800">
 
 In your notebook, complete these three prompts:
 

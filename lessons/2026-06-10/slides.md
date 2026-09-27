@@ -87,13 +87,13 @@ layout: default
 
 ## Opening prayer
 
-<div class="bg-blue-50 p-4 rounded-lg">
+<div class="bg-blue-50 p-4 rounded-lg text-gray-800">
 Ask someone to offer the opening prayer.
 </div>
 
 ## QT Time
 
-<div class="bg-purple-50 p-4 rounded-lg">
+<div class="bg-purple-50 p-4 rounded-lg text-gray-800">
 
 **[Student Name] is leading QT Time this week.**
 
@@ -150,7 +150,7 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto">
 
-<div class="p-5 bg-blue-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-blue-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Saul was Israel's **first king** — chosen by God, anointed by the prophet Samuel, and filled with the Spirit. He had tremendous potential.
 
@@ -158,7 +158,7 @@ But a pattern began to emerge: when the Lord gave Saul specific instructions, Sa
 
 </div>
 
-<div class="p-4 bg-yellow-50 rounded-lg text-sm">
+<div class="p-4 bg-yellow-50 rounded-lg text-sm text-gray-800">
 
 **Earlier example:** [1 Samuel 13:8–14](https://www.churchofjesuschrist.org/study/scriptures/ot/1-sam/13?lang=eng&id=p8-p14#p8) — Saul grew impatient waiting for Samuel and offered a sacrifice he wasn't authorized to give. Samuel's response: *"Thou hast done foolishly… the Lord would have established thy kingdom… but now thy kingdom shall not continue."*
 
@@ -181,7 +181,7 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto">
 
-<div class="p-6 bg-blue-50 rounded-lg text-base leading-relaxed">
+<div class="p-6 bg-blue-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Samuel delivered the Lord's command clearly:
 
@@ -189,7 +189,7 @@ Samuel delivered the Lord's command clearly:
 
 </div>
 
-<div class="p-4 bg-indigo-50 rounded-lg text-sm">
+<div class="p-4 bg-indigo-50 rounded-lg text-sm text-gray-800">
 
 **Mark the verse:** How specific was this command? Count the categories the Lord explicitly named.
 
@@ -216,7 +216,7 @@ layout: default
 
 <div class="grid grid-cols-2 gap-4 text-sm">
 
-<div class="p-5 bg-green-50 rounded-lg">
+<div class="p-5 bg-green-50 rounded-lg text-gray-800">
 
 **What Saul did:**
 - Attacked Amalek ✓
@@ -225,7 +225,7 @@ layout: default
 
 </div>
 
-<div class="p-5 bg-red-50 rounded-lg">
+<div class="p-5 bg-red-50 rounded-lg text-gray-800">
 
 **What Saul kept:**
 - Spared King Agag ✗
@@ -237,7 +237,7 @@ layout: default
 
 </div>
 
-<div class="p-4 bg-yellow-50 rounded-lg text-sm">
+<div class="p-4 bg-yellow-50 rounded-lg text-sm text-gray-800">
 
 **V.9:** *"But Saul and the people spared Agag, and the best of the sheep, and of the oxen, and of the fatlings… and would not utterly destroy them: but every thing that was vile and refuse, that they destroyed utterly."*
 
@@ -260,7 +260,7 @@ layout: default
 
 <div class="space-y-3 max-w-4xl mx-auto text-sm">
 
-<div class="p-4 bg-blue-50 rounded-lg">
+<div class="p-4 bg-blue-50 rounded-lg text-gray-800">
 
 When Samuel arrives, Saul's first words are: **"I have performed the commandment of the Lord."** (v.13)
 
@@ -276,7 +276,7 @@ When Samuel presses him about the animals, Saul says the people saved the best a
 
 </div>
 
-<div class="p-4 bg-red-50 rounded-lg">
+<div class="p-4 bg-red-50 rounded-lg text-gray-800">
 
 **V.24** — Saul finally confesses: *"I have sinned… I feared the people, and obeyed their voice."*
 
@@ -308,7 +308,7 @@ layout: default
 
 </div>
 
-<div class="p-5 bg-blue-50 rounded-lg text-sm">
+<div class="p-5 bg-blue-50 rounded-lg text-sm text-gray-800">
 
 **Think about it:**
 
@@ -345,13 +345,13 @@ In Gethsemane, Jesus knew exactly what obedience would cost Him. He prayed:
 
 <div class="grid grid-cols-2 gap-4 text-sm">
 
-<div class="p-4 bg-indigo-50 rounded-lg">
+<div class="p-4 bg-indigo-50 rounded-lg text-gray-800">
 
 **Saul:** Given a complete command. Chose his own version of it. Said "I have done it."
 
 </div>
 
-<div class="p-4 bg-teal-50 rounded-lg">
+<div class="p-4 bg-teal-50 rounded-lg text-gray-800">
 
 **Jesus:** Faced the hardest possible command. Chose the Father's will completely. Said "not as I will, but as thou wilt."
 
@@ -390,7 +390,7 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto text-sm">
 
-<div class="p-5 bg-blue-50 rounded-lg leading-relaxed">
+<div class="p-5 bg-blue-50 rounded-lg leading-relaxed text-gray-800">
 
 **Write a scenario** — describe a situation where you might be tempted to disobey a specific commandment. Then answer:
 
@@ -435,7 +435,7 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto text-sm">
 
-<div class="p-5 bg-purple-50 rounded-lg leading-relaxed">
+<div class="p-5 bg-purple-50 rounded-lg leading-relaxed text-gray-800">
 
 **Study and create** — read the passages below and create a simple drawing, diagram, or symbol that represents what you learn about *why* God gives commandments.
 
@@ -461,7 +461,7 @@ Why does Alma emphasize learning obedience *in youth*? What does that suggest ab
 
 </div>
 
-<div class="p-3 bg-pink-50 rounded-lg text-xs italic">
+<div class="p-3 bg-pink-50 rounded-lg text-xs italic text-gray-800">
 Be ready to share your artwork and explain one truth it represents.
 </div>
 

@@ -86,13 +86,13 @@ layout: default
 
 ## 🙏 Opening Prayer
 
-<div class="bg-blue-50 p-4 rounded-lg">
+<div class="bg-blue-50 p-4 rounded-lg text-gray-800">
 Ask someone to offer the opening prayer.
 </div>
 
 ## 💬 QT Time
 
-<div class="bg-purple-50 p-4 rounded-lg">
+<div class="bg-purple-50 p-4 rounded-lg text-gray-800">
 
 **[Student Name] is leading QT Time this week.**
 
@@ -124,7 +124,7 @@ layout: default
 
 # Lesson focus
 
-<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed">
+<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed text-gray-800">
 
 We all feel lost, broken, sick, or needy at times. Heavenly Father sent Jesus Christ to “bind up that which was broken” and “strengthen that which was sick” ( Ezekiel 34:16 (https://www.churchofjesuschrist.org/study/scriptures/ot/ezek/34?lang=eng&id=p16#p16) ). In Ezekiel 34 (https://www.churchofjesuschrist.org/study/scriptures/ot/ezek/34?lang=eng) , the prophet Ezekiel likens how a good shepherd cares for his flock to how Jesus Christ cares for Heavenly Father’s children. This lesson can help students follow the Savior’s example to seek out and care for others.
 
@@ -141,7 +141,7 @@ layout: default
 
 # Lesson focus
 
-<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed">
+<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed text-gray-800">
 
 On a trip to Morocco, Elder John R. Lasater of the Seventy learned about Jesus Christ’s love for Heavenly Father’s children when a sheep was hit by a royal car, entitling the shepherd to a large compensation. Elder Lasater’s interpreter said the shepherd wouldn’t accept the money. Elder Lasater then shared what happened next: As you study today, seek the help of the Holy Ghost to learn how we can follow the example of Jesus Christ to care for Heavenly Father’s children.
 
@@ -183,7 +183,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 On a trip to Morocco, Elder John R. Lasater of the Seventy learned about Jesus Christ’s love for Heavenly Father’s children when a sheep was hit by a royal car, entitling the shepherd to a large compensation. Elder Lasater’s interpreter said the shepherd wouldn’t accept the money. Elder Lasater then shared what happened next: As you study today, seek the help of the Holy Ghost to learn how we can follow the example of Jesus Christ to care for Heavenly Father’s children.
 
@@ -228,7 +228,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 In Ezekiel 34 (https://www.churchofjesuschrist.org/study/scriptures/ot/ezek/34?lang=eng) , the Lord compared the leaders of Israel to shepherds who were not taking care of their flocks. Read Ezekiel 34:1–6 (https://www.churchofjesuschrist.org/study/scriptures/ot/ezek/34?lang=eng&id=p1-p6#p1) , marking phrases the Lord used to describe the Israelite leaders.
 
@@ -245,7 +245,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 To help the leaders of Israel better care for their flocks, Jesus Christ described how He cares for His flock (see John 10:11, 14 (https://www.churchofjesuschrist.org/study/scriptures/nt/john/10?lang=eng&id=p11,p14#p11) , where Jesus also describes Himself as “the Good Shepherd”). Read Ezekiel 34:11–16 (https://www.churchofjesuschrist.org/study/scriptures/ot/ezek/34?lang=eng&id=p11-p16#p11) , marking phrases that describe what Jesus Christ does for Heavenly Father’s children.
 
@@ -262,7 +262,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Compare what you have marked in the two sets of verses you have studied in Ezekiel 34 (https://www.churchofjesuschrist.org/study/scriptures/ot/ezek/34?lang=eng) , then ponder how you would respond to the following questions:
 
@@ -307,7 +307,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Using what you found in Ezekiel 34:11–16 (https://www.churchofjesuschrist.org/study/scriptures/ot/ezek/34?lang=eng&id=p11-p16#p11) , make a list of practical ways youth can care for others as the Savior does.
 
@@ -369,7 +369,7 @@ layout: default
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm">
 
-<div class="p-5 bg-yellow-50 rounded-lg">
+<div class="p-5 bg-yellow-50 rounded-lg text-gray-800">
 
 ## Challenge
 - Complete **one** study option from the manual that fits your class time.
@@ -377,7 +377,7 @@ layout: default
 
 </div>
 
-<div class="p-5 bg-pink-50 rounded-lg">
+<div class="p-5 bg-pink-50 rounded-lg text-gray-800">
 
 ## Personal reflection
 - What will you **do** differently because of Christ?

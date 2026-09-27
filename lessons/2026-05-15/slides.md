@@ -87,13 +87,13 @@ layout: default
 
 ## Opening prayer
 
-<div class="bg-blue-50 p-4 rounded-lg">
+<div class="bg-blue-50 p-4 rounded-lg text-gray-800">
 Ask someone to offer the opening prayer.
 </div>
 
 ## QT Time
 
-<div class="bg-purple-50 p-4 rounded-lg">
+<div class="bg-purple-50 p-4 rounded-lg text-gray-800">
 
 **[Student Name] is leading QT Time this week.**
 
@@ -147,7 +147,7 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto">
 
-<div class="p-5 bg-yellow-50 rounded-lg text-base">
+<div class="p-5 bg-yellow-50 rounded-lg text-base text-gray-800">
 
 **Joshua's name is the same as Jesus.**
 
@@ -155,7 +155,7 @@ In Hebrew, Joshua is *Yehoshua* — "the Lord saves." In Greek, that becomes *Ie
 
 </div>
 
-<div class="p-4 bg-blue-50 rounded-lg text-sm">
+<div class="p-4 bg-blue-50 rounded-lg text-sm text-gray-800">
 
 **Why it matters:** When the Lord says "I will be with thee" to Joshua, He's making a promise that the Savior would later embody in person. Joshua leading Israel into the promised land is a *similitude* — a type pointing forward to Christ leading us home.
 
@@ -178,7 +178,7 @@ layout: default
 
 <div class="space-y-4">
 
-<div class="p-6 bg-blue-50 rounded-lg">
+<div class="p-6 bg-blue-50 rounded-lg text-gray-800">
 
 Moses has just died. The Lord calls Joshua to lead Israel across the Jordan River and into Canaan:
 
@@ -186,7 +186,7 @@ Moses has just died. The Lord calls Joshua to lead Israel across the Jordan Rive
 
 </div>
 
-<div class="p-4 bg-purple-50 rounded-lg text-sm">
+<div class="p-4 bg-purple-50 rounded-lg text-sm text-gray-800">
 
 **Think about it:** Moses was a towering figure — miracles, the Law, forty years of leadership. What would it feel like to step into his shoes? What would Joshua need most right now?
 
@@ -215,7 +215,7 @@ layout: default
 
 </div>
 
-<div class="p-4 bg-yellow-50 rounded-lg text-sm">
+<div class="p-4 bg-yellow-50 rounded-lg text-sm text-gray-800">
 
 **Count the commands:** How many times does God say "be strong" or "be courageous" in these verses? Why do you think He repeats it?
 
@@ -238,13 +238,13 @@ layout: default
 
 <div class="space-y-4">
 
-<div class="p-6 bg-green-50 rounded-lg text-base">
+<div class="p-6 bg-green-50 rounded-lg text-base text-gray-800">
 
 > *"This book of the law shall not depart out of thy mouth; but thou shalt meditate therein day and night, that thou mayest observe to do according to all that is written therein: for then thou shalt make thy way prosperous, and then thou shalt have good success."*
 
 </div>
 
-<div class="p-4 bg-purple-50 rounded-lg text-sm">
+<div class="p-4 bg-purple-50 rounded-lg text-sm text-gray-800">
 
 **Notice the structure:** The promise of success is connected to something specific. What does the Lord tell Joshua to do — and how is it different from just *reading* the scriptures?
 
@@ -280,7 +280,7 @@ layout: default
 
 <div class="space-y-4">
 
-<div class="p-5 bg-blue-50 rounded-lg text-sm leading-relaxed">
+<div class="p-5 bg-blue-50 rounded-lg text-sm leading-relaxed text-gray-800">
 
 Courage isn't the absence of fear — it's acting *despite* fear because you trust something bigger.
 
@@ -293,7 +293,7 @@ Read any three of these:
 
 </div>
 
-<div class="p-4 bg-yellow-50 rounded-lg text-sm">
+<div class="p-4 bg-yellow-50 rounded-lg text-sm text-gray-800">
 
 **In your notebook:** Name a challenge you're currently facing. What does "strong and courageous" look like for *you* in that situation? What do you know about God that makes courage possible?
 
@@ -316,7 +316,7 @@ layout: default
 
 <div class="space-y-4">
 
-<div class="p-5 bg-purple-50 rounded-lg text-sm leading-relaxed">
+<div class="p-5 bg-purple-50 rounded-lg text-sm leading-relaxed text-gray-800">
 
 **Elder D. Todd Christofferson** on what it means to *study* rather than just read:
 
@@ -325,7 +325,7 @@ layout: default
 
 </div>
 
-<div class="p-5 bg-teal-50 rounded-lg text-sm">
+<div class="p-5 bg-teal-50 rounded-lg text-sm text-gray-800">
 
 **Try it now:** Choose one verse from Joshua 1:5–9. Spend 3–4 minutes with it:
 1. Read it slowly — more than once
@@ -376,7 +376,7 @@ layout: default
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm">
 
-<div class="p-5 bg-yellow-50 rounded-lg">
+<div class="p-5 bg-yellow-50 rounded-lg text-gray-800">
 
 ## Challenge
 - Identify **one thing** you've been putting off because it feels too hard or too scary.
@@ -384,7 +384,7 @@ layout: default
 
 </div>
 
-<div class="p-5 bg-pink-50 rounded-lg">
+<div class="p-5 bg-pink-50 rounded-lg text-gray-800">
 
 ## Personal reflection
 - Write in your notebook: *"The Lord said 'I will not fail thee' to Joshua. I believe He says the same thing to me when ___________."*

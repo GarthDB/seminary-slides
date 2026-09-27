@@ -72,7 +72,7 @@ Say an opening prayer together
 </div>
 
 ## Create Your Note
-<div class="bg-blue-50 p-4 rounded-lg text-sm">
+<div class="bg-blue-50 p-4 rounded-lg text-sm text-gray-800">
 
 In your seminary notebook, create a note for this lesson:
 - Write down any questions you have
@@ -101,7 +101,7 @@ layout: section
 
 ## A Devastating Loss
 
-<div class="bg-red-50 p-6 rounded-lg text-left max-w-3xl mx-auto space-y-3">
+<div class="bg-red-50 p-6 rounded-lg text-left max-w-3xl mx-auto space-y-3 text-gray-800">
 
 ### 1823: Alvin Smith Dies
 
@@ -221,25 +221,25 @@ layout: default
 
 <v-clicks>
 
-<div class="p-4 bg-blue-50 rounded-lg">
+<div class="p-4 bg-blue-50 rounded-lg text-gray-800">
 
 **Verse 1**: "The heavens were opened upon us, and I beheld the celestial kingdom of God"
 
 </div>
 
-<div class="p-4 bg-green-50 rounded-lg">
+<div class="p-4 bg-green-50 rounded-lg text-gray-800">
 
 **Verses 2-3**: Joseph saw the "blazing throne" of God, the beautiful streets of the celestial kingdom
 
 </div>
 
-<div class="p-4 bg-purple-50 rounded-lg">
+<div class="p-4 bg-purple-50 rounded-lg text-gray-800">
 
 **Verses 4-5**: Joseph saw **Adam and Abraham** and **his own father and mother** in the celestial kingdom
 
 </div>
 
-<div class="p-4 bg-yellow-50 rounded-lg">
+<div class="p-4 bg-yellow-50 rounded-lg text-gray-800">
 
 **Verse 6**: Joseph saw his brother **Alvin** in the celestial kingdom! 🙌
 
@@ -342,7 +342,7 @@ layout: default
 
 ## [Doctrine and Covenants 137:7–8](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/137.7-8?lang=eng)
 
-<div class="p-6 bg-blue-50 rounded-lg text-lg space-y-4">
+<div class="p-6 bg-blue-50 rounded-lg text-lg space-y-4 text-gray-800">
 
 > **Verse 7**: "All who have died without a knowledge of this gospel, who **would have received it** if they had been permitted to tarry, shall be **heirs of the celestial kingdom of God**"
 
@@ -352,7 +352,7 @@ layout: default
 
 ## Key Principle
 
-<div class="p-6 bg-yellow-50 rounded-lg text-xl font-semibold mt-6">
+<div class="p-6 bg-yellow-50 rounded-lg text-xl font-semibold mt-6 text-gray-800">
 💡 God knows our hearts. Those who would have accepted the gospel if given the opportunity will be blessed as if they had received it.
 </div>
 
@@ -398,7 +398,7 @@ layout: two-cols
 
 ## Why This Matters
 
-<div class="p-6 bg-green-50 rounded-lg space-y-4 text-sm">
+<div class="p-6 bg-green-50 rounded-lg space-y-4 text-sm text-gray-800">
 
 ### This shows us:
 
@@ -469,13 +469,13 @@ layout: default
 
 ## [Doctrine and Covenants 137:9](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/137.9?lang=eng)
 
-<div class="p-8 bg-purple-50 rounded-lg text-2xl font-semibold text-center mb-6">
+<div class="p-8 bg-purple-50 rounded-lg text-2xl font-semibold text-center mb-6 text-gray-800">
 "For I, the Lord, will judge all men according to their works, according to the desire of their hearts."
 </div>
 
 <div class="grid grid-cols-2 gap-6">
 
-<div class="p-6 bg-blue-50 rounded-lg">
+<div class="p-6 bg-blue-50 rounded-lg text-gray-800">
 
 ### 💪 Our Works
 - Our actions
@@ -485,7 +485,7 @@ layout: default
 
 </div>
 
-<div class="p-6 bg-green-50 rounded-lg">
+<div class="p-6 bg-green-50 rounded-lg text-gray-800">
 
 ### ❤️ Our Desires
 - What we truly want
@@ -519,7 +519,7 @@ layout: default
 
 <div class="grid grid-cols-2 gap-6">
 
-<div class="p-6 bg-yellow-50 rounded-lg">
+<div class="p-6 bg-yellow-50 rounded-lg text-gray-800">
 
 ### Lorenzo's Concern
 Lorenzo worries he may never have a chance to find an eternal companion and marry in the temple.
@@ -528,7 +528,7 @@ Lorenzo worries he may never have a chance to find an eternal companion and marr
 
 </div>
 
-<div class="p-6 bg-pink-50 rounded-lg">
+<div class="p-6 bg-pink-50 rounded-lg text-gray-800">
 
 ### Amy's Situation
 Amy is the only member of the Church in her family. She's worried about not being sealed to her parents.
@@ -637,7 +637,7 @@ layout: default
 
 ## [Doctrine and Covenants 137:10](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/137.10?lang=eng)
 
-<div class="p-8 bg-pink-50 rounded-lg text-2xl font-semibold text-center mb-6">
+<div class="p-8 bg-pink-50 rounded-lg text-2xl font-semibold text-center mb-6 text-gray-800">
 "And I also beheld that all children who die before they arrive at the years of accountability are saved in the celestial kingdom of heaven."
 </div>
 
@@ -645,14 +645,14 @@ layout: default
 
 <div class="grid grid-cols-2 gap-6">
 
-<div class="p-6 bg-purple-50 rounded-lg">
+<div class="p-6 bg-purple-50 rounded-lg text-gray-800">
 
 ### Moroni 8:11–12
 Children cannot sin and don't need baptism until age of accountability (age 8)
 
 </div>
 
-<div class="p-6 bg-blue-50 rounded-lg">
+<div class="p-6 bg-blue-50 rounded-lg text-gray-800">
 
 ### Doctrine and Covenants 29:46
 Little children are redeemed through Jesus Christ from the foundation of the world
@@ -683,7 +683,7 @@ layout: default
 
 ## Imagine This Situation
 
-<div class="p-6 bg-yellow-50 rounded-lg">
+<div class="p-6 bg-yellow-50 rounded-lg text-gray-800">
 
 As a missionary, you meet the grieving parents of a two-year-old boy who had drowned. The parents worry that the little boy cannot go to heaven because he had never been baptized.
 
@@ -695,21 +695,21 @@ As a missionary, you meet the grieving parents of a two-year-old boy who had dro
 
 <div class="grid grid-cols-3 gap-4">
 
-<div class="p-4 bg-blue-50 rounded-lg text-sm">
+<div class="p-4 bg-blue-50 rounded-lg text-sm text-gray-800">
 
 ### D&C 137:10
 All children who die before accountability are saved in the celestial kingdom
 
 </div>
 
-<div class="p-4 bg-green-50 rounded-lg text-sm">
+<div class="p-4 bg-green-50 rounded-lg text-sm text-gray-800">
 
 ### Moroni 8:8
 Little children are alive in Christ, even from the foundation of the world
 
 </div>
 
-<div class="p-4 bg-purple-50 rounded-lg text-sm">
+<div class="p-4 bg-purple-50 rounded-lg text-sm text-gray-800">
 
 ### D&C 29:46
 Little children are redeemed through the Atonement
@@ -823,7 +823,7 @@ layout: default
 
 # Elder Quentin L. Cook
 
-<div class="p-8 bg-blue-50 rounded-xl space-y-6">
+<div class="p-8 bg-blue-50 rounded-xl space-y-6 text-gray-800">
 
 <div class="text-xl text-gray-800 leading-relaxed">
 
@@ -1010,23 +1010,23 @@ layout: default
 
 <v-clicks>
 
-<div class="p-3 bg-blue-50 rounded-lg text-base font-semibold max-w-3xl mx-auto">
+<div class="p-3 bg-blue-50 rounded-lg text-base font-semibold max-w-3xl mx-auto text-gray-800">
 ✝️ All who would have received the gospel will inherit the celestial kingdom
 </div>
 
-<div class="p-3 bg-green-50 rounded-lg text-base font-semibold max-w-3xl mx-auto">
+<div class="p-3 bg-green-50 rounded-lg text-base font-semibold max-w-3xl mx-auto text-gray-800">
 ❤️ The Lord judges us by our works AND the desires of our hearts
 </div>
 
-<div class="p-3 bg-purple-50 rounded-lg text-base font-semibold max-w-3xl mx-auto">
+<div class="p-3 bg-purple-50 rounded-lg text-base font-semibold max-w-3xl mx-auto text-gray-800">
 👶 All children who die before accountability are saved in the celestial kingdom
 </div>
 
-<div class="p-3 bg-yellow-50 rounded-lg text-base font-semibold max-w-3xl mx-auto">
+<div class="p-3 bg-yellow-50 rounded-lg text-base font-semibold max-w-3xl mx-auto text-gray-800">
 🏛️ Temple work extends these blessings to our ancestors
 </div>
 
-<div class="p-3 bg-pink-50 rounded-lg text-base font-semibold max-w-3xl mx-auto">
+<div class="p-3 bg-pink-50 rounded-lg text-base font-semibold max-w-3xl mx-auto text-gray-800">
 💝 God's plan is big enough for all His children
 </div>
 
@@ -1094,7 +1094,7 @@ layout: default
 
 <div class="grid grid-cols-2 gap-3 text-sm">
 
-<div class="p-3 bg-blue-50 rounded-lg">
+<div class="p-3 bg-blue-50 rounded-lg text-gray-800">
 
 **"Ministry of Joseph Smith: Temples"**  
 2:19 minutes
@@ -1103,7 +1103,7 @@ Understanding the vision in D&C 137 and Joseph's concerns about Alvin
 
 </div>
 
-<div class="p-3 bg-green-50 rounded-lg">
+<div class="p-3 bg-green-50 rounded-lg text-gray-800">
 
 **"Joseph Smith: The Prophet of the Restoration"**  
 Available on ChurchofJesusChrist.org
@@ -1112,7 +1112,7 @@ Context about the Smith family and their losses
 
 </div>
 
-<div class="p-3 bg-purple-50 rounded-lg">
+<div class="p-3 bg-purple-50 rounded-lg text-gray-800">
 
 **"If We Are Well Prepared, Death Brings No Terror"**  
 1:10 minutes
@@ -1121,7 +1121,7 @@ Understanding the plan of salvation and death
 
 </div>
 
-<div class="p-3 bg-pink-50 rounded-lg">
+<div class="p-3 bg-pink-50 rounded-lg text-gray-800">
 
 **"Rise"**  
 1:42 minutes

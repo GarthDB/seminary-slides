@@ -86,13 +86,13 @@ layout: default
 
 ## 🙏 Opening Prayer
 
-<div class="bg-blue-50 p-4 rounded-lg">
+<div class="bg-blue-50 p-4 rounded-lg text-gray-800">
 Ask someone to offer the opening prayer.
 </div>
 
 ## 💬 QT Time
 
-<div class="bg-purple-50 p-4 rounded-lg">
+<div class="bg-purple-50 p-4 rounded-lg text-gray-800">
 
 **[Student Name] is leading QT Time this week.**
 
@@ -124,7 +124,7 @@ layout: default
 
 # Lesson focus
 
-<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed">
+<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed text-gray-800">
 
 As members of the Savior’s Church, it is our blessing and responsibility to help “all the families of the earth be blessed, even with the blessings of the Gospel” ( Abraham 2:11 (https://www.churchofjesuschrist.org/study/scriptures/pgp/abr/2?lang=eng&id=p11#p11) ). At times, it may seem difficult to find ways to introduce others to the Savior’s gospel. This lesson can help students practice sharing the gospel of Jesus Christ with others in natural ways.
 
@@ -219,7 +219,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Study the following passages, looking for why you would want your loved ones to know the Savior. Isaiah 1:18 (https://www.churchofjesuschrist.org/study/scriptures/ot/isa/1?lang=eng&id=p18#p18) Isaiah 25:4, 8–9 (https://www.churchofjesuschrist.org/study/scriptures/ot/isa/25?lang=eng&id=p4,p8-p9#p4) Isaiah 40:28–31 (https://www.churchofjesuschrist.org/study/scriptures/ot/isa/40?lang=eng&id=p28-p31#p28)
 
@@ -236,7 +236,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Isaiah 43:25 (https://www.churchofjesuschrist.org/study/scriptures/ot/isa/43?lang=eng&id=p25#p25) Isaiah 54:10 (https://www.churchofjesuschrist.org/study/scriptures/ot/isa/54?lang=eng&id=p10#p10)
 
@@ -282,7 +282,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Read Jeremiah 1:6 (https://www.churchofjesuschrist.org/study/scriptures/ot/jer/1?lang=eng&id=p6#p6) , looking for how Jeremiah felt when he was called to teach the people. Read Jeremiah 1:7–9 (https://www.churchofjesuschrist.org/study/scriptures/ot/jer/1?lang=eng&id=p7-p9#p7) , looking for the Savior’s counsel and promises to Jeremiah.
 
@@ -299,7 +299,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Elder Dieter F. Uchtdorf of the Quorum of the Twelve Apostles gave the following counsel that could also help us overcome hesitation to share the gospel:
 
@@ -341,7 +341,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Elder Quentin L. Cook of the Quorum of the Twelve Apostles explained one way you can create conversations about gospel subjects.
 
@@ -385,7 +385,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Talking about part of our life can feel more natural if we first ask someone else about the same thing in their life. To do this you can:
 
@@ -447,7 +447,7 @@ layout: default
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm">
 
-<div class="p-5 bg-yellow-50 rounded-lg">
+<div class="p-5 bg-yellow-50 rounded-lg text-gray-800">
 
 ## Challenge
 - Complete **one** study option from the manual that fits your class time.
@@ -455,7 +455,7 @@ layout: default
 
 </div>
 
-<div class="p-5 bg-pink-50 rounded-lg">
+<div class="p-5 bg-pink-50 rounded-lg text-gray-800">
 
 ## Personal reflection
 - What will you **do** differently because of Christ?

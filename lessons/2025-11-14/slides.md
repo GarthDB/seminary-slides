@@ -72,7 +72,7 @@ Say an opening prayer together
 </div>
 
 ## Today's Focus
-<div class="bg-blue-50 p-6 rounded-lg">
+<div class="bg-blue-50 p-6 rounded-lg text-gray-800">
 
 **Last day of class!** Today we'll:
 - Reflect on what we've learned this trimester
@@ -144,7 +144,7 @@ class: text-center
 
 <div class="grid grid-cols-2 gap-6 text-left">
 
-<div class="p-6 bg-blue-50 rounded-lg">
+<div class="p-6 bg-blue-50 rounded-lg text-gray-800">
 
 ### Key Sections
 - D&C 94–138
@@ -154,7 +154,7 @@ class: text-center
 
 </div>
 
-<div class="p-6 bg-green-50 rounded-lg">
+<div class="p-6 bg-green-50 rounded-lg text-gray-800">
 
 ### Major Themes
 - Temple worship
@@ -164,7 +164,7 @@ class: text-center
 
 </div>
 
-<div class="p-6 bg-purple-50 rounded-lg">
+<div class="p-6 bg-purple-50 rounded-lg text-gray-800">
 
 ### Life Preparation
 - Education
@@ -174,7 +174,7 @@ class: text-center
 
 </div>
 
-<div class="p-6 bg-yellow-50 rounded-lg">
+<div class="p-6 bg-yellow-50 rounded-lg text-gray-800">
 
 ### Doctrinal Mastery
 - Key passages memorized
@@ -220,7 +220,7 @@ layout: default
 
 </div>
 
-<div class="mt-6 p-6 bg-yellow-50 rounded-lg">
+<div class="mt-6 p-6 bg-yellow-50 rounded-lg text-gray-800">
 
 ### Reflection
 
@@ -251,7 +251,7 @@ layout: default
 
 <v-clicks>
 
-<div class="p-3 bg-blue-50 rounded-lg">
+<div class="p-3 bg-blue-50 rounded-lg text-gray-800">
 
 ### 1️⃣ Act in Faith
 <div class="text-sm">
@@ -263,7 +263,7 @@ layout: default
 </div>
 </div>
 
-<div class="p-3 bg-green-50 rounded-lg">
+<div class="p-3 bg-green-50 rounded-lg text-gray-800">
 
 ### 2️⃣ Examine Concepts with an Eternal Perspective
 <div class="text-sm">
@@ -275,7 +275,7 @@ layout: default
 </div>
 </div>
 
-<div class="p-3 bg-purple-50 rounded-lg">
+<div class="p-3 bg-purple-50 rounded-lg text-gray-800">
 
 ### 3️⃣ Seek Further Understanding Through Divinely Appointed Sources
 <div class="text-sm">
@@ -328,7 +328,7 @@ layout: two-cols
 
 ## How Have These Helped You?
 
-<div class="p-4 bg-yellow-50 rounded-lg text-sm space-y-4">
+<div class="p-4 bg-yellow-50 rounded-lg text-sm space-y-4 text-gray-800">
 
 **Reflection Questions:**
 
@@ -358,7 +358,7 @@ layout: default
 
 <div class="grid grid-cols-2 gap-4 text-sm">
 
-<div class="p-3 bg-blue-50 rounded-lg">
+<div class="p-3 bg-blue-50 rounded-lg text-gray-800">
 
 ### [D&C 130](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/130?lang=eng)
 - Principles of truth
@@ -369,7 +369,7 @@ layout: default
 
 </div>
 
-<div class="p-3 bg-green-50 rounded-lg">
+<div class="p-3 bg-green-50 rounded-lg text-gray-800">
 
 ### [D&C 131](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/131?lang=eng)
 - Three degrees of glory
@@ -380,7 +380,7 @@ layout: default
 
 </div>
 
-<div class="p-3 bg-purple-50 rounded-lg">
+<div class="p-3 bg-purple-50 rounded-lg text-gray-800">
 
 ### [D&C 132:1-2, 34-66](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/132.1-2,34-66?lang=eng)
 - The new and everlasting covenant
@@ -391,7 +391,7 @@ layout: default
 
 </div>
 
-<div class="p-3 bg-yellow-50 rounded-lg">
+<div class="p-3 bg-yellow-50 rounded-lg text-gray-800">
 
 ### Doctrinal Mastery
 - Review of key passages
@@ -513,7 +513,7 @@ class: text-center
 
 <div class="grid grid-cols-3 gap-6 text-left">
 
-<div class="p-6 bg-blue-50 rounded-lg">
+<div class="p-6 bg-blue-50 rounded-lg text-gray-800">
 
 ### 🏛️ Temples
 - Purpose of temple work
@@ -523,7 +523,7 @@ class: text-center
 
 </div>
 
-<div class="p-6 bg-green-50 rounded-lg">
+<div class="p-6 bg-green-50 rounded-lg text-gray-800">
 
 ### 👥 Priesthood
 - Organization restored
@@ -533,7 +533,7 @@ class: text-center
 
 </div>
 
-<div class="p-6 bg-purple-50 rounded-lg">
+<div class="p-6 bg-purple-50 rounded-lg text-gray-800">
 
 ### 👨‍👩‍👧‍👦 Families
 - Eternal nature
@@ -574,7 +574,7 @@ layout: default
 
 <div class="grid grid-cols-2 gap-6">
 
-<div class="p-6 bg-blue-50 rounded-lg">
+<div class="p-6 bg-blue-50 rounded-lg text-gray-800">
 
 ### 📱 Apps
 - Gospel Library
@@ -584,7 +584,7 @@ layout: default
 
 </div>
 
-<div class="p-6 bg-green-50 rounded-lg">
+<div class="p-6 bg-green-50 rounded-lg text-gray-800">
 
 ### 📖 Scripture Study
 - Continue daily reading
@@ -594,7 +594,7 @@ layout: default
 
 </div>
 
-<div class="p-6 bg-purple-50 rounded-lg">
+<div class="p-6 bg-purple-50 rounded-lg text-gray-800">
 
 ### 🏛️ Temple Work
 - Explore your family tree
@@ -604,7 +604,7 @@ layout: default
 
 </div>
 
-<div class="p-6 bg-yellow-50 rounded-lg">
+<div class="p-6 bg-yellow-50 rounded-lg text-gray-800">
 
 ### 🎧 General Conference
 - Study recent talks
@@ -726,27 +726,27 @@ layout: section
 
 <v-clicks>
 
-<div class="p-4 bg-blue-50 rounded-lg">
+<div class="p-4 bg-blue-50 rounded-lg text-gray-800">
 🏛️ **Temples** connect us to heaven and help us become like God
 </div>
 
-<div class="p-4 bg-green-50 rounded-lg">
+<div class="p-4 bg-green-50 rounded-lg text-gray-800">
 👨‍👩‍👧‍👦 **Families** can be eternal through temple covenants
 </div>
 
-<div class="p-4 bg-purple-50 rounded-lg">
+<div class="p-4 bg-purple-50 rounded-lg text-gray-800">
 📖 **Personal revelation** is available to all of us through the Holy Ghost
 </div>
 
-<div class="p-4 bg-yellow-50 rounded-lg">
+<div class="p-4 bg-yellow-50 rounded-lg text-gray-800">
 ✝️ **Jesus Christ** is at the center of everything we learn and do
 </div>
 
-<div class="p-4 bg-pink-50 rounded-lg">
+<div class="p-4 bg-pink-50 rounded-lg text-gray-800">
 💪 **Acquiring spiritual knowledge** is a skill you can use throughout your life
 </div>
 
-<div class="p-4 bg-orange-50 rounded-lg">
+<div class="p-4 bg-orange-50 rounded-lg text-gray-800">
 🎯 **Your divine potential** is infinite - you can become like Heavenly Father
 </div>
 

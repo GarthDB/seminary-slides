@@ -78,7 +78,7 @@ layout: section
 **Christopher** - QT Time Leader
 
 ## Question & Answer
-<div class="bg-blue-50 p-6 rounded-lg text-left max-w-4xl mx-auto">
+<div class="bg-blue-50 p-6 rounded-lg text-left max-w-4xl mx-auto text-gray-800">
 
 ### Question
 "Can we help each other in dissecting or feasting on the blessings that others have in store for them?"

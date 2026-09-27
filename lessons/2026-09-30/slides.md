@@ -86,13 +86,13 @@ layout: default
 
 ## 🙏 Opening Prayer
 
-<div class="bg-blue-50 p-4 rounded-lg">
+<div class="bg-blue-50 p-4 rounded-lg text-gray-800">
 Ask someone to offer the opening prayer.
 </div>
 
 ## 💬 QT Time
 
-<div class="bg-purple-50 p-4 rounded-lg">
+<div class="bg-purple-50 p-4 rounded-lg text-gray-800">
 
 **[Student Name] is leading QT Time this week.**
 
@@ -124,7 +124,7 @@ layout: default
 
 # Lesson focus
 
-<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed">
+<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed text-gray-800">
 
 Heavenly Father and Jesus Christ know you personally and perfectly. Yet sometimes we see the challenges of mortality and cry, “The Lord has forsaken me” (see Isaiah 49:14 (https://www.churchofjesuschrist.org/study/scriptures/ot/isa/49?lang=eng&id=p14#p14) ). Isaiah’s words reassure us that we have been graven upon the Savior’s hands and will never be forsaken or forgotten (see Isaiah 49:16 (https://www.churchofjesuschrist.org/study/scriptures/ot/isa/49?lang=eng&id=p16#p16) ). This lesson can help students feel that Heavenly Father and Jesus Christ love us and will not forget us.
 
@@ -141,7 +141,7 @@ layout: default
 
 # Lesson focus
 
-<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed">
+<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed text-gray-800">
 
 Sharing a childhood memory, President Dieter F. Uchtdorf, then of the First Presidency, said: President Uchtdorf continued:
 
@@ -186,7 +186,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Sharing a childhood memory, President Dieter F. Uchtdorf, then of the First Presidency, said: President Uchtdorf continued: Ponder your own experiences with Heavenly Father and Jesus Christ as you answer the following questions: As you study Isaiah 49 (https://www.churchofjesuschrist.org/study/scriptures/ot/isa/49?lang=eng) today, seek impressions from the Holy Ghost testifying that Heavenly Father and Jesus Christ will never forget you.
 
@@ -229,7 +229,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Read Isaiah 49:4–5 (https://www.churchofjesuschrist.org/study/scriptures/ot/isa/49?lang=eng&id=p4-p5#p4) , thinking about why Isaiah may have felt this way. Then read them thinking about how God’s covenant people could feel this way. Read Isaiah 49:13–16 (https://www.churchofjesuschrist.org/study/scriptures/ot/isa/49?lang=eng&id=p13-p16#p13) , looking for what the Lord wanted His covenant people (Zion) to understand.
 
@@ -246,7 +246,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Cross-reference or link Isaiah 49:16 (https://www.churchofjesuschrist.org/study/scriptures/ot/isa/49?lang=eng&id=p16#p16) with John 19:15–19 (https://www.churchofjesuschrist.org/study/scriptures/nt/john/19?lang=eng&id=p15-p19#p15) and 3 Nephi 11:10–15 (https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/11?lang=eng&id=p10-p15#p10) . Slowly read these passages, marking words and phrases that help you feel the love Heavenly Father and Jesus Christ have for you. Look for teachings that help you understand why They will not forget or forsake you.
 
@@ -334,7 +334,7 @@ layout: default
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm">
 
-<div class="p-5 bg-yellow-50 rounded-lg">
+<div class="p-5 bg-yellow-50 rounded-lg text-gray-800">
 
 ## Challenge
 - Complete **one** study option from the manual that fits your class time.
@@ -342,7 +342,7 @@ layout: default
 
 </div>
 
-<div class="p-5 bg-pink-50 rounded-lg">
+<div class="p-5 bg-pink-50 rounded-lg text-gray-800">
 
 ## Personal reflection
 - What will you **do** differently because of Christ?

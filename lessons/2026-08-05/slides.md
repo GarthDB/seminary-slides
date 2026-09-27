@@ -87,13 +87,13 @@ layout: default
 
 ## Opening prayer
 
-<div class="bg-blue-50 p-4 rounded-lg">
+<div class="bg-blue-50 p-4 rounded-lg text-gray-800">
 Ask someone to offer the opening prayer.
 </div>
 
 ## QT Time
 
-<div class="bg-purple-50 p-4 rounded-lg">
+<div class="bg-purple-50 p-4 rounded-lg text-gray-800">
 
 **[Student Name] is leading QT Time this week.**
 
@@ -143,7 +143,7 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto text-sm">
 
-<div class="p-6 bg-blue-50 rounded-lg text-base leading-relaxed">
+<div class="p-6 bg-blue-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 *[Preach My Gospel](https://www.churchofjesuschrist.org/study/manual/preach-my-gospel-2023?lang=eng)* teaches: "Learning to set goals and make plans can bless you throughout your life. It can help you make and keep covenants with God, serve faithfully in the Church, pursue education, grow in your employment, and build a strong family." (*Preach My Gospel* [2023], 147)
 
@@ -174,7 +174,7 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto text-sm">
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 One example of the Lord helping His children move forward and accomplish their goals is Abraham. Several years before his call as the Lord's prophet, Abraham was raised in a land of wickedness and idolatry — even his own father tried to "take away [his] life" (see [Abraham 1:30](https://www.churchofjesuschrist.org/study/scriptures/pgp/abr/1?lang=eng&id=p30#p30)).
 
@@ -195,7 +195,7 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto text-sm">
 
-<div class="p-5 bg-green-50 rounded-lg leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg leading-relaxed text-gray-800">
 
 **Mark the goals** Abraham set for himself.
 
@@ -242,7 +242,7 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto text-sm">
 
-<div class="p-5 bg-green-50 rounded-lg leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg leading-relaxed text-gray-800">
 
 **Mark what Abraham did** to access God's help.
 
@@ -294,7 +294,7 @@ layout: default
 
 # Jayden tries the process
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed max-w-4xl mx-auto space-y-2">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed max-w-4xl mx-auto space-y-2 text-gray-800">
 
 - Jayden asks Heavenly Father for help setting a goal. He decides to study the Book of Mormon daily for 10 minutes, and to wake up earlier so he can study before school.
 - After one week, he notices he keeps sleeping in. He prays for help.
@@ -314,7 +314,7 @@ layout: default
 
 # Practice goal setting
 
-<div class="p-6 bg-purple-50 rounded-lg text-base leading-relaxed max-w-4xl mx-auto">
+<div class="p-6 bg-purple-50 rounded-lg text-base leading-relaxed max-w-4xl mx-auto text-gray-800">
 
 In your notebook, **write one or two goals** you would like to accomplish. Create a detailed plan for the steps you'll take.
 
@@ -366,7 +366,7 @@ layout: default
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm">
 
-<div class="p-5 bg-yellow-50 rounded-lg">
+<div class="p-5 bg-yellow-50 rounded-lg text-gray-800">
 
 ## Challenge
 - Write down **one or two goals** with a real plan, including how you'll involve the Lord.
@@ -374,7 +374,7 @@ layout: default
 
 </div>
 
-<div class="p-5 bg-pink-50 rounded-lg">
+<div class="p-5 bg-pink-50 rounded-lg text-gray-800">
 
 ## Personal reflection
 Share with your teacher or class: *a goal you plan to accomplish and how you'll include the Lord to accomplish it.*

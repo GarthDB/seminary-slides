@@ -87,13 +87,13 @@ layout: default
 
 ## Opening prayer
 
-<div class="bg-blue-50 p-4 rounded-lg">
+<div class="bg-blue-50 p-4 rounded-lg text-gray-800">
 Ask someone to offer the opening prayer.
 </div>
 
 ## QT Time
 
-<div class="bg-purple-50 p-4 rounded-lg">
+<div class="bg-purple-50 p-4 rounded-lg text-gray-800">
 
 **[Student Name] is leading QT Time this week.**
 
@@ -126,7 +126,7 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto text-sm">
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Bring an unopened can of soda to class. Shake it as you discuss the first question below — but don't open it.
 
@@ -134,7 +134,7 @@ Just as it's normal for the pressure to build inside a shaken can, it's normal f
 
 </div>
 
-<div class="p-4 bg-indigo-50 rounded-lg">
+<div class="p-4 bg-indigo-50 rounded-lg text-gray-800">
 
 **Discuss:**
 - What happens inside an unopened soda can if you repeatedly shake it? What would happen if you opened it right then?
@@ -167,7 +167,7 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto text-sm">
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Isaac and Rebekah had twin sons, Esau and Jacob. As the oldest, Esau was entitled to his father's birthright blessing — inheriting his father's possessions and becoming the family's provider and spiritual leader. Because of Esau's unrighteous actions (see [Genesis 25:31–34](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/25?lang=eng&id=p31-p34#p31); [26:34–35](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/26?lang=eng&id=p34-p35#p34)), Jacob was given the birthright blessing instead (see [Genesis 27:1–33](https://www.churchofjesuschrist.org/study/scriptures/ot/gen/27?lang=eng&id=p1-p33#p1)).
 
@@ -175,7 +175,7 @@ Read [Genesis 27:41–45](https://www.churchofjesuschrist.org/study/scriptures/o
 
 </div>
 
-<div class="p-4 bg-indigo-50 rounded-lg">
+<div class="p-4 bg-indigo-50 rounded-lg text-gray-800">
 
 **Discuss:**
 - What was the result of Esau's anger?
@@ -207,7 +207,7 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto text-sm">
 
-<div class="p-5 bg-blue-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-blue-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 In pairs, each read one passage, looking for what you learn about responding to feelings of anger: [Psalm 103:8](https://www.churchofjesuschrist.org/study/scriptures/ot/ps/103?lang=eng&id=p8#p8) and [Proverbs 16:32](https://www.churchofjesuschrist.org/study/scriptures/ot/prov/16?lang=eng&id=p32#p32).
 
@@ -215,7 +215,7 @@ In pairs, each read one passage, looking for what you learn about responding to 
 
 </div>
 
-<div class="p-4 bg-indigo-50 rounded-lg">
+<div class="p-4 bg-indigo-50 rounded-lg text-gray-800">
 
 **Discuss:**
 - How would you summarize what we can learn about dealing with anger?
@@ -247,21 +247,21 @@ layout: default
 
 <div class="grid grid-cols-1 md:grid-cols-3 gap-4 max-w-4xl mx-auto text-sm">
 
-<div class="p-5 bg-yellow-50 rounded-lg">
+<div class="p-5 bg-yellow-50 rounded-lg text-gray-800">
 
 ### 1. Recognize
 What sparked the angry feelings?
 
 </div>
 
-<div class="p-5 bg-green-50 rounded-lg">
+<div class="p-5 bg-green-50 rounded-lg text-gray-800">
 
 ### 2. Identify
 What underlying emotions are really there?
 
 </div>
 
-<div class="p-5 bg-blue-50 rounded-lg">
+<div class="p-5 bg-blue-50 rounded-lg text-gray-800">
 
 ### 3. Select
 Choose a cool-down strategy.
@@ -270,7 +270,7 @@ Choose a cool-down strategy.
 
 </div>
 
-<div class="max-w-4xl mx-auto text-sm p-4 bg-indigo-50 rounded-lg mt-4">
+<div class="max-w-4xl mx-auto text-sm p-4 bg-indigo-50 rounded-lg mt-4 text-gray-800">
 
 Work through the "Steps to Managing Anger" handout individually, or in pairs — pausing to answer the personal questions on your own.
 
@@ -315,14 +315,14 @@ layout: default
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm">
 
-<div class="p-5 bg-yellow-50 rounded-lg">
+<div class="p-5 bg-yellow-50 rounded-lg text-gray-800">
 
 ## Challenge
 - Next time you feel angry, try one of the three steps — recognize, identify, or select a cool-down strategy — before you respond.
 
 </div>
 
-<div class="p-5 bg-pink-50 rounded-lg">
+<div class="p-5 bg-pink-50 rounded-lg text-gray-800">
 
 ## Personal reflection
 - What will you do differently, because of Christ, the next time you feel angry?

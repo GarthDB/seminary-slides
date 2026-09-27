@@ -94,13 +94,13 @@ layout: default
 
 ## Opening prayer
 
-<div class="bg-blue-50 p-4 rounded-lg">
+<div class="bg-blue-50 p-4 rounded-lg text-gray-800">
 Ask someone to offer the opening prayer.
 </div>
 
 ## QT Time
 
-<div class="bg-purple-50 p-4 rounded-lg">
+<div class="bg-purple-50 p-4 rounded-lg text-gray-800">
 
 **[Student Name] is leading QT Time this week.**
 
@@ -155,13 +155,13 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto text-sm">
 
-<div class="p-5 bg-blue-50 rounded-lg leading-relaxed">
+<div class="p-5 bg-blue-50 rounded-lg leading-relaxed text-gray-800">
 
 **Read:** [Nehemiah 8:1–8](https://www.churchofjesuschrist.org/study/scriptures/ot/neh/8?lang=eng&id=p1-p8#p1). Look for every detail describing how the people responded to hearing the law read — their posture, their words, their attention.
 
 </div>
 
-<div class="p-4 bg-indigo-50 rounded-lg">
+<div class="p-4 bg-indigo-50 rounded-lg text-gray-800">
 
 **Mark it:** the people gathered as **one**, stood as the book was opened, answered **"Amen, Amen"** with hands raised, bowed and worshiped — and Ezra read "from the morning until midday," with the Levites there to "give the sense" so everyone could understand.
 
@@ -184,7 +184,7 @@ class: text-center
 
 <div class="max-w-2xl mx-auto text-left space-y-4">
 
-<div class="p-6 bg-indigo-50 rounded-xl text-lg leading-relaxed">
+<div class="p-6 bg-indigo-50 rounded-xl text-lg leading-relaxed text-gray-800">
 
 Hearing the law, the people **wept**. But Nehemiah, Ezra, and the Levites tell them:
 

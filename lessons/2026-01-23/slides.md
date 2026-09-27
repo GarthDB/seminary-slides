@@ -54,7 +54,7 @@ layout: default
 
 ## 🙏 Opening Prayer
 
-<div class="bg-blue-50 p-4 rounded-lg">
+<div class="bg-blue-50 p-4 rounded-lg text-gray-800">
 
 Ask someone to say the opening prayer
 
@@ -62,7 +62,7 @@ Ask someone to say the opening prayer
 
 ## 💬 QT Time
 
-<div class="bg-purple-50 p-4 rounded-lg">
+<div class="bg-purple-50 p-4 rounded-lg text-gray-800">
 
 **Haley is leading QT Time this week**
 
@@ -115,7 +115,7 @@ layout: default
 
 ## Think About It
 
-<div class="p-6 bg-yellow-50 rounded-lg text-lg">
+<div class="p-6 bg-yellow-50 rounded-lg text-lg text-gray-800">
 
 What do you already know about Adam and Eve and the Fall?
 
@@ -123,7 +123,7 @@ What do you already know about Adam and Eve and the Fall?
 
 <div class="grid grid-cols-2 gap-4 text-sm">
 
-<div class="p-4 bg-blue-50 rounded-lg">
+<div class="p-4 bg-blue-50 rounded-lg text-gray-800">
 
 ### Common Ideas
 
@@ -134,7 +134,7 @@ What do you already know about Adam and Eve and the Fall?
 
 </div>
 
-<div class="p-4 bg-green-50 rounded-lg">
+<div class="p-4 bg-green-50 rounded-lg text-gray-800">
 
 ### But There's More...
 
@@ -229,27 +229,27 @@ layout: default
 
 <v-clicks>
 
-<div class="p-3 bg-red-50 rounded-lg text-sm">
+<div class="p-3 bg-red-50 rounded-lg text-sm text-gray-800">
 💀 **Death** - Physical and spiritual death entered the world
 </div>
 
-<div class="p-3 bg-orange-50 rounded-lg text-sm">
+<div class="p-3 bg-orange-50 rounded-lg text-sm text-gray-800">
 😢 **Sorrow** - Pain, suffering, and sadness became part of life
 </div>
 
-<div class="p-3 bg-yellow-50 rounded-lg text-sm">
+<div class="p-3 bg-yellow-50 rounded-lg text-sm text-gray-800">
 💼 **Work** - Adam and Eve had to work to provide for themselves
 </div>
 
-<div class="p-3 bg-green-50 rounded-lg text-sm">
+<div class="p-3 bg-green-50 rounded-lg text-sm text-gray-800">
 👶 **Children** - They could now have children (mortality began!)
 </div>
 
-<div class="p-3 bg-blue-50 rounded-lg text-sm">
+<div class="p-3 bg-blue-50 rounded-lg text-sm text-gray-800">
 🎯 **Opposition** - Good and evil, joy and sorrow, all became possible
 </div>
 
-<div class="p-3 bg-purple-50 rounded-lg text-sm">
+<div class="p-3 bg-purple-50 rounded-lg text-sm text-gray-800">
 🌱 **Growth** - They could learn, progress, and become like God
 </div>
 
@@ -277,19 +277,19 @@ layout: default
 
 ## Why the Fall Was Necessary
 
-<div class="p-6 bg-blue-50 rounded-lg text-lg">
+<div class="p-6 bg-blue-50 rounded-lg text-lg text-gray-800">
 
 <strong><a href="https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/2.22-23?lang=eng" target="_blank" class="text-blue-600 underline">2 Nephi 2:22–23</a></strong>: Without the Fall, Adam and Eve would have remained in the garden forever - no children, no progression, no mortality
 
 </div>
 
-<div class="p-6 bg-green-50 rounded-lg text-lg">
+<div class="p-6 bg-green-50 rounded-lg text-lg text-gray-800">
 
 <strong><a href="https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/2.24-25?lang=eng" target="_blank" class="text-blue-600 underline">2 Nephi 2:24–25</a></strong>: But the Fall made it possible for us to have joy, to know good from evil, and to progress toward eternal life
 
 </div>
 
-<div class="p-6 bg-yellow-50 rounded-lg text-xl font-semibold mt-4 text-center">
+<div class="p-6 bg-yellow-50 rounded-lg text-xl font-semibold mt-4 text-center text-gray-800">
 💡 The Fall was necessary for God's plan to work!
 </div>
 
@@ -406,7 +406,7 @@ layout: default
 
 <div class="grid grid-cols-2 gap-4 text-sm">
 
-<div class="p-4 bg-blue-50 rounded-lg">
+<div class="p-4 bg-blue-50 rounded-lg text-gray-800">
 
 ### Think About It
 
@@ -416,7 +416,7 @@ layout: default
 
 </div>
 
-<div class="p-4 bg-green-50 rounded-lg">
+<div class="p-4 bg-green-50 rounded-lg text-gray-800">
 
 ### This Week
 
@@ -494,23 +494,23 @@ layout: default
 
 <v-clicks>
 
-<div class="p-2 bg-blue-50 rounded-lg text-sm max-w-3xl mx-auto">
+<div class="p-2 bg-blue-50 rounded-lg text-sm max-w-3xl mx-auto text-gray-800">
 🌍 **The Fall was essential** - Without it, we wouldn't exist
 </div>
 
-<div class="p-2 bg-green-50 rounded-lg text-sm max-w-3xl mx-auto">
+<div class="p-2 bg-green-50 rounded-lg text-sm max-w-3xl mx-auto text-gray-800">
 👶 **The Fall made mortality possible** - We can be born, learn, and grow
 </div>
 
-<div class="p-2 bg-purple-50 rounded-lg text-sm max-w-3xl mx-auto">
+<div class="p-2 bg-purple-50 rounded-lg text-sm max-w-3xl mx-auto text-gray-800">
 🎯 **The Fall brought opposition** - Necessary for agency and growth
 </div>
 
-<div class="p-2 bg-yellow-50 rounded-lg text-sm max-w-3xl mx-auto">
+<div class="p-2 bg-yellow-50 rounded-lg text-sm max-w-3xl mx-auto text-gray-800">
 💝 **The Fall was part of God's plan** - It wasn't a mistake, it was necessary
 </div>
 
-<div class="p-2 bg-pink-50 rounded-lg text-sm max-w-3xl mx-auto">
+<div class="p-2 bg-pink-50 rounded-lg text-sm max-w-3xl mx-auto text-gray-800">
 ✨ **The Fall makes eternal life possible** - It's the path to becoming like God
 </div>
 

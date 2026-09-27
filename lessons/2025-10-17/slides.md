@@ -160,7 +160,7 @@ layout: default
 
 Despite significant physical challenges (partial blindness), Oliver Granger served faithfully in the early Church.
 
-<div class="mt-6 p-4 bg-blue-50 rounded-lg">
+<div class="mt-6 p-4 bg-blue-50 rounded-lg text-gray-800">
 
 ### Key Question
 What does it mean to be faithful when success seems unlikely?
@@ -206,7 +206,7 @@ By 1838, the Saints had been driven from Kirtland, Ohio. The Church faced enormo
 
 Oliver Granger was assigned to return to Kirtland to settle the First Presidency's financial affairs—a difficult and likely impossible task.
 
-<div class="mt-8 p-4 bg-purple-50 rounded-lg">
+<div class="mt-8 p-4 bg-purple-50 rounded-lg text-gray-800">
 
 **[Read Doctrine and Covenants 117:12-15](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/117.12-15?lang=eng)**
 
@@ -271,7 +271,7 @@ layout: two-cols
 ✓ **Sacrifice** over success  
 ✓ **Obedience** over outcomes
 
-<div class="mt-6 p-4 bg-green-50 rounded-lg text-sm">
+<div class="mt-6 p-4 bg-green-50 rounded-lg text-sm text-gray-800">
 
 Not all righteous acts are widely known, but God does not forget them.
 
@@ -327,7 +327,7 @@ class: text-center
 
 <div class="grid grid-cols-2 gap-8 mt-12 text-left">
 
-<div class="p-6 bg-blue-50 rounded-lg">
+<div class="p-6 bg-blue-50 rounded-lg text-gray-800">
 
 ## 1. Sacrifice Over Success
 
@@ -335,7 +335,7 @@ Granger's work is remembered not for complete success, but for faithful effort�
 
 </div>
 
-<div class="p-6 bg-purple-50 rounded-lg">
+<div class="p-6 bg-purple-50 rounded-lg text-gray-800">
 
 ## 2. Stewardship & Responsibility
 
@@ -343,7 +343,7 @@ He was entrusted with temporal matters on behalf of Church leadership. Spiritual
 
 </div>
 
-<div class="p-6 bg-green-50 rounded-lg">
+<div class="p-6 bg-green-50 rounded-lg text-gray-800">
 
 ## 3. Overcoming Adversity
 
@@ -351,7 +351,7 @@ Despite personal challenges (health, blindness), Granger obeyed. Faithfulness is
 
 </div>
 
-<div class="p-6 bg-yellow-50 rounded-lg">
+<div class="p-6 bg-yellow-50 rounded-lg text-gray-800">
 
 ## 4. Eternal Remembrance
 
@@ -426,7 +426,7 @@ Oliver Granger's story teaches us about **sacrifice, stewardship, and faith**—
 
 <div class="grid grid-cols-2 gap-6 mt-8">
 
-<div class="p-6 bg-blue-50 rounded-lg">
+<div class="p-6 bg-blue-50 rounded-lg text-gray-800">
 
 ### Oliver's Example
 - Gave faithfully despite challenges
@@ -436,7 +436,7 @@ Oliver Granger's story teaches us about **sacrifice, stewardship, and faith**—
 
 </div>
 
-<div class="p-6 bg-green-50 rounded-lg">
+<div class="p-6 bg-green-50 rounded-lg text-gray-800">
 
 ### Our Tithing
 - Give faithfully despite challenges
@@ -536,7 +536,7 @@ By July 1838, the Church was under enormous financial strain. Church members had
 
 The Prophet Joseph Smith met with other Church leaders to consider how to be obedient to the Lord's commands. In response to their prayerful petition, the Savior provided counsel about the law of tithing.
 
-<div class="mt-8 p-4 bg-blue-50 rounded-lg">
+<div class="mt-8 p-4 bg-blue-50 rounded-lg text-gray-800">
 
 **[Read Doctrine and Covenants 119:1–4](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/119.1-4?lang=eng#p1)**
 
@@ -581,7 +581,7 @@ layout: two-cols
 - A **standing law forever**
 - For **all members** who have income
 
-<div class="mt-6 p-4 bg-green-50 rounded-lg">
+<div class="mt-6 p-4 bg-green-50 rounded-lg text-gray-800">
 
 ### Question to Ponder
 Why does the Lord ask us to pay tithing?
@@ -642,7 +642,7 @@ The missionaries in your area are teaching one of your friends and you're invite
 
 After the lesson, your friend mentions to you that he has concerns about paying tithing.
 
-<div class="mt-8 p-4 bg-yellow-50 rounded-lg">
+<div class="mt-8 p-4 bg-yellow-50 rounded-lg text-gray-800">
 
 ### Reflection Question
 What concerns might your friend have? What would you say to help them understand?
@@ -689,7 +689,7 @@ You have told me what you have done with the Lord's money but you have not told 
 - He asks for only 10%
 - The rest is ours to manage
 
-<div class="mt-6 p-4 bg-blue-50 rounded-lg text-sm">
+<div class="mt-6 p-4 bg-blue-50 rounded-lg text-sm text-gray-800">
 
 Tithing isn't about what we give to God - it's about what we give back to Him from what He's already given us.
 
@@ -744,7 +744,7 @@ Like setting a plate at the beginning of a meal vs. finding leftovers after.
 - Given the firstfruits
 - Not the leftovers
 
-<div class="mt-6 p-4 bg-purple-50 rounded-lg">
+<div class="mt-6 p-4 bg-purple-50 rounded-lg text-gray-800">
 
 Tithing first = Faith first
 
@@ -777,7 +777,7 @@ layout: default
 
 Watch or read his experience about the blessings of tithing
 
-<div class="mt-8 p-6 bg-gray-50 rounded-lg">
+<div class="mt-8 p-6 bg-gray-50 rounded-lg text-gray-800">
 
 ### As You Watch, Consider:
 

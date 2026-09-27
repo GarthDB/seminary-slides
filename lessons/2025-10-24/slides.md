@@ -78,7 +78,7 @@ layout: section
 **Hartley** - QT Time Leader
 
 ## Question
-<div class="bg-blue-50 p-6 rounded-lg text-left max-w-4xl mx-auto">
+<div class="bg-blue-50 p-6 rounded-lg text-left max-w-4xl mx-auto text-gray-800">
 
 ### "How can our attitudes and perspective about our bodies change how we act?"
 
@@ -153,7 +153,7 @@ layout: default
 
 ## A Rough Stone Rolling
 
-<div class="text-lg italic p-6 bg-gray-50 rounded-lg">
+<div class="text-lg italic p-6 bg-gray-50 rounded-lg text-gray-800">
 
 "I am like a huge rough stone rolling down from a high mountain, and the only polishing I get, is when some corner gets rubbed off by coming in contact with something else striking with accelerated force … ; … knocking off a corner here and a corner there; thus, I will become a smooth and polished shaft in the quiver of the Almighty."
 
@@ -181,7 +181,7 @@ layout: default
 
 Look for what God wanted Joseph to understand about the trials he had to endure in his life.
 
-<div class="mt-8 p-6 bg-blue-50 rounded-lg">
+<div class="mt-8 p-6 bg-blue-50 rounded-lg text-gray-800">
 
 ### Key Phrase to Mark
 
@@ -264,7 +264,7 @@ layout: default
 
 ## "Tested, Proved, and Polished"
 
-<div class="p-6 bg-purple-50 rounded-lg">
+<div class="p-6 bg-purple-50 rounded-lg text-gray-800">
 
 ### As You Reflect, Consider:
 

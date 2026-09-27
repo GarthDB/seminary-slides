@@ -86,13 +86,13 @@ layout: default
 
 ## 🙏 Opening Prayer
 
-<div class="bg-blue-50 p-4 rounded-lg">
+<div class="bg-blue-50 p-4 rounded-lg text-gray-800">
 Ask someone to offer the opening prayer.
 </div>
 
 ## 💬 QT Time
 
-<div class="bg-purple-50 p-4 rounded-lg">
+<div class="bg-purple-50 p-4 rounded-lg text-gray-800">
 
 **[Student Name] is leading QT Time this week.**
 
@@ -124,7 +124,7 @@ layout: default
 
 # Lesson focus
 
-<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed">
+<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed text-gray-800">
 
 Doctrinal mastery can help students build their lives upon the foundation of Jesus Christ and His gospel. This lesson can help students apply truths found in doctrinal mastery passages and the divine principles of acquiring spiritual knowledge.
 
@@ -200,7 +200,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 When Julietta was a child, she assumed most people agreed with the teachings of Jesus Christ she learned in her home and at church. Now that she is in high school, it seems like the opposite. Most people she knows seem to disagree with the doctrine and standards taught in the restored gospel of Jesus Christ.
 
@@ -217,7 +217,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 For example, many of her classmates make fun of her belief in living prophets ; even some of her friends can’t understand why she chooses not to participate in immoral activities and entertainment . Act in faith Examine concepts and questions with an eternal perspective Seek further understanding through divinely appointed sources
 
@@ -234,7 +234,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Since so many people disagree with her, Julietta starts to wonder if the doctrine and standards taught in The Church of Jesus Christ of Latter-day Saints are really from God. Personal application
 
@@ -296,7 +296,7 @@ layout: default
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm">
 
-<div class="p-5 bg-yellow-50 rounded-lg">
+<div class="p-5 bg-yellow-50 rounded-lg text-gray-800">
 
 ## Challenge
 - Complete **one** study option from the manual that fits your class time.
@@ -304,7 +304,7 @@ layout: default
 
 </div>
 
-<div class="p-5 bg-pink-50 rounded-lg">
+<div class="p-5 bg-pink-50 rounded-lg text-gray-800">
 
 ## Personal reflection
 - What will you **do** differently because of Christ?

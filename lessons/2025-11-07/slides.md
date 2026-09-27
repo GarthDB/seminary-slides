@@ -72,7 +72,7 @@ Say an opening prayer together
 </div>
 
 ## Create Your Note
-<div class="bg-blue-50 p-6 rounded-lg">
+<div class="bg-blue-50 p-6 rounded-lg text-gray-800">
 
 In your seminary notebook, create a note for this lesson:
 - Write down any questions you have
@@ -100,7 +100,7 @@ layout: section
 
 ## Historical Context
 
-<div class="bg-purple-50 p-8 rounded-lg text-left max-w-4xl mx-auto space-y-4">
+<div class="bg-purple-50 p-8 rounded-lg text-left max-w-4xl mx-auto space-y-4 text-gray-800">
 
 Joseph Smith wrote letters to the Saints about the **doctrine of baptism for the dead**.
 
@@ -133,7 +133,7 @@ layout: default
 
 ## List Your Ancestors
 
-<div class="p-6 bg-blue-50 rounded-lg">
+<div class="p-6 bg-blue-50 rounded-lg text-gray-800">
 
 **In your study journal:**
 
@@ -144,7 +144,7 @@ layout: default
 
 ## Self-Assessment
 
-<div class="p-6 bg-green-50 rounded-lg mt-6">
+<div class="p-6 bg-green-50 rounded-lg mt-6 text-gray-800">
 
 **On a scale of 1 to 5** (1 = *not confident*, 5 = *very confident*)
 
@@ -211,7 +211,7 @@ layout: default
 
 <div class="space-y-6">
 
-<div class="p-6 bg-yellow-50 rounded-lg">
+<div class="p-6 bg-yellow-50 rounded-lg text-gray-800">
 
 ### What to Look For
 As you read, look for what the prophets taught about:
@@ -224,21 +224,21 @@ As you read, look for what the prophets taught about:
 
 <div class="grid grid-cols-3 gap-4">
 
-<div class="p-4 bg-blue-50 rounded-lg">
+<div class="p-4 bg-blue-50 rounded-lg text-gray-800">
 
 ### Joseph Smith
 **Verses 15, 18**
 
 </div>
 
-<div class="p-4 bg-green-50 rounded-lg">
+<div class="p-4 bg-green-50 rounded-lg text-gray-800">
 
 ### The Apostle Paul
 **Verses 15–16**
 
 </div>
 
-<div class="p-4 bg-purple-50 rounded-lg">
+<div class="p-4 bg-purple-50 rounded-lg text-gray-800">
 
 ### Prophet Malachi
 **Verse 17**
@@ -285,7 +285,7 @@ Key Points:
 
 ## The Blessing
 
-<div class="text-sm p-4 bg-blue-50 rounded-lg space-y-3">
+<div class="text-sm p-4 bg-blue-50 rounded-lg space-y-3 text-gray-800">
 
 Many youth have discovered that family history and temple work:
 
@@ -320,7 +320,7 @@ layout: default
 
 ## "Baptism for Your Dead"
 
-<div class="p-8 bg-purple-50 rounded-lg text-lg">
+<div class="p-8 bg-purple-50 rounded-lg text-lg text-gray-800">
 
 > The doctrine of the family in relation to family history and temple work is clear. The Lord in initial revelatory instructions referred to **"baptism for your dead"** [D&C 127:5; emphasis added]. Our doctrinal obligation is to **our own ancestors**. This is because the celestial organization of heaven is based on **families**.
 
@@ -332,7 +332,7 @@ Elder Quentin L. Cook, "Roots and Branches," May 2014
 
 ## Scripture Activity
 
-<div class="p-6 bg-yellow-50 rounded-lg">
+<div class="p-6 bg-yellow-50 rounded-lg text-gray-800">
 
 Read [Doctrine and Covenants 127:5–6](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/127.5-6?lang=eng#p5)
 
@@ -403,7 +403,7 @@ layout: section
 
 ### 📖 Activity 1: Writing My Family's Story
 
-<div class="p-6 bg-blue-50 rounded-lg">
+<div class="p-6 bg-blue-50 rounded-lg text-gray-800">
 
 Complete activities in the [*My Family: Stories That Bring Us Together*](https://www.churchofjesuschrist.org/bc/content/ldsorg/topics/my-family-booklet-pdf/english-whole-pdf.pdf) booklet
 
@@ -415,7 +415,7 @@ Visit [Family History Activities](https://www.churchofjesuschrist.org/study/manu
 
 ### 🏛️ Activity 2: Temple and Family History Work
 
-<div class="p-6 bg-green-50 rounded-lg">
+<div class="p-6 bg-green-50 rounded-lg text-gray-800">
 
 - Become familiar with your family tree in [FamilySearch](https://www.familysearch.org/)
 - Use "[Ordinances Ready](https://www.familysearch.org/temple/ordinances-ready)" to find names for the temple
@@ -449,20 +449,20 @@ layout: default
 
 <v-clicks class="space-y-4">
 
-<div class="p-4 bg-blue-50 rounded-lg">
+<div class="p-4 bg-blue-50 rounded-lg text-gray-800">
 
 ### 1️⃣ What is the "dispensation of the fulness of times"?
 <span class="text-sm text-gray-600">D&C 128:20</span>
 
 </div>
 
-<div class="p-4 bg-green-50 rounded-lg">
+<div class="p-4 bg-green-50 rounded-lg text-gray-800">
 
 ### 2️⃣ How can performing ordinances for our ancestors help us become like Jesus Christ?
 
 </div>
 
-<div class="p-4 bg-purple-50 rounded-lg">
+<div class="p-4 bg-purple-50 rounded-lg text-gray-800">
 
 ### 3️⃣ What blessings are promised to those who participate in temple and family history work?
 
@@ -491,7 +491,7 @@ layout: default
 
 ## Definition
 
-<div class="p-6 bg-yellow-50 rounded-lg">
+<div class="p-6 bg-yellow-50 rounded-lg text-gray-800">
 
 **Dispensation:** A period of time when the Lord reveals His doctrines, ordinances, and priesthood.
 
@@ -501,7 +501,7 @@ layout: default
 
 ## Joseph Smith Taught
 
-<div class="p-6 bg-blue-50 rounded-lg text-lg">
+<div class="p-6 bg-blue-50 rounded-lg text-lg text-gray-800">
 
 > "The dispensation of the fullness of times will bring to light the things that have been revealed in all former dispensations; also other things that have not been before revealed. He shall send Elijah, the Prophet, etc., and restore all things in Christ"
 
@@ -583,7 +583,7 @@ layout: default
 
 <div class="grid grid-cols-2 gap-6">
 
-<div class="p-6 bg-blue-50 rounded-lg space-y-3">
+<div class="p-6 bg-blue-50 rounded-lg space-y-3 text-gray-800">
 
 ### Spiritual Blessings
 - 🕊️ Increased influence of the Spirit
@@ -593,7 +593,7 @@ layout: default
 
 </div>
 
-<div class="p-6 bg-green-50 rounded-lg space-y-3">
+<div class="p-6 bg-green-50 rounded-lg space-y-3 text-gray-800">
 
 ### Family Blessings
 - 👨‍👩‍👧‍👦 Stronger family bonds
@@ -680,23 +680,23 @@ layout: section
 
 <v-clicks>
 
-<div class="p-4 bg-blue-50 rounded-lg">
+<div class="p-4 bg-blue-50 rounded-lg text-gray-800">
 💝 **"Baptism for YOUR dead"** - Our doctrinal obligation is to our own ancestors
 </div>
 
-<div class="p-4 bg-green-50 rounded-lg">
+<div class="p-4 bg-green-50 rounded-lg text-gray-800">
 🏛️ **Heaven is organized by families** - Temple work creates eternal bonds
 </div>
 
-<div class="p-4 bg-purple-50 rounded-lg">
+<div class="p-4 bg-purple-50 rounded-lg text-gray-800">
 ✨ **This work saves us too** - Family history blesses both the dead and the living
 </div>
 
-<div class="p-4 bg-yellow-50 rounded-lg">
+<div class="p-4 bg-yellow-50 rounded-lg text-gray-800">
 🕊️ **God trusts you** - You have the technology, access, and ability to do this work
 </div>
 
-<div class="p-4 bg-pink-50 rounded-lg">
+<div class="p-4 bg-pink-50 rounded-lg text-gray-800">
 ✝️ **Become like Christ** - Serving our ancestors helps us become more Christlike
 </div>
 

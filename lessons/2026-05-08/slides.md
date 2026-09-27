@@ -87,13 +87,13 @@ layout: default
 
 ## Opening prayer
 
-<div class="bg-blue-50 p-4 rounded-lg">
+<div class="bg-blue-50 p-4 rounded-lg text-gray-800">
 Ask someone to offer the opening prayer.
 </div>
 
 ## QT Time
 
-<div class="bg-purple-50 p-4 rounded-lg">
+<div class="bg-purple-50 p-4 rounded-lg text-gray-800">
 
 **[Student Name] is leading QT Time this week.**
 
@@ -147,7 +147,7 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto">
 
-<div class="p-5 bg-yellow-50 rounded-lg text-base">
+<div class="p-5 bg-yellow-50 rounded-lg text-base text-gray-800">
 
 **Symbolism in scripture is not always the same in each story.**
 
@@ -157,7 +157,7 @@ In the ancient world, snakes often represented **power** — both good and bad. 
 
 </div>
 
-<div class="p-4 bg-blue-50 rounded-lg text-sm">
+<div class="p-4 bg-blue-50 rounded-lg text-sm text-gray-800">
 
 **Why it matters:** Today's story features a serpent that symbolizes something very different from Satan. Keep an open mind as we read.
 
@@ -179,7 +179,7 @@ layout: default
 
 <div class="space-y-4">
 
-<div class="p-6 bg-blue-50 rounded-lg">
+<div class="p-6 bg-blue-50 rounded-lg text-gray-800">
 
 Israel grew discouraged on the long wilderness journey and **spoke against God and Moses:**
 
@@ -187,7 +187,7 @@ Israel grew discouraged on the long wilderness journey and **spoke against God a
 
 </div>
 
-<div class="p-4 bg-purple-50 rounded-lg text-sm">
+<div class="p-4 bg-purple-50 rounded-lg text-sm text-gray-800">
 
 **Mark the verse:** What were they complaining about? What had they forgotten?
 
@@ -210,19 +210,19 @@ layout: default
 
 <div class="space-y-4">
 
-<div class="p-6 bg-red-50 rounded-lg">
+<div class="p-6 bg-red-50 rounded-lg text-gray-800">
 
 The Lord sent **fiery (poisonous) serpents** among the people; many were bitten and died.
 
 </div>
 
-<div class="p-5 bg-green-50 rounded-lg">
+<div class="p-5 bg-green-50 rounded-lg text-gray-800">
 
 The people came to Moses and said: **"We have sinned."** They asked him to pray that the serpents would be taken away.
 
 </div>
 
-<div class="p-4 bg-purple-50 rounded-lg text-sm">
+<div class="p-4 bg-purple-50 rounded-lg text-sm text-gray-800">
 
 **Notice the pattern:** suffering → recognition of sin → **repentance** → asking for help.
 
@@ -253,7 +253,7 @@ Moses made a **brass serpent** and put it on a pole. **Everyone who looked at it
 
 </div>
 
-<div class="p-4 bg-yellow-50 rounded-lg text-sm">
+<div class="p-4 bg-yellow-50 rounded-lg text-sm text-gray-800">
 
 **Think about it:** Why might some people have refused to look? What would it take to believe something so simple could save your life?
 
@@ -295,7 +295,7 @@ layout: default
 
 </div>
 
-<div class="p-4 bg-green-50 rounded-lg text-sm">
+<div class="p-4 bg-green-50 rounded-lg text-sm text-gray-800">
 
 **Link these passages:** Write a cross-reference from [Numbers 21:9](https://www.churchofjesuschrist.org/study/scriptures/ot/num/21?lang=eng&id=p9#p9) to John 3:14–16 in your scriptures.
 
@@ -332,7 +332,7 @@ layout: default
 
 <div class="space-y-4">
 
-<div class="p-5 bg-blue-50 rounded-lg text-sm leading-relaxed">
+<div class="p-5 bg-blue-50 rounded-lg text-sm leading-relaxed text-gray-800">
 
 **President Dallin H. Oaks** reflected on the simplicity of what Israel was asked to do — *"Such a small thing for such a miraculous result!"* — and drew this parallel:
 
@@ -341,7 +341,7 @@ layout: default
 
 </div>
 
-<div class="p-4 bg-yellow-50 rounded-lg text-sm">
+<div class="p-4 bg-yellow-50 rounded-lg text-sm text-gray-800">
 
 **In your notebook:** List 10 simple ways you can look to Christ. How could any of these bring healing?
 
@@ -363,7 +363,7 @@ layout: default
 
 <div class="space-y-4">
 
-<div class="p-5 bg-purple-50 rounded-lg text-sm leading-relaxed">
+<div class="p-5 bg-purple-50 rounded-lg text-sm leading-relaxed text-gray-800">
 
 **President Russell M. Nelson:**
 
@@ -372,7 +372,7 @@ layout: default
 
 </div>
 
-<div class="p-5 bg-teal-50 rounded-lg text-sm">
+<div class="p-5 bg-teal-50 rounded-lg text-sm text-gray-800">
 
 **Read:** [Alma 7:11–13](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/7?lang=eng&id=p11-p13#p11) — what Christ will conquer
 
@@ -420,7 +420,7 @@ layout: default
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm">
 
-<div class="p-5 bg-yellow-50 rounded-lg">
+<div class="p-5 bg-yellow-50 rounded-lg text-gray-800">
 
 ## Challenge
 - **Look for one area** in your life where you need healing — physical, spiritual, or emotional.
@@ -428,7 +428,7 @@ layout: default
 
 </div>
 
-<div class="p-5 bg-pink-50 rounded-lg">
+<div class="p-5 bg-pink-50 rounded-lg text-gray-800">
 
 ## Personal reflection
 - Write one sentence: *"Just as Jesus healed the Israelites, He can heal me from ___________."*

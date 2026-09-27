@@ -86,13 +86,13 @@ layout: default
 
 ## 🙏 Opening Prayer
 
-<div class="bg-blue-50 p-4 rounded-lg">
+<div class="bg-blue-50 p-4 rounded-lg text-gray-800">
 Ask someone to offer the opening prayer.
 </div>
 
 ## 💬 QT Time
 
-<div class="bg-purple-50 p-4 rounded-lg">
+<div class="bg-purple-50 p-4 rounded-lg text-gray-800">
 
 **[Student Name] is leading QT Time this week.**
 
@@ -124,7 +124,7 @@ layout: default
 
 # Lesson focus
 
-<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed">
+<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed text-gray-800">
 
 Doctrinal mastery can help students build the foundation for their lives upon Jesus Christ and His gospel. This lesson can help students memorize the key scripture phrases in doctrinal mastery passages and apply the divine principles of acquiring spiritual knowledge.
 
@@ -141,7 +141,7 @@ layout: default
 
 # Lesson focus
 
-<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed">
+<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed text-gray-800">
 
 Read one or two of the following scriptures, looking for how the Savior used memorized phrases or verses from the Old Testament: Matthew 4:2–4 (https://www.churchofjesuschrist.org/study/scriptures/nt/matt/4?lang=eng&id=p2-p4#p2) ; 19:4–5 (https://www.churchofjesuschrist.org/study/scriptures/nt/matt/19?lang=eng&id=p4-p5#p4) ; Mark 7:9–10 (https://www.churchofjesuschrist.org/study/scriptures/nt/mark/7?lang=eng&id=p9-p10#p9) ; Luke 24:27 (https://www.churchofjesuschrist.org/study/scriptures/nt/luke/24?lang=eng&id=p27#p27) .
 
@@ -188,7 +188,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Read one or two of the following scriptures, looking for how the Savior used memorized phrases or verses from the Old Testament: Matthew 4:2–4 (https://www.churchofjesuschrist.org/study/scriptures/nt/matt/4?lang=eng&id=p2-p4#p2) ; 19:4–5 (https://www.churchofjesuschrist.org/study/scriptures/nt/matt/19?lang=eng&id=p4-p5#p4) ; Mark 7:9–10 (https://www.churchofjesuschrist.org/study/scriptures/nt/mark/7?lang=eng&id=p9-p10#p9) ; Luke 24:27 (https://www.churchofjesuschrist.org/study/scriptures/nt/luke/24?lang=eng&id=p27#p27) .
 
@@ -205,7 +205,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Take several minutes to memorize the references and key phrases of a few doctrinal mastery scriptures. (If you would prefer, you could memorize an entire passage in addition to the key phrase.)
 
@@ -252,7 +252,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Imagine your friend Mia says: “The way we’re supposed to spend Sundays is so boring and feels like a waste of time. Don’t you think our weekends would be so much better if we didn’t have to worry about keeping the Sabbath day holy?” Take several minutes to prepare what you think could help Mia, which might include:
 
@@ -314,7 +314,7 @@ layout: default
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm">
 
-<div class="p-5 bg-yellow-50 rounded-lg">
+<div class="p-5 bg-yellow-50 rounded-lg text-gray-800">
 
 ## Challenge
 - Complete **one** study option from the manual that fits your class time.
@@ -322,7 +322,7 @@ layout: default
 
 </div>
 
-<div class="p-5 bg-pink-50 rounded-lg">
+<div class="p-5 bg-pink-50 rounded-lg text-gray-800">
 
 ## Personal reflection
 - What will you **do** differently because of Christ?

@@ -91,7 +91,7 @@ layout: section
 
 ## Discussion Question
 
-<div class="bg-blue-50 p-6 rounded-lg text-left max-w-4xl mx-auto">
+<div class="bg-blue-50 p-6 rounded-lg text-left max-w-4xl mx-auto text-gray-800">
 
 ### "What choices are you making today that will affect your eternal future?"
 
@@ -155,7 +155,7 @@ layout: default
 
 ## President Nelson's Message
 
-<div class="p-6 bg-blue-50 rounded-lg text-lg">
+<div class="p-6 bg-blue-50 rounded-lg text-lg text-gray-800">
 
 "My purpose tonight is to make sure that your eyes are wide open to the truth that this life really **is** the time when you get to decide what kind of life **you** want to live forever."
 
@@ -200,7 +200,7 @@ layout: default
 
 ## Eternal Dividends
 
-<div class="p-6 bg-purple-50 rounded-lg text-lg">
+<div class="p-6 bg-purple-50 rounded-lg text-lg text-gray-800">
 
 Every righteous choice you make now will pay huge dividends eternally. If you make covenants with God and are faithful, you have the promise of "glory added upon [your head] for ever and ever" ([Abraham 3:26](https://www.churchofjesuschrist.org/study/scriptures/pgp/abr/3?lang=eng&id=p26#p26)).
 
@@ -210,14 +210,14 @@ Every righteous choice you make now will pay huge dividends eternally. If you ma
 
 <div class="grid grid-cols-2 gap-8 mt-8">
 
-<div class="p-6 bg-blue-50 rounded-lg">
+<div class="p-6 bg-blue-50 rounded-lg text-gray-800">
 
 ### Choices Matter Now
 Righteous choices bring immediate blessings and peace
 
 </div>
 
-<div class="p-6 bg-green-50 rounded-lg">
+<div class="p-6 bg-green-50 rounded-lg text-gray-800">
 
 ### Choices Matter Eternally
 Covenant choices bring "unimaginable dividends" in eternity
@@ -247,7 +247,7 @@ class: text-center
 
 <div class="grid grid-cols-3 gap-6 text-left">
 
-<div class="p-6 bg-blue-50 rounded-lg">
+<div class="p-6 bg-blue-50 rounded-lg text-gray-800">
 
 ## 1. Know Who You Are
 
@@ -255,7 +255,7 @@ Your true identity shapes every decision
 
 </div>
 
-<div class="p-6 bg-purple-50 rounded-lg">
+<div class="p-6 bg-purple-50 rounded-lg text-gray-800">
 
 ## 2. Know What God Offers
 
@@ -263,7 +263,7 @@ They have offered you everything!
 
 </div>
 
-<div class="p-6 bg-green-50 rounded-lg">
+<div class="p-6 bg-green-50 rounded-lg text-gray-800">
 
 ## 3. Know About Your Conversion
 
@@ -367,7 +367,7 @@ layout: default
 
 ## The Plea
 
-<div class="p-3 bg-yellow-50 rounded-lg">
+<div class="p-3 bg-yellow-50 rounded-lg text-gray-800">
 
 Do not **replace** these three paramount and unchanging identifiers with any others. No identifier should **displace**, **replace**, or **take priority over** these three enduring designations:
 
@@ -383,7 +383,7 @@ Do not **replace** these three paramount and unchanging identifiers with any oth
 
 <div class="grid grid-cols-2 gap-4 mt-4">
 
-<div class="p-3 bg-blue-50 rounded-lg">
+<div class="p-3 bg-blue-50 rounded-lg text-gray-800">
 
 ### These Identities Are:
 - Eternal and unchanging
@@ -392,7 +392,7 @@ Do not **replace** these three paramount and unchanging identifiers with any oth
 
 </div>
 
-<div class="p-3 bg-purple-50 rounded-lg">
+<div class="p-3 bg-purple-50 rounded-lg text-gray-800">
 
 ### Other Labels May:
 - Be temporary
@@ -423,7 +423,7 @@ layout: default
 
 ## Understanding Our Identity
 
-<div class="p-6 bg-gray-50 rounded-lg text-lg">
+<div class="p-6 bg-gray-50 rounded-lg text-lg text-gray-800">
 
 "There are various labels that may be very important to you, of course. Please do not misunderstand me. I am not saying that other designations and identifiers are not significant."
 
@@ -431,7 +431,7 @@ layout: default
 
 ## The Warning
 
-<div class="p-6 bg-orange-50 rounded-lg text-lg">
+<div class="p-6 bg-orange-50 rounded-lg text-lg text-gray-800">
 
 Any identifier that is **not compatible** with these three basic designations will ultimately let you down. Other labels will disappoint you in time because they do not have the power to lead you toward eternal life in the celestial kingdom of God.
 
@@ -456,7 +456,7 @@ class: text-center
 
 <div class="space-y-8 max-w-4xl mx-auto">
 
-<div class="p-8 bg-blue-50 rounded-lg text-2xl">
+<div class="p-8 bg-blue-50 rounded-lg text-2xl text-gray-800">
 
 "Make no mistake about it: **Your potential is divine.** With your diligent seeking, God will give you glimpses of who you may become."
 
@@ -507,7 +507,7 @@ layout: default
 
 ## Everything!
 
-<div class="p-2 bg-purple-50 rounded-lg">
+<div class="p-2 bg-purple-50 rounded-lg text-gray-800">
 
 In short, They have offered you **everything!**
 
@@ -519,7 +519,7 @@ Heavenly Father's plan for His children allows us to live where and how He lives
 
 ## God Knows You
 
-<div class="p-2 bg-blue-50 rounded-lg">
+<div class="p-2 bg-blue-50 rounded-lg text-gray-800">
 
 God knows all and sees all. In all of eternity, **no one will ever know you or care about you more than He does.** No one will ever be closer to you than He is.
 
@@ -546,7 +546,7 @@ layout: default
 
 ## The Greatest Gift
 
-<div class="p-6 bg-pink-50 rounded-lg text-lg">
+<div class="p-6 bg-pink-50 rounded-lg text-lg text-gray-800">
 
 He demonstrated His ultimate love when He sent His Only Begotten Son to die for you—to be your Savior and your Redeemer!
 
@@ -601,7 +601,7 @@ layout: default
 
 ## Special Love for Covenant Keepers
 
-<div class="p-3 bg-blue-50 rounded-lg">
+<div class="p-3 bg-blue-50 rounded-lg text-gray-800">
 
 God has a special love for each person who makes a covenant with Him in the waters of baptism. And that divine love deepens as additional covenants are made and faithfully kept.
 
@@ -609,7 +609,7 @@ God has a special love for each person who makes a covenant with Him in the wate
 
 ## The Reunion
 
-<div class="p-3 bg-purple-50 rounded-lg">
+<div class="p-3 bg-purple-50 rounded-lg text-gray-800">
 
 Then at the end of mortal life, precious is the reunion of each covenant child with our Heavenly Father ([Psalm 116:15](https://www.churchofjesuschrist.org/study/scriptures/ot/ps/116?lang=eng&id=p15#p15)).
 
@@ -617,7 +617,7 @@ Then at the end of mortal life, precious is the reunion of each covenant child w
 
 ## The Most Important Cause
 
-<div class="p-3 bg-green-50 rounded-lg">
+<div class="p-3 bg-green-50 rounded-lg text-gray-800">
 
 The gathering of Israel on both sides of the veil is **the** most important cause on earth today. You have an essential role in this gathering.
 
@@ -664,7 +664,7 @@ layout: default
 
 ## Questions to Consider
 
-<div class="p-6 bg-yellow-50 rounded-lg">
+<div class="p-6 bg-yellow-50 rounded-lg text-gray-800">
 
 - Do you want to feel **peace** about concerns that presently plague you?
 - Do you want to know **Jesus Christ better**?
@@ -675,7 +675,7 @@ layout: default
 
 ## The Work Required
 
-<div class="mt-6 p-6 bg-orange-50 rounded-lg text-lg">
+<div class="mt-6 p-6 bg-orange-50 rounded-lg text-lg text-gray-800">
 
 Seeking to answer these questions will require effort—**much effort**. I plead with you to take charge of your testimony. **Work for it. Own it. Care for it. Nurture it** so that it will grow.
 
@@ -702,7 +702,7 @@ layout: default
 
 ## Feed It Truth
 
-<div class="p-2 bg-blue-50 rounded-lg">
+<div class="p-2 bg-blue-50 rounded-lg text-gray-800">
 
 Feed it truth. **Don't pollute it** with the false philosophies of unbelieving men and women and then wonder why your testimony is waning.
 
@@ -712,7 +712,7 @@ Feed it truth. **Don't pollute it** with the false philosophies of unbelieving m
 
 <div class="grid grid-cols-2 gap-4 mt-3">
 
-<div class="p-3 bg-purple-50 rounded-lg">
+<div class="p-3 bg-purple-50 rounded-lg text-gray-800">
 
 ### Daily Actions
 
@@ -722,7 +722,7 @@ Feed it truth. **Don't pollute it** with the false philosophies of unbelieving m
 
 </div>
 
-<div class="p-3 bg-green-50 rounded-lg">
+<div class="p-3 bg-green-50 rounded-lg text-gray-800">
 
 ### Regular Practices
 
@@ -756,7 +756,7 @@ layout: default
 
 ## Questions Are Good
 
-<div class="p-2 bg-blue-50 rounded-lg">
+<div class="p-2 bg-blue-50 rounded-lg text-gray-800">
 
 If you have questions—and **I hope you do**—seek answers with the **fervent desire to believe.** Learn all you can about the gospel and be sure to turn to **truth-filled sources** for guidance.
 
@@ -764,7 +764,7 @@ If you have questions—and **I hope you do**—seek answers with the **fervent 
 
 ## The Dispensation of Fullness
 
-<div class="p-2 bg-purple-50 rounded-lg">
+<div class="p-2 bg-purple-50 rounded-lg text-gray-800">
 
 We live in the dispensation when "nothing shall be withheld" ([D&C 121:28](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/121?lang=eng&id=p28#p28)). Thus, in time, the Lord will answer all our questions.
 
@@ -772,7 +772,7 @@ We live in the dispensation when "nothing shall be withheld" ([D&C 121:28](https
 
 ## The Promise
 
-<div class="p-2 bg-green-50 rounded-lg">
+<div class="p-2 bg-green-50 rounded-lg text-gray-800">
 
 Immerse yourself in the rich reservoir of revelation we have at our fingertips. I promise that doing so will **strengthen your testimony**, even if some of your questions are not yet answered. Your sincere questions, asked in faith, will **always** lead to greater faith and more knowledge.
 
@@ -801,7 +801,7 @@ layout: default
 
 ## A Better Cause
 
-<div class="p-2 bg-blue-50 rounded-lg">
+<div class="p-2 bg-blue-50 rounded-lg text-gray-800">
 
 As you take charge of your testimony and cause it to grow, you will become a more potent instrument in the hands of the Lord. You will be "inspired by a better cause" ([Alma 43:45](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/43?lang=eng&id=p45#p45))—the cause of Jesus Christ!
 
@@ -809,7 +809,7 @@ As you take charge of your testimony and cause it to grow, you will become a mor
 
 ## The Most Important Work
 
-<div class="p-2 bg-purple-50 rounded-lg">
+<div class="p-2 bg-purple-50 rounded-lg text-gray-800">
 
 There is nothing happening on this earth more important than gathering Israel **for Him**.
 
@@ -817,7 +817,7 @@ There is nothing happening on this earth more important than gathering Israel **
 
 ## Your Invitation
 
-<div class="p-2 bg-green-50 rounded-lg">
+<div class="p-2 bg-green-50 rounded-lg text-gray-800">
 
 Let your Heavenly Father know that you want to help. Ask Him to put you to work in this glorious cause. And then stand back and marvel at what happens when you **let God prevail** in your life.
 
@@ -849,7 +849,7 @@ layout: default
 
 ### As the Lord's prophet, President Nelson blesses us:
 
-<div class="p-2 bg-blue-50 rounded-lg">
+<div class="p-2 bg-blue-50 rounded-lg text-gray-800">
 
 ✓ To **know the truth** about who you are  
 ✓ To **treasure the truth** about your glorious potential  
@@ -860,7 +860,7 @@ layout: default
 
 ### The Promises
 
-<div class="p-2 bg-green-50 rounded-lg">
+<div class="p-2 bg-green-50 rounded-lg text-gray-800">
 
 - You will experience **spiritual growth**
 - You will have **freedom from fear**
@@ -956,7 +956,7 @@ class: text-center
 
 <div class="grid grid-cols-3 gap-6 text-left">
 
-<div class="p-6 bg-blue-50 rounded-lg">
+<div class="p-6 bg-blue-50 rounded-lg text-gray-800">
 
 ### Who You Are
 
@@ -966,7 +966,7 @@ Disciple of Jesus Christ
 
 </div>
 
-<div class="p-6 bg-purple-50 rounded-lg">
+<div class="p-6 bg-purple-50 rounded-lg text-gray-800">
 
 ### What God Offers
 
@@ -977,7 +977,7 @@ The Gathering
 
 </div>
 
-<div class="p-6 bg-green-50 rounded-lg">
+<div class="p-6 bg-green-50 rounded-lg text-gray-800">
 
 ### Your Conversion
 

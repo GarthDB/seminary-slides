@@ -253,7 +253,7 @@ What was God's "treasure" in Salem?
 
 **"I have much treasure in this city for you"** - [D&C 111:2](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/111.2?lang=eng#p2)
 
-<div class="bg-blue-50 p-6 rounded-lg text-lg mt-8">
+<div class="bg-blue-50 p-6 rounded-lg text-lg mt-8 text-gray-800">
 The treasure wasn't gold—it was <strong>souls</strong> who would later join the Church and missionaries who would serve there.
 </div>
 

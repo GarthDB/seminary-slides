@@ -55,7 +55,7 @@ layout: default
 
 ## 🙏 Opening Prayer
 
-<div class="bg-blue-50 p-4 rounded-lg">
+<div class="bg-blue-50 p-4 rounded-lg text-gray-800">
 
 Ask someone to say the opening prayer
 
@@ -63,7 +63,7 @@ Ask someone to say the opening prayer
 
 ## 💬 QT Time
 
-<div class="bg-purple-50 p-4 rounded-lg">
+<div class="bg-purple-50 p-4 rounded-lg text-gray-800">
 
 **Jursey is leading QT Time this week**
 
@@ -127,7 +127,7 @@ layout: default
 
 <div class="space-y-6">
 
-<div class="p-6 bg-blue-50 rounded-lg text-xl">
+<div class="p-6 bg-blue-50 rounded-lg text-xl text-gray-800">
 
 **Key Phrase:**
 
@@ -135,7 +135,7 @@ layout: default
 
 </div>
 
-<div class="p-6 bg-green-50 rounded-lg text-xl">
+<div class="p-6 bg-green-50 rounded-lg text-xl text-gray-800">
 
 **The Comparison:**
 
@@ -181,7 +181,7 @@ layout: two-cols
 
 ## God's Creations
 
-<div class="p-6 bg-purple-50 rounded-lg">
+<div class="p-6 bg-purple-50 rounded-lg text-gray-800">
 
 ### Moses 1:35
 
@@ -307,7 +307,7 @@ layout: default
 
 <div class="grid grid-cols-2 gap-6">
 
-<div class="p-6 bg-blue-50 rounded-lg">
+<div class="p-6 bg-blue-50 rounded-lg text-gray-800">
 
 ### 💫 Immortality
 
@@ -321,7 +321,7 @@ Through Jesus Christ's Atonement - free gift to ALL
 
 </div>
 
-<div class="p-6 bg-green-50 rounded-lg">
+<div class="p-6 bg-green-50 rounded-lg text-gray-800">
 
 ### ✨ Eternal Life
 
@@ -363,27 +363,27 @@ layout: default
 
 <v-clicks>
 
-<div class="p-3 bg-blue-50 rounded-lg text-sm">
+<div class="p-3 bg-blue-50 rounded-lg text-sm text-gray-800">
 <strong>Sent Jesus Christ</strong> to atone for our sins and overcome death
 </div>
 
-<div class="p-3 bg-green-50 rounded-lg text-sm">
+<div class="p-3 bg-green-50 rounded-lg text-sm text-gray-800">
 🌍 <strong>Created the Earth</strong> as a place for us to grow and learn
 </div>
 
-<div class="p-3 bg-purple-50 rounded-lg text-sm">
+<div class="p-3 bg-purple-50 rounded-lg text-sm text-gray-800">
 📖 <strong>Revealed the gospel</strong> through prophets and scriptures
 </div>
 
-<div class="p-3 bg-yellow-50 rounded-lg text-sm">
+<div class="p-3 bg-yellow-50 rounded-lg text-sm text-gray-800">
 🏛️ <strong>Provided temples</strong> where we can make eternal covenants
 </div>
 
-<div class="p-3 bg-pink-50 rounded-lg text-sm">
+<div class="p-3 bg-pink-50 rounded-lg text-sm text-gray-800">
 🕊️ <strong>Given the Holy Ghost</strong> to guide and comfort us
 </div>
 
-<div class="p-3 bg-orange-50 rounded-lg text-sm">
+<div class="p-3 bg-orange-50 rounded-lg text-sm text-gray-800">
 ⛪ <strong>Restored His Church</strong> with prophets, ordinances, and authority
 </div>
 
@@ -458,7 +458,7 @@ layout: default
 
 <v-clicks>
 
-<div class="p-4 bg-blue-50 rounded-lg">
+<div class="p-4 bg-blue-50 rounded-lg text-gray-800">
 
 **You Matter**
 
@@ -466,7 +466,7 @@ You are not insignificant - you are the purpose of creation
 
 </div>
 
-<div class="p-4 bg-green-50 rounded-lg">
+<div class="p-4 bg-green-50 rounded-lg text-gray-800">
 
 **God Is Actively Working**
 
@@ -474,7 +474,7 @@ Everything He does is designed to help you succeed
 
 </div>
 
-<div class="p-4 bg-purple-50 rounded-lg">
+<div class="p-4 bg-purple-50 rounded-lg text-gray-800">
 
 **Your Choices Matter**
 
@@ -482,7 +482,7 @@ You can choose to accept God's help and return to Him
 
 </div>
 
-<div class="p-4 bg-yellow-50 rounded-lg">
+<div class="p-4 bg-yellow-50 rounded-lg text-gray-800">
 
 **Others Matter Too**
 
@@ -490,7 +490,7 @@ Every person you meet is equally precious to God
 
 </div>
 
-<div class="p-4 bg-pink-50 rounded-lg">
+<div class="p-4 bg-pink-50 rounded-lg text-gray-800">
 
 **You Have Divine Potential**
 
@@ -498,7 +498,7 @@ God's goal is for you to become like Him
 
 </div>
 
-<div class="p-4 bg-orange-50 rounded-lg">
+<div class="p-4 bg-orange-50 rounded-lg text-gray-800">
 
 **Nothing Can Stop God**
 
@@ -540,7 +540,7 @@ layout: default
 
 <v-clicks>
 
-<div class="p-3 bg-blue-50 rounded-lg">
+<div class="p-3 bg-blue-50 rounded-lg text-gray-800">
 
 **📖 Study the Gospel**
 
@@ -548,7 +548,7 @@ Learn about Heavenly Father's plan for you
 
 </div>
 
-<div class="p-3 bg-green-50 rounded-lg">
+<div class="p-3 bg-green-50 rounded-lg text-gray-800">
 
 **🙏 Pray Daily**
 
@@ -556,7 +556,7 @@ Access Heavenly Father's help anytime
 
 </div>
 
-<div class="p-3 bg-purple-50 rounded-lg">
+<div class="p-3 bg-purple-50 rounded-lg text-gray-800">
 
 **Follow Jesus Christ**
 
@@ -564,7 +564,7 @@ Accept His Atonement in your life
 
 </div>
 
-<div class="p-3 bg-yellow-50 rounded-lg">
+<div class="p-3 bg-yellow-50 rounded-lg text-gray-800">
 
 **📿 Make Covenants**
 
@@ -572,7 +572,7 @@ Baptism, sacrament, temple ordinances
 
 </div>
 
-<div class="p-3 bg-pink-50 rounded-lg">
+<div class="p-3 bg-pink-50 rounded-lg text-gray-800">
 
 **💝 Serve Others**
 
@@ -580,7 +580,7 @@ Help God bless His children
 
 </div>
 
-<div class="p-3 bg-orange-50 rounded-lg">
+<div class="p-3 bg-orange-50 rounded-lg text-gray-800">
 
 **🏛️ Do Temple Work**
 
@@ -588,7 +588,7 @@ Help your ancestors receive eternal life
 
 </div>
 
-<div class="p-3 bg-teal-50 rounded-lg">
+<div class="p-3 bg-teal-50 rounded-lg text-gray-800">
 
 **📣 Share the Gospel**
 
@@ -596,7 +596,7 @@ Help others learn about God's plan
 
 </div>
 
-<div class="p-3 bg-indigo-50 rounded-lg">
+<div class="p-3 bg-indigo-50 rounded-lg text-gray-800">
 
 **🎯 Make Good Choices**
 
@@ -713,7 +713,7 @@ layout: default
 
 ## "This Is My Work and Glory"
 
-<div class="p-6 bg-blue-50 rounded-lg">
+<div class="p-6 bg-blue-50 rounded-lg text-gray-800">
 
 Available on ChurchofJesusChrist.org
 
@@ -725,7 +725,7 @@ Shows the vastness of God's creations in a beautiful way
 
 ## "What is the Purpose and Meaning of Life?"
 
-<div class="p-6 bg-green-50 rounded-lg">
+<div class="p-6 bg-green-50 rounded-lg text-gray-800">
 
 Available on ChurchofJesusChrist.org
 
@@ -803,23 +803,23 @@ layout: default
 
 <v-clicks>
 
-<div class="p-3 bg-blue-50 rounded-lg text-base font-semibold max-w-3xl mx-auto">
+<div class="p-3 bg-blue-50 rounded-lg text-base font-semibold max-w-3xl mx-auto text-gray-800">
 🌌 God has created worlds without number
 </div>
 
-<div class="p-3 bg-green-50 rounded-lg text-base font-semibold max-w-3xl mx-auto">
+<div class="p-3 bg-green-50 rounded-lg text-base font-semibold max-w-3xl mx-auto text-gray-800">
 🎯 His purpose: to bring about our immortality and eternal life
 </div>
 
-<div class="p-3 bg-purple-50 rounded-lg text-base font-semibold max-w-3xl mx-auto">
+<div class="p-3 bg-purple-50 rounded-lg text-base font-semibold max-w-3xl mx-auto text-gray-800">
 Jesus Christ makes immortality and eternal life possible
 </div>
 
-<div class="p-3 bg-yellow-50 rounded-lg text-base font-semibold max-w-3xl mx-auto">
+<div class="p-3 bg-yellow-50 rounded-lg text-base font-semibold max-w-3xl mx-auto text-gray-800">
 💝 You are the reason God created the universe
 </div>
 
-<div class="p-3 bg-pink-50 rounded-lg text-base font-semibold max-w-3xl mx-auto">
+<div class="p-3 bg-pink-50 rounded-lg text-base font-semibold max-w-3xl mx-auto text-gray-800">
 🤝 We can participate in God's work
 </div>
 

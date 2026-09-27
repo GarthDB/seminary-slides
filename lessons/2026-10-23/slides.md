@@ -86,13 +86,13 @@ layout: default
 
 ## 🙏 Opening Prayer
 
-<div class="bg-blue-50 p-4 rounded-lg">
+<div class="bg-blue-50 p-4 rounded-lg text-gray-800">
 Ask someone to offer the opening prayer.
 </div>
 
 ## 💬 QT Time
 
-<div class="bg-purple-50 p-4 rounded-lg">
+<div class="bg-purple-50 p-4 rounded-lg text-gray-800">
 
 **[Student Name] is leading QT Time this week.**
 
@@ -124,7 +124,7 @@ layout: default
 
 # Lesson focus
 
-<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed">
+<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed text-gray-800">
 
 The Savior asks us to participate in the greatest work on earth today: the gathering of Israel, which includes sharing His gospel. The gathering of Israel is so important that the Savior inspired ancient prophets such as Jeremiah to prophesy of it thousands of years ago. This lesson can help students participate in the gathering of Israel by sharing the gospel of Jesus Christ.
 
@@ -141,7 +141,7 @@ layout: default
 
 # Lesson focus
 
-<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed">
+<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed text-gray-800">
 
 Think about the amazing miracles God has done in the past as you read the following statement from President Russell M. Nelson: Read Jeremiah 16:14–15 (https://www.churchofjesuschrist.org/study/scriptures/ot/jer/16?lang=eng&id=p14-p15#p14) , looking for something the Savior will do in the last days that will be even more monumental than His deliverance of Israel from Egypt.
 
@@ -187,7 +187,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Think about the amazing miracles God has done in the past as you read the following statement from President Russell M. Nelson: Read Jeremiah 16:14–15 (https://www.churchofjesuschrist.org/study/scriptures/ot/jer/16?lang=eng&id=p14-p15#p14) , looking for something the Savior will do in the last days that will be even more monumental than His deliverance of Israel from Egypt. Ponder your thoughts about the following questions:
 
@@ -204,7 +204,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Like He did through Moses, the Savior can manifest His miraculous power through you as you participate in the gathering of Israel. As you study Jeremiah 16 (https://www.churchofjesuschrist.org/study/scriptures/ot/jer/16?lang=eng) today, pay attention to any impressions you receive from the Holy Ghost. Ponder how the Savior can use you in this great gathering.
 
@@ -248,7 +248,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 In Jeremiah 16:10–18 (https://www.churchofjesuschrist.org/study/scriptures/ot/jer/16?lang=eng&id=p10-p18#p10) , the Lord inspired Jeremiah to prophesy of the Israelites’ destruction, which came because of their rebelliousness. The Lord taught them that “their iniquity [was not] hid from [His] eyes” ( verse 17 (https://www.churchofjesuschrist.org/study/scriptures/ot/jer/16?lang=eng&id=p17#p17) ) and that He would send them a just punishment if they continued to rebel.
 
@@ -265,7 +265,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Read Jeremiah 16:13 (https://www.churchofjesuschrist.org/study/scriptures/ot/jer/16?lang=eng&id=p13#p13) , looking for consequences the Israelites would experience because of their wickedness. In Jeremiah 16:14–15 (https://www.churchofjesuschrist.org/study/scriptures/ot/jer/16?lang=eng&id=p14-p15#p14) , Jeremiah then prophesied that in the latter days, the Savior would show His power to gather Israel back to Him and His Church.
 
@@ -282,7 +282,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Read Jeremiah 16:16 (https://www.churchofjesuschrist.org/study/scriptures/ot/jer/16?lang=eng&id=p16#p16) , looking for comparisons the Lord made about people who help gather Israel. Elder Ronald A. Rasband of the Quorum of the Twelve Apostles taught the following about this great gathering:
 
@@ -330,7 +330,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Choose one of the following study options. Prepare to share which concern or concerns you feel the scripture passage best addresses and why.
 
@@ -372,7 +372,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 President Russell M. Nelson extended the following invitation: In your study journal, make a personal plan for sharing the Savior’s gospel with others. Before making this plan, you might follow President Nelson’s invitation by prayerfully expressing your desires to help gather Israel for Heavenly Father.
 
@@ -389,7 +389,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Consider including in your plan any impressions from the Holy Ghost that you might have received. For example, you might include who you would like to share the gospel with, such as individuals who are not members of the Church or who are not actively participating in the Church. Consider also including how and when you could share with them.
 
@@ -451,7 +451,7 @@ layout: default
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm">
 
-<div class="p-5 bg-yellow-50 rounded-lg">
+<div class="p-5 bg-yellow-50 rounded-lg text-gray-800">
 
 ## Challenge
 - Complete **one** study option from the manual that fits your class time.
@@ -459,7 +459,7 @@ layout: default
 
 </div>
 
-<div class="p-5 bg-pink-50 rounded-lg">
+<div class="p-5 bg-pink-50 rounded-lg text-gray-800">
 
 ## Personal reflection
 - What will you **do** differently because of Christ?

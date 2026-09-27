@@ -86,13 +86,13 @@ layout: default
 
 ## 🙏 Opening Prayer
 
-<div class="bg-blue-50 p-4 rounded-lg">
+<div class="bg-blue-50 p-4 rounded-lg text-gray-800">
 Ask someone to offer the opening prayer.
 </div>
 
 ## 💬 QT Time
 
-<div class="bg-purple-50 p-4 rounded-lg">
+<div class="bg-purple-50 p-4 rounded-lg text-gray-800">
 
 **[Student Name] is leading QT Time this week.**
 
@@ -124,7 +124,7 @@ layout: default
 
 # Lesson focus
 
-<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed">
+<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed text-gray-800">
 
 As we choose to follow the Savior and walk along the covenant path, He promises us the same blessings He gave to Abraham. These blessings include priesthood power, eternal families, and an inheritance in the celestial kingdom. As part of this covenant, we have the sacred responsibility of sharing the Savior’s gospel throughout the world so everyone can receive these marvelous blessings. This lesson can help students deepen their understanding about their covenant responsibility to share the gospel of Jesus Christ with others.
 
@@ -141,7 +141,7 @@ layout: default
 
 # Lesson focus
 
-<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed">
+<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed text-gray-800">
 
 As a group, select one of the images of a person on your puzzle pieces and create a brief description for that person. This could include: Read Abraham 2:9–11 (https://www.churchofjesuschrist.org/study/scriptures/pgp/abr/2?lang=eng&id=p9-p11#p9) , looking for what the Lord told Abraham He would do to bless the nations and families of the earth. Note: These verses contain a portion of what is known as the Abrahamic covenant.
 
@@ -190,7 +190,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 As a group, select one of the images of a person on your puzzle pieces and create a brief description for that person. This could include: Read Abraham 2:9–11 (https://www.churchofjesuschrist.org/study/scriptures/pgp/abr/2?lang=eng&id=p9-p11#p9) , looking for what the Lord told Abraham He would do to bless the nations and families of the earth. Note: These verses contain a portion of what is known as the Abrahamic covenant.
 
@@ -207,7 +207,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Elder David A. Bednar of the Quorum of the Twelve Apostles taught the following about Abraham’s seed: As part of the Abrahamic covenant, God has promised us the blessings of His priesthood, eternal families, and an inheritance in the celestial kingdom. These are blessings He desires for all His children, and we have the privilege and responsibility of sharing them with the world.
 
@@ -224,7 +224,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Reflect on your personal feelings about sharing the gospel with others. Continue looking for insights that can help you better understand the blessings and privilege of this sacred responsibility.
 
@@ -268,7 +268,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Isaiah 49 (https://www.churchofjesuschrist.org/study/scriptures/ot/isa/49?lang=eng) contains prophecies of the gathering of Israel in the last days, including the preaching of the gospel. The Book of Mormon prophet Nephi explained that these prophecies were a reminder that God would keep His covenant to bless the families of the earth through Abraham’s seed (see 1 Nephi 22:7–9 (https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/22?lang=eng&id=p7-p9#p7) ). Note: The servant referenced in Isaiah 49:3 (https://www.churchofjesuschrist.org/study/scriptures/ot/isa/49?lang=eng&id=p3#p3) and 5 (https://www.churchofjesuschrist.org/study/scriptures/ot/isa/49?lang=eng&id=p5#p5) could describe individuals who lead people to Christ, including members of the house of Israel, prophets, and the Savior Himself.
 
@@ -285,7 +285,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Learn about Isaiah’s prophecies by reading the scriptures and statements on the back of your puzzle pieces. Discuss and prepare to share the following with the class:
 
@@ -347,7 +347,7 @@ layout: default
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm">
 
-<div class="p-5 bg-yellow-50 rounded-lg">
+<div class="p-5 bg-yellow-50 rounded-lg text-gray-800">
 
 ## Challenge
 - Complete **one** study option from the manual that fits your class time.
@@ -355,7 +355,7 @@ layout: default
 
 </div>
 
-<div class="p-5 bg-pink-50 rounded-lg">
+<div class="p-5 bg-pink-50 rounded-lg text-gray-800">
 
 ## Personal reflection
 - What will you **do** differently because of Christ?

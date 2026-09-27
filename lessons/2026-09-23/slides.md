@@ -87,13 +87,13 @@ layout: default
 
 ## Opening prayer
 
-<div class="bg-blue-50 p-4 rounded-lg">
+<div class="bg-blue-50 p-4 rounded-lg text-gray-800">
 Ask someone to offer the opening prayer.
 </div>
 
 ## QT Time
 
-<div class="bg-purple-50 p-4 rounded-lg">
+<div class="bg-purple-50 p-4 rounded-lg text-gray-800">
 
 **[Student Name] is leading QT Time this week.**
 
@@ -127,13 +127,13 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto text-sm">
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Through the prophet Isaiah, the Lord warned of a problem we would face in our day that would make it hard to recognize truth. Read [Isaiah 5:20](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/5?lang=eng&id=p20#p20), looking for what the Lord taught.
 
 </div>
 
-<div class="p-4 bg-indigo-50 rounded-lg">
+<div class="p-4 bg-indigo-50 rounded-lg text-gray-800">
 
 **Discuss:**
 - When have you seen or read something that made you question whether it was true?
@@ -156,7 +156,7 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto text-sm">
 
-<div class="p-5 bg-blue-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-blue-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 President Dallin H. Oaks of the First Presidency taught:
 
@@ -166,7 +166,7 @@ President Dallin H. Oaks of the First Presidency taught:
 
 </div>
 
-<div class="p-4 bg-indigo-50 rounded-lg">
+<div class="p-4 bg-indigo-50 rounded-lg text-gray-800">
 
 **Ask yourself:** How confident do you feel in your ability to recognize truth? Who can you trust to give you accurate answers to gospel and Church-related questions?
 
@@ -195,13 +195,13 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto text-sm">
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Read paragraphs 11–12 of ["Acquiring Spiritual Knowledge"](https://www.churchofjesuschrist.org/study/manual/doctrinal-mastery-core-document-2023/acquiring-spiritual-knowledge?lang=eng&id=title5-p16#title5) in the *Doctrinal Mastery Core Document* (2023), and mark teachings you feel are important to know when seeking answers to your questions.
 
 </div>
 
-<div class="p-4 bg-indigo-50 rounded-lg">
+<div class="p-4 bg-indigo-50 rounded-lg text-gray-800">
 
 **Discuss:** Why is it important to rely on the Lord's divinely appointed sources as we seek answers to our questions?
 
@@ -230,7 +230,7 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto text-sm">
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 After Moses spoke with God face to face, Satan came and attempted to deceive Moses into worshipping him (see [Moses 1:12](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/1?lang=eng&id=p12#p12)).
 
@@ -238,7 +238,7 @@ Read [Moses 1:13–16](https://www.churchofjesuschrist.org/study/scriptures/pgp/
 
 </div>
 
-<div class="p-4 bg-indigo-50 rounded-lg">
+<div class="p-4 bg-indigo-50 rounded-lg text-gray-800">
 
 **Discuss:**
 - What did you find?
@@ -271,7 +271,7 @@ layout: default
 
 <div class="space-y-3 max-w-4xl mx-auto text-sm">
 
-<div class="p-4 bg-red-50 rounded-lg">
+<div class="p-4 bg-red-50 rounded-lg text-gray-800">
 
 **Choose one false statement (or one of your own):**
 1. God doesn't really care how we live as long as we don't hurt others.
@@ -280,7 +280,7 @@ layout: default
 
 </div>
 
-<div class="p-4 bg-green-50 rounded-lg">
+<div class="p-4 bg-green-50 rounded-lg text-gray-800">
 
 **Using a divinely appointed source, find statements that correct it.** Write what you find in your study journal. Consider:
 - Doctrinal mastery passages, Guide to the Scriptures, Topical Guide, or scripture index
@@ -338,14 +338,14 @@ layout: default
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm">
 
-<div class="p-5 bg-yellow-50 rounded-lg">
+<div class="p-5 bg-yellow-50 rounded-lg text-gray-800">
 
 ## Challenge
 - The next time you have a real question, turn to one of the Lord's divinely appointed sources instead of a random search — then write what you found in your study journal.
 
 </div>
 
-<div class="p-5 bg-pink-50 rounded-lg">
+<div class="p-5 bg-pink-50 rounded-lg text-gray-800">
 
 ## Personal reflection
 - What did you learn today about the divinely appointed sources that Heavenly Father and Jesus Christ have lovingly given us?

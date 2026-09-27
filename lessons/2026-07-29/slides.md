@@ -88,13 +88,13 @@ layout: default
 
 ## Opening prayer
 
-<div class="bg-blue-50 p-4 rounded-lg">
+<div class="bg-blue-50 p-4 rounded-lg text-gray-800">
 Ask someone to offer the opening prayer.
 </div>
 
 ## QT Time
 
-<div class="bg-purple-50 p-4 rounded-lg">
+<div class="bg-purple-50 p-4 rounded-lg text-gray-800">
 
 **Jamie is leading QT Time this week.**
 
@@ -174,7 +174,7 @@ class: text-center
 
 <div class="max-w-2xl mx-auto text-left space-y-4">
 
-<div class="p-6 bg-indigo-50 rounded-xl text-lg leading-relaxed">
+<div class="p-6 bg-indigo-50 rounded-xl text-lg leading-relaxed text-gray-800">
 
 President Nelson: no identifier should displace, replace, or take priority over these three enduring designations —
 
@@ -202,13 +202,13 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto text-sm">
 
-<div class="p-5 bg-blue-50 rounded-lg leading-relaxed">
+<div class="p-5 bg-blue-50 rounded-lg leading-relaxed text-gray-800">
 
 **Read:** [Moses 1:3, 6, 12–13, 16–18](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/1?lang=eng&id=p3,p6,p12-p13,p16-p18#p3). Look for how Moses's knowledge that he was a child of God informed his responses — even when Satan tried to tell him otherwise.
 
 </div>
 
-<div class="p-4 bg-indigo-50 rounded-lg">
+<div class="p-4 bg-indigo-50 rounded-lg text-gray-800">
 
 **Note it:** Next to [verse 13](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/1?lang=eng&id=p13#p13), complete the sentence: *"Knowing I am a child of God can help me …"*
 
@@ -230,13 +230,13 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto text-sm">
 
-<div class="p-5 bg-green-50 rounded-lg leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg leading-relaxed text-gray-800">
 
 **Read and tag four or more** of these passages as "divine identity." They're about people in Old Testament times, but the truths apply to you too.
 
 </div>
 
-<div class="p-4 bg-indigo-50 rounded-lg grid grid-cols-2 gap-x-6 gap-y-2 text-sm">
+<div class="p-4 bg-indigo-50 rounded-lg grid grid-cols-2 gap-x-6 gap-y-2 text-sm text-gray-800">
 
 - [Abraham 3:22–23](https://www.churchofjesuschrist.org/study/scriptures/pgp/abr/3?lang=eng&id=p22-p23#p22)
 - [Abraham 3:24–26](https://www.churchofjesuschrist.org/study/scriptures/pgp/abr/3?lang=eng&id=p24-p26#p24)
@@ -264,7 +264,7 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto text-sm">
 
-<div class="p-5 bg-purple-50 rounded-lg leading-relaxed">
+<div class="p-5 bg-purple-50 rounded-lg leading-relaxed text-gray-800">
 
 Seeing *yourself* as a child of God can change how you view and treat *yourself and others*. President Nelson pleaded:
 
@@ -273,7 +273,7 @@ Seeing *yourself* as a child of God can change how you view and treat *yourself 
 
 </div>
 
-<div class="p-4 bg-indigo-50 rounded-lg">
+<div class="p-4 bg-indigo-50 rounded-lg text-gray-800">
 
 **Discuss:** How would seeing others as children of God help you follow this counsel?
 

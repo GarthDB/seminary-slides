@@ -54,7 +54,7 @@ layout: default
 
 ## 🙏 Opening Prayer
 
-<div class="bg-blue-50 p-4 rounded-lg">
+<div class="bg-blue-50 p-4 rounded-lg text-gray-800">
 
 Ask someone to say the opening prayer
 
@@ -62,7 +62,7 @@ Ask someone to say the opening prayer
 
 ## 💬 QT Time with Finnley
 
-<div class="bg-purple-50 p-4 rounded-lg">
+<div class="bg-purple-50 p-4 rounded-lg text-gray-800">
 
 **Question:** "Have you ever had to act in faith when you didn't understand everything? What was that like?"
 
@@ -183,7 +183,7 @@ layout: default
 
 <div class="space-y-4">
 
-<div class="p-6 bg-green-50 rounded-lg">
+<div class="p-6 bg-green-50 rounded-lg text-gray-800">
 
 **What They Did:**
 
@@ -193,7 +193,7 @@ They were soon baptized and served faithfully in the Church for many years.
 
 </div>
 
-<div class="p-6 bg-blue-50 rounded-lg text-center">
+<div class="p-6 bg-blue-50 rounded-lg text-center text-gray-800">
 
 <div class="text-2xl font-semibold text-blue-800">
 "We had found the truth, and nothing would stop us from living it."
@@ -226,7 +226,7 @@ layout: default
 
 ## 1975: São Paulo Temple Announced
 
-<div class="p-6 bg-yellow-50 rounded-lg">
+<div class="p-6 bg-yellow-50 rounded-lg text-gray-800">
 
 In 1975, the Church announced that a temple would be built in São Paulo, Brazil.
 
@@ -284,7 +284,7 @@ layout: default
 
 ## What Was the Policy?
 
-<div class="p-4 bg-gray-50 rounded-lg text-sm">
+<div class="p-4 bg-gray-50 rounded-lg text-sm text-gray-800">
 
 From the introduction to [Official Declaration 2](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/od/2?lang=eng):
 
@@ -296,7 +296,7 @@ From the introduction to [Official Declaration 2](https://www.churchofjesuschris
 
 <div class="grid grid-cols-2 gap-3 text-sm">
 
-<div class="p-3 bg-blue-50 rounded-lg">
+<div class="p-3 bg-blue-50 rounded-lg text-gray-800">
 
 **From the Start:**
 
@@ -304,7 +304,7 @@ From the introduction to [Official Declaration 2](https://www.churchofjesuschris
 
 </div>
 
-<div class="p-3 bg-green-50 rounded-lg">
+<div class="p-3 bg-green-50 rounded-lg text-gray-800">
 
 **Church Position:**
 
@@ -336,7 +336,7 @@ layout: default
 
 ## President Spencer W. Kimball
 
-<div class="p-6 bg-blue-50 rounded-lg text-base">
+<div class="p-6 bg-blue-50 rounded-lg text-base text-gray-800">
 
 <div class="italic">
 
@@ -370,7 +370,7 @@ layout: default
 
 <div class="space-y-4">
 
-<div class="p-6 bg-purple-50 rounded-lg">
+<div class="p-6 bg-purple-50 rounded-lg text-gray-800">
 
 On June 1, 1978, President Kimball met with the First Presidency and Quorum of the Twelve Apostles in the Salt Lake Temple.
 
@@ -447,7 +447,7 @@ layout: default
 
 ## June 8, 1978
 
-<div class="p-6 bg-blue-50 rounded-lg text-base">
+<div class="p-6 bg-blue-50 rounded-lg text-base text-gray-800">
 
 From [Official Declaration 2](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/od/2?lang=eng):
 
@@ -455,7 +455,7 @@ From [Official Declaration 2](https://www.churchofjesuschrist.org/study/scriptur
 
 </div>
 
-<div class="text-center p-4 bg-green-50 rounded-lg">
+<div class="text-center p-4 bg-green-50 rounded-lg text-gray-800">
 
 **The revelation was announced to the Church on June 8, 1978**
 
@@ -500,7 +500,7 @@ layout: default
 
 <div class="space-y-4">
 
-<div class="p-6 bg-yellow-50 rounded-lg">
+<div class="p-6 bg-yellow-50 rounded-lg text-gray-800">
 
 After learning about the revelation, Helvécio recalled:
 
@@ -514,7 +514,7 @@ After learning about the revelation, Helvécio recalled:
 
 <div class="grid grid-cols-2 gap-4 text-sm">
 
-<div class="p-4 bg-blue-50 rounded-lg">
+<div class="p-4 bg-blue-50 rounded-lg text-gray-800">
 
 **Soon After:**
 
@@ -522,7 +522,7 @@ The Martins family was sealed in the São Paulo Temple
 
 </div>
 
-<div class="p-4 bg-green-50 rounded-lg">
+<div class="p-4 bg-green-50 rounded-lg text-gray-800">
 
 **Later Called:**
 
@@ -556,7 +556,7 @@ layout: default
 
 <div class="grid grid-cols-2 gap-4 text-sm">
 
-<div class="p-4 bg-purple-50 rounded-lg">
+<div class="p-4 bg-purple-50 rounded-lg text-gray-800">
 
 **Africa:**
 
@@ -566,7 +566,7 @@ layout: default
 
 </div>
 
-<div class="p-4 bg-blue-50 rounded-lg">
+<div class="p-4 bg-blue-50 rounded-lg text-gray-800">
 
 **Worldwide:**
 
@@ -646,7 +646,7 @@ layout: default
 
 <v-clicks>
 
-<div class="p-3 bg-blue-50 rounded-lg">
+<div class="p-3 bg-blue-50 rounded-lg text-gray-800">
 
 **1. Exercise Faith in Jesus Christ**
 
@@ -654,7 +654,7 @@ Trust that He knows what you need and when
 
 </div>
 
-<div class="p-3 bg-green-50 rounded-lg">
+<div class="p-3 bg-green-50 rounded-lg text-gray-800">
 
 **2. Focus on What You DO Know**
 
@@ -662,7 +662,7 @@ Rather than dwelling on what you don't understand
 
 </div>
 
-<div class="p-3 bg-purple-50 rounded-lg">
+<div class="p-3 bg-purple-50 rounded-lg text-gray-800">
 
 **3. Act on True Principles**
 
@@ -670,7 +670,7 @@ Keep commandments and follow the prophet
 
 </div>
 
-<div class="p-3 bg-yellow-50 rounded-lg">
+<div class="p-3 bg-yellow-50 rounded-lg text-gray-800">
 
 **4. Pray for Understanding**
 
@@ -678,7 +678,7 @@ Ask Heavenly Father to help you see with eternal perspective
 
 </div>
 
-<div class="p-3 bg-pink-50 rounded-lg">
+<div class="p-3 bg-pink-50 rounded-lg text-gray-800">
 
 **5. Seek Divine Sources**
 
@@ -686,7 +686,7 @@ Scriptures, living prophets, Holy Ghost, temple
 
 </div>
 
-<div class="p-3 bg-orange-50 rounded-lg">
+<div class="p-3 bg-orange-50 rounded-lg text-gray-800">
 
 **6. Be Patient**
 
@@ -725,7 +725,7 @@ layout: default
 
 <div class="text-sm space-y-3">
 
-<div class="p-3 bg-blue-50 rounded-lg">
+<div class="p-3 bg-blue-50 rounded-lg text-gray-800">
 
 **Gospel Questions:**
 
@@ -733,7 +733,7 @@ Doctrines you don't fully understand, policies that confuse you, historical ques
 
 </div>
 
-<div class="p-3 bg-green-50 rounded-lg">
+<div class="p-3 bg-green-50 rounded-lg text-gray-800">
 
 **Life Decisions:**
 
@@ -741,7 +741,7 @@ Which school to attend, career choices, relationship decisions
 
 </div>
 
-<div class="p-3 bg-purple-50 rounded-lg">
+<div class="p-3 bg-purple-50 rounded-lg text-gray-800">
 
 **Personal Challenges:**
 
@@ -749,7 +749,7 @@ Unanswered prayers, unfulfilled righteous desires, difficult trials
 
 </div>
 
-<div class="p-3 bg-yellow-50 rounded-lg">
+<div class="p-3 bg-yellow-50 rounded-lg text-gray-800">
 
 **Family Situations:**
 
@@ -827,7 +827,7 @@ layout: default
 
 <div class="grid grid-cols-2 gap-4 text-sm">
 
-<div class="p-4 bg-blue-50 rounded-lg">
+<div class="p-4 bg-blue-50 rounded-lg text-gray-800">
 
 **Gospel Topics Essays:**
 
@@ -835,7 +835,7 @@ layout: default
 
 </div>
 
-<div class="p-4 bg-green-50 rounded-lg">
+<div class="p-4 bg-green-50 rounded-lg text-gray-800">
 
 **Church History Topics:**
 
@@ -843,7 +843,7 @@ layout: default
 
 </div>
 
-<div class="p-4 bg-purple-50 rounded-lg">
+<div class="p-4 bg-purple-50 rounded-lg text-gray-800">
 
 **Magazine Article:**
 
@@ -851,7 +851,7 @@ layout: default
 
 </div>
 
-<div class="p-4 bg-yellow-50 rounded-lg">
+<div class="p-4 bg-yellow-50 rounded-lg text-gray-800">
 
 **Video:**
 
@@ -884,25 +884,25 @@ layout: default
 
 <v-clicks>
 
-<div class="p-3 bg-blue-50 rounded-lg text-base max-w-3xl mx-auto">
+<div class="p-3 bg-blue-50 rounded-lg text-base max-w-3xl mx-auto text-gray-800">
 
 ✝️ **God loves all His children** equally and invites all to come unto Him
 
 </div>
 
-<div class="p-3 bg-green-50 rounded-lg text-base max-w-3xl mx-auto">
+<div class="p-3 bg-green-50 rounded-lg text-base max-w-3xl mx-auto text-gray-800">
 
 🙏 **Prophets seek and receive** revelation to guide the Church
 
 </div>
 
-<div class="p-3 bg-purple-50 rounded-lg text-base max-w-3xl mx-auto">
+<div class="p-3 bg-purple-50 rounded-lg text-base max-w-3xl mx-auto text-gray-800">
 
 💪 **Acting in faith during uncertain situations** prepares us to receive the Lord's blessings
 
 </div>
 
-<div class="p-3 bg-yellow-50 rounded-lg text-base max-w-3xl mx-auto">
+<div class="p-3 bg-yellow-50 rounded-lg text-base max-w-3xl mx-auto text-gray-800">
 
 ⏰ **God's timing is perfect** - trust His plan even when you don't understand
 

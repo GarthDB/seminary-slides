@@ -92,13 +92,13 @@ layout: default
 
 ## Opening prayer
 
-<div class="bg-blue-50 p-4 rounded-lg">
+<div class="bg-blue-50 p-4 rounded-lg text-gray-800">
 Ask someone to offer the opening prayer.
 </div>
 
 ## A new semester
 
-<div class="bg-purple-50 p-4 rounded-lg text-sm">
+<div class="bg-purple-50 p-4 rounded-lg text-sm text-gray-800">
 
 We're starting fresh today — new semester, new semester group, new days to learn together.
 
@@ -172,14 +172,14 @@ layout: default
 
 <div class="grid grid-cols-2 gap-4 text-sm">
 
-<div class="p-4 bg-blue-50 rounded-lg">
+<div class="p-4 bg-blue-50 rounded-lg text-gray-800">
 
 **What this means for us:**
 Since Heavenly Father and Jesus Christ are perfectly united, when we learn about Christ's character and role, we are also learning about Heavenly Father.
 
 </div>
 
-<div class="p-4 bg-purple-50 rounded-lg">
+<div class="p-4 bg-purple-50 rounded-lg text-gray-800">
 
 **The goal of today's skills:**
 Not just to know facts about the Old Testament — but to see and know *Jesus Christ* on every page, in every story, in every symbol.
@@ -215,7 +215,7 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto">
 
-<div class="p-5 bg-blue-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-blue-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 A **symbol of the Savior** is an object, image, or title in the scriptures that reminds us of Christ's role in our lives.
 
@@ -223,7 +223,7 @@ The Old Testament was written centuries before Christ came to earth — yet it's
 
 </div>
 
-<div class="p-5 bg-indigo-50 rounded-lg">
+<div class="p-5 bg-indigo-50 rounded-lg text-gray-800">
 
 **When you find a symbol, ask yourself:**
 
@@ -252,7 +252,7 @@ layout: default
 
 <div class="space-y-3 max-w-4xl mx-auto text-sm">
 
-<div class="p-4 bg-blue-50 rounded-lg">
+<div class="p-4 bg-blue-50 rounded-lg text-gray-800">
 
 **Read:** <a href="https://www.churchofjesuschrist.org/study/scriptures/ot/jer/2?lang=eng&id=p13#p13" target="_blank">Jeremiah 2:13</a> and <a href="https://www.churchofjesuschrist.org/study/scriptures/ot/jer/17?lang=eng&id=p13#p13" target="_blank">Jeremiah 17:13</a>
 
@@ -297,7 +297,7 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto text-sm">
 
-<div class="p-4 bg-blue-50 rounded-lg">
+<div class="p-4 bg-blue-50 rounded-lg text-gray-800">
 
 **Read one of these passages.** Find the symbol of the Savior. Then apply the two questions — and note what you learned about Jesus Christ.
 
@@ -305,24 +305,24 @@ layout: default
 
 <div class="space-y-2">
 
-<div class="p-3 bg-indigo-50 rounded-lg flex gap-3 items-start">
+<div class="p-3 bg-indigo-50 rounded-lg flex gap-3 items-start text-gray-800">
   <div class="font-bold text-indigo-700 min-w-fit">Option A</div>
   <div><a href="https://www.churchofjesuschrist.org/study/scriptures/ot/2-sam/22?lang=eng&id=p2-p4#p2" target="_blank">2 Samuel 22:2–4</a> — David's song of deliverance. What does he call the Lord?</div>
 </div>
 
-<div class="p-3 bg-indigo-50 rounded-lg flex gap-3 items-start">
+<div class="p-3 bg-indigo-50 rounded-lg flex gap-3 items-start text-gray-800">
   <div class="font-bold text-indigo-700 min-w-fit">Option B</div>
   <div><a href="https://www.churchofjesuschrist.org/study/scriptures/ot/isa/25?lang=eng&id=p4#p4" target="_blank">Isaiah 25:4</a> — A prophecy of the Lord as refuge. (<em>Note: "thou" refers to the Lord.</em>)</div>
 </div>
 
-<div class="p-3 bg-indigo-50 rounded-lg flex gap-3 items-start">
+<div class="p-3 bg-indigo-50 rounded-lg flex gap-3 items-start text-gray-800">
   <div class="font-bold text-indigo-700 min-w-fit">Option C</div>
   <div><a href="https://www.churchofjesuschrist.org/study/scriptures/ot/mal/3?lang=eng&id=p2-p3#p2" target="_blank">Malachi 3:2–3</a> — What two symbols describe how the Lord purifies us?</div>
 </div>
 
 </div>
 
-<div class="p-3 bg-purple-50 rounded-lg text-xs italic">
+<div class="p-3 bg-purple-50 rounded-lg text-xs italic text-gray-800">
 In your notebook: write the symbol you found, your answer to both questions, and one sentence about what this teaches you about Christ's role in your life.
 </div>
 
@@ -354,13 +354,13 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto">
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 The Old Testament records moments when the Lord speaks, commands, promises, and acts. Every one of those moments teaches us something about *who He is* and *how He helps us*.
 
 </div>
 
-<div class="p-5 bg-teal-50 rounded-lg">
+<div class="p-5 bg-teal-50 rounded-lg text-gray-800">
 
 **As you read, ask yourself:**
 
@@ -389,7 +389,7 @@ layout: default
 
 <div class="space-y-3 max-w-4xl mx-auto text-sm">
 
-<div class="p-4 bg-green-50 rounded-lg">
+<div class="p-4 bg-green-50 rounded-lg text-gray-800">
 
 **Read:** <a href="https://www.churchofjesuschrist.org/study/scriptures/ot/dan/3?lang=eng&id=p23-p25#p23" target="_blank">Daniel 3:23–25</a>
 
@@ -434,7 +434,7 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto text-sm">
 
-<div class="p-4 bg-green-50 rounded-lg">
+<div class="p-4 bg-green-50 rounded-lg text-gray-800">
 
 **Read one of these passages.** Mark what the Lord said or did. Apply both questions — and note what you learned about Jesus Christ.
 
@@ -442,24 +442,24 @@ layout: default
 
 <div class="space-y-2">
 
-<div class="p-3 bg-teal-50 rounded-lg flex gap-3 items-start">
+<div class="p-3 bg-teal-50 rounded-lg flex gap-3 items-start text-gray-800">
   <div class="font-bold text-teal-700 min-w-fit">Option A</div>
   <div><a href="https://www.churchofjesuschrist.org/study/scriptures/ot/1-sam/16?lang=eng&id=p6-p7#p6" target="_blank">1 Samuel 16:6–7</a> — Samuel seeks the next king. What does the Lord tell him — and what does it reveal about how God sees people?</div>
 </div>
 
-<div class="p-3 bg-teal-50 rounded-lg flex gap-3 items-start">
+<div class="p-3 bg-teal-50 rounded-lg flex gap-3 items-start text-gray-800">
   <div class="font-bold text-teal-700 min-w-fit">Option B</div>
   <div><a href="https://www.churchofjesuschrist.org/study/scriptures/ot/isa/1?lang=eng&id=p16-p18#p16" target="_blank">Isaiah 1:16–18</a> — The Lord addresses a sinful Israel. What does He offer — and what does it say about His character?</div>
 </div>
 
-<div class="p-3 bg-teal-50 rounded-lg flex gap-3 items-start">
+<div class="p-3 bg-teal-50 rounded-lg flex gap-3 items-start text-gray-800">
   <div class="font-bold text-teal-700 min-w-fit">Option C</div>
   <div><a href="https://www.churchofjesuschrist.org/study/scriptures/ot/isa/53?lang=eng&id=p3-p5#p3" target="_blank">Isaiah 53:3–5</a> — A prophecy of the Savior's Atonement. What does He bear, and why?</div>
 </div>
 
 </div>
 
-<div class="p-3 bg-purple-50 rounded-lg text-xs italic">
+<div class="p-3 bg-purple-50 rounded-lg text-xs italic text-gray-800">
 In your notebook: mark what the Lord said or did, write your answers to both questions, and add a note about what this means for you personally.
 </div>
 

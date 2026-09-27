@@ -86,13 +86,13 @@ layout: default
 
 ## 🙏 Opening Prayer
 
-<div class="bg-blue-50 p-4 rounded-lg">
+<div class="bg-blue-50 p-4 rounded-lg text-gray-800">
 Ask someone to offer the opening prayer.
 </div>
 
 ## 💬 QT Time
 
-<div class="bg-purple-50 p-4 rounded-lg">
+<div class="bg-purple-50 p-4 rounded-lg text-gray-800">
 
 **[Student Name] is leading QT Time this week.**
 
@@ -124,7 +124,7 @@ layout: default
 
 # Lesson focus
 
-<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed">
+<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed text-gray-800">
 
 Because the Savior is filled with compassion, He is willing to heal, comfort, and forgive, even when we sin against Him. After Jerusalem was destroyed because of sin and rebellion, Jeremiah sought to help the Jews understand the Savior’s compassion and to find hope in it. This lesson can help students feel the Savior’s compassion for them, even when they sin.
 
@@ -141,7 +141,7 @@ layout: default
 
 # Lesson focus
 
-<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed">
+<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed text-gray-800">
 
 Imagine a young man has done his best to make good choices in his life. One day while attending a party, he gives into peer pressure and drinks alcohol because he wants to fit in. The next morning, he wakes up feeling alone, guilty, and frustrated. He slowly begins making other poor choices and starts losing hope for his future.
 
@@ -186,7 +186,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Imagine a young man has done his best to make good choices in his life. One day while attending a party, he gives into peer pressure and drinks alcohol because he wants to fit in. The next morning, he wakes up feeling alone, guilty, and frustrated. He slowly begins making other poor choices and starts losing hope for his future.
 
@@ -203,7 +203,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 It is important to remember that we all sin and “come short of the glory of God” ( Romans 3:23 (https://www.churchofjesuschrist.org/study/scriptures/nt/rom/3?lang=eng&id=p23#p23) ). As you study Lamentations today, look for impressions from the Holy Ghost that can help you recognize how Heavenly Father and Jesus Christ feel about you, even when you make mistakes.
 
@@ -246,7 +246,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 For about 40 years, the Lord told Jeremiah to prophesy to the house of Israel about Jerusalem’s destruction and captivity if they chose not to repent and turn back to God (see Jeremiah 16:1–13 (https://www.churchofjesuschrist.org/study/scriptures/ot/jer/16?lang=eng&id=p1-p13#p1) ). During the reign of King Zedekiah, the Babylonians destroyed Jerusalem and brought many people into captivity, fulfilling the Lord’s prophecy (see Jeremiah 52 (https://www.churchofjesuschrist.org/study/scriptures/ot/jer/52?lang=eng) ). Sometime after these events, Jeremiah recorded the book of Lamentations.
 
@@ -263,7 +263,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Read one or two of the following passages, looking for words or phrases that express how the people felt after suffering because of their sins. Lamentations 1:1–4 (https://www.churchofjesuschrist.org/study/scriptures/ot/lam/1?lang=eng&id=p1-p4#p1) Lamentations 1:16–18 (https://www.churchofjesuschrist.org/study/scriptures/ot/lam/1?lang=eng&id=p16-p18#p16) Lamentations 1:20–22 (https://www.churchofjesuschrist.org/study/scriptures/ot/lam/1?lang=eng&id=p20-p22#p20)
 
@@ -308,7 +308,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Reflect on the statements on the board from the beginning of the lesson. Read Lamentations 3:22–26, 31–33 (https://www.churchofjesuschrist.org/study/scriptures/ot/lam/3?lang=eng&id=p22-p26,p31-p33#p22) , looking for words or phrases you would share with someone who feels this way. Complete one of the following study options, looking for what helps you better understand how you can experience the Savior’s compassion in your life.
 
@@ -325,7 +325,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Elder Dale G. Renlund of the Quorum of the Twelve Apostles testified:
 
@@ -413,7 +413,7 @@ layout: default
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm">
 
-<div class="p-5 bg-yellow-50 rounded-lg">
+<div class="p-5 bg-yellow-50 rounded-lg text-gray-800">
 
 ## Challenge
 - Complete **one** study option from the manual that fits your class time.
@@ -421,7 +421,7 @@ layout: default
 
 </div>
 
-<div class="p-5 bg-pink-50 rounded-lg">
+<div class="p-5 bg-pink-50 rounded-lg text-gray-800">
 
 ## Personal reflection
 - What will you **do** differently because of Christ?

@@ -87,13 +87,13 @@ layout: default
 
 ## Opening prayer
 
-<div class="bg-blue-50 p-4 rounded-lg">
+<div class="bg-blue-50 p-4 rounded-lg text-gray-800">
 Ask someone to offer the opening prayer.
 </div>
 
 ## QT Time
 
-<div class="bg-purple-50 p-4 rounded-lg">
+<div class="bg-purple-50 p-4 rounded-lg text-gray-800">
 
 **Finnley is leading QT Time this week.**
 
@@ -178,7 +178,7 @@ layout: default
 
 <div class="space-y-3 text-sm text-left max-w-4xl mx-auto">
 
-<div class="p-4 bg-red-50 rounded-lg border border-red-100">
+<div class="p-4 bg-red-50 rounded-lg border border-red-100 text-gray-800">
 
 **From the General Handbook (18.17.1)** — help the class understand **why** we protect patriarchal blessings:
 
@@ -202,7 +202,7 @@ layout: default
 
 # Entitled to a blessing
 
-<div class="p-6 bg-blue-50 rounded-lg text-base leading-relaxed max-w-4xl mx-auto">
+<div class="p-6 bg-blue-50 rounded-lg text-base leading-relaxed max-w-4xl mx-auto text-gray-800">
 
 “In our day, **every worthy, baptized member** is entitled to receive a patriarchal blessing, which provides **inspired direction** from Heavenly Father.”
 
@@ -221,7 +221,7 @@ layout: default
 
 # An expression of God’s love
 
-<div class="p-6 bg-purple-50 rounded-lg text-base leading-relaxed max-w-4xl mx-auto">
+<div class="p-6 bg-purple-50 rounded-lg text-base leading-relaxed max-w-4xl mx-auto text-gray-800">
 
 Elder **Kazuhiko Yamashita**: Your patriarchal blessing is a **message from Heavenly Father**—promises and counsel for your life.
 
@@ -267,7 +267,7 @@ layout: default
 
 # Scripture: Abraham 2:9–11
 
-<div class="p-5 bg-green-50 rounded-lg text-base max-w-4xl mx-auto">
+<div class="p-5 bg-green-50 rounded-lg text-base max-w-4xl mx-auto text-gray-800">
 
 Read together [Abraham 2:9–11](https://www.churchofjesuschrist.org/study/scriptures/pgp/abr/2?lang=eng&id=p9-p11#p9).
 
@@ -324,13 +324,13 @@ layout: default
 
 <div class="space-y-4 max-w-3xl mx-auto">
 
-<div class="p-5 bg-yellow-50 rounded-lg text-base">
+<div class="p-5 bg-yellow-50 rounded-lg text-base text-gray-800">
 
 As the manual invites: share **something you learned** about patriarchal blessings or an **insight** from study.
 
 </div>
 
-<div class="p-4 bg-gray-50 rounded-lg text-sm border border-gray-200 italic leading-relaxed">
+<div class="p-4 bg-gray-50 rounded-lg text-sm border border-gray-200 italic leading-relaxed text-gray-800">
 
 "Church members should not compare blessings and should not share them except with close family members. Patriarchal blessings should not be read in Church meetings or other public gatherings."
 
@@ -377,7 +377,7 @@ layout: default
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm">
 
-<div class="p-5 bg-teal-50 rounded-lg">
+<div class="p-5 bg-teal-50 rounded-lg text-gray-800">
 
 ## If you have a blessing
 
@@ -385,7 +385,7 @@ layout: default
 
 </div>
 
-<div class="p-5 bg-orange-50 rounded-lg">
+<div class="p-5 bg-orange-50 rounded-lg text-gray-800">
 
 ## If you don’t yet
 

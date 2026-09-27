@@ -87,13 +87,13 @@ layout: default
 
 ## Opening prayer
 
-<div class="bg-blue-50 p-4 rounded-lg">
+<div class="bg-blue-50 p-4 rounded-lg text-gray-800">
 Ask someone to offer the opening prayer.
 </div>
 
 ## QT Time
 
-<div class="bg-purple-50 p-4 rounded-lg">
+<div class="bg-purple-50 p-4 rounded-lg text-gray-800">
 
 **Kaylie is leading QT Time this week.**
 
@@ -203,7 +203,7 @@ layout: default
 
 <div class="space-y-3 text-sm">
 
-<div class="p-4 bg-blue-50 rounded-lg leading-relaxed">
+<div class="p-4 bg-blue-50 rounded-lg leading-relaxed text-gray-800">
 
 The **wilderness tabernacle** held the altar of burnt offering in its outer courtyard. Priests offered animals there **daily** — a constant, visible witness pointing forward to the Savior's Atonement.
 
@@ -237,13 +237,13 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto">
 
-<div class="p-5 bg-blue-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-blue-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 In **Leviticus 1**, the Lord instructed Israel to make **burnt offerings**. They were daily, symbolic of the Savior's Atonement, and a sign of **continuous commitment** to the Lord.
 
 </div>
 
-<div class="p-5 bg-green-50 rounded-lg text-base">
+<div class="p-5 bg-green-50 rounded-lg text-base text-gray-800">
 
 **Read** [Leviticus 1:3](https://www.churchofjesuschrist.org/study/scriptures/ot/lev/1?lang=eng&id=p3#p3). Mark the phrase: *"He shall offer it of his **own voluntary will**."*
 
@@ -269,22 +269,22 @@ layout: default
 
 <div class="space-y-1.5">
 
-<div class="p-2 bg-blue-50 rounded text-xs">
+<div class="p-2 bg-blue-50 rounded text-xs text-gray-800">
 The animal parts and instructions in verses 8–9 carry rich symbolism — each pointed Israel toward total devotion.
 </div>
 
 <div class="grid grid-cols-2 gap-1.5 text-[11px] leading-tight">
 
-<div class="p-2 bg-green-50 rounded"><strong>"Head," "fat," "inwards," "legs"</strong> (<a href="https://www.churchofjesuschrist.org/study/scriptures/ot/lev/1?lang=eng&id=p8-p9#p8" target="_blank" rel="noopener">vv. 8–9</a>)</div>
+<div class="p-2 bg-green-50 rounded text-gray-800"><strong>"Head," "fat," "inwards," "legs"</strong> (<a href="https://www.churchofjesuschrist.org/study/scriptures/ot/lev/1?lang=eng&id=p8-p9#p8" target="_blank" rel="noopener">vv. 8–9</a>)</div>
 <div class="p-2 bg-white/70 rounded">Offering the Lord <strong>anything He asks</strong> — our <strong>hearts, minds, and bodies</strong></div>
 
-<div class="p-2 bg-green-50 rounded"><strong>"Burn all on the altar"</strong> (<a href="https://www.churchofjesuschrist.org/study/scriptures/ot/lev/1?lang=eng&id=p9#p9" target="_blank" rel="noopener">v. 9</a>)</div>
+<div class="p-2 bg-green-50 rounded text-gray-800"><strong>"Burn all on the altar"</strong> (<a href="https://www.churchofjesuschrist.org/study/scriptures/ot/lev/1?lang=eng&id=p9#p9" target="_blank" rel="noopener">v. 9</a>)</div>
 <div class="p-2 bg-white/70 rounded"><strong>Total commitment</strong> to the Lord — nothing held back</div>
 
-<div class="p-2 bg-green-50 rounded"><strong>"Sweet savour unto the Lord"</strong> (<a href="https://www.churchofjesuschrist.org/study/scriptures/ot/lev/1?lang=eng&id=p9#p9" target="_blank" rel="noopener">v. 9</a>)</div>
+<div class="p-2 bg-green-50 rounded text-gray-800"><strong>"Sweet savour unto the Lord"</strong> (<a href="https://www.churchofjesuschrist.org/study/scriptures/ot/lev/1?lang=eng&id=p9#p9" target="_blank" rel="noopener">v. 9</a>)</div>
 <div class="p-2 bg-white/70 rounded">Our sacrifices are <strong>sweet and pleasing</strong> to Heavenly Father and the Savior</div>
 
-<div class="p-2 bg-green-50 rounded"><strong>"Of his own voluntary will"</strong> (<a href="https://www.churchofjesuschrist.org/study/scriptures/ot/lev/1?lang=eng&id=p3#p3" target="_blank" rel="noopener">v. 3</a>)</div>
+<div class="p-2 bg-green-50 rounded text-gray-800"><strong>"Of his own voluntary will"</strong> (<a href="https://www.churchofjesuschrist.org/study/scriptures/ot/lev/1?lang=eng&id=p3#p3" target="_blank" rel="noopener">v. 3</a>)</div>
 <div class="p-2 bg-white/70 rounded">Sacrifice the Lord honors is <strong>freely given</strong></div>
 
 </div>
@@ -325,7 +325,7 @@ layout: default
 
 <div class="space-y-3">
 
-<div class="p-4 bg-blue-50 rounded-lg text-sm leading-relaxed">
+<div class="p-4 bg-blue-50 rounded-lg text-sm leading-relaxed text-gray-800">
 
 After the Savior's atoning sacrifice was completed, **He adjusted the type of sacrifice** He asks His people to make (see [3 Nephi 9:19–20](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/9?lang=eng&id=p19-p20#p19)).
 
@@ -385,7 +385,7 @@ layout: default
 
 <div class="space-y-3 max-w-4xl mx-auto">
 
-<div class="p-4 bg-blue-50 rounded-lg text-sm">
+<div class="p-4 bg-blue-50 rounded-lg text-sm text-gray-800">
 
 Study **two or more** of the following. Mark what each verse suggests we can offer to the Lord today.
 
@@ -393,29 +393,29 @@ Study **two or more** of the following. Mark what each verse suggests we can off
 
 <div class="grid grid-cols-2 gap-3 text-sm">
 
-<div class="p-3 bg-green-50 rounded-lg">
+<div class="p-3 bg-green-50 rounded-lg text-gray-800">
 <strong><a href="https://www.churchofjesuschrist.org/study/scriptures/nt/rom/12?lang=eng&id=p1-p2#p1" target="_blank" rel="noopener">Romans 12:1–2</a></strong><br/>
 <span class="text-xs text-gray-600">Paul's letter to the Romans</span>
 </div>
 
-<div class="p-3 bg-green-50 rounded-lg">
+<div class="p-3 bg-green-50 rounded-lg text-gray-800">
 <strong><a href="https://www.churchofjesuschrist.org/study/scriptures/bofm/omni/1?lang=eng&id=p26#p26" target="_blank" rel="noopener">Omni 1:26</a></strong><br/>
 <span class="text-xs text-gray-600">Amaleki before giving the plates to King Benjamin</span>
 </div>
 
-<div class="p-3 bg-green-50 rounded-lg">
+<div class="p-3 bg-green-50 rounded-lg text-gray-800">
 <strong><a href="https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/9?lang=eng&id=p19-p20#p19" target="_blank" rel="noopener">3 Nephi 9:19–20</a></strong><br/>
 <span class="text-xs text-gray-600">Christ's voice to the Nephites</span>
 </div>
 
-<div class="p-3 bg-green-50 rounded-lg">
+<div class="p-3 bg-green-50 rounded-lg text-gray-800">
 <strong><a href="https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/4?lang=eng&id=p2#p2" target="_blank" rel="noopener">D&C 4:2</a></strong><br/>
 <span class="text-xs text-gray-600">Revelation through Joseph Smith</span>
 </div>
 
 </div>
 
-<div class="p-3 bg-purple-50 rounded-lg text-sm">
+<div class="p-3 bg-purple-50 rounded-lg text-sm text-gray-800">
 
 **Reflect:** How could sacrificing in these ways help us become more like the Savior? Why is it sometimes hard?
 
@@ -454,12 +454,12 @@ layout: default
 
 <div class="grid grid-cols-2 gap-3">
 
-<div class="p-3 bg-blue-50 rounded-lg">
+<div class="p-3 bg-blue-50 rounded-lg text-gray-800">
 <strong>Read:</strong> <a href="https://www.churchofjesuschrist.org/study/scriptures/ot-nt/1-kgs/17?lang=eng&id=p8-p16#p8" target="_blank" rel="noopener">1 Kings 17:8–16</a><br/>
 <span class="text-xs">The widow of Zarephath</span>
 </div>
 
-<div class="p-3 bg-blue-50 rounded-lg">
+<div class="p-3 bg-blue-50 rounded-lg text-gray-800">
 <strong>Watch:</strong> "Overcoming Challenges" (5:02)<br/>
 <span class="text-xs">Be mindful of what the Holy Ghost prompts you to sacrifice.</span>
 </div>
@@ -474,7 +474,7 @@ The real act of personal sacrifice is **not** placing an animal on the altar. In
 
 </div>
 
-<div class="p-3 bg-green-50 rounded-lg">
+<div class="p-3 bg-green-50 rounded-lg text-gray-800">
 
 **Complete two or more in your notebook:**
 - One sacrifice I am already making for Heavenly Father is …
@@ -501,24 +501,24 @@ layout: default
 
 <div class="grid grid-cols-3 gap-2">
 
-<div class="p-3 bg-blue-50 rounded-lg">
+<div class="p-3 bg-blue-50 rounded-lg text-gray-800">
 <strong><a href="https://www.churchofjesuschrist.org/study/scriptures/nt/mark/12?lang=eng&id=p41-p44#p41" target="_blank" rel="noopener">Mark 12:41–44</a></strong><br/>
 <span class="text-xs">The widow's mite</span>
 </div>
 
-<div class="p-3 bg-blue-50 rounded-lg">
+<div class="p-3 bg-blue-50 rounded-lg text-gray-800">
 <strong><a href="https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/22?lang=eng&id=p13-p23#p13" target="_blank" rel="noopener">Alma 22:13–19, 22–23</a></strong><br/>
 <span class="text-xs">A Lamanite king's offering</span>
 </div>
 
-<div class="p-3 bg-blue-50 rounded-lg">
+<div class="p-3 bg-blue-50 rounded-lg text-gray-800">
 <strong>Watch:</strong> "Treasure in Heaven: The John Tanner Story"<br/>
 <span class="text-xs">8:16–18:43</span>
 </div>
 
 </div>
 
-<div class="p-4 bg-green-50 rounded-lg">
+<div class="p-4 bg-green-50 rounded-lg text-gray-800">
 
 **Record in your notebook:**
 - **3 insights** you had
@@ -527,7 +527,7 @@ layout: default
 
 </div>
 
-<div class="p-3 bg-purple-50 rounded-lg text-xs italic">
+<div class="p-3 bg-purple-50 rounded-lg text-xs italic text-gray-800">
 
 The widow gave two mites — *all* she had. The Lamanite king offered to give up his kingdom. John Tanner gave nearly everything he owned to support the Saints. Each shows a heart willing to sacrifice anything.
 

@@ -87,13 +87,13 @@ layout: default
 
 ## Opening prayer
 
-<div class="bg-blue-50 p-4 rounded-lg">
+<div class="bg-blue-50 p-4 rounded-lg text-gray-800">
 Ask someone to offer the opening prayer.
 </div>
 
 ## QT Time
 
-<div class="bg-purple-50 p-4 rounded-lg">
+<div class="bg-purple-50 p-4 rounded-lg text-gray-800">
 
 **Gwen is leading QT Time this week.**
 
@@ -150,7 +150,7 @@ layout: default
 
 <div class="grid grid-cols-3 gap-4 text-sm max-w-4xl mx-auto">
 
-<div class="p-5 bg-red-50 rounded-lg">
+<div class="p-5 bg-red-50 rounded-lg text-gray-800">
 
 **Nabal**
 
@@ -162,7 +162,7 @@ His name literally means *"fool."*
 
 </div>
 
-<div class="p-5 bg-blue-50 rounded-lg">
+<div class="p-5 bg-blue-50 rounded-lg text-gray-800">
 
 **David**
 
@@ -172,7 +172,7 @@ When insulted, his first reaction: *arm 400 men and march.* (v.13, 21–22)
 
 </div>
 
-<div class="p-5 bg-green-50 rounded-lg">
+<div class="p-5 bg-green-50 rounded-lg text-gray-800">
 
 **Abigail**
 
@@ -201,7 +201,7 @@ layout: default
 
 <div class="grid grid-cols-2 gap-4 text-sm">
 
-<div class="p-5 bg-blue-50 rounded-lg leading-relaxed">
+<div class="p-5 bg-blue-50 rounded-lg leading-relaxed text-gray-800">
 
 **What David had done:**
 - Protected Nabal's flocks and herds in the wilderness (v.7, 15–16)
@@ -210,7 +210,7 @@ layout: default
 
 </div>
 
-<div class="p-5 bg-red-50 rounded-lg leading-relaxed">
+<div class="p-5 bg-red-50 rounded-lg leading-relaxed text-gray-800">
 
 **What Nabal said:**
 - *"Who is David?… there be many servants nowadays that break away every man from his master."* (v.10–11)
@@ -220,7 +220,7 @@ layout: default
 
 </div>
 
-<div class="p-4 bg-yellow-50 rounded-lg text-sm">
+<div class="p-4 bg-yellow-50 rounded-lg text-sm text-gray-800">
 
 **David's reaction (v.13, 21–22):** Armed 400 men and marched toward Nabal's household. *"So and more also do God unto the enemies of David, if I leave of all that pertain to him by the morning light any that pisseth against the wall."*
 
@@ -243,7 +243,7 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto text-sm">
 
-<div class="p-5 bg-green-50 rounded-lg leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg leading-relaxed text-gray-800">
 
 Without telling Nabal, Abigail loaded up donkeys with food — bread, wine, sheep, grain, raisins, figs — and rode out to meet David. She bowed before him and said:
 
@@ -288,7 +288,7 @@ layout: default
 
 </div>
 
-<div class="p-4 bg-teal-50 rounded-lg text-sm">
+<div class="p-4 bg-teal-50 rounded-lg text-sm text-gray-800">
 
 *"Abigail's bringing an abundance of food and supplies can teach us that the Savior offers to those who have been hurt and injured the sustenance and help we need to be healed and made whole."*
 
@@ -313,7 +313,7 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto">
 
-<div class="p-6 bg-blue-50 rounded-lg text-base leading-relaxed">
+<div class="p-6 bg-blue-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 When Abigail finished speaking, David stopped. He blessed God for sending her:
 
@@ -321,7 +321,7 @@ When Abigail finished speaking, David stopped. He blessed God for sending her:
 
 </div>
 
-<div class="p-5 bg-indigo-50 rounded-lg text-sm space-y-2">
+<div class="p-5 bg-indigo-50 rounded-lg text-sm space-y-2 text-gray-800">
 
 **David recognized three things:**
 1. God *sent* Abigail — this was not an accident
@@ -347,7 +347,7 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto">
 
-<div class="p-4 bg-yellow-50 rounded-lg text-sm italic">
+<div class="p-4 bg-yellow-50 rounded-lg text-sm italic text-gray-800">
 Finish this sentence: *"Because of Jesus Christ, I can …"*
 </div>
 
@@ -361,7 +361,7 @@ Finish this sentence: *"Because of Jesus Christ, I can …"*
 
 </div>
 
-<div class="p-4 bg-blue-50 rounded-lg text-sm">
+<div class="p-4 bg-blue-50 rounded-lg text-sm text-gray-800">
 
 See also: [Matt 18:21–22](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/18?lang=eng&id=p21-p22#p21) · [Luke 23:34](https://www.churchofjesuschrist.org/study/scriptures/nt/luke/23?lang=eng&id=p34#p34) · [Eph 4:32](https://www.churchofjesuschrist.org/study/scriptures/nt/eph/4?lang=eng&id=p32#p32) · [D&C 64:8–11](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/64?lang=eng&id=p8-p11#p8)
 
@@ -398,7 +398,7 @@ layout: default
 
 <div class="space-y-4 max-w-4xl mx-auto text-sm">
 
-<div class="p-5 bg-blue-50 rounded-lg leading-relaxed">
+<div class="p-5 bg-blue-50 rounded-lg leading-relaxed text-gray-800">
 
 Read [1 Samuel 25:18–19, 23–28, 31](https://www.churchofjesuschrist.org/study/scriptures/ot/1-sam/25?lang=eng&id=p18-p19,p23-p28,p31#p18). **Mark** anything Abigail said or did that is like something Jesus Christ has said or done.
 
@@ -407,7 +407,7 @@ Read [1 Samuel 25:18–19, 23–28, 31](https://www.churchofjesuschrist.org/stud
 
 </div>
 
-<div class="p-4 bg-indigo-50 rounded-lg">
+<div class="p-4 bg-indigo-50 rounded-lg text-gray-800">
 
 Then read [1 Samuel 25:32–35](https://www.churchofjesuschrist.org/study/scriptures/ot/1-sam/25?lang=eng&id=p32-p35#p32) — David's reaction when Abigail helped him forgive.
 
@@ -435,7 +435,7 @@ layout: default
 
 <div class="space-y-3 max-w-4xl mx-auto text-sm">
 
-<div class="p-5 bg-purple-50 rounded-lg leading-relaxed">
+<div class="p-5 bg-purple-50 rounded-lg leading-relaxed text-gray-800">
 
 **Tag three or more** of these passages as *"forgiveness"* in your scriptures:
 
@@ -449,7 +449,7 @@ layout: default
 
 </div>
 
-<div class="p-4 bg-teal-50 rounded-lg">
+<div class="p-4 bg-teal-50 rounded-lg text-gray-800">
 
 **Then write:** Imagine you could tell Jesus Christ how you feel about Him helping you forgive. In your notebook, write a short message to Him.
 

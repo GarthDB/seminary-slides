@@ -86,13 +86,13 @@ layout: default
 
 ## 🙏 Opening Prayer
 
-<div class="bg-blue-50 p-4 rounded-lg">
+<div class="bg-blue-50 p-4 rounded-lg text-gray-800">
 Ask someone to offer the opening prayer.
 </div>
 
 ## 💬 QT Time
 
-<div class="bg-purple-50 p-4 rounded-lg">
+<div class="bg-purple-50 p-4 rounded-lg text-gray-800">
 
 **[Student Name] is leading QT Time this week.**
 
@@ -124,7 +124,7 @@ layout: default
 
 # Lesson focus
 
-<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed">
+<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed text-gray-800">
 
 The Savior taught that the Sabbath was given to bless His people (see Mark 2:27 (https://www.churchofjesuschrist.org/study/scriptures/nt/mark/2?lang=eng&id=p27#p27) ). What blessings have you seen by honoring Heavenly Father and Jesus Christ on the Sabbath day? In Isaiah, we learn that if we honor the Father and the Son on Their holy Sabbath, the day will be a blessing to us. This lesson can help students honor the Lord on the Sabbath day.
 
@@ -141,7 +141,7 @@ layout: default
 
 # Lesson focus
 
-<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed">
+<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed text-gray-800">
 
 Take a moment to think about how you feel on Sunday. Invite the Holy Ghost to help you remember some things you do on Sunday that may contribute to your feelings about the Sabbath. Then, answer the following questions in your study journal.
 
@@ -185,7 +185,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Take a moment to think about how you feel on Sunday. Invite the Holy Ghost to help you remember some things you do on Sunday that may contribute to your feelings about the Sabbath. Then, answer the following questions in your study journal.
 
@@ -202,7 +202,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 As you study Isaiah 58:13–14 (https://www.churchofjesuschrist.org/study/scriptures/ot/isa/58?lang=eng&id=p13-p14#p13) today, invite the Holy Ghost to help you recognize the blessings Heavenly Father and Jesus Christ have promised as you worship Them on Their holy day.
 
@@ -244,7 +244,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 During the seventh creative period, Heavenly Father and Jesus Christ rested from all Their labor. They blessed this day and established it as a time of sacred rest from earthly “work” (see Moses 3:3 (https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/3?lang=eng&id=p3#p3) ). Heavenly Father and Jesus Christ have invited all of us to follow this pattern (see Exodus 20:8–10 (https://www.churchofjesuschrist.org/study/scriptures/ot/ex/20?lang=eng&id=p8-p10#p8) and Deuteronomy 5:12–14 (https://www.churchofjesuschrist.org/study/scriptures/ot/deut/5?lang=eng&id=p12-p14#p12) ). Through His prophet Isaiah, the Lord again commanded His people to dedicate the Sabbath day to Him.
 
@@ -261,7 +261,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 When the Lord gave the Israelites the Ten Commandments, He commanded that the Sabbath be set apart as a holy day to worship Him. Read Isaiah 58:13 (https://www.churchofjesuschrist.org/study/scriptures/ot/isa/58?lang=eng&id=p13#p13) , marking words and phrases that stand out to you.
 
@@ -278,7 +278,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Select a phrase in verse 13 (https://www.churchofjesuschrist.org/study/scriptures/ot/isa/58?lang=eng&id=p13#p13) . Think carefully about what it might look like to apply this phrase in your life. You might want to record a few of your thoughts in your study journal. As you ponder, invite the Holy Ghost to help you have a greater understanding of things you can do.
 
@@ -323,7 +323,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Read Isaiah 58:14 (https://www.churchofjesuschrist.org/study/scriptures/ot/isa/58?lang=eng&id=p14#p14) , marking words and phrases that help us understand some of the blessings the Lord has promised to those who honor Him on His Sabbath. How would you explain these blessings in your own words?
 
@@ -340,7 +340,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 President Russell M. Nelson shared the following about what helped him overcome an obstacle he faced when making decisions about how to honor Heavenly Father and Jesus Christ on Sundays.
 
@@ -402,7 +402,7 @@ layout: default
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm">
 
-<div class="p-5 bg-yellow-50 rounded-lg">
+<div class="p-5 bg-yellow-50 rounded-lg text-gray-800">
 
 ## Challenge
 - Complete **one** study option from the manual that fits your class time.
@@ -410,7 +410,7 @@ layout: default
 
 </div>
 
-<div class="p-5 bg-pink-50 rounded-lg">
+<div class="p-5 bg-pink-50 rounded-lg text-gray-800">
 
 ## Personal reflection
 - What will you **do** differently because of Christ?

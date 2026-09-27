@@ -54,7 +54,7 @@ layout: default
 
 ## 🙏 Opening Prayer
 
-<div class="bg-blue-50 p-4 rounded-lg">
+<div class="bg-blue-50 p-4 rounded-lg text-gray-800">
 
 Ask someone to say the opening prayer
 
@@ -62,7 +62,7 @@ Ask someone to say the opening prayer
 
 ## 💬 QT Time with Finnley
 
-<div class="bg-purple-50 p-4 rounded-lg">
+<div class="bg-purple-50 p-4 rounded-lg text-gray-800">
 
 **Question:** Finnley will lead our discussion today
 
@@ -115,19 +115,19 @@ layout: default
 
 <div class="grid grid-cols-1 gap-3 text-base">
 
-<div class="p-3 bg-blue-50 rounded-lg">
+<div class="p-3 bg-blue-50 rounded-lg text-gray-800">
 
 **1. I know why I need a Savior.**
 
 </div>
 
-<div class="p-3 bg-green-50 rounded-lg">
+<div class="p-3 bg-green-50 rounded-lg text-gray-800">
 
 **2. I understand how I can come unto Jesus Christ.**
 
 </div>
 
-<div class="p-3 bg-purple-50 rounded-lg">
+<div class="p-3 bg-purple-50 rounded-lg text-gray-800">
 
 **3. I currently want to come to and follow Jesus Christ.**
 
@@ -135,7 +135,7 @@ layout: default
 
 </div>
 
-<div class="p-4 bg-yellow-50 rounded-lg text-center mt-4">
+<div class="p-4 bg-yellow-50 rounded-lg text-center mt-4 text-gray-800">
 
 <div class="text-lg font-semibold">
 
@@ -190,7 +190,7 @@ layout: default
 
 ## Scripture Marking Activity
 
-<div class="p-6 bg-blue-50 rounded-lg">
+<div class="p-6 bg-blue-50 rounded-lg text-gray-800">
 
 **Read these verses and mark:**
 
@@ -201,7 +201,7 @@ layout: default
 
 <div class="grid grid-cols-2 gap-4 text-sm">
 
-<div class="p-4 bg-green-50 rounded-lg">
+<div class="p-4 bg-green-50 rounded-lg text-gray-800">
 
 ### Verses to Read:
 - Moses 6:48–52
@@ -209,7 +209,7 @@ layout: default
 
 </div>
 
-<div class="p-4 bg-purple-50 rounded-lg">
+<div class="p-4 bg-purple-50 rounded-lg text-gray-800">
 
 ### What to Look For:
 - Why we need a Savior
@@ -242,19 +242,19 @@ layout: default
 
 ## From [Moses 6:48–50](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/6?lang=eng&id=p48-p50)
 
-<div class="p-6 bg-red-50 rounded-lg text-lg">
+<div class="p-6 bg-red-50 rounded-lg text-lg text-gray-800">
 
 **Verse 48**: "And he said unto them: Because that Adam fell, we are; and by his fall came death; and we are made partakers of misery and woe."
 
 </div>
 
-<div class="p-6 bg-blue-50 rounded-lg text-lg">
+<div class="p-6 bg-blue-50 rounded-lg text-lg text-gray-800">
 
 **Verse 49**: "Behold Satan hath come among the children of men, and tempteth them to worship him; and men have become carnal, sensual, and devilish, and are shut out from the presence of God."
 
 </div>
 
-<div class="p-6 bg-green-50 rounded-lg text-lg">
+<div class="p-6 bg-green-50 rounded-lg text-lg text-gray-800">
 
 **Verse 50**: "But God hath made known unto our fathers that all men must repent."
 
@@ -318,7 +318,7 @@ layout: default
 
 <v-clicks>
 
-<div class="p-4 bg-blue-50 rounded-lg">
+<div class="p-4 bg-blue-50 rounded-lg text-gray-800">
 
 **1. Believe in Him**
 
@@ -326,7 +326,7 @@ Trust that Jesus Christ is the Son of God and our Savior
 
 </div>
 
-<div class="p-4 bg-green-50 rounded-lg">
+<div class="p-4 bg-green-50 rounded-lg text-gray-800">
 
 **2. Repent**
 
@@ -334,7 +334,7 @@ Turn away from sin and turn toward God
 
 </div>
 
-<div class="p-4 bg-purple-50 rounded-lg">
+<div class="p-4 bg-purple-50 rounded-lg text-gray-800">
 
 **3. Be Baptized**
 
@@ -342,7 +342,7 @@ Make covenants with God through baptism
 
 </div>
 
-<div class="p-4 bg-yellow-50 rounded-lg">
+<div class="p-4 bg-yellow-50 rounded-lg text-gray-800">
 
 **4. Receive the Gift of the Holy Ghost**
 
@@ -354,7 +354,7 @@ Be confirmed and receive the constant companionship of the Holy Ghost
 
 </div>
 
-<div class="p-6 bg-pink-50 rounded-lg text-center mt-6">
+<div class="p-6 bg-pink-50 rounded-lg text-center mt-6 text-gray-800">
 
 <div class="text-xl font-semibold">
 
@@ -419,7 +419,7 @@ layout: default
 
 <div class="space-y-4">
 
-<div class="p-6 bg-blue-50 rounded-lg text-lg">
+<div class="p-6 bg-blue-50 rounded-lg text-lg text-gray-800">
 
 "And thus he was baptized, and the Spirit of God descended upon him, and thus he was born of the Spirit, and became quickened in the inner man."
 
@@ -429,7 +429,7 @@ layout: default
 
 <div class="grid grid-cols-2 gap-4 text-sm">
 
-<div class="p-4 bg-green-50 rounded-lg">
+<div class="p-4 bg-green-50 rounded-lg text-gray-800">
 
 **Born of the Spirit:**
 
@@ -437,7 +437,7 @@ We become born of the Spirit by receiving the gift of the Holy Ghost
 
 </div>
 
-<div class="p-4 bg-purple-50 rounded-lg">
+<div class="p-4 bg-purple-50 rounded-lg text-gray-800">
 
 **Sanctification:**
 
@@ -466,13 +466,13 @@ layout: default
 
 <div class="space-y-4">
 
-<div class="p-6 bg-yellow-50 rounded-lg text-lg">
+<div class="p-6 bg-yellow-50 rounded-lg text-lg text-gray-800">
 
 "And now, behold, I say unto you: This is the plan of salvation unto all men, through the blood of mine Only Begotten, who shall come in the meridian of time."
 
 </div>
 
-<div class="p-6 bg-blue-50 rounded-lg text-center">
+<div class="p-6 bg-blue-50 rounded-lg text-center text-gray-800">
 
 <div class="text-xl font-semibold">
 
@@ -482,7 +482,7 @@ The doctrine of Christ is also called **"the plan of salvation"**
 
 </div>
 
-<div class="p-6 bg-green-50 rounded-lg">
+<div class="p-6 bg-green-50 rounded-lg text-gray-800">
 
 **Key Truth:** Jesus Christ is at the center of Heavenly Father's plan of salvation. Through His Atonement, we can return to live with God.
 
@@ -547,7 +547,7 @@ layout: default
 
 ## Blessing Identified
 
-<div class="p-6 bg-green-50 rounded-lg text-xl font-semibold">
+<div class="p-6 bg-green-50 rounded-lg text-xl font-semibold text-gray-800">
 
 💚 **Rest from our burdens** - Christ invites us to come and find rest
 
@@ -571,13 +571,13 @@ layout: default
 
 <div class="space-y-4">
 
-<div class="p-6 bg-blue-50 rounded-lg text-lg">
+<div class="p-6 bg-blue-50 rounded-lg text-lg text-gray-800">
 
 **18** "And then are ye in this strait and narrow path which leads to eternal life; yea, ye have entered in by the gate..."
 
 </div>
 
-<div class="p-6 bg-purple-50 rounded-lg text-lg">
+<div class="p-6 bg-purple-50 rounded-lg text-lg text-gray-800">
 
 **21** "And now, behold, my beloved brethren, this is the way; and there is none other way nor name given under heaven whereby man can be saved in the kingdom of God."
 
@@ -585,7 +585,7 @@ layout: default
 
 ## Blessing Identified
 
-<div class="p-6 bg-green-50 rounded-lg text-xl font-semibold">
+<div class="p-6 bg-green-50 rounded-lg text-xl font-semibold text-gray-800">
 
 💚 **Salvation in the kingdom of God** - Christ is the only way
 
@@ -621,7 +621,7 @@ layout: default
 
 ## Blessing Identified
 
-<div class="p-4 bg-green-50 rounded-lg text-lg font-semibold">
+<div class="p-4 bg-green-50 rounded-lg text-lg font-semibold text-gray-800">
 
 💚 **Weakness becomes strength** - Through Christ's grace, our weaknesses can become strengths
 
@@ -645,13 +645,13 @@ layout: default
 
 <div class="space-y-3">
 
-<div class="p-4 bg-blue-50 rounded-lg text-base">
+<div class="p-4 bg-blue-50 rounded-lg text-base text-gray-800">
 
 **32** "Yea, come unto Christ, and be perfected in him, and deny yourselves of all ungodliness; and if ye shall deny yourselves of all ungodliness, and love God with all your might, mind and strength, then is his grace sufficient for you..."
 
 </div>
 
-<div class="p-4 bg-purple-50 rounded-lg text-base">
+<div class="p-4 bg-purple-50 rounded-lg text-base text-gray-800">
 
 **33** "...that by his grace ye may be perfect in Christ; and if by the grace of God ye are perfect in Christ, ye can in nowise deny the power of God."
 
@@ -659,7 +659,7 @@ layout: default
 
 ## Blessing Identified
 
-<div class="p-4 bg-green-50 rounded-lg text-lg font-semibold">
+<div class="p-4 bg-green-50 rounded-lg text-lg font-semibold text-gray-800">
 
 💚 **Perfection through Christ** - We can become perfect through His grace
 
@@ -687,7 +687,7 @@ class: text-center
 
 <div class="grid grid-cols-2 gap-4 text-sm">
 
-<div class="p-4 bg-blue-50 rounded-lg">
+<div class="p-4 bg-blue-50 rounded-lg text-gray-800">
 
 **Rest from Burdens**
 
@@ -695,7 +695,7 @@ Matthew 11:28–30
 
 </div>
 
-<div class="p-4 bg-green-50 rounded-lg">
+<div class="p-4 bg-green-50 rounded-lg text-gray-800">
 
 **Salvation**
 
@@ -703,7 +703,7 @@ Matthew 11:28–30
 
 </div>
 
-<div class="p-4 bg-purple-50 rounded-lg">
+<div class="p-4 bg-purple-50 rounded-lg text-gray-800">
 
 **Strength from Weakness**
 
@@ -711,7 +711,7 @@ Ether 12:27
 
 </div>
 
-<div class="p-4 bg-yellow-50 rounded-lg">
+<div class="p-4 bg-yellow-50 rounded-lg text-gray-800">
 
 **Perfection**
 
@@ -778,7 +778,7 @@ layout: default
 
 <v-clicks>
 
-<div class="p-3 bg-blue-50 rounded-lg">
+<div class="p-3 bg-blue-50 rounded-lg text-gray-800">
 
 **1. Believe in Him**
 
@@ -788,7 +788,7 @@ layout: default
 
 </div>
 
-<div class="p-3 bg-green-50 rounded-lg">
+<div class="p-3 bg-green-50 rounded-lg text-gray-800">
 
 **2. Repent Daily**
 
@@ -799,7 +799,7 @@ layout: default
 
 </div>
 
-<div class="p-3 bg-purple-50 rounded-lg">
+<div class="p-3 bg-purple-50 rounded-lg text-gray-800">
 
 **3. Renew Baptismal Covenants**
 
@@ -810,7 +810,7 @@ layout: default
 
 </div>
 
-<div class="p-3 bg-yellow-50 rounded-lg">
+<div class="p-3 bg-yellow-50 rounded-lg text-gray-800">
 
 **4. Follow the Holy Ghost**
 
@@ -893,7 +893,7 @@ layout: default
 
 <div class="grid grid-cols-2 gap-3 text-xs">
 
-<div class="p-3 bg-blue-50 rounded-lg">
+<div class="p-3 bg-blue-50 rounded-lg text-gray-800">
 
 **Faith in Jesus Christ**
 
@@ -903,7 +903,7 @@ layout: default
 
 </div>
 
-<div class="p-3 bg-green-50 rounded-lg">
+<div class="p-3 bg-green-50 rounded-lg text-gray-800">
 
 **Repentance**
 
@@ -913,7 +913,7 @@ layout: default
 
 </div>
 
-<div class="p-3 bg-purple-50 rounded-lg">
+<div class="p-3 bg-purple-50 rounded-lg text-gray-800">
 
 **Baptism**
 
@@ -923,7 +923,7 @@ layout: default
 
 </div>
 
-<div class="p-3 bg-yellow-50 rounded-lg">
+<div class="p-3 bg-yellow-50 rounded-lg text-gray-800">
 
 **Gift of the Holy Ghost**
 
@@ -935,7 +935,7 @@ layout: default
 
 </div>
 
-<div class="p-4 bg-pink-50 rounded-lg text-center mt-3 text-sm">
+<div class="p-4 bg-pink-50 rounded-lg text-center mt-3 text-sm text-gray-800">
 
 **Tag what you find** in your scriptures with the doctrine you chose to study
 
@@ -960,7 +960,7 @@ layout: default
 
 <div class="space-y-4">
 
-<div class="p-6 bg-blue-50 rounded-lg">
+<div class="p-6 bg-blue-50 rounded-lg text-gray-800">
 
 **Challenge:** Share one of the verses you studied today with a loved one. Include your testimony about coming unto Christ.
 
@@ -968,7 +968,7 @@ layout: default
 
 <div class="grid grid-cols-2 gap-4 text-sm">
 
-<div class="p-4 bg-green-50 rounded-lg">
+<div class="p-4 bg-green-50 rounded-lg text-gray-800">
 
 ### Who Could You Share With?
 
@@ -979,7 +979,7 @@ layout: default
 
 </div>
 
-<div class="p-4 bg-purple-50 rounded-lg">
+<div class="p-4 bg-purple-50 rounded-lg text-gray-800">
 
 ### What to Share
 
@@ -1015,37 +1015,37 @@ layout: default
 
 <v-clicks>
 
-<div class="p-1.5 bg-blue-50 rounded-lg text-xs leading-tight">
+<div class="p-1.5 bg-blue-50 rounded-lg text-xs leading-tight text-gray-800">
 
 **We need a Savior** because of the Fall - we are separated from God and need redemption
 
 </div>
 
-<div class="p-1.5 bg-green-50 rounded-lg text-xs leading-tight">
+<div class="p-1.5 bg-green-50 rounded-lg text-xs leading-tight text-gray-800">
 
 **The doctrine of Christ** is the way to come unto Him: believe, repent, be baptized, receive the Holy Ghost
 
 </div>
 
-<div class="p-1.5 bg-purple-50 rounded-lg text-xs leading-tight">
+<div class="p-1.5 bg-purple-50 rounded-lg text-xs leading-tight text-gray-800">
 
 📜 **The doctrine of Christ is also called "the plan of salvation"** - Jesus Christ is at the center
 
 </div>
 
-<div class="p-1.5 bg-yellow-50 rounded-lg text-xs leading-tight">
+<div class="p-1.5 bg-yellow-50 rounded-lg text-xs leading-tight text-gray-800">
 
 💚 **Many blessings come** as we turn to Christ: rest, salvation, strength, perfection
 
 </div>
 
-<div class="p-1.5 bg-pink-50 rounded-lg text-xs leading-tight">
+<div class="p-1.5 bg-pink-50 rounded-lg text-xs leading-tight text-gray-800">
 
 🔄 **We continue the doctrine of Christ** throughout our lives - it's not just a one-time event
 
 </div>
 
-<div class="p-1.5 bg-teal-50 rounded-lg text-xs leading-tight">
+<div class="p-1.5 bg-teal-50 rounded-lg text-xs leading-tight text-gray-800">
 
 ❤️ **The Savior wants everyone** to come unto Him, regardless of where we are now
 

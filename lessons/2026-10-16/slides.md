@@ -86,13 +86,13 @@ layout: default
 
 ## 🙏 Opening Prayer
 
-<div class="bg-blue-50 p-4 rounded-lg">
+<div class="bg-blue-50 p-4 rounded-lg text-gray-800">
 Ask someone to offer the opening prayer.
 </div>
 
 ## 💬 QT Time
 
-<div class="bg-purple-50 p-4 rounded-lg">
+<div class="bg-purple-50 p-4 rounded-lg text-gray-800">
 
 **[Student Name] is leading QT Time this week.**
 
@@ -124,7 +124,7 @@ layout: default
 
 # Lesson focus
 
-<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed">
+<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed text-gray-800">
 
 With the world in turmoil, we all long for moments of peace. The Savior Jesus Christ will return to the earth and reign for a thousand years, ushering in a time of peace. Isaiah prophesied of this period, which is called the Millennium. This lesson can help students feel an increased excitement for the Savior’s Second Coming and millennial reign.
 
@@ -141,7 +141,7 @@ layout: default
 
 # Lesson focus
 
-<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed">
+<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed text-gray-800">
 
 Take a moment to ponder any problems in your life or in the lives of those you love that you wish would change. As you study today, seek the guidance of the Holy Ghost as you look for truths that may help us and the world.
 
@@ -183,7 +183,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Take a moment to ponder any problems in your life or in the lives of those you love that you wish would change. As you study today, seek the guidance of the Holy Ghost as you look for truths that may help us and the world.
 
@@ -228,7 +228,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 The final chapters in the book of Isaiah contain Isaiah’s teachings and prophecies about the Savior’s Second Coming and the Millennium. Read the following verses, marking phrases that help you feel excited for the Savior’s return:
 
@@ -275,7 +275,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Take a moment to ponder any questions you have about the Millennium and the blessings of the Savior’s return. The Lord has revealed more on the subject.
 
@@ -292,7 +292,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Select one or two of your own questions about the Millennium or the following questions you are most interested in. Spend several minutes looking for answers in the scriptures and divinely appointed sources. The section titled “Millennium” in Guide to the Scriptures (https://www.churchofjesuschrist.org/study/scriptures/gs/millennium?lang=eng) and Topics and Questions (https://www.churchofjesuschrist.org/study/manual/gospel-topics/millennium?lang=eng) on ChurchofJesusChrist.org may be useful.
 
@@ -354,7 +354,7 @@ layout: default
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm">
 
-<div class="p-5 bg-yellow-50 rounded-lg">
+<div class="p-5 bg-yellow-50 rounded-lg text-gray-800">
 
 ## Challenge
 - Complete **one** study option from the manual that fits your class time.
@@ -362,7 +362,7 @@ layout: default
 
 </div>
 
-<div class="p-5 bg-pink-50 rounded-lg">
+<div class="p-5 bg-pink-50 rounded-lg text-gray-800">
 
 ## Personal reflection
 - What will you **do** differently because of Christ?

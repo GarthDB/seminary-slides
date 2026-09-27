@@ -86,13 +86,13 @@ layout: default
 
 ## 🙏 Opening Prayer
 
-<div class="bg-blue-50 p-4 rounded-lg">
+<div class="bg-blue-50 p-4 rounded-lg text-gray-800">
 Ask someone to offer the opening prayer.
 </div>
 
 ## 💬 QT Time
 
-<div class="bg-purple-50 p-4 rounded-lg">
+<div class="bg-purple-50 p-4 rounded-lg text-gray-800">
 
 **[Student Name] is leading QT Time this week.**
 
@@ -124,7 +124,7 @@ layout: default
 
 # Lesson focus
 
-<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed">
+<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed text-gray-800">
 
 Through Isaiah, the Lord spoke to His covenant people, both anciently and today. He extended beautiful promises to them if they chose to hearken to His loving invitations. As His covenant people, the Lord extends these same promises and invitations to us. This lesson can help students hearken unto the Savior’s invitations. Parent, Friend, Teacher, Coach, Social Media Influencer, Celebrity
 
@@ -141,7 +141,7 @@ layout: default
 
 # Lesson focus
 
-<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed">
+<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed text-gray-800">
 
 Read Isaiah 51:1, 4, 7 (https://www.churchofjesuschrist.org/study/scriptures/ot/isa/51?lang=eng&id=p1,p4,p7#p1) , looking for who the Lord counseled His covenant people to listen to and follow. You may want to mark what you find.
 
@@ -185,7 +185,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Parent, Friend, Teacher, Coach, Social Media Influencer, Celebrity Read Isaiah 51:1, 4, 7 (https://www.churchofjesuschrist.org/study/scriptures/ot/isa/51?lang=eng&id=p1,p4,p7#p1) , looking for who the Lord counseled His covenant people to listen to and follow. You may want to mark what you find.
 
@@ -202,7 +202,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Ponder any challenges, worries, or questions you might have in your life right now. Consider ways you could benefit from hearkening to the Savior’s counsel and invitations as you study Isaiah 51–52 (https://www.churchofjesuschrist.org/study/scriptures/ot/isa/51?lang=eng) .
 
@@ -246,7 +246,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Read Isaiah 51:1–2 (https://www.churchofjesuschrist.org/study/scriptures/ot/isa/51?lang=eng&id=p1-p2#p1) , looking for images and symbols that Isaiah used to describe an invitation from the Lord. Read Isaiah 51:3 (https://www.churchofjesuschrist.org/study/scriptures/ot/isa/51?lang=eng&id=p3#p3) , looking for the blessings the Savior promises if we hearken to Him to keep our covenants.
 
@@ -290,7 +290,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Isaiah recorded many invitations and promises from the Lord in Isaiah 51–52 (https://www.churchofjesuschrist.org/study/scriptures/ot/isa/51?lang=eng) . Record the invitations and promises you find in your journal as you study these chapters.
 
@@ -332,7 +332,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Ponder what you learned today and any invitations or counsel you feel Heavenly Father and Jesus Christ extended to you through the Holy Ghost. In your study journal, consider answering the following question:
 
@@ -394,7 +394,7 @@ layout: default
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm">
 
-<div class="p-5 bg-yellow-50 rounded-lg">
+<div class="p-5 bg-yellow-50 rounded-lg text-gray-800">
 
 ## Challenge
 - Complete **one** study option from the manual that fits your class time.
@@ -402,7 +402,7 @@ layout: default
 
 </div>
 
-<div class="p-5 bg-pink-50 rounded-lg">
+<div class="p-5 bg-pink-50 rounded-lg text-gray-800">
 
 ## Personal reflection
 - What will you **do** differently because of Christ?

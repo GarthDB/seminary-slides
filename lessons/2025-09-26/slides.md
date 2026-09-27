@@ -153,7 +153,7 @@ layout: default
 ## *"I am the vine, ye are the branches"*
 **[John 15:5](https://www.churchofjesuschrist.org/study/scriptures/nt/john/15?lang=eng&id=p5#p5)**
 
-<div class="bg-blue-50 p-6 rounded-lg text-lg">
+<div class="bg-blue-50 p-6 rounded-lg text-lg text-gray-800">
 <strong>What happens if a branch disconnects from the vine?</strong>
 </div>
 

@@ -86,13 +86,13 @@ layout: default
 
 ## 🙏 Opening Prayer
 
-<div class="bg-blue-50 p-4 rounded-lg">
+<div class="bg-blue-50 p-4 rounded-lg text-gray-800">
 Ask someone to offer the opening prayer.
 </div>
 
 ## 💬 QT Time
 
-<div class="bg-purple-50 p-4 rounded-lg">
+<div class="bg-purple-50 p-4 rounded-lg text-gray-800">
 
 **[Student Name] is leading QT Time this week.**
 
@@ -124,7 +124,7 @@ layout: default
 
 # Lesson focus
 
-<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed">
+<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed text-gray-800">
 
 Sometimes the Lord might miraculously deliver us from our trials. Other times He might not deliver us in the way or with the timing we hope. Either way, we can strive to be like Shadrach, Meshach, and Abed-nego and trust in the Lord, regardless of how and when He chooses to bless us. This lesson can help students feel a desire to trust in Jesus Christ regardless of the outcome. Elder Shayne M. Bowen of the Seventy shared the following personal experience: Elder Bowen continued:
 
@@ -168,7 +168,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Elder Shayne M. Bowen of the Seventy shared the following personal experience: Elder Bowen continued: Like the Bowens, you might have experiences where God does not bless you in the way that you had hoped. Ponder experiences you or your family have had where you felt the Lord either blessed you or did not bless you with the outcome you wanted. Ask yourself the following questions:
 
@@ -185,7 +185,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 As you study Daniel 3 (https://www.churchofjesuschrist.org/study/scriptures/ot/dan/3?lang=eng) today, pay attention to any impressions from the Holy Ghost that can help strengthen your faith in Heavenly Father and Jesus Christ no matter the outcome.
 
@@ -229,7 +229,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 The king of Babylon, Nebuchadnezzar, made a large golden image, or statue. It was approximately 90 feet (27.4 meters) high and 9 feet (2.74 meters) wide (see Daniel 3:1 (https://www.churchofjesuschrist.org/study/scriptures/ot/dan/3?lang=eng&id=p1#p1) ). The king commanded everyone to fall down and worship the image when certain music was played (see Daniel 3:4–5 (https://www.churchofjesuschrist.org/study/scriptures/ot/dan/3?lang=eng&id=p4-p5#p4) ). People who did not worship the golden image would be thrown into “a burning fiery furnace” ( Daniel 3:6 (https://www.churchofjesuschrist.org/study/scriptures/ot/dan/3?lang=eng&id=p6#p6) ).
 
@@ -246,7 +246,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Considering the consequences for not worshipping this image, ponder what you think you would have done if you were there. Shadrach, Meshach, and Abed-nego chose to honor God by not worshipping the image (see Daniel 3:12 (https://www.churchofjesuschrist.org/study/scriptures/ot/dan/3?lang=eng&id=p12#p12) ).
 
@@ -263,7 +263,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Read Daniel 3:13–18 (https://www.churchofjesuschrist.org/study/scriptures/ot/dan/3?lang=eng&id=p13-p18#p13) , looking for what you learn from these men about faith in Jesus Christ.
 
@@ -308,7 +308,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Read Daniel 3:19–28 (https://www.churchofjesuschrist.org/study/scriptures/ot/dan/3?lang=eng&id=p19-p28#p19) , marking words or phrases that impress you from what Shadrach, Meshach, and Abed-nego experienced. Think of scriptural accounts where people exercised faith in Jesus Christ and still experienced negative outcomes.
 
@@ -351,7 +351,7 @@ layout: default
 
 # Lesson content
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
 
 Elder Bowen continued sharing his experience: In your study journal, write what helps you want to trust in Heavenly Father and Jesus Christ regardless of the outcome. You could include how the lessons you learned from Daniel 3 (https://www.churchofjesuschrist.org/study/scriptures/ot/dan/3?lang=eng) can help you in the trials you face or what you hope to remember in the future.
 
@@ -413,7 +413,7 @@ layout: default
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm">
 
-<div class="p-5 bg-yellow-50 rounded-lg">
+<div class="p-5 bg-yellow-50 rounded-lg text-gray-800">
 
 ## Challenge
 - Complete **one** study option from the manual that fits your class time.
@@ -421,7 +421,7 @@ layout: default
 
 </div>
 
-<div class="p-5 bg-pink-50 rounded-lg">
+<div class="p-5 bg-pink-50 rounded-lg text-gray-800">
 
 ## Personal reflection
 - What will you **do** differently because of Christ?
