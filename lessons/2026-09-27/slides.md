@@ -47,7 +47,7 @@ layout: default
 
 # This Week's Big Idea
 
-<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed">
+<div class="p-6 bg-blue-50 rounded-lg text-gray-800 text-lg leading-relaxed">
 
 One thing the Lord asks prophets to do is warn about the consequences of sin. For Old Testament prophets, this often meant telling the rulers of mighty kingdoms that they needed to repent. It was a dangerous task, but Isaiah was fearless, and his warnings to the kingdoms of his day — including Israel, Judah, and surrounding nations — were bold.
 
@@ -64,7 +64,7 @@ layout: default
 
 # This Week's Big Idea
 
-<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed">
+<div class="p-6 bg-blue-50 rounded-lg text-gray-800 text-lg leading-relaxed">
 
 Isaiah also had a message of hope. Even though the prophesied destructions did come, Isaiah foresaw a chance for restoration and renewal. The Lord would make "the parched ground … become a pool, and the thirsty land springs of water" (Isaiah 35:7). He would perform "a marvellous work and a wonder" (Isaiah 29:14), restoring to Israel the blessings He had promised. Neither Isaiah nor anyone else alive at that time lived to see this marvelous work — but we are seeing it today. In fact, we are part of it.
 
@@ -89,7 +89,7 @@ layout: default
 
 # Babylon still means something
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-gray-800 text-base leading-relaxed">
 
 In Isaiah's day, Babylon was a mighty kingdom with a powerful ruler. Now Babylon is ancient history — so why does Isaiah's message to Babylon (Isaiah 13–14) matter to us today? Because Babylon symbolizes pride, greed, and sin, things that still surround us. Read Isaiah 13:1–11, 19–22; 14:1–20 with this symbolism in mind.
 
@@ -132,7 +132,7 @@ layout: default
 
 # Finding the Savior in Isaiah
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-gray-800 text-base leading-relaxed">
 
 Isaiah's teachings often point to the Savior's mission — His atoning sacrifice, Resurrection, and Second Coming. What aspects of His mission come to mind as you read Isaiah 22:22–23; 24:21–23; 25:6–8; 26:19; 28:16? What other passages remind you of the Savior?
 
@@ -158,7 +158,7 @@ layout: default
 
 # Warning signs
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-gray-800 text-base leading-relaxed">
 
 In His mercy, the Lord sent Isaiah to warn the covenant people that they were straying from Him. Find the spiritual warning signs in Isaiah 24:5; 29:13; 30:8–12. Why are these attitudes and actions spiritually dangerous?
 
@@ -184,7 +184,7 @@ layout: default
 
 </div>
 
-<div class="p-4 bg-purple-50 rounded-lg text-base mt-4">
+<div class="p-4 bg-purple-50 rounded-lg text-gray-800 text-base mt-4">
 
 As you study them, ask: how is turning away from the Lord like each of these? Why is it important to you to stay close to the Lord?
 
@@ -209,7 +209,7 @@ layout: default
 
 # Hope for healing
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-gray-800 text-base leading-relaxed">
 
 Have you ever lost something you thought you'd never find again, or worried something broken could never be repaired? When we turn away from the Lord, Satan wants us to think we can never return or be healed. Isaiah described the marvelous things the Lord will do to help us return to Him — read Isaiah 29:13–24; 30:18–26; 35 for what you learn about the Lord's love and power.
 
@@ -245,7 +245,7 @@ layout: default
 
 # Why "marvellous" and "wonder"?
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-gray-800 text-base leading-relaxed">
 
 In your opinion, why are "marvellous" and "wonder" (Isaiah 29:14) good words to describe the Lord restoring His gospel? How can you help fulfill the prophecies about the Restoration?
 
@@ -270,7 +270,7 @@ layout: default
 
 # Jesus Christ can save me from sin and death
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-gray-800 text-base leading-relaxed">
 
 Help your children find phrases about the Savior in Isaiah 14:3; 25:8; 28:16, and match them with Matthew 11:28–30; 1 Corinthians 15:53–57; Helaman 5:12. After reading Isaiah 25:8–9 together, look at pictures of the Savior in Gethsemane, on the cross, and after His Resurrection — let your children talk about why they "rejoice in his salvation" (verse 9).
 
@@ -287,7 +287,7 @@ layout: default
 
 # Jesus gives me "refuge from the storm"
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-gray-800 text-base leading-relaxed">
 
 Have you and your children ever experienced safe shelter during a storm, shade on a hot day, or a good meal when you were hungry? Talk about these experiences as you read Isaiah 25:4–6. How is Jesus like these things?
 
@@ -304,7 +304,7 @@ layout: default
 
 # The Restoration of the gospel is a "marvellous work"
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed">
+<div class="p-5 bg-green-50 rounded-lg text-gray-800 text-base leading-relaxed">
 
 As you and your children read Isaiah 29:14, share other words that mean the same as "marvellous" and "wonder." Find objects or pictures that represent the Lord's marvelous latter-day works — a Book of Mormon, a picture of a temple, a picture of the First Vision — and let your children choose one to share why it's marvelous to them.
 
@@ -359,7 +359,7 @@ layout: default
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm">
 
-<div class="p-5 bg-yellow-50 rounded-lg">
+<div class="p-5 bg-yellow-50 rounded-lg text-gray-800">
 
 ## Challenge
 - Complete **one** study option from the manual that fits your time this week.
@@ -367,7 +367,7 @@ layout: default
 
 </div>
 
-<div class="p-5 bg-pink-50 rounded-lg">
+<div class="p-5 bg-pink-50 rounded-lg text-gray-800">
 
 ## Personal reflection
 - What has the Lord restored or healed for you? What will you **do** differently because of Christ?
