@@ -66,7 +66,7 @@ layout: default
 
 <div class="p-6 bg-blue-50 rounded-lg text-gray-800 text-lg leading-relaxed">
 
-Isaiah also had a message of hope. Even though the prophesied destructions did come, Isaiah foresaw a chance for restoration and renewal. The Lord would make "the parched ground … become a pool, and the thirsty land springs of water" (Isaiah 35:7). He would perform "a marvellous work and a wonder" (Isaiah 29:14), restoring to Israel the blessings He had promised. Neither Isaiah nor anyone else alive at that time lived to see this marvelous work — but we are seeing it today. In fact, we are part of it.
+Isaiah also had a message of hope. Even though the prophesied destructions did come, Isaiah foresaw a chance for restoration and renewal. The Lord would make "the parched ground … become a pool, and the thirsty land springs of water" ([Isaiah 35:7](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/35?lang=eng&id=p7#p7)). He would perform "a marvellous work and a wonder" ([Isaiah 29:14](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/29?lang=eng&id=p14#p14)), restoring to Israel the blessings He had promised. Neither Isaiah nor anyone else alive at that time lived to see this marvelous work — but we are seeing it today. In fact, we are part of it.
 
 </div>
 
@@ -91,7 +91,7 @@ layout: default
 
 <div class="p-5 bg-green-50 rounded-lg text-gray-800 text-base leading-relaxed">
 
-In Isaiah's day, Babylon was a mighty kingdom with a powerful ruler. Now Babylon is ancient history — so why does Isaiah's message to Babylon (Isaiah 13–14) matter to us today? Because Babylon symbolizes pride, greed, and sin, things that still surround us. Read Isaiah 13:1–11, 19–22; 14:1–20 with this symbolism in mind.
+In Isaiah's day, Babylon was a mighty kingdom with a powerful ruler. Now Babylon is ancient history — so why does Isaiah's message to Babylon (Isaiah 13–14) matter to us today? Because Babylon symbolizes pride, greed, and sin, things that still surround us. Read [Isaiah 13:1](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/13?lang=eng&id=p1#p1)–11, 19–22; 14:1–20 with this symbolism in mind.
 
 </div>
 
@@ -108,8 +108,8 @@ layout: default
 
 <div class="space-y-3 text-base max-w-4xl mx-auto">
 
-- What similarities do you see between the pride of the Babylonian king and the pride of Satan? (Isaiah 14:4–20; Moses 4:1–4). What warnings do you find for yourself in these verses?
-- How does the Savior provide "rest from thy sorrow, and from thy fear"? (Isaiah 14:3).
+- What similarities do you see between the pride of the Babylonian king and the pride of Satan? ([Isaiah 14:4](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/14?lang=eng&id=p4#p4)–20; [Moses 4:1](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/4?lang=eng&id=p1#p1)–4). What warnings do you find for yourself in these verses?
+- How does the Savior provide "rest from thy sorrow, and from thy fear"? ([Isaiah 14:3](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/14?lang=eng&id=p3#p3)).
 
 </div>
 
@@ -124,7 +124,7 @@ layout: section
 
 # Jesus Christ is the promised Messiah
 
-<!-- Presenter Notes: Isaiah 22:22–23; 24:21–23; 25:6–8; 26:19; 28:16 -->
+<!-- Presenter Notes: [Isaiah 22:22](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/22?lang=eng&id=p22#p22)–23; 24:21–23; 25:6–8; 26:19; 28:16 -->
 
 ---
 layout: default
@@ -134,13 +134,13 @@ layout: default
 
 <div class="p-5 bg-green-50 rounded-lg text-gray-800 text-base leading-relaxed">
 
-Isaiah's teachings often point to the Savior's mission — His atoning sacrifice, Resurrection, and Second Coming. What aspects of His mission come to mind as you read Isaiah 22:22–23; 24:21–23; 25:6–8; 26:19; 28:16? What other passages remind you of the Savior?
+Isaiah's teachings often point to the Savior's mission — His atoning sacrifice, Resurrection, and Second Coming. What aspects of His mission come to mind as you read [Isaiah 22:22](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/22?lang=eng&id=p22#p22)–23; 24:21–23; 25:6–8; 26:19; 28:16? What other passages remind you of the Savior?
 
 </div>
 
 <!--
 Presenter Notes:
-- "He will swallow up death in victory" (Isaiah 25:8).
+- "He will swallow up death in victory" ([Isaiah 25:8](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/25?lang=eng&id=p8#p8)).
 - Give learners opportunities to bear testimony of Jesus Christ — ask "What did you find in the scriptures this week that taught you something about the Savior?"
 -->
 
@@ -160,7 +160,7 @@ layout: default
 
 <div class="p-5 bg-green-50 rounded-lg text-gray-800 text-base leading-relaxed">
 
-In His mercy, the Lord sent Isaiah to warn the covenant people that they were straying from Him. Find the spiritual warning signs in Isaiah 24:5; 29:13; 30:8–12. Why are these attitudes and actions spiritually dangerous?
+In His mercy, the Lord sent Isaiah to warn the covenant people that they were straying from Him. Find the spiritual warning signs in [Isaiah 24:5](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/24?lang=eng&id=p5#p5); 29:13; 30:8–12. Why are these attitudes and actions spiritually dangerous?
 
 </div>
 
@@ -177,10 +177,10 @@ layout: default
 
 <div class="space-y-3 text-base max-w-4xl mx-auto">
 
-- A sad, empty earth (Isaiah 24:1–12)
-- Drunkenness (Isaiah 28:7–8)
-- Hunger and thirst (Isaiah 29:7–10)
-- A broken wall or vessel (Isaiah 30:13–14)
+- A sad, empty earth ([Isaiah 24:1](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/24?lang=eng&id=p1#p1)–12)
+- Drunkenness ([Isaiah 28:7](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/28?lang=eng&id=p7#p7)–8)
+- Hunger and thirst ([Isaiah 29:7](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/29?lang=eng&id=p7#p7)–10)
+- A broken wall or vessel ([Isaiah 30:13](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/30?lang=eng&id=p13#p13)–14)
 
 </div>
 
@@ -211,7 +211,7 @@ layout: default
 
 <div class="p-5 bg-green-50 rounded-lg text-gray-800 text-base leading-relaxed">
 
-Have you ever lost something you thought you'd never find again, or worried something broken could never be repaired? When we turn away from the Lord, Satan wants us to think we can never return or be healed. Isaiah described the marvelous things the Lord will do to help us return to Him — read Isaiah 29:13–24; 30:18–26; 35 for what you learn about the Lord's love and power.
+Have you ever lost something you thought you'd never find again, or worried something broken could never be repaired? When we turn away from the Lord, Satan wants us to think we can never return or be healed. Isaiah described the marvelous things the Lord will do to help us return to Him — read [Isaiah 29:13](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/29?lang=eng&id=p13#p13)–24; 30:18–26; 35 for what you learn about the Lord's love and power.
 
 </div>
 
@@ -228,9 +228,9 @@ layout: default
 
 <div class="space-y-3 text-base max-w-4xl mx-auto">
 
-- Compare Isaiah 29:11–12 with 2 Nephi 27:6–26 and Joseph Smith—History 1:63–65.
-- Compare Isaiah 29:13–14 with Doctrine and Covenants 4 and Joseph Smith—History 1:17–19.
-- Compare Isaiah 29:18–24 with the title page of the Book of Mormon.
+- Compare [Isaiah 29:11](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/29?lang=eng&id=p11#p11)–12 with [2 Nephi 27:6](https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/27?lang=eng&id=p6#p6)–26 and Joseph Smith—History 1:63–65.
+- Compare [Isaiah 29:13](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/29?lang=eng&id=p13#p13)–14 with Doctrine and Covenants 4 and Joseph Smith—History 1:17–19.
+- Compare [Isaiah 29:18](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/29?lang=eng&id=p18#p18)–24 with the title page of the Book of Mormon.
 
 </div>
 
@@ -247,7 +247,7 @@ layout: default
 
 <div class="p-5 bg-green-50 rounded-lg text-gray-800 text-base leading-relaxed">
 
-In your opinion, why are "marvellous" and "wonder" (Isaiah 29:14) good words to describe the Lord restoring His gospel? How can you help fulfill the prophecies about the Restoration?
+In your opinion, why are "marvellous" and "wonder" ([Isaiah 29:14](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/29?lang=eng&id=p14#p14)) good words to describe the Lord restoring His gospel? How can you help fulfill the prophecies about the Restoration?
 
 </div>
 
@@ -272,13 +272,13 @@ layout: default
 
 <div class="p-5 bg-green-50 rounded-lg text-gray-800 text-base leading-relaxed">
 
-Help your children find phrases about the Savior in Isaiah 14:3; 25:8; 28:16, and match them with Matthew 11:28–30; 1 Corinthians 15:53–57; Helaman 5:12. After reading Isaiah 25:8–9 together, look at pictures of the Savior in Gethsemane, on the cross, and after His Resurrection — let your children talk about why they "rejoice in his salvation" (verse 9).
+Help your children find phrases about the Savior in [Isaiah 14:3](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/14?lang=eng&id=p3#p3); 25:8; 28:16, and match them with [Matthew 11:28](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/11?lang=eng&id=p28#p28)–30; [1 Corinthians 15:53](https://www.churchofjesuschrist.org/study/scriptures/nt/1-cor/15?lang=eng&id=p53#p53)–57; [Helaman 5:12](https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/5?lang=eng&id=p12#p12). After reading [Isaiah 25:8](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/25?lang=eng&id=p8#p8)–9 together, look at pictures of the Savior in Gethsemane, on the cross, and after His Resurrection — let your children talk about why they "rejoice in his salvation" (verse 9).
 
 </div>
 
 <!--
 Presenter Notes:
-- Consider sharing about the loss of a loved one and testifying of the comfort Christ gives; children could draw a crying face and erase the tears while reading Isaiah 25:8.
+- Consider sharing about the loss of a loved one and testifying of the comfort Christ gives; children could draw a crying face and erase the tears while reading [Isaiah 25:8](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/25?lang=eng&id=p8#p8).
 -->
 
 ---
@@ -289,7 +289,7 @@ layout: default
 
 <div class="p-5 bg-green-50 rounded-lg text-gray-800 text-base leading-relaxed">
 
-Have you and your children ever experienced safe shelter during a storm, shade on a hot day, or a good meal when you were hungry? Talk about these experiences as you read Isaiah 25:4–6. How is Jesus like these things?
+Have you and your children ever experienced safe shelter during a storm, shade on a hot day, or a good meal when you were hungry? Talk about these experiences as you read [Isaiah 25:4](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/25?lang=eng&id=p4#p4)–6. How is Jesus like these things?
 
 </div>
 
@@ -306,7 +306,7 @@ layout: default
 
 <div class="p-5 bg-green-50 rounded-lg text-gray-800 text-base leading-relaxed">
 
-As you and your children read Isaiah 29:14, share other words that mean the same as "marvellous" and "wonder." Find objects or pictures that represent the Lord's marvelous latter-day works — a Book of Mormon, a picture of a temple, a picture of the First Vision — and let your children choose one to share why it's marvelous to them.
+As you and your children read [Isaiah 29:14](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/29?lang=eng&id=p14#p14), share other words that mean the same as "marvellous" and "wonder." Find objects or pictures that represent the Lord's marvelous latter-day works — a Book of Mormon, a picture of a temple, a picture of the First Vision — and let your children choose one to share why it's marvelous to them.
 
 </div>
 
@@ -329,12 +329,12 @@ layout: default
 
 <div class="p-8 bg-gradient-to-r from-blue-50 to-purple-50 rounded-xl text-left text-lg space-y-4 max-w-4xl mx-auto">
 
-1. **What similarities do you see between the pride of the Babylonian king and the pride of Satan? What warnings do you find for yourself?** (Isaiah 14:4–20; Moses 4:1–4)
-2. **How does the Savior provide "rest from thy sorrow, and from thy fear"?** (Isaiah 14:3)
-3. **What aspects of the Savior's mission come to mind as you read Isaiah 22:22–23; 24:21–23; 25:6–8; 26:19; 28:16?**
+1. **What similarities do you see between the pride of the Babylonian king and the pride of Satan? What warnings do you find for yourself?** ([Isaiah 14:4](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/14?lang=eng&id=p4#p4)–20; [Moses 4:1](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/4?lang=eng&id=p1#p1)–4)
+2. **How does the Savior provide "rest from thy sorrow, and from thy fear"?** ([Isaiah 14:3](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/14?lang=eng&id=p3#p3))
+3. **What aspects of the Savior's mission come to mind as you read [Isaiah 22:22](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/22?lang=eng&id=p22#p22)–23; 24:21–23; 25:6–8; 26:19; 28:16?**
 4. **Why are pride, drunkenness, hunger, and a broken vessel good pictures of turning away from the Lord?** (Isaiah 24, 28–30)
-5. **What do Isaiah 29:13–24; 30:18–26; 35 teach you about the Lord's love and power to restore what's broken?**
-6. **Why are "marvellous" and "wonder" good words for the Restoration of the gospel?** (Isaiah 29:14)
+5. **What do [Isaiah 29:13](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/29?lang=eng&id=p13#p13)–24; 30:18–26; 35 teach you about the Lord's love and power to restore what's broken?**
+6. **Why are "marvellous" and "wonder" good words for the Restoration of the gospel?** ([Isaiah 29:14](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/29?lang=eng&id=p14#p14))
 
 </div>
 
