@@ -654,7 +654,7 @@ def main() -> int:
     parser.add_argument(
         "--seminary-root",
         type=Path,
-        default=Path(__file__).resolve().parents[3],
+        default=Path(__file__).resolve().parents[4],
         help="Path to Seminary repo root (contains lessons/)",
     )
     parser.add_argument(

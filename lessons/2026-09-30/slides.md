@@ -1,14 +1,13 @@
 ---
 theme: default
 routerMode: hash
-background: https://source.unsplash.com/1920x1080/?scripture,faith
 class: text-center
 highlighter: shiki
 lineNumbers: false
 info: |
   ## Seminary Lesson - September 30, 2026
-  Weekly lesson for Seminary class
-  Isaiah 49: “I Have Graven Thee upon the Palms of My Hands”
+  Isaiah 49 - Lesson 121
+  “I Have Graven Thee upon the Palms of My Hands”
   Source materials available in ./materials/
 drawings:
   persist: false
@@ -17,28 +16,20 @@ title: Seminary Lesson - September 30, 2026
 mdc: true
 ---
 
-# Seminary Lesson
-## September 30, 2026
+# Isaiah 49
+## “I Have Graven Thee upon the Palms of My Hands”
 
-### Isaiah 49
-**“I Have Graven Thee upon the Palms of My Hands”**
+September 30, 2026 · Lesson 121
 
-<div class="pt-12">
-  <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
-    Press Space for next page <carbon:arrow-right class="inline"/>
-  </span>
-</div>
-
-<div class="abs-br m-6 flex gap-2">
-  <button @click="$slidev.nav.openInEditor()" title="Open in Editor" class="text-xl slidev-icon-btn opacity-50 !border-none !hover:text-white">
-    <carbon:edit />
-  </button>
+<div class="pt-8 text-xl">
+Heavenly Father and Jesus Christ know you and will not forget you.
 </div>
 
 <!--
 Presenter Notes:
-- Class runs about 40 minutes total (adjust to your schedule).
-- Source: Church seminary student manual (scraped for outline).
+- Prepare spiritually: think about the students individually and pray to recognize their needs.
+- Source: the Isaiah 49 teacher-manual lesson; links are in ./materials/README.md.
+- The lesson is about God's love, not a promise that difficulties disappear immediately.
 -->
 
 ---
@@ -47,25 +38,26 @@ layout: default
 
 # Welcome to Seminary
 
-<div class="grid grid-cols-2 gap-4 text-sm">
+<div class="grid grid-cols-2 gap-6 text-base">
 
 <div>
 
-## Today's Focus
-- **Scripture Study**: Isaiah 49
-- **Key idea**: This lesson can help students feel that Heavenly Father and Jesus Christ love us and will not forget us.
-- **Application**: Look for one way to turn to Christ this week
+## Today's focus
+- **Study:** Isaiah 49:4–5, 13–16
+- **Discover:** What the Lord says to people who feel forgotten
+- **Connect:** His promise and the wounds in the Savior's hands
+- **Act:** Choose a reminder of His love
 
 </div>
 
 <div>
 
-## Class Structure (40 min)
-1. **Opening Prayer** (2 min)
-2. **QT Time** (10 min) — [Student Name]
-3. **Scripture / lesson focus** (15 min)
-4. **Discussion & application** (10 min)
-5. **Closing** (3 min)
+## Our 40 minutes
+1. **Opening prayer** — 2 min
+2. **QT Time** — 10 min
+3. **Scripture study** — 15 min
+4. **Discussion & application** — 10 min
+5. **Closing** — 3 min
 
 </div>
 
@@ -73,279 +65,403 @@ layout: default
 
 <!--
 Presenter Notes:
-- QT: student-led question, breakout groups, return and have one reporter per group share briefly.
+- Keep the introduction brief; the opening prayer and welcome share the first two minutes.
+- Treat timing as flexible. Leave room for student questions and spiritual impressions.
 -->
 
 ---
 layout: default
 ---
 
-# Opening Activities
+# Opening Prayer
 
-<div class="space-y-6">
-
-## 🙏 Opening Prayer
-
-<div class="bg-blue-50 p-4 rounded-lg text-gray-800">
-Ask someone to offer the opening prayer.
-</div>
-
-## 💬 QT Time
-
-<div class="bg-purple-50 p-4 rounded-lg text-gray-800">
-
-**[Student Name] is leading QT Time this week.**
-
-**Question:** *[Add the student’s discussion question before class]*
-
-**Flow:** Small groups → discuss → return together → one person per group shares a highlight.
-
-</div>
-
+<div class="p-6 bg-blue-50 rounded-lg text-xl text-gray-800">
+Invite someone to offer the opening prayer.
 </div>
 
 <!--
 Presenter Notes:
-- QT (~10 min): opening question, breakouts, gather and report.
-- If time is tight, shorten breakouts or limit group reporters to 1–2 sentences each.
--->
-
----
-layout: section
----
-
-# From the manual
-
-<!-- Presenter Notes: Transition -->
-
----
-layout: default
----
-
-# Lesson focus
-
-<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed text-gray-800">
-
-Heavenly Father and Jesus Christ know you personally and perfectly. Yet sometimes we see the challenges of mortality and cry, “The Lord has forsaken me” (see Isaiah 49:14 (https://www.churchofjesuschrist.org/study/scriptures/ot/isa/49?lang=eng&id=p14#p14) ). Isaiah’s words reassure us that we have been graven upon the Savior’s hands and will never be forsaken or forgotten (see Isaiah 49:16 (https://www.churchofjesuschrist.org/study/scriptures/ot/isa/49?lang=eng&id=p16#p16) ). This lesson can help students feel that Heavenly Father and Jesus Christ love us and will not forget us.
-
-</div>
-
-<!--
-Presenter Notes:
-- Keep this tight; invite students to open scriptures / manual on their devices if helpful.
+- Invite a volunteer without putting someone on the spot.
 -->
 
 ---
 layout: default
 ---
 
-# Lesson focus
+# QT Time
 
-<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed text-gray-800">
+<div class="p-5 bg-purple-50 rounded-lg text-gray-800">
 
-Sharing a childhood memory, President Dieter F. Uchtdorf, then of the First Presidency, said: President Uchtdorf continued:
+**[Student Name] is leading QT Time today.**
+
+**Question:** *[Add the student's discussion question before class]*
+
+</div>
+
+<div class="mt-6 text-lg">
+
+1. Listen to the question.
+2. Discuss in small groups.
+3. Return together.
+4. One person per group shares a brief highlight.
 
 </div>
 
 <!--
 Presenter Notes:
-- Keep this tight; invite students to open scriptures / manual on their devices if helpful.
+- QT: 10 minutes total, including instructions and reports.
+- Suggested pacing: question (1 min), groups (6 min), reports (3 min).
+- Keep each report to one or two sentences. The QT question is student-led and does not have to match today's lesson.
+- Replace both placeholders if the leader and question become available.
 -->
 
 ---
 layout: section
 ---
 
-# Lesson content
+# Remembered by the Lord
 
-<!-- Presenter Notes: Transition -->
-
----
-layout: default
----
-
-# Lesson content
-
-<div class="space-y-3 text-base max-w-4xl mx-auto">
-
-- What are some reasons a teenager might feel forgotten by others or by Heavenly Father?
-- What do you already know about Heavenly Father and Jesus Christ that you would want to share with someone who feels they are forgotten?
-- How confident do you feel that They know and remember you?
-- What experiences have you or someone you know had that help you better understand how perfectly They know and remember you?
-
-</div>
+What can we learn when we feel forgotten?
 
 <!--
 Presenter Notes:
-- Let students mark scriptures or share what stands out.
+- Begin the 15-minute scripture-study block. Slides 6-7: about 2 minutes together.
 -->
 
 ---
 layout: default
 ---
 
-# Lesson content
+# When Someone Feels Forgotten
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
+<div class="p-5 bg-blue-50 rounded-lg text-lg text-gray-800">
+A teenager feels unnoticed at school. They pray, but their situation still feels hard.
+</div>
 
-Sharing a childhood memory, President Dieter F. Uchtdorf, then of the First Presidency, said: President Uchtdorf continued: Ponder your own experiences with Heavenly Father and Jesus Christ as you answer the following questions: As you study Isaiah 49 (https://www.churchofjesuschrist.org/study/scriptures/ot/isa/49?lang=eng) today, seek impressions from the Holy Ghost testifying that Heavenly Father and Jesus Christ will never forget you.
+<div class="mt-6 space-y-4 text-xl">
+
+- What might they be feeling or wondering?
+- What would help them feel heard, rather than dismissed?
 
 </div>
 
 <!--
 Presenter Notes:
-- Pause for questions; read verses together where appropriate.
+- This is an illustrative scenario, not a quotation from the manual.
+- Give students a few seconds to think. Invite general observations, not disclosures of painful personal experiences.
+- Listen without correcting someone's feelings. Feeling lonely is not proof that someone lacks faith.
+-->
+
+---
+layout: default
+---
+
+# A Prophet's Reassurance
+
+<div class="p-5 bg-green-50 rounded-lg text-lg text-gray-800">
+
+As a child, Dieter F. Uchtdorf wondered whether he mattered to his family or to Heavenly Father.
+
+Looking back as an Apostle, he testified that God had not forgotten him—and that God has not forgotten us.
+
+</div>
+
+<div class="mt-5 text-xl">
+How could that reassurance help someone who feels unnoticed?
+</div>
+
+<div class="mt-5 text-sm">
+Summary of Dieter F. Uchtdorf, <a href="https://www.churchofjesuschrist.org/study/general-conference/2011/10/forget-me-not?lang=eng&id=p43-p44#p43">“Forget Me Not,” October 2011</a>.
+</div>
+
+<!--
+Presenter Notes:
+- This is a summary, not a direct quotation. The manual uses President Uchtdorf's memory of forget-me-not flowers.
+- Invite students to look for evidence of the Lord's love in the verses, rather than requiring them to feel a particular emotion now.
+-->
+
+---
+layout: default
+---
+
+# When Our Efforts Feel Wasted
+
+## Read [Isaiah 49:4–5](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/49?lang=eng&id=p4-p5#p4)
+
+<div class="p-5 bg-blue-50 rounded-lg text-lg text-gray-800">
+Look for discouragement—and for reasons to keep trusting the Lord.
+</div>
+
+<div class="mt-5 space-y-3 text-xl">
+
+- Which words describe effort that seems unsuccessful?
+- What does the speaker still recognize about God?
+
+</div>
+
+<!--
+Presenter Notes:
+- About 3 minutes. Read aloud or give students quiet reading time before discussing.
+- The manual invites us to consider how Isaiah and God's covenant people could relate to these words. Isaiah's poetry can speak to more than one setting.
+- Help students notice that the speaker entrusts his judgment and work to the Lord (v. 4) and finds strength in God (v. 5).
+- Do not imply that trusting God prevents discouragement or guarantees visible success.
+-->
+
+---
+layout: default
+---
+
+# Zion's Question, the Lord's Answer
+
+## Read [Isaiah 49:13–16](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/49?lang=eng&id=p13-p16#p13)
+
+<div class="grid grid-cols-2 gap-6 mt-5 text-lg">
+
+<div class="p-5 bg-purple-50 rounded-lg text-gray-800">
+
+**What Zion feels — verse 14**
+
+“The Lord hath forsaken me, and my Lord hath forgotten me.”
+
+</div>
+
+<div class="p-5 bg-green-50 rounded-lg text-gray-800">
+
+**What the Lord says — verse 15**
+
+“Yet will I not forget thee.”
+
+</div>
+
+</div>
+
+<div class="mt-5 text-xl">
+What do the images in verses 15–16 teach you about His love?
+</div>
+
+<!--
+Presenter Notes:
+- About 3 minutes together with the next slide. Read the whole passage in scripture, not just these excerpts.
+- Zion here represents the Lord's covenant people. Verse 13 speaks of His comfort and mercy.
+- Verse 15 compares His remembrance to a mother's care, then affirms that He will not forget even when human care fails.
+- Be sensitive to students whose family relationships are painful. The Lord's promise does not depend on their having a perfect family.
+- Let students put the truth into their own words before advancing.
+-->
+
+---
+layout: default
+---
+
+# A Truth to Hold On To
+
+<div class="p-6 bg-blue-50 rounded-lg text-2xl leading-relaxed text-gray-800">
+The Lord loves us and will never forget or forsake us.
+</div>
+
+<div class="mt-6 space-y-4 text-xl">
+
+- Which words in Isaiah 49 support this truth?
+- How is being remembered different from having every problem solved immediately?
+
+</div>
+
+<!--
+Presenter Notes:
+- Affirm students' discoveries rather than presenting this as an answer they must repeat word for word.
+- The promise is of the Lord's faithful love. Do not suggest that ongoing grief or unanswered questions mean someone is forgotten.
+-->
+
+---
+layout: default
+---
+
+# “Upon the Palms of My Hands”
+
+<div class="p-6 bg-green-50 rounded-lg text-2xl leading-relaxed text-gray-800">
+“Behold, I have graven thee upon the palms of my hands.”
+</div>
+
+[Isaiah 49:16](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/49?lang=eng&id=p16#p16)
+
+<div class="mt-5 text-xl">
+
+**Graven** means engraved or carved.
+
+What does this image suggest about how the Lord remembers His people?
+
+</div>
+
+<!--
+Presenter Notes:
+- About 2 minutes. Give students time to consider the image before explaining it.
+- The manual connects this verse with the Crucifixion and the wounds in the resurrected Savior's hands. Make that connection through the next readings.
+-->
+
+---
+layout: default
+---
+
+# Connect the Promise to Jesus Christ
+
+<div class="grid grid-cols-2 gap-6 text-lg">
+
+<div class="p-5 bg-blue-50 rounded-lg text-gray-800">
+
+## At the cross
+
+Read [John 19:15–19](https://www.churchofjesuschrist.org/study/scriptures/nt/john/19?lang=eng&id=p15-p19#p15).
+
+What did Jesus endure for us?
+
+</div>
+
+<div class="p-5 bg-purple-50 rounded-lg text-gray-800">
+
+## The risen Savior
+
+Read [3 Nephi 11:10–15](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/11?lang=eng&id=p10-p15#p10).
+
+How did He invite the people to know Him for themselves?
+
+</div>
+
+</div>
+
+<div class="mt-6 text-xl">
+How do these passages deepen your understanding of Isaiah 49:16?
+</div>
+
+<!--
+Presenter Notes:
+- About 2 minutes. Assign one passage to each pair, then invite brief reports.
+- In John, identify the Crucifixion. In 3 Nephi, notice the invitation to come one by one and feel the wounds in His hands and feet.
+- Invite students to link these passages with Isaiah 49:16 in their scriptures.
+- Keep the focus on the Savior's love and personal invitation, not graphic details.
+-->
+
+---
+layout: default
+---
+
+# Pause and Write
+
+<div class="p-5 bg-yellow-50 rounded-lg text-xl text-gray-800">
+What does the Savior's promise in Isaiah 49:16 mean to you?
+</div>
+
+<div class="mt-6 space-y-3 text-lg">
+
+In your study journal, you could include:
+
+- A word or phrase from today's scriptures
+- What it teaches you about Jesus Christ
+- Something you want to remember when life is difficult
+
+</div>
+
+<!--
+Presenter Notes:
+- About 3 minutes, completing the 15-minute scripture-study block.
+- Allow genuine quiet writing time. Students can write a paragraph, a few sentences, or a question they are still considering.
+- Do not require students to read private journal entries aloud.
 -->
 
 ---
 layout: section
 ---
 
-# Lesson content
+# Remember His Love
 
-<!-- Presenter Notes: Transition -->
-
----
-layout: default
----
-
-# Lesson content
-
-<div class="space-y-3 text-base max-w-4xl mx-auto">
-
-- Even when we suffer, what do these verses help us remember about the Lord?
-- How would you summarize this as a statement of truth?
-
-</div>
+What will you carry with you after class?
 
 <!--
 Presenter Notes:
-- Let students mark scriptures or share what stands out.
+- Begin the 10-minute discussion-and-application block.
 -->
 
 ---
 layout: default
 ---
 
-# Lesson content
+# Add Another Witness
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
+<div class="p-5 bg-green-50 rounded-lg text-lg text-gray-800">
 
-Read Isaiah 49:4–5 (https://www.churchofjesuschrist.org/study/scriptures/ot/isa/49?lang=eng&id=p4-p5#p4) , thinking about why Isaiah may have felt this way. Then read them thinking about how God’s covenant people could feel this way. Read Isaiah 49:13–16 (https://www.churchofjesuschrist.org/study/scriptures/ot/isa/49?lang=eng&id=p13-p16#p13) , looking for what the Lord wanted His covenant people (Zion) to understand.
+Return to President Uchtdorf's message, or explore the manual's **“I Will Not Forget Thee”** handout.
 
+Find one teaching that helps you understand the Lord's promise.
+
+</div>
+
+<div class="mt-5 space-y-3 text-xl">
+
+- How does it connect with Isaiah 49:13–16?
+- Add one insight to your journal.
+
+</div>
+
+<div class="mt-5 text-sm">
+<a href="https://www.churchofjesuschrist.org/study/general-conference/2011/10/forget-me-not?lang=eng&id=p43-p44#p43">President Uchtdorf's message</a> · <a href="https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/39-isaiah-40-49/393-isaiah-49?lang=eng">Lesson and handout</a>
 </div>
 
 <!--
 Presenter Notes:
-- Pause for questions; read verses together where appropriate.
+- About 3 minutes. Open the handout from the teacher-manual page before class if using it; the page links to the teacher-materials PDF.
+- For an online class, share a selected handout passage on screen or invite students to revisit the linked Uchtdorf message.
+- Use one teaching, not the whole handout. Both options connect scripture with the words of a living prophet.
 -->
 
 ---
 layout: default
 ---
 
-# Lesson content
+# Share What You Found
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
+<div class="space-y-5 text-xl">
 
-Cross-reference or link Isaiah 49:16 (https://www.churchofjesuschrist.org/study/scriptures/ot/isa/49?lang=eng&id=p16#p16) with John 19:15–19 (https://www.churchofjesuschrist.org/study/scriptures/nt/john/19?lang=eng&id=p15-p19#p15) and 3 Nephi 11:10–15 (https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/11?lang=eng&id=p10-p15#p10) . Slowly read these passages, marking words and phrases that help you feel the love Heavenly Father and Jesus Christ have for you. Look for teachings that help you understand why They will not forget or forsake you.
+- Which verse or teaching helped you understand the Savior's love?
+- What could you share with someone who feels forgotten?
 
+</div>
+
+<div class="mt-8 p-5 bg-blue-50 rounded-lg text-lg text-gray-800">
+Listen with care. Sharing a personal experience is always optional.
 </div>
 
 <!--
 Presenter Notes:
-- Pause for questions; read verses together where appropriate.
+- About 4 minutes. Allow a brief pause, then invite discussion in pairs or as a class.
+- If time is short, choose one question. Invite volunteers; do not pressure students to testify or describe a spiritual experience.
+- Return to the opening scenario. Help students combine a scriptural truth with compassion, listening, and practical friendship.
 -->
-
----
-layout: section
----
-
-# Lesson content
-
-<!-- Presenter Notes: Transition -->
 
 ---
 layout: default
 ---
 
-# Lesson content
+# Choose a Reminder This Week
 
-<div class="space-y-3 text-base max-w-4xl mx-auto">
+<div class="p-5 bg-yellow-50 rounded-lg text-xl text-gray-800">
+Choose one way to remember the Lord's love—and one way to help someone feel remembered.
+</div>
 
-- What do you hope to remember from what you have learned and felt as you studied Isaiah 49 (https://www.churchofjesuschrist.org/study/scriptures/ot/isa/49?lang=eng) today?
-- What is something you could do to remember that Heavenly Father and Jesus Christ will never forget you?
+<div class="grid grid-cols-2 gap-6 mt-5 text-lg">
+
+<div>
+
+## Remember
+- Save or write Isaiah 49:15–16.
+- Pray about what you learned.
+- Return to your journal when you need reassurance.
 
 </div>
 
-<!--
-Presenter Notes:
-- Let students mark scriptures or share what stands out.
--->
+<div>
 
----
-layout: section
----
-
-# Discussion
-
-<!-- Presenter Notes: Transition -->
-
----
-layout: default
----
-
-# Discussion questions
-
-<div class="p-8 bg-gradient-to-r from-blue-50 to-purple-50 rounded-xl text-left text-lg space-y-4 max-w-4xl mx-auto">
-
-1. **Heavenly Father and Jesus Christ know you personally and perfectly. Yet sometimes we see the challenges of mortality and cry, “The Lord has forsaken me” (see Isaiah 49:14 (https://www.churchofjesuschrist.org/study/scriptures/ot/isa/49?lang=eng&id=p14#p14) ). Isaiah’s words reassure us that we have been graven upon the Savior’s hands and will never be forsaken or forgotten (see Isaiah 49:16 (https://www.churchofjesuschrist.org/study/scriptures/ot/isa/49?lang=eng&id=p16#p16) ). This lesson can help students feel that Heavenly Father and Jesus Christ love us and will not forget us.**
-
-2. **What are some reasons a teenager might feel forgotten by others or by Heavenly Father?**
-
-3. **What do you already know about Heavenly Father and Jesus Christ that you would want to share with someone who feels they are forgotten?**
-
-4. **How confident do you feel that They know and remember you?**
-
-5. **What experiences have you or someone you know had that help you better understand how perfectly They know and remember you?**
-
-6. **As you study Isaiah 49 (https://www.churchofjesuschrist.org/study/scriptures/ot/isa/49?lang=eng) today, seek impressions from the Holy Ghost testifying that Heavenly Father and Jesus Christ will never forget you.**
-
-</div>
-
-<!--
-Presenter Notes:
-- Pick 1–2 questions if time is short.
--->
-
----
-layout: section
----
-
-# Application & closing
-
-<!-- Presenter Notes: Transition -->
-
----
-layout: default
----
-
-# This week
-
-<div class="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm">
-
-<div class="p-5 bg-yellow-50 rounded-lg text-gray-800">
-
-## Challenge
-- Complete **one** study option from the manual that fits your class time.
-- Write **one** sentence about what you felt during the lesson.
-
-</div>
-
-<div class="p-5 bg-pink-50 rounded-lg text-gray-800">
-
-## Personal reflection
-- What will you **do** differently because of Christ?
+## Reach out
+- Include someone who is left out.
+- Check in with a friend.
+- Listen without rushing to fix their feelings.
 
 </div>
 
@@ -353,28 +469,28 @@ layout: default
 
 <!--
 Presenter Notes:
-- Bear brief testimony as prompted by the Spirit.
+- About 3 minutes, completing the discussion-and-application block.
+- These are invitations, not a checklist. Ask students to choose a small, specific action that is realistic for them.
+- God's love is not something they must earn by completing the challenge.
 -->
 
 ---
 layout: end
 ---
 
-# Closing
+# You Are Not Forgotten
 
-<div class="text-center space-y-6">
+## The Lord knows you and loves you.
 
-## 🙏 Closing Prayer
+Isaiah 49:15–16
 
-Ask someone to offer the closing prayer.
-
-</div>
-
-<div class="abs-br m-6 text-xs text-gray-400">
-Seminary Lesson - September 30, 2026
+<div class="mt-8 text-xl">
+Closing prayer
 </div>
 
 <!--
 Presenter Notes:
-- Thank students; remind them of reading for next time if applicable.
+- Closing: about 3 minutes. Bear a brief, sincere testimony of Jesus Christ's love as prompted.
+- Invite a volunteer to offer the closing prayer.
+- QT leader and question remain placeholders; fill them in before class.
 -->

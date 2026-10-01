@@ -94,7 +94,7 @@ def main() -> int:
     parser.add_argument("--group-id", default="347676")
     parser.add_argument("--year", type=int, default=2026)
     parser.add_argument(
-        "--seminary-root", type=Path, default=Path(__file__).resolve().parents[3]
+        "--seminary-root", type=Path, default=Path(__file__).resolve().parents[4]
     )
     parser.add_argument(
         "--canvas-env",

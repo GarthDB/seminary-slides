@@ -47,9 +47,9 @@ npm run dev
 - `npm run export-pdf` - Export slides as PDF
 - `npm run export-png` - Export slides as PNG images
 
-## 🤖 Agent skill (Cursor / Agent Skills)
+## 🤖 Agent skill (Copilot / Cursor / Agent Skills)
 
-This repo includes an [Agent Skills](https://agentskills.io/specification)-style skill at [`skills/seminary-lesson/`](./skills/seminary-lesson/) to generate `lessons/YYYY-MM-DD/slides.md` from a Church seminary student-manual URL (scrapes the lesson page, writes materials, then you review in Slidev). Point your agent at that folder or copy `SKILL.md` into your skills directory if you use global skills.
+This repo includes an [Agent Skills](https://agentskills.io/specification)-style skill at [`.github/skills/seminary-lesson/`](./.github/skills/seminary-lesson/) to generate `lessons/YYYY-MM-DD/slides.md` from a Church seminary student-manual URL (scrapes the lesson page, writes materials, then you review in Slidev). Copilot discovers this repository skill automatically; the Cursor entry at `.cursor/skills/seminary-lesson/` points to the same workflow. For personal use across repositories, copy the entire skill folder into `~/.copilot/skills/` and pass `--seminary-root` explicitly when running its scripts.
 
 ## 📝 Creating a New Lesson
 

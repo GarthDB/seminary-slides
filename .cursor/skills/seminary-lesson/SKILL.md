@@ -1,7 +1,7 @@
 ---
 name: seminary-lesson
 description: Creates seminary Slidev lessons in the Seminary repo from churchofjesuschrist.org student-manual URLs. Scrapes the manual page, writes lessons/YYYY-MM-DD/slides.md plus materials/manual-content.md, and follows a 40-minute flow with QT Time. Use when the user asks to create or prep a seminary lesson, build Slidev for a class date, or provides a seminary manual link and QT leader name.
-compatibility: Requires Python 3.10+ in a venv (see workflow; skills/seminary-lesson/scripts/requirements.txt), network access to churchofjesuschrist.org, Node/npm for Slidev at the Seminary repo root, and a browser to review slides for overflow.
+compatibility: Requires Python 3.10+ in a venv (see workflow; .github/skills/seminary-lesson/scripts/requirements.txt), network access to churchofjesuschrist.org, Node/npm for Slidev at the Seminary repo root, and a browser to review slides for overflow.
 metadata:
   author: garthdb
   version: "1.0"
@@ -13,13 +13,13 @@ Create or refresh a weekly seminary presentation in the **Seminary** git repo us
 
 ## Context
 
-- **Cursor:** This folder (`.cursor/skills/seminary-lesson/`) is the **project skill** entry so the agent discovers the workflow. **Do not duplicate** the generator—use the repo copy under `skills/seminary-lesson/`.
+- **Cursor:** This folder (`.cursor/skills/seminary-lesson/`) is the **project skill** entry so the agent discovers the workflow. **Do not duplicate** the generator—use the canonical skill under `.github/skills/seminary-lesson/`. Read `.github/skills/seminary-lesson/SKILL.md` for the current workflow, including batch sync from Canvas.
 - **Repo root:** directory that contains `lessons/` and `package.json`.
 - **Output:** `lessons/<YYYY-MM-DD>/slides.md`, `lessons/<YYYY-MM-DD>/materials/manual-content.md`, `lessons/<YYYY-MM-DD>/materials/README.md`.
-- **Generator:** `skills/seminary-lesson/scripts/create-lesson.py` — fetches and parses the manual HTML (server-rendered `<article>` content).
-- **Structure & timing:** `skills/seminary-lesson/references/LESSON-STRUCTURE.md`
-- **Teaching guidance (Christlike teaching):** `skills/seminary-lesson/references/TEACHING-PRINCIPLES.md` — summary aligned with *Teaching in the Savior’s Way*; full markdown extract at `teaching-in-the-saviors-way/` (repo root).
-- **Example prompts:** `skills/seminary-lesson/assets/example-prompt.txt`
+- **Generator:** `.github/skills/seminary-lesson/scripts/create-lesson.py` — fetches and parses the manual HTML (server-rendered `<article>` content).
+- **Structure & timing:** `.github/skills/seminary-lesson/references/LESSON-STRUCTURE.md`
+- **Teaching guidance (Christlike teaching):** `.github/skills/seminary-lesson/references/TEACHING-PRINCIPLES.md` — summary aligned with *Teaching in the Savior’s Way*; full markdown extract at `teaching-in-the-saviors-way/` (repo root).
+- **Example prompts:** `.github/skills/seminary-lesson/assets/example-prompt.txt`
 
 ## When to use
 
@@ -41,21 +41,21 @@ Trigger when the user:
 2. **Review recent lessons (recommended)**  
    Read 1–3 recent `lessons/*/slides.md` files to match voice, layout density, and use of presenter notes—see e.g. `lessons/2026-01-09/slides.md` for a rich example.
 
-   Also read `skills/seminary-lesson/references/TEACHING-PRINCIPLES.md` to apply Christlike teaching principles from *Teaching in the Savior’s Way*—especially for discussion questions, presenter notes, and application sections. Open files under `teaching-in-the-saviors-way/` when you need the full chapter (e.g. youth settings, doctrine depth).
+   Also read `.github/skills/seminary-lesson/references/TEACHING-PRINCIPLES.md` to apply Christlike teaching principles from *Teaching in the Savior’s Way*—especially for discussion questions, presenter notes, and application sections. Open files under `teaching-in-the-saviors-way/` when you need the full chapter (e.g. youth settings, doctrine depth).
 
 3. **Python environment**  
    On macOS/Homebrew Python (PEP 668), use a venv next to the canonical skill (ignored by git):
 
    ```bash
-   python3 -m venv skills/seminary-lesson/.venv
-   source skills/seminary-lesson/.venv/bin/activate
-   pip install -r skills/seminary-lesson/scripts/requirements.txt
+   python3 -m venv .github/skills/seminary-lesson/.venv
+   source .github/skills/seminary-lesson/.venv/bin/activate
+   pip install -r .github/skills/seminary-lesson/scripts/requirements.txt
    ```
 
 4. **Run the generator** from the Seminary repo root (with the venv activated):
 
    ```bash
-   python3 skills/seminary-lesson/scripts/create-lesson.py \
+   python3 .github/skills/seminary-lesson/scripts/create-lesson.py \
      --url "<MANUAL_URL>" \
      --date YYYY-MM-DD \
      --student "<QT_LEADER_NAME>" \
@@ -78,7 +78,7 @@ Trigger when the user:
    npx slidev lessons/YYYY-MM-DD/slides.md
    ```
 
-   Step through every slide; fix overflow (split slides, shorten text, move detail to presenter notes). See `skills/seminary-lesson/references/LESSON-STRUCTURE.md`.
+   Step through every slide; fix overflow (split slides, shorten text, move detail to presenter notes). See `.github/skills/seminary-lesson/references/LESSON-STRUCTURE.md`.
 
 7. **Optional build check**
 
@@ -104,9 +104,9 @@ If fetch fails, HTML has no `<article>`, or the site layout changes:
 If [skills-ref](https://github.com/agentskills/agentskills/tree/main/skills-ref) is installed:
 
 ```bash
-skills-ref validate skills/seminary-lesson
+skills-ref validate .github/skills/seminary-lesson
 ```
 
 ## Progressive disclosure
 
-Load `skills/seminary-lesson/references/LESSON-STRUCTURE.md` when detailing timing, QT flow, or overflow checks. Load `skills/seminary-lesson/references/TEACHING-PRINCIPLES.md` when shaping discussion, testimony, and invitations to act; use `teaching-in-the-saviors-way/` for deeper quotes or setting-specific help.
+Load `.github/skills/seminary-lesson/references/LESSON-STRUCTURE.md` when detailing timing, QT flow, or overflow checks. Load `.github/skills/seminary-lesson/references/TEACHING-PRINCIPLES.md` when shaping discussion, testimony, and invitations to act; use `teaching-in-the-saviors-way/` for deeper quotes or setting-specific help.

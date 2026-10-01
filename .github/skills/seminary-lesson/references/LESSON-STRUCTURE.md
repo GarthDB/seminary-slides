@@ -59,4 +59,4 @@ The skill’s script does not auto-detect overflow; manual pass is required.
 
 - Lessons: `lessons/YYYY-MM-DD/slides.md`
 - Template reference: `lessons/templates/lesson-template.md`
-- Generator script: `skills/seminary-lesson/scripts/create-lesson.py`
+- Generator script: `.github/skills/seminary-lesson/scripts/create-lesson.py`

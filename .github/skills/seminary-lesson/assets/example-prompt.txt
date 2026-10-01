@@ -5,7 +5,7 @@ Example 2 (minimal):
 Create seminary slides for 2026-02-07 from this manual URL: https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-student-manual-2026/... QT leader: Maria
 
 Example 3 (CLI after content is ready):
-python3 skills/seminary-lesson/scripts/create-lesson.py \
+python3 .github/skills/seminary-lesson/scripts/create-lesson.py \
   --url "https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-student-manual-2026/05-genesis-5-moses-6/052-moses-6-47-68?lang=eng" \
   --date 2026-01-30 \
   --student Finnley \

@@ -13,7 +13,7 @@ Create or refresh a weekly seminary presentation in the **Seminary** git repo us
 
 ## Context
 
-- **Repo root:** directory that contains `lessons/` and `package.json` (this skill lives at `skills/seminary-lesson/` inside that repo).
+- **Repo root:** directory that contains `lessons/` and `package.json` (this skill lives at `.github/skills/seminary-lesson/` inside that repo).
 - **Output:** `lessons/<YYYY-MM-DD>/slides.md`, `lessons/<YYYY-MM-DD>/materials/manual-content.md`, `lessons/<YYYY-MM-DD>/materials/README.md`.
 - **Generator:** [scripts/create-lesson.py](scripts/create-lesson.py) — fetches and parses the manual HTML (server-rendered `<article>` content).
 - **Structure & timing:** see [references/LESSON-STRUCTURE.md](references/LESSON-STRUCTURE.md).
@@ -46,15 +46,15 @@ Trigger when the user:
    On macOS/Homebrew Python (PEP 668), use a venv inside the skill (ignored by git):
 
    ```bash
-   python3 -m venv skills/seminary-lesson/.venv
-   source skills/seminary-lesson/.venv/bin/activate
-   pip install -r skills/seminary-lesson/scripts/requirements.txt
+   python3 -m venv .github/skills/seminary-lesson/.venv
+   source .github/skills/seminary-lesson/.venv/bin/activate
+   pip install -r .github/skills/seminary-lesson/scripts/requirements.txt
    ```
 
 4. **Run the generator** from the Seminary repo root (with the venv activated):
 
    ```bash
-   python3 skills/seminary-lesson/scripts/create-lesson.py \
+   python3 .github/skills/seminary-lesson/scripts/create-lesson.py \
      --url "<MANUAL_URL>" \
      --date YYYY-MM-DD \
      --student "<QT_LEADER_NAME>" \
@@ -104,8 +104,8 @@ any date that already has a `lessons/<date>/slides.md`, and calls
 [scripts/create-lesson.py](scripts/create-lesson.py) — unchanged — for everything new.
 
 ```bash
-source skills/seminary-lesson/.venv/bin/activate  # same venv as single-lesson mode
-python3 skills/seminary-lesson/scripts/sync-from-canvas.py --seminary-root .
+source .github/skills/seminary-lesson/.venv/bin/activate  # same venv as single-lesson mode
+python3 .github/skills/seminary-lesson/scripts/sync-from-canvas.py --seminary-root .
 ```
 
 Defaults assume this repo's course (`--course-id 116313`, `--group-id 347676`, `--year
@@ -138,7 +138,7 @@ If fetch fails, HTML has no `<article>`, or the site layout changes:
 If [skills-ref](https://github.com/agentskills/agentskills/tree/main/skills-ref) is installed:
 
 ```bash
-skills-ref validate skills/seminary-lesson
+skills-ref validate .github/skills/seminary-lesson
 ```
 
 ## Progressive disclosure
