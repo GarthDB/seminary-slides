@@ -1,6 +1,6 @@
 ---
 date: 2026-10-02
-qt_leader: [Student Name]
+qt_leader: Gigi
 source_url: https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-manual-2026/39-isaiah-40-49/394-doctrinal-mastery-practice-8?lang=eng
 student_manual_url: https://www.churchofjesuschrist.org/study/manual/old-testament-seminary-student-manual-2026/39-isaiah-40-49/394-doctrinal-mastery-practice-8?lang=eng
 ---

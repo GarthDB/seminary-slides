@@ -1,6 +1,13 @@
 ---
 name: seminary-lesson
-description: Creates seminary Slidev lessons in the Seminary repo from churchofjesuschrist.org student-manual URLs. Scrapes the manual page, writes lessons/YYYY-MM-DD/slides.md plus materials/manual-content.md, and follows a 40-minute flow with QT Time. Use when the user asks to create or prep a seminary lesson, build Slidev for a class date, or provides a seminary manual link and QT leader name. Also handles batch mode: sync all remaining Wed/Fri lessons for a trimester straight from a Canvas assignment group.
+description: >-
+  Creates seminary Slidev lessons in the Seminary repo from churchofjesuschrist.org
+  student-manual URLs. Scrapes the manual page, writes lessons/YYYY-MM-DD/slides.md
+  plus materials/manual-content.md, and follows a 40-minute flow with QT Time.
+  Use when the user asks to create or prep a seminary lesson, build Slidev for a
+  class date, or provides a seminary manual link and QT leader name. Also handles
+  batch mode: sync all remaining Wed/Fri lessons for a trimester straight from a
+  Canvas assignment group.
 compatibility: Requires Python 3.10+ in a venv (see workflow; scripts/requirements.txt), network access to churchofjesuschrist.org (and to Canvas for batch mode), Node/npm for Slidev at the Seminary repo root, and a browser to review slides for overflow.
 metadata:
   author: garthdb
