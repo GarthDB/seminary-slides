@@ -37,36 +37,28 @@ Presenter Notes:
 layout: default
 ---
 
-# Welcome to Seminary
+# Questions Are Part of Learning
 
-<div class="grid grid-cols-2 gap-6 text-base">
+<div class="p-5 bg-blue-50 rounded-lg text-xl text-gray-800">
+How can you keep turning to Jesus Christ when you don't have every answer?
+</div>
 
-<div>
+<div class="mt-6 space-y-4 text-lg">
 
-## Today's focus
-- **Find:** A scripture for a real-life challenge
-- **Explain:** How its truth can help
-- **Practice:** Three ways to seek spiritual knowledge
-- **Act:** Choose a next step toward Christ
+- Find a scripture that speaks to a real-life challenge.
+- Practice seeking answers with faith.
+- Choose one next step toward Jesus Christ.
 
 </div>
 
-<div>
-
-## Our 40 minutes
-1. **Opening prayer** — 2 min
-2. **QT Time** — 10 min
-3. **Scripture & scenario** — 15 min
-4. **Practice & application** — 10 min
-5. **Closing** — 3 min
-
-</div>
-
+<div class="mt-5 text-base">
+You can participate without sharing anything private.
 </div>
 
 <!--
 Presenter Notes:
 - Welcome and prayer share the first two minutes.
+- Class plan: opening (2 min), QT (10), scripture and scenario (15), practice and application (10), closing (3).
 - Timing is flexible; listen to students and follow spiritual impressions.
 - Within the 15-minute lesson block, allow 10 minutes for scripture application and 5 for introducing Julietta and reviewing the principles.
 -->
@@ -78,7 +70,7 @@ layout: default
 # Opening Prayer
 
 <div class="p-6 bg-blue-50 rounded-lg text-xl text-gray-800">
-Invite someone to offer the opening prayer.
+Let's turn our hearts to Heavenly Father.
 </div>
 
 <!--
@@ -136,24 +128,35 @@ layout: default
 
 # Choose a Situation
 
-<div class="p-5 bg-blue-50 rounded-lg text-lg text-gray-800">
-Think of a challenge a teenager might face. Write a brief, anonymous description.
+<div class="text-lg">
+Choose one to discuss with a partner:
 </div>
 
-<div class="mt-5 space-y-3 text-xl">
+<div class="mt-5 space-y-3 text-lg">
 
-- No names or private details.
-- A made-up example is fine.
-- What might this person need help understanding or doing?
+<div class="p-4 bg-blue-50 rounded-lg text-gray-800">
+<strong>Pressure to fit in:</strong> Friends want someone to do something they believe is wrong.
+</div>
 
+<div class="p-4 bg-green-50 rounded-lg text-gray-800">
+<strong>A difficult choice:</strong> Someone is unsure what to do and wants God's guidance.
+</div>
+
+<div class="p-4 bg-purple-50 rounded-lg text-gray-800">
+<strong>Discouragement:</strong> Someone keeps trying but feels their efforts don't matter.
+</div>
+
+</div>
+
+<div class="mt-4 text-base">
+Or use your own made-up example. No names or private details.
 </div>
 
 <!--
 Presenter Notes:
-- About 2 minutes. The manual uses anonymous papers in a bucket; online, use an anonymous poll or offer prepared examples.
-- Do not promise anonymity for ordinary Zoom chat, where names are visible.
-- Examples if needed: feeling pressure to fit in, making a difficult choice, or feeling discouraged.
-- Give each pair one or two situations. Sharing personal experiences is optional.
+- About 2 minutes. These prepared examples adapt the manual's anonymous-paper activity for an online class without requiring a poll or collecting personal stories.
+- Have each pair choose one situation and identify what the person needs help understanding or doing.
+- Sharing personal experiences is optional. Ordinary Zoom chat is not anonymous.
 -->
 
 ---
@@ -175,6 +178,7 @@ With a partner, choose a situation and find a doctrinal mastery passage that app
 </div>
 
 <div class="mt-5 text-base">
+Need a starting point? Try <strong>Proverbs 3:5–6</strong> or <strong>2 Nephi 32:3</strong>.<br>
 <a href="https://www.churchofjesuschrist.org/study/manual/doctrinal-mastery-core-document-2023/doctrinal-mastery-passages-and-key-phrases?lang=eng">Doctrinal mastery passages and key phrases</a>
 </div>
 
@@ -248,21 +252,26 @@ layout: default
 <div class="space-y-4 text-lg">
 
 <div class="p-4 bg-blue-50 rounded-lg text-gray-800">
-**Act in faith**
+<strong>Act in faith</strong><br>
+Keep turning to Christ while you seek answers.
 </div>
 
 <div class="p-4 bg-green-50 rounded-lg text-gray-800">
-**Examine concepts and questions with an eternal perspective**
+<strong>Examine concepts and questions with an eternal perspective</strong><br>
+Consider what you know about God and His plan.
 </div>
 
 <div class="p-4 bg-purple-50 rounded-lg text-gray-800">
-**Seek further understanding through divinely appointed sources**
+<strong>Seek further understanding through divinely appointed sources</strong><br>
+Seek God's help through prayer, the Holy Ghost, scriptures, and prophets.
 </div>
 
 </div>
 
 <div class="mt-4 text-base">
-Read <a href="https://www.churchofjesuschrist.org/study/manual/doctrinal-mastery-core-document-2023/acquiring-spiritual-knowledge?lang=eng&id=title3-p16#title3">“Acquiring Spiritual Knowledge,” paragraphs 5–12</a>.
+With a partner, study one principle in
+<a href="https://www.churchofjesuschrist.org/study/manual/doctrinal-mastery-core-document-2023/acquiring-spiritual-knowledge?lang=eng&id=title3-p16#title3">“Acquiring Spiritual Knowledge,” paragraphs 5–12</a>.
+Find one teaching that could help Julietta.
 </div>
 
 <!--
@@ -270,6 +279,7 @@ Presenter Notes:
 - About 3 minutes, completing the 15-minute scripture-and-scenario block.
 - Divide the three principles among pairs; ask each pair to find one teaching that could help Julietta.
 - These are the named principles in the Core Document, not three steps that guarantee an immediate answer.
+- The brief explanations beneath the principle names are classroom summaries, not quotations.
 - If time is short, students can read their assigned principle now and return to the document during practice.
 -->
 
@@ -375,37 +385,36 @@ layout: default
 
 # Practice Using a Source
 
-<div class="p-5 bg-blue-50 rounded-lg text-lg text-gray-800">
-Choose a passage. Read it with Julietta's question in mind.
-</div>
+<div class="p-5 bg-blue-50 rounded-lg text-xl text-gray-800">
 
-<div class="grid grid-cols-2 gap-6 mt-5 text-lg">
+“Look unto me in every thought; doubt not, fear not.”
 
-<div>
-
-- [Joshua 24:15](https://www.churchofjesuschrist.org/study/scriptures/ot/josh/24?lang=eng&id=p15#p15)
-- [Proverbs 3:5–6](https://www.churchofjesuschrist.org/study/scriptures/ot/prov/3?lang=eng&id=p5-p6#p5)
-- [Isaiah 5:20](https://www.churchofjesuschrist.org/study/scriptures/ot/isa/5?lang=eng&id=p20#p20)
-
-</div>
-
-<div>
-
-- [Matthew 5:14–16](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/5?lang=eng&id=p14-p16#p14)
-- [Doctrine and Covenants 6:36](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/6?lang=eng&id=p36#p36)
-
+<div class="mt-3 text-base">
+<a href="https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/6?lang=eng&id=p36#p36">Doctrine and Covenants 6:36</a>
 </div>
 
 </div>
 
-<div class="mt-5 text-xl">
-What truth could you share with her? What could she do because of it?
+<div class="mt-5 space-y-3 text-lg">
+
+- What does this verse invite Julietta to do?
+- How could she live that invitation tomorrow?
+- How could you share it without dismissing her questions?
+
+</div>
+
+<div class="mt-5 text-base">
+You can also explore
+<a href="https://www.churchofjesuschrist.org/study/scriptures/ot/prov/3?lang=eng&id=p5-p6#p5">Proverbs 3:5–6</a>
+or <a href="https://www.churchofjesuschrist.org/study/scriptures/nt/matt/5?lang=eng&id=p14-p16#p14">Matthew 5:14–16</a>.
 </div>
 
 <!--
 Presenter Notes:
-- About 2 minutes. These are the example passages supplied by the teacher manual.
-- Invite partners to read one passage and share a brief connection, not to cover all five.
+- About 2 minutes. The featured verse and alternatives are example passages supplied by the teacher manual.
+- Invite partners to read one passage in context and share a brief connection.
+- Other manual suggestions, if helpful: Joshua 24:15 and Isaiah 5:20.
+- "Doubt not" is an invitation to trust the Savior, not a reason to shame sincere questions.
 - Distinguish what the verse teaches from advice we infer about Julietta's specific situation.
 - Model kindness: listen, share a truth, and offer to keep studying together. Avoid promising that one verse will settle every question.
 -->

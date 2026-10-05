@@ -12,9 +12,14 @@ for a 40-minute online class: opening (2 minutes), student-led QT (10), scriptur
 application (10), scenario and principles review (5), guided practice and personal
 application (10), and closing (3).
 
-The anonymous-paper activity can use an anonymous poll or prepared scenarios.
+The anonymous-paper activity uses three ready-to-discuss scenarios (peer pressure,
+a difficult choice, and discouragement), with an option to use a made-up example.
+No collection of private experiences or anonymous poll is required.
 The journal-and-movement activity uses partners or breakout rooms. Classroom
 scenario summaries and the deck subtitle are adaptations, not direct quotations.
+The principle explanations are also classroom summaries. Scripture-source practice
+features Doctrine and Covenants 6:36, with links to alternative passages.
+Class timing and teacher facilitation guidance are kept in presenter notes.
 Gigi is leading QT. Her question: "How can you make the gospel your #1 priority?"
 
 ### Study links
