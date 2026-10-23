@@ -95,7 +95,7 @@ layout: default
 
 **[Student Name] is leading QT Time today.**
 
-**Question:** *[Add the student's discussion question before class]*
+**Question:** *What's something you've learned or noticed recently that made you feel closer to God, even in a small way?*
 
 </div>
 
