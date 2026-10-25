@@ -1,14 +1,13 @@
 ---
 theme: default
 routerMode: hash
-background: https://source.unsplash.com/1920x1080/?scripture,faith
 class: text-center
 highlighter: shiki
 lineNumbers: false
 info: |
   ## Seminary Lesson - November 11, 2026
-  Weekly lesson for Seminary class
-  Daniel 3: “Our God … Is Able to Deliver Us. … But If Not”
+  Daniel 3 - Lesson 144
+  "Our God … Is Able to Deliver Us. … But If Not"
   Source materials available in ./materials/
 drawings:
   persist: false
@@ -17,28 +16,21 @@ title: Seminary Lesson - November 11, 2026
 mdc: true
 ---
 
-# Seminary Lesson
-## November 11, 2026
+# “But If Not”
+## Daniel 3
 
-### Daniel 3
-**“Our God … Is Able to Deliver Us. … But If Not”**
+November 11, 2026 · Daniel 1–7, Lesson 144
 
-<div class="pt-12">
-  <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
-    Press Space for next page <carbon:arrow-right class="inline"/>
-  </span>
-</div>
-
-<div class="abs-br m-6 flex gap-2">
-  <button @click="$slidev.nav.openInEditor()" title="Open in Editor" class="text-xl slidev-icon-btn opacity-50 !border-none !hover:text-white">
-    <carbon:edit />
-  </button>
+<div class="pt-8 text-xl">
+Trust in Jesus Christ, whatever the outcome.
 </div>
 
 <!--
 Presenter Notes:
-- Class runs about 40 minutes total (adjust to your schedule).
-- Source: Church seminary student manual (scraped for outline).
+- Prepare spiritually and pray to understand the students' needs.
+- Source: the teacher-manual lesson linked in ./materials/README.md.
+- Student preparation in the manual: invite students to think of faithful disciples who were miraculously delivered, and others who were not, and what those accounts teach about trusting the Lord.
+- Tone: gentle and honest. Some students may be facing prayers that were not answered the way they hoped. This lesson includes a story about the death of a child; consider who may be affected.
 -->
 
 ---
@@ -47,25 +39,26 @@ layout: default
 
 # Welcome to Seminary
 
-<div class="grid grid-cols-2 gap-4 text-sm">
+<div class="grid grid-cols-2 gap-6 text-base">
 
 <div>
 
-## Today's Focus
-- **Scripture Study**: Daniel 3
-- **Key idea**: This lesson can help students feel a desire to trust in Jesus Christ regardless of the outcome.
-- **Application**: Look for one way to turn to Christ this week
+## Today's focus
+- **Ponder:** How outcomes shape our faith
+- **Discover:** The choice Shadrach, Meshach, and Abed-nego made
+- **Learn:** Faith in Christ versus faith in an outcome
+- **Write:** What helps us trust Him
 
 </div>
 
 <div>
 
-## Class Structure (40 min)
-1. **Opening Prayer** (2 min)
-2. **QT Time** (10 min) — [Student Name]
-3. **Scripture / lesson focus** (15 min)
-4. **Discussion & application** (10 min)
-5. **Closing** (3 min)
+## Our 40 minutes
+1. **Opening prayer** — 2 min
+2. **QT Time** — 10 min
+3. **Scripture study** — 15 min
+4. **Discussion & application** — 10 min
+5. **Closing** — 3 min
 
 </div>
 
@@ -73,387 +66,315 @@ layout: default
 
 <!--
 Presenter Notes:
-- QT: student-led question, breakout groups, return and have one reporter per group share briefly.
+- Welcome and prayer share the first two minutes.
+- If time is short, shorten the story of Elder Bowen's family and protect Daniel 3:13–18 and the journal time.
 -->
 
 ---
 layout: default
 ---
 
-# Opening Activities
+# Opening Prayer
 
-<div class="space-y-6">
-
-## 🙏 Opening Prayer
-
-<div class="bg-blue-50 p-4 rounded-lg text-gray-800">
-Ask someone to offer the opening prayer.
+<div class="p-6 bg-blue-50 rounded-lg text-xl text-gray-800">
+Let's invite the Spirit to strengthen our trust in Jesus Christ, whatever comes.
 </div>
 
-## 💬 QT Time
+<!--
+Presenter Notes:
+- Invite a volunteer to pray without putting anyone on the spot.
+-->
 
-<div class="bg-purple-50 p-4 rounded-lg text-gray-800">
+---
+layout: default
+---
 
-**[Student Name] is leading QT Time this week.**
+# QT Time
 
-**Question:** *[Add the student’s discussion question before class]*
+<div class="p-5 bg-purple-50 rounded-lg text-gray-800">
 
-**Flow:** Small groups → discuss → return together → one person per group shares a highlight.
+**[Student Name] is leading QT Time today.**
+
+**Question:** *[Add the student's discussion question before class]*
 
 </div>
+
+<div class="mt-6 text-lg">
+
+1. Listen to the question.
+2. Discuss in small groups.
+3. Return together.
+4. One person per group shares a brief highlight.
 
 </div>
 
 <!--
 Presenter Notes:
-- QT (~10 min): opening question, breakouts, gather and report.
-- If time is tight, shorten breakouts or limit group reporters to 1–2 sentences each.
+- QT: 10 minutes total. Question (1 min), groups (6 min), reports (3 min).
+- Keep reports to one or two sentences. The question need not match today's lesson.
+- Fallback if no question is submitted: "What's something you've learned or noticed recently that made you feel closer to God, even in a small way?"
+- QT leader was not named in the source request; fill in the name and question before class.
 -->
 
 ---
 layout: section
 ---
 
-# From the manual
+# When Outcomes Differ
 
-<!-- Presenter Notes: Transition -->
+Faith in Jesus Christ.
+
+<!--
+Presenter Notes:
+- Begin the 15-minute scripture-study block.
+- Next 3 slides: about 4 minutes. Daniel 3:1–18: about 6 minutes. Daniel 3:19–28: about 5 minutes.
+-->
 
 ---
 layout: default
 ---
 
-# Lesson focus
+# When Tyson Stopped Breathing
 
-<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed text-gray-800">
+<div class="p-4 bg-yellow-50 rounded-lg text-base leading-relaxed text-gray-800">
 
-Sometimes the Lord might miraculously deliver us from our trials. Other times He might not deliver us in the way or with the timing we hope. Either way, we can strive to be like Shadrach, Meshach, and Abed-nego and trust in the Lord, regardless of how and when He chooses to bless us. This lesson can help students feel a desire to trust in Jesus Christ regardless of the outcome. Elder Shayne M. Bowen of the Seventy shared the following personal experience: Elder Bowen continued:
+“When [my son] Tyson was eight months old, he aspirated a piece of chalk that he had found on the carpet. … He quit breathing. … We began to administer CPR and called 911. … In the waiting room we continued in fervent prayer as we pled to God for a miracle.”
 
+</div>
+
+<div class="mt-3 text-sm">
+Elder Shayne M. Bowen, “Because I Live, Ye Shall Live Also,” Liahona, Nov. 2012, 16
+</div>
+
+<div class="mt-4 text-lg">
+How might different outcomes affect this family's faith in God?
 </div>
 
 <!--
 Presenter Notes:
-- Keep this tight; invite students to open scriptures / manual on their devices if helpful.
+- About 2 minutes. Quotation is abridged. Read it aloud; the video version of the account has more detail than the written statement.
+- Pause on the question. Do not reveal the outcome yet.
+- Then read the next part: “After what seemed a lifetime, the doctor came into the room and said, ‘I am so sorry. There is nothing more we can do.’ … At that moment it felt as if our world had come to an end.” (p. 16)
+- Handle with care: Tyson died.
 -->
-
----
-layout: section
----
-
-# Lesson content
-
-<!-- Presenter Notes: Transition -->
 
 ---
 layout: default
 ---
 
-# Lesson content
+# Your Own Experiences
 
-<div class="space-y-3 text-base max-w-4xl mx-auto">
+<div class="p-5 bg-purple-50 rounded-lg text-xl text-gray-800">
+Think of times when you, or your family, felt the Lord blessed you with the outcome you hoped for, or didn't.
+</div>
 
-- How might different potential outcomes of this situation affect the family’s faith in God?
+<div class="mt-4 space-y-2 text-lg">
+
 - How have your experiences influenced your faith in Heavenly Father and Jesus Christ?
-- Do you feel you can trust in Them, regardless of the blessings you do or do not receive? Why or why not?
+- Can you trust Them regardless of the blessings you do or don't receive? Why or why not?
 
 </div>
 
 <!--
 Presenter Notes:
-- Let students mark scriptures or share what stands out.
+- About 1 minute of silent pondering; no sharing required.
+- Invite students to notice impressions from the Holy Ghost that strengthen their faith no matter the outcome.
 -->
 
 ---
 layout: default
 ---
 
-# Lesson content
+# A Difficult Decision
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
+<div class="grid grid-cols-2 gap-6 items-center">
 
-Elder Shayne M. Bowen of the Seventy shared the following personal experience: Elder Bowen continued: Like the Bowens, you might have experiences where God does not bless you in the way that you had hoped. Ponder experiences you or your family have had where you felt the Lord either blessed you or did not bless you with the outcome you wanted. Ask yourself the following questions:
+<div>
+
+<img src="./images/golden-image.jpg" alt="A towering golden statue of a seated king, with people bowing at its base" class="rounded-lg mx-auto" style="height:330px;width:100%;object-fit:cover;object-position:center 30%;" />
+
+</div>
+
+<div>
+
+<div class="p-4 bg-yellow-50 rounded-lg text-base leading-relaxed text-gray-800">
+King Nebuchadnezzar made a golden image about 90 feet (27 m) high and 9 feet (2.7 m) wide (<a href="https://www.churchofjesuschrist.org/study/scriptures/ot/dan/3?lang=eng&id=p1#p1">Daniel 3:1</a>). When music played, everyone had to bow and worship it, or be thrown into “a burning fiery furnace” (<a href="https://www.churchofjesuschrist.org/study/scriptures/ot/dan/3?lang=eng&id=p4-p6#p4">verses 4–6</a>).
+</div>
+
+<div class="mt-3 text-lg">
+What would you have done?
+</div>
+
+</div>
 
 </div>
 
 <!--
 Presenter Notes:
-- Pause for questions; read verses together where appropriate.
+- About 2 minutes. Write the names Shadrach, Meshach, and Abed-nego on the board and ask what students already know about this account.
+- Shadrach, Meshach, and Abed-nego chose to honor God by not worshipping the image (Daniel 3:12).
 -->
 
 ---
 layout: default
 ---
 
-# Lesson content
+# What Did They Say?
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
+<div class="p-5 bg-green-50 rounded-lg text-xl text-gray-800">
+Read <a href="https://www.churchofjesuschrist.org/study/scriptures/ot/dan/3?lang=eng&id=p13-p18#p13">Daniel 3:13–18</a>. What do you learn from these men about faith in Jesus Christ?
+</div>
 
-As you study Daniel 3 (https://www.churchofjesuschrist.org/study/scriptures/ot/dan/3?lang=eng) today, pay attention to any impressions from the Holy Ghost that can help strengthen your faith in Heavenly Father and Jesus Christ no matter the outcome.
+<div class="mt-4 space-y-2 text-lg">
+
+- Mark “is able to deliver us” (verse 17)
+- Mark “but if not” (verse 18)
 
 </div>
 
 <!--
 Presenter Notes:
-- Pause for questions; read verses together where appropriate.
--->
-
----
-layout: section
----
-
-# Lesson content
-
-<!-- Presenter Notes: Transition -->
-
----
-layout: default
----
-
-# Lesson content
-
-<div class="space-y-3 text-base max-w-4xl mx-auto">
-
-- What lessons do you learn about faith in Jesus Christ?
-- What is the difference between having faith in Jesus Christ versus faith in an outcome?
-- What are modern situations where someone would need to show faith in Jesus Christ rather than faith in an outcome?
-
-</div>
-
-<!--
-Presenter Notes:
-- Let students mark scriptures or share what stands out.
+- About 4 minutes. Optional: five students read the parts of Nebuchadnezzar, Shadrach, Meshach, Abed-nego, and a narrator; the three friends each read one verse of 3:16–18.
+- Truth to draw out and write on the board: We can show our faith in Jesus Christ by trusting in Him, regardless of the outcome.
+- "Is able to deliver us": knowing God can bless us with what we hope for shows faith. "But if not": they accepted that He might choose not to.
 -->
 
 ---
 layout: default
 ---
 
-# Lesson content
+# Faith in Christ or in an Outcome?
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
+<div class="p-5 bg-purple-50 rounded-lg text-xl text-gray-800">
+What's the difference between faith in Jesus Christ and faith in an outcome?
+</div>
 
-The king of Babylon, Nebuchadnezzar, made a large golden image, or statue. It was approximately 90 feet (27.4 meters) high and 9 feet (2.74 meters) wide (see Daniel 3:1 (https://www.churchofjesuschrist.org/study/scriptures/ot/dan/3?lang=eng&id=p1#p1) ). The king commanded everyone to fall down and worship the image when certain music was played (see Daniel 3:4–5 (https://www.churchofjesuschrist.org/study/scriptures/ot/dan/3?lang=eng&id=p4-p5#p4) ). People who did not worship the golden image would be thrown into “a burning fiery furnace” ( Daniel 3:6 (https://www.churchofjesuschrist.org/study/scriptures/ot/dan/3?lang=eng&id=p6#p6) ).
-
+<div class="mt-6 text-lg">
+When might someone today need to show faith in Jesus Christ rather than faith in an outcome?
 </div>
 
 <!--
 Presenter Notes:
-- Pause for questions; read verses together where appropriate.
+- About 2 minutes. Take a few answers.
 -->
 
 ---
 layout: default
 ---
 
-# Lesson content
+# The Fiery Furnace
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
+<div class="grid grid-cols-2 gap-6 items-center">
 
-Considering the consequences for not worshipping this image, ponder what you think you would have done if you were there. Shadrach, Meshach, and Abed-nego chose to honor God by not worshipping the image (see Daniel 3:12 (https://www.churchofjesuschrist.org/study/scriptures/ot/dan/3?lang=eng&id=p12#p12) ).
+<div>
+
+<img src="./images/fiery-furnace.jpg" alt="Shadrach, Meshach, and Abed-nego standing in the fiery furnace with a fourth figure" class="rounded-lg" />
+
+</div>
+
+<div>
+
+<div class="p-4 bg-green-50 rounded-lg text-lg text-gray-800">
+Read <a href="https://www.churchofjesuschrist.org/study/scriptures/ot/dan/3?lang=eng&id=p19-p28#p19">Daniel 3:19–28</a> in pairs. Mark words or phrases that impress you.
+</div>
+
+<div class="mt-3 space-y-1 text-lg">
+
+- What impressed you?
+- What do you learn about God?
+
+</div>
+
+</div>
 
 </div>
 
 <!--
 Presenter Notes:
-- Pause for questions; read verses together where appropriate.
+- About 3 minutes. Optional: the video “Shadrach, Meshach, and Abed-nego” (1:39) on ChurchofJesusChrist.org.
 -->
 
 ---
 layout: default
 ---
 
-# Lesson content
+# But If Not …
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
+<div class="p-4 bg-yellow-50 rounded-lg text-lg text-gray-800">
+God delivered these three, but He doesn't always deliver us from hard outcomes. Who in the scriptures had faith in Christ and still suffered?
+</div>
 
-Read Daniel 3:13–18 (https://www.churchofjesuschrist.org/study/scriptures/ot/dan/3?lang=eng&id=p13-p18#p13) , looking for what you learn from these men about faith in Jesus Christ.
+<div class="mt-4 space-y-2 text-lg">
+
+- [Nephi](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/18?lang=eng&id=p10-p16#p10) (1 Nephi 18:10–16)
+- [Abinadi](https://www.churchofjesuschrist.org/study/scriptures/bofm/mosiah/17?lang=eng&id=p9-p20#p9) (Mosiah 17:9–20)
+- [Joseph and Hyrum Smith](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/135?lang=eng&id=p1#p1) (D&C 135:1)
+- [Righteous individuals](https://www.churchofjesuschrist.org/study/scriptures/nt/heb/11?lang=eng&id=p36-p40#p36) (Hebrews 11:36–40)
 
 </div>
 
 <!--
 Presenter Notes:
-- Pause for questions; read verses together where appropriate.
--->
-
----
-layout: section
----
-
-# Lesson content
-
-<!-- Presenter Notes: Transition -->
-
----
-layout: default
----
-
-# Lesson content
-
-<div class="space-y-3 text-base max-w-4xl mx-auto">
-
-- What impressed you from this story?
-- What do you learn about God from this account?
-- How do these accounts help you trust in the Lord regardless of the outcome?
-- What do you know about Heavenly Father and Jesus Christ that helps you want to trust in Them regardless of the outcome?
-
-</div>
-
-<!--
-Presenter Notes:
-- Let students mark scriptures or share what stands out.
+- Begin the 10-minute discussion/application block. About 4 minutes here.
+- Write "But if not …" on the board and have students list people they thought of, then search their accounts for evidence they trusted God.
+- Ask: How do these accounts help you trust in the Lord regardless of the outcome? What do you know about Heavenly Father and Jesus Christ that makes you want to?
 -->
 
 ---
 layout: default
 ---
 
-# Lesson content
+# Depending on Christ
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
+<div class="p-4 bg-yellow-50 rounded-lg text-base leading-relaxed text-gray-800">
 
-Read Daniel 3:19–28 (https://www.churchofjesuschrist.org/study/scriptures/ot/dan/3?lang=eng&id=p19-p28#p19) , marking words or phrases that impress you from what Shadrach, Meshach, and Abed-nego experienced. Think of scriptural accounts where people exercised faith in Jesus Christ and still experienced negative outcomes.
+“As I felt the guilt, anger, and self-pity trying to consume me, I prayed that my heart could change. Through very personal sacred experiences, the Lord gave me a new heart, and even though it was still lonely and painful, my whole outlook changed. … I was able to look forward with hope, rather than look backward with despair. … I testify that because of Him, even our Savior, Jesus Christ, those feelings of sorrow, loneliness, and despair will one day be swallowed up in a fulness of joy. I testify that we can depend on Him.”
 
+</div>
+
+<div class="mt-3 text-sm">
+Elder Shayne M. Bowen, “Because I Live, Ye Shall Live Also,” Liahona, Nov. 2012, 17
 </div>
 
 <!--
 Presenter Notes:
-- Pause for questions; read verses together where appropriate.
--->
-
----
-layout: section
----
-
-# Lesson content
-
-<!-- Presenter Notes: Transition -->
-
----
-layout: default
----
-
-# Lesson content
-
-<div class="space-y-3 text-base max-w-4xl mx-auto">
-
-- How can Elder Bowen’s experience help you?
-- When have you or someone you know shown faith in Heavenly Father and Jesus Christ by trusting in Them regardless of the outcome?
-
-</div>
-
-<!--
-Presenter Notes:
-- Let students mark scriptures or share what stands out.
+- About 2 minutes. Quotation is abridged; the full statement is in the manual lesson.
+- Ask: How can Elder Bowen's experience help you? When have you or someone you know trusted Them regardless of the outcome? (Share only what is comfortable.)
 -->
 
 ---
 layout: default
 ---
 
-# Lesson content
+# What Helps You Trust Him?
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
+<div class="p-5 bg-green-50 rounded-lg text-xl text-gray-800">
+In your study journal, write what helps you want to trust in Heavenly Father and Jesus Christ regardless of the outcome.
+</div>
 
-Elder Bowen continued sharing his experience: In your study journal, write what helps you want to trust in Heavenly Father and Jesus Christ regardless of the outcome. You could include how the lessons you learned from Daniel 3 (https://www.churchofjesuschrist.org/study/scriptures/ot/dan/3?lang=eng) can help you in the trials you face or what you hope to remember in the future.
-
+<div class="mt-6 text-lg">
+You could include how Daniel 3 can help in your trials, or what you hope to remember later.
 </div>
 
 <!--
 Presenter Notes:
-- Pause for questions; read verses together where appropriate.
--->
-
----
-layout: section
----
-
-# Discussion
-
-<!-- Presenter Notes: Transition -->
-
----
-layout: default
----
-
-# Discussion questions
-
-<div class="p-8 bg-gradient-to-r from-blue-50 to-purple-50 rounded-xl text-left text-lg space-y-4 max-w-4xl mx-auto">
-
-1. **How might different potential outcomes of this situation affect the family’s faith in God?**
-
-2. **How have your experiences influenced your faith in Heavenly Father and Jesus Christ?**
-
-3. **Do you feel you can trust in Them, regardless of the blessings you do or do not receive? Why or why not?**
-
-4. **As you study Daniel 3 (https://www.churchofjesuschrist.org/study/scriptures/ot/dan/3?lang=eng) today, pay attention to any impressions from the Holy Ghost that can help strengthen your faith in Heavenly Father and Jesus Christ no matter the outcome.**
-
-5. **The king of Babylon, Nebuchadnezzar, made a large golden image, or statue. It was approximately 90 feet (27.4 meters) high and 9 feet (2.74 meters) wide (see Daniel 3:1 (https://www.churchofjesuschrist.org/study/scriptures/ot/dan/3?lang=eng&id=p1#p1) ). The king commanded everyone to fall down and worship the image when certain music was played (see Daniel 3:4–5 (https://www.churchofjesuschrist.org/study/scriptures/ot/dan/3?lang=eng&id=p4-p5#p4) ). People who did not worship the golden image would be thrown into “a burning fiery furnace” ( Daniel 3:6 (https://www.churchofjesuschrist.org/study/scriptures/ot/dan/3?lang=eng&id=p6#p6) ).**
-
-6. **Shadrach, Meshach, and Abed-nego chose to honor God by not worshipping the image (see Daniel 3:12 (https://www.churchofjesuschrist.org/study/scriptures/ot/dan/3?lang=eng&id=p12#p12) ).**
-
-</div>
-
-<!--
-Presenter Notes:
-- Pick 1–2 questions if time is short.
--->
-
----
-layout: section
----
-
-# Application & closing
-
-<!-- Presenter Notes: Transition -->
-
----
-layout: default
----
-
-# This week
-
-<div class="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm">
-
-<div class="p-5 bg-yellow-50 rounded-lg text-gray-800">
-
-## Challenge
-- Complete **one** study option from the manual that fits your class time.
-- Write **one** sentence about what you felt during the lesson.
-
-</div>
-
-<div class="p-5 bg-pink-50 rounded-lg text-gray-800">
-
-## Personal reflection
-- What will you **do** differently because of Christ?
-
-</div>
-
-</div>
-
-<!--
-Presenter Notes:
-- Bear brief testimony as prompted by the Spirit.
+- About 4 minutes of quiet writing, then invite willing students to share.
+- Conclude with your testimony or feelings about trusting in the Lord.
 -->
 
 ---
 layout: end
 ---
 
-# Closing
+# “But If Not”
 
-<div class="text-center space-y-6">
+We trust Him, whatever the outcome.
 
-## 🙏 Closing Prayer
-
-Ask someone to offer the closing prayer.
-
-</div>
-
-<div class="abs-br m-6 text-xs text-gray-400">
-Seminary Lesson - November 11, 2026
-</div>
+## Closing Prayer
 
 <!--
 Presenter Notes:
-- Thank students; remind them of reading for next time if applicable.
+- Closing: about 3 minutes, including prayer.
+- Bear your testimony of trusting in the Lord as prompted by the Spirit.
+- Thank students and invite a volunteer to offer the closing prayer.
 -->
