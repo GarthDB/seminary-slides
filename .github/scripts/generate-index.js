@@ -37,11 +37,23 @@ for (const dir of dirs) {
       title = titleMatch[1].replace(/Seminary Lesson - /g, '').trim();
     }
     
+    // Hand-written decks put the lesson title in "# ..." and the scripture in "## ..." on the
+    // title slide (no "###"), so use those directly instead of scraping the generator layout.
+    const contentAfterTitle = slidesContent.split('---').slice(2).join('---');
+    const titleSlide = slidesContent.split('---')[2] || '';
+    const stripLinks = text => text.replace(/\[([^\]]+)\]\([^)]+\)/g, '$1').trim();
+    const h1 = (titleSlide.match(/^#\s+(.+)$/m) || [])[1];
+    const h2 = (titleSlide.match(/^##\s+(.+)$/m) || [])[1];
+    const handWritten = h1 && h1 !== 'Seminary Lesson' && !/^###\s/m.test(titleSlide);
+
     // Try to extract subtitle from the markdown (e.g., "### Doctrine and Covenants 137")
     // Look for the first ### that comes after the title slide (after the first --- separator)
-    const contentAfterTitle = slidesContent.split('---').slice(2).join('---');
-    const subtitleMatch = contentAfterTitle.match(/###\s*(.+)/);
-    if (subtitleMatch) {
+    const subtitleMatch = handWritten ? null : contentAfterTitle.match(/###\s*(.+)/);
+    let description = '';
+    if (handWritten) {
+      subtitle = stripLinks(h1);
+      description = h2 ? stripLinks(h2) : '';
+    } else if (subtitleMatch) {
       subtitle = subtitleMatch[1].trim();
       
       // Extract just the text from markdown links (don't create nested anchor tags)
@@ -51,7 +63,6 @@ for (const dir of dirs) {
     
     // Try to extract description - look for bold text after the subtitle
     // First try to find description on the same line or next line after subtitle
-    let description = '';
     if (subtitleMatch) {
       const afterSubtitle = contentAfterTitle.substring(contentAfterTitle.indexOf(subtitleMatch[0]) + subtitleMatch[0].length);
       const descMatch = afterSubtitle.match(/\*\*(.+?)\*\*/);
@@ -60,8 +71,8 @@ for (const dir of dirs) {
       }
     }
     
-    // Fallback: if no description found, try the first bold text in the file
-    if (!description) {
+    // Fallback (generator-era decks only): if no description found, try the first bold text in the file
+    if (!description && !handWritten) {
       const descMatch = slidesContent.match(/\*\*(.+?)\*\*/);
       description = descMatch ? descMatch[1].trim() : '';
     }
