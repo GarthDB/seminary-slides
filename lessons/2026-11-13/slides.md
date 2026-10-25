@@ -1,14 +1,13 @@
 ---
 theme: default
 routerMode: hash
-background: https://source.unsplash.com/1920x1080/?scripture,faith
 class: text-center
 highlighter: shiki
 lineNumbers: false
 info: |
   ## Seminary Lesson - November 13, 2026
-  Weekly lesson for Seminary class
-  Building Emotional Strength in the Lord: The Savior Can Help Us Increase Our Emotional Resilience
+  Building Emotional Strength in the Lord - Lesson 181
+  The Savior Can Help Us Increase Our Emotional Resilience
   Source materials available in ./materials/
 drawings:
   persist: false
@@ -17,28 +16,21 @@ title: Seminary Lesson - November 13, 2026
 mdc: true
 ---
 
-# Seminary Lesson
-## November 13, 2026
+# Building Emotional Strength in the Lord
+## Physical and Emotional Health
 
-### Building Emotional Strength in the Lord
-**The Savior Can Help Us Increase Our Emotional Resilience**
+November 13, 2026 · Physical and Emotional Health, Lesson 181
 
-<div class="pt-12">
-  <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
-    Press Space for next page <carbon:arrow-right class="inline"/>
-  </span>
-</div>
-
-<div class="abs-br m-6 flex gap-2">
-  <button @click="$slidev.nav.openInEditor()" title="Open in Editor" class="text-xl slidev-icon-btn opacity-50 !border-none !hover:text-white">
-    <carbon:edit />
-  </button>
+<div class="pt-8 text-xl">
+Draw strength from Heavenly Father and Jesus Christ for emotional challenges.
 </div>
 
 <!--
 Presenter Notes:
-- Class runs about 40 minutes total (adjust to your schedule).
-- Source: Church seminary student manual (scraped for outline).
+- Prepare spiritually and pray to understand the students' needs.
+- Source: the teacher-manual lesson linked in ./materials/README.md.
+- Student preparation in the manual: invite students to think about, or ask someone they know about, experiences with difficult feelings, and to prepare to share if appropriate.
+- Tone: normal, hopeful, and unhurried. Difficult feelings are a normal part of life. Students should share only what is comfortable. If a student seems to be struggling beyond what a lesson can address, follow up privately and involve a parent, bishop, or other trusted adult as appropriate.
 -->
 
 ---
@@ -47,25 +39,26 @@ layout: default
 
 # Welcome to Seminary
 
-<div class="grid grid-cols-2 gap-4 text-sm">
+<div class="grid grid-cols-2 gap-6 text-base">
 
 <div>
 
-## Today's Focus
-- **Scripture Study**: Building Emotional Strength in the Lord
-- **Key idea**: This lesson can help students draw strength from Heavenly Father and Jesus Christ to cope with their emotional challenges.
-- **Application**: Look for one way to turn to Christ this week
+## Today's focus
+- **Notice:** The emotional whirlwinds we face
+- **Learn:** The Lord promises to be with and strengthen us
+- **Find:** Scriptures that help with specific feelings
+- **Practice:** Pondering the Lord's words
 
 </div>
 
 <div>
 
-## Class Structure (40 min)
-1. **Opening Prayer** (2 min)
-2. **QT Time** (10 min) — [Student Name]
-3. **Scripture / lesson focus** (15 min)
-4. **Discussion & application** (10 min)
-5. **Closing** (3 min)
+## Our 40 minutes
+1. **Opening prayer** — 2 min
+2. **QT Time** — 10 min
+3. **Scripture study** — 15 min
+4. **Discussion & application** — 10 min
+5. **Closing** — 3 min
 
 </div>
 
@@ -73,419 +66,331 @@ layout: default
 
 <!--
 Presenter Notes:
-- QT: student-led question, breakout groups, return and have one reporter per group share briefly.
+- Welcome and prayer share the first two minutes.
+- If time is short, shorten the Joshua section and protect the scripture-matching and pondering time.
+- Students will need a study journal; they will draw a tree and add to it through the lesson.
 -->
 
 ---
 layout: default
 ---
 
-# Opening Activities
+# Opening Prayer
 
-<div class="space-y-6">
-
-## 🙏 Opening Prayer
-
-<div class="bg-blue-50 p-4 rounded-lg text-gray-800">
-Ask someone to offer the opening prayer.
-</div>
-
-## 💬 QT Time
-
-<div class="bg-purple-50 p-4 rounded-lg text-gray-800">
-
-**[Student Name] is leading QT Time this week.**
-
-**Question:** *[Add the student’s discussion question before class]*
-
-**Flow:** Small groups → discuss → return together → one person per group shares a highlight.
-
-</div>
-
+<div class="p-6 bg-blue-50 rounded-lg text-xl text-gray-800">
+Let's invite the Spirit to help us feel the strength Heavenly Father and Jesus Christ offer us.
 </div>
 
 <!--
 Presenter Notes:
-- QT (~10 min): opening question, breakouts, gather and report.
-- If time is tight, shorten breakouts or limit group reporters to 1–2 sentences each.
--->
-
----
-layout: section
----
-
-# From the manual
-
-<!-- Presenter Notes: Transition -->
-
----
-layout: default
----
-
-# Lesson focus
-
-<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed text-gray-800">
-
-How well do you adapt to the emotional challenges you face? Difficult feelings are a normal part of life. Our ability to faithfully endure these feelings increases as we rely on the strength and power of Heavenly Father and Jesus Christ. This lesson can help students draw strength from Heavenly Father and Jesus Christ to cope with their emotional challenges.
-
-</div>
-
-<!--
-Presenter Notes:
-- Keep this tight; invite students to open scriptures / manual on their devices if helpful.
+- Invite a volunteer to pray without putting anyone on the spot.
 -->
 
 ---
 layout: default
 ---
 
-# Lesson focus
+# QT Time
 
-<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed text-gray-800">
+<div class="p-5 bg-purple-50 rounded-lg text-gray-800">
 
-Emotions are the body’s normal response to daily experiences. Sometimes, these feelings are light and easy to manage, like a summer breeze. Sometimes, we experience difficult emotions that may feel like whirlwinds.
+**[Student Name] is leading QT Time today.**
+
+**Question:** *[Add the student's discussion question before class]*
+
+</div>
+
+<div class="mt-6 text-lg">
+
+1. Listen to the question.
+2. Discuss in small groups.
+3. Return together.
+4. One person per group shares a brief highlight.
 
 </div>
 
 <!--
 Presenter Notes:
-- Keep this tight; invite students to open scriptures / manual on their devices if helpful.
+- QT: 10 minutes total. Question (1 min), groups (6 min), reports (3 min).
+- Keep reports to one or two sentences. The question need not match today's lesson.
+- Fallback if no question is submitted: "What's something you've learned or noticed recently that made you feel closer to God, even in a small way?"
+- QT leader was not named in the source request; fill in the name and question before class.
 -->
 
 ---
 layout: section
 ---
 
-# Lesson content
+# The Whirlwinds in Our Lives
 
-<!-- Presenter Notes: Transition -->
-
----
-layout: default
----
-
-# Lesson content
-
-<div class="space-y-3 text-base max-w-4xl mx-auto">
-
-- How could Elder Andersen’s message help a teenager who feels the strain of emotional whirlwinds?
-
-</div>
+Two trees, one storm.
 
 <!--
 Presenter Notes:
-- Let students mark scriptures or share what stands out.
+- Begin the 15-minute scripture-study block.
+- Next 4 slides: about 5 minutes. Joshua: about 5 minutes. Pondering scripture: about 5 minutes.
 -->
 
 ---
 layout: default
 ---
 
-# Lesson content
+# Two Trees
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
+<div class="grid grid-cols-2 gap-4 items-start">
 
-Emotions are the body’s normal response to daily experiences. Sometimes, these feelings are light and easy to manage, like a summer breeze. Sometimes, we experience difficult emotions that may feel like whirlwinds.
+<div>
 
+<img src="./images/fallen-tree.jpg" alt="A large tree uprooted by a storm, lying across a yard in front of a house" class="rounded-lg" />
+
+<div class="mt-1 text-sm">Uprooted by the storm</div>
+
+</div>
+
+<div>
+
+<img src="./images/tree-roots.jpg" alt="Cutaway showing the deep spreading roots of a healthy tree on a windy hillside" class="rounded-lg" />
+
+<div class="mt-1 text-sm">Roots grown deep in the wind</div>
+
+</div>
+
+</div>
+
+<div class="mt-4 text-lg">
+What makes the difference between these two trees?
 </div>
 
 <!--
 Presenter Notes:
-- Pause for questions; read verses together where appropriate.
+- About 1 minute. Have students draw a tree in their journals (or one student draws it on the board). On the left side, list the difficult emotions teenagers face.
+- Emotions are the body's normal response to daily experiences. Sometimes they are light, like a summer breeze; sometimes they feel like whirlwinds.
+- Trees hit by whirlwinds often grow roots that are faster, thicker, and more spread out, and the trunk and branches grow thicker. In the same way, responding to powerful emotions by following the Savior strengthens our ability to endure.
+- Optional: the video “Spiritual Whirlwinds” (0:00 to 1:10) on ChurchofJesusChrist.org.
 -->
 
 ---
 layout: default
 ---
 
-# Lesson content
+# Our Whirlwinds
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
+<div class="p-5 bg-green-50 rounded-lg text-xl text-gray-800">
+In your journal, write some of the emotional whirlwinds you have faced, or are facing now.
+</div>
 
-Trees hit by whirlwinds often have roots that grow faster, thicker, and spread out farther, strengthening the tree’s ability to endure. As the wind batters it, the tree also creates cell structures that make the trunk and branches thicker. In the same way, learning to respond to powerful emotional moments by following the Savior will strengthen our ability to endure. In your study journal, write some of the emotional whirlwinds you have faced in the past or are facing today.
-
+<div class="mt-6 text-lg">
+This is private. You don't need to share it.
 </div>
 
 <!--
 Presenter Notes:
-- Pause for questions; read verses together where appropriate.
+- About 2 minutes of quiet writing.
 -->
 
 ---
 layout: default
 ---
 
-# Lesson content
+# More Precious Than a Tree
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
+<div class="p-5 bg-yellow-50 rounded-lg text-xl leading-relaxed text-gray-800">
 
-In speaking of life’s whirlwinds, Elder Neil L. Andersen of the Quorum of the Twelve Apostles taught: Increasing our emotional resilience helps us develop appropriate ways to deal with the difficult thoughts and feelings we experience. We can learn to recognize how Heavenly Father and Jesus Christ are strengthening us when we feel this way and when they are prompting us to seek additional help.
+“You are infinitely more precious to God than a tree. You are His son or His daughter. He made your spirit strong and capable of being resilient to the whirlwinds of life. The whirlwinds in your youth, like the wind against a young tree, can increase your spiritual strength, preparing you for the years ahead.”
 
+</div>
+
+<div class="mt-3 text-sm">
+Elder Neil L. Andersen, “Spiritual Whirlwinds,” Liahona, May 2014, 18
 </div>
 
 <!--
 Presenter Notes:
-- Pause for questions; read verses together where appropriate.
--->
-
----
-layout: section
----
-
-# Lesson content
-
-<!-- Presenter Notes: Transition -->
-
----
-layout: default
----
-
-# Lesson content
-
-<div class="space-y-3 text-base max-w-4xl mx-auto">
-
-- What emotions do you think you would have felt if you were in Joshua’s situation?
-- What can we learn that could help us face life’s challenges?
-- Describe your ability to cope with emotional challenges. What emotions do you think you navigate well? What still feels difficult?
-- Describe your ability to receive help from the Lord for these emotions. What successes have you had? What have you tried that did not work as well as you had hoped?
-
-</div>
-
-<!--
-Presenter Notes:
-- Let students mark scriptures or share what stands out.
+- About 1 minute. Have a student read it aloud.
+- Ask: How could Elder Andersen's message help a teenager who feels the strain of emotional whirlwinds?
 -->
 
 ---
 layout: default
 ---
 
-# Lesson content
+# Emotional Resilience
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
+<div class="p-5 bg-blue-50 rounded-lg text-xl leading-relaxed text-gray-800">
+The ability to endure these whirlwinds is called <strong>emotional resilience</strong>.
+</div>
 
-Joshua was in a difficult position as he assumed the roles of prophet and military leader responsible for establishing a new nation following the leadership of Moses. Read Joshua 1:1, 5–9 (https://www.churchofjesuschrist.org/study/scriptures/ot/josh/1?lang=eng&id=p1,p5-p9#p1) , looking for what the Lord promised Joshua as he faced these challenges. Complete the following prompts in your study journal under your drawing of the tree.
-
+<div class="mt-6 text-lg">
+We can learn to recognize how Heavenly Father and Jesus Christ are strengthening us, and when They are prompting us to seek more help.
 </div>
 
 <!--
 Presenter Notes:
-- Pause for questions; read verses together where appropriate.
--->
-
----
-layout: section
----
-
-# Lesson content
-
-<!-- Presenter Notes: Transition -->
-
----
-layout: default
----
-
-# Lesson content
-
-<div class="space-y-3 text-base max-w-4xl mx-auto">
-
-- What did you find?
-- How could pondering the Lord’s words help someone deal with emotional challenges?
-
-</div>
-
-<!--
-Presenter Notes:
-- Let students mark scriptures or share what stands out.
+- About 1 minute. Mention that throughout the year students will learn skills that can build emotional resilience.
+- Invite the Holy Ghost to help students identify ways to seek help from Heavenly Father and Jesus Christ during emotional whirlwinds.
 -->
 
 ---
 layout: default
 ---
 
-# Lesson content
+# He Will Be With You
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
+<div class="p-5 bg-green-50 rounded-lg text-xl text-gray-800">
+Joshua took over from Moses as prophet and military leader of a new nation. What emotions might he have felt?
+</div>
 
-Read Joshua 1:8 (https://www.churchofjesuschrist.org/study/scriptures/ot/josh/1?lang=eng&id=p8#p8) , again looking for what would help Joshua follow the Lord. Looking at the list of emotions on the board, find one or more scripture passages that might be able to help someone feeling these emotions. Overwhelmed: Isaiah 40:28–31 (https://www.churchofjesuschrist.org/study/scriptures/ot/isa/40?lang=eng&id=p28-p31#p28) .
-
+<div class="mt-6 text-lg">
+Read <a href="https://www.churchofjesuschrist.org/study/scriptures/ot/josh/1?lang=eng&id=p1,p5-p9#p1">Joshua 1:1, 5–9</a>. What did the Lord promise him? What can we learn for our own challenges?
 </div>
 
 <!--
 Presenter Notes:
-- Pause for questions; read verses together where appropriate.
+- About 3 minutes.
+- Truth to draw out and write on the board: As we courageously follow the Lord, He will be with us and strengthen us.
+- Optional: the video “Spiritual Whirlwinds” (1:33 to 2:12), or the general conference talk at 4:12 to 4:48.
 -->
 
 ---
 layout: default
 ---
 
-# Lesson content
+# Check In With Yourself
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
+<div class="p-4 bg-purple-50 rounded-lg text-lg text-gray-800">
+Under your tree, write answers to these:
+</div>
 
-Afraid: John 14:27 (https://www.churchofjesuschrist.org/study/scriptures/nt/john/14?lang=eng&id=p27#p27) Sad: Revelation 21:3–5 (https://www.churchofjesuschrist.org/study/scriptures/nt/rev/21?lang=eng&id=p3-p5#p3) Forgotten: Luke 12:6–7 (https://www.churchofjesuschrist.org/study/scriptures/nt/luke/12?lang=eng&id=p6-p7#p6) Discouraged: Isaiah 43:1–2, 5 (https://www.churchofjesuschrist.org/study/scriptures/ot/isa/43?lang=eng&id=p1-p2,p5#p1)
+<div class="mt-4 space-y-3 text-lg">
+
+- How well do I cope with emotional challenges? Which emotions do I handle well? Which still feel difficult?
+- How well do I receive help from the Lord with these feelings? What has worked? What hasn't worked as well as I hoped?
 
 </div>
 
 <!--
 Presenter Notes:
-- Pause for questions; read verses together where appropriate.
--->
-
----
-layout: default
----
-
-# Lesson content
-
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
-
-Lonely: Doctrine and Covenants 68:6 (https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/68?lang=eng&id=p6#p6)
-
-</div>
-
-<!--
-Presenter Notes:
-- Pause for questions; read verses together where appropriate.
+- About 2 minutes of quiet writing. Private; sharing is optional.
 -->
 
 ---
 layout: section
 ---
 
-# Lesson content
+# Pondering Scripture
 
-<!-- Presenter Notes: Transition -->
-
----
-layout: default
----
-
-# Lesson content
-
-<div class="space-y-3 text-base max-w-4xl mx-auto">
-
-- What words or phrases would be helpful when I am feeling this way?
-- What does this scripture help me understand about the Lord’s love and power?
-- When have you or someone you know found the comfort or strength of Heavenly Father and Jesus Christ from pondering a scripture passage?
-
-</div>
+Finding strength in His words.
 
 <!--
 Presenter Notes:
-- Let students mark scriptures or share what stands out.
+- Begin the 10-minute discussion/application block.
 -->
 
 ---
 layout: default
 ---
 
-# Lesson content
+# What Helped Joshua?
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
+<div class="p-5 bg-green-50 rounded-lg text-xl text-gray-800">
+Read <a href="https://www.churchofjesuschrist.org/study/scriptures/ot/josh/1?lang=eng&id=p8#p8">Joshua 1:8</a> again. What would help Joshua follow the Lord?
+</div>
 
-Select an emotion listed on the board that you are feeling or have felt in the past. Read the scripture next to the emotion and ponder the words of the verse by asking yourself questions such as these:
-
+<div class="mt-6 text-lg">
+How could pondering the Lord's words help someone with emotional challenges?
 </div>
 
 <!--
 Presenter Notes:
-- Pause for questions; read verses together where appropriate.
+- About 2 minutes. The Lord told Joshua to meditate or ponder the scriptures day and night. One way we find emotional strength in Him is by pondering scripture.
 -->
-
----
-layout: section
----
-
-# Discussion
-
-<!-- Presenter Notes: Transition -->
 
 ---
 layout: default
 ---
 
-# Discussion questions
+# Scriptures for Each Feeling
 
-<div class="p-8 bg-gradient-to-r from-blue-50 to-purple-50 rounded-xl text-left text-lg space-y-4 max-w-4xl mx-auto">
+<div class="p-3 bg-green-50 rounded-lg text-base text-gray-800">
+Choose a feeling from our list. Find a scripture that could help someone who feels that way.
+</div>
 
-1. **How well do you adapt to the emotional challenges you face? Difficult feelings are a normal part of life. Our ability to faithfully endure these feelings increases as we rely on the strength and power of Heavenly Father and Jesus Christ. This lesson can help students draw strength from Heavenly Father and Jesus Christ to cope with their emotional challenges.**
+<div class="mt-3 grid grid-cols-2 gap-x-8 text-base text-left">
 
-2. **How could Elder Andersen’s message help a teenager who feels the strain of emotional whirlwinds?**
+<ul class="list-disc ml-5 space-y-1">
+<li><strong>Overwhelmed:</strong> <a href="https://www.churchofjesuschrist.org/study/scriptures/ot/isa/40?lang=eng&id=p28-p31#p28">Isaiah 40:28–31</a></li>
+<li><strong>Afraid:</strong> <a href="https://www.churchofjesuschrist.org/study/scriptures/nt/john/14?lang=eng&id=p27#p27">John 14:27</a></li>
+<li><strong>Sad:</strong> <a href="https://www.churchofjesuschrist.org/study/scriptures/nt/rev/21?lang=eng&id=p3-p5#p3">Revelation 21:3–5</a></li>
+</ul>
 
-3. **What emotions do you think you would have felt if you were in Joshua’s situation?**
-
-4. **Read Joshua 1:1, 5–9 (https://www.churchofjesuschrist.org/study/scriptures/ot/josh/1?lang=eng&id=p1,p5-p9#p1) , looking for what the Lord promised Joshua as he faced these challenges.**
-
-5. **What can we learn that could help us face life’s challenges?**
-
-6. **Describe your ability to cope with emotional challenges. What emotions do you think you navigate well? What still feels difficult?**
+<ul class="list-disc ml-5 space-y-1">
+<li><strong>Forgotten:</strong> <a href="https://www.churchofjesuschrist.org/study/scriptures/nt/luke/12?lang=eng&id=p6-p7#p6">Luke 12:6–7</a></li>
+<li><strong>Discouraged:</strong> <a href="https://www.churchofjesuschrist.org/study/scriptures/ot/isa/43?lang=eng&id=p1-p2,p5#p1">Isaiah 43:1–2, 5</a></li>
+<li><strong>Lonely:</strong> <a href="https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/68?lang=eng&id=p6#p6">D&amp;C 68:6</a></li>
+</ul>
 
 </div>
 
 <!--
 Presenter Notes:
-- Pick 1–2 questions if time is short.
+- About 3 minutes. Reveal this list only after students search on their own (doctrinal mastery passages, Guide to the Scriptures words like "comfort," "peace," "strength," "hope," or "12 Scriptures for When You Feel …" in For the Strength of Youth, Mar. 2024, 41).
+- As students share, list each scripture on the right side of the tree on the board, next to its emotion. These are the manual's examples.
 -->
-
----
-layout: section
----
-
-# Application & closing
-
-<!-- Presenter Notes: Transition -->
 
 ---
 layout: default
 ---
 
-# This week
+# Ponder on His Word
 
-<div class="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm">
-
-<div class="p-5 bg-yellow-50 rounded-lg text-gray-800">
-
-## Challenge
-- Complete **one** study option from the manual that fits your class time.
-- Write **one** sentence about what you felt during the lesson.
-
+<div class="p-5 bg-purple-50 rounded-lg text-xl text-gray-800">
+Pick a feeling you have felt. Read the scripture beside it and ponder it.
 </div>
 
-<div class="p-5 bg-pink-50 rounded-lg text-gray-800">
+<div class="mt-4 space-y-2 text-lg">
 
-## Personal reflection
-- What will you **do** differently because of Christ?
-
-</div>
+- What words or phrases would help me when I feel this way?
+- What does this scripture teach me about the Lord's love and power?
 
 </div>
 
 <!--
 Presenter Notes:
-- Bear brief testimony as prompted by the Spirit.
+- About 3 minutes of quiet pondering, then invite a few students to share the emotion they chose, the scripture, and why reflecting on it can help them find strength in the Lord.
+-->
+
+---
+layout: default
+---
+
+# Comfort From Scripture
+
+<div class="p-5 bg-blue-50 rounded-lg text-xl text-gray-800">
+When have you, or someone you know, found the Lord's comfort or strength by pondering a scripture?
+</div>
+
+<div class="mt-6 text-lg">
+Keep the scriptures close this week.
+</div>
+
+<!--
+Presenter Notes:
+- About 2 minutes. Share your own experience of the Lord's comfort or strength from a scripture, and invite students to keep relying on scripture when they face emotional struggles.
 -->
 
 ---
 layout: end
 ---
 
-# Closing
+# Roots Grown Deep
 
-<div class="text-center space-y-6">
+He will be with you in the wind.
 
-## 🙏 Closing Prayer
-
-Ask someone to offer the closing prayer.
-
-</div>
-
-<div class="abs-br m-6 text-xs text-gray-400">
-Seminary Lesson - November 13, 2026
-</div>
+## Closing Prayer
 
 <!--
 Presenter Notes:
-- Thank students; remind them of reading for next time if applicable.
+- Closing: about 3 minutes, including prayer.
+- Bear your testimony of the Lord's strength as prompted by the Spirit. Remind students they can talk with a parent, bishop, or other trusted adult any time.
+- Thank students and invite a volunteer to offer the closing prayer.
 -->
