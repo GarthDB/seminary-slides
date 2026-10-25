@@ -188,17 +188,33 @@ layout: default
 
 # Sorrow for Sin
 
-<div class="p-5 bg-yellow-50 rounded-lg text-lg leading-relaxed text-gray-800">
+<div class="grid grid-cols-2 gap-6 items-center">
+
+<div>
+
+<img src="./images/jeremiah-cry.jpg" alt="The Cry of Jeremiah, an engraving of Jeremiah grieving over Jerusalem" class="rounded-lg" />
+
+<div class="mt-1 text-xs">The Cry of Jeremiah, from an engraving done at the Nazareen School</div>
+
+</div>
+
+<div>
+
+<div class="p-4 bg-yellow-50 rounded-lg text-base leading-relaxed text-gray-800">
 For about 40 years Jeremiah warned Israel that Jerusalem would be destroyed if they did not repent (<a href="https://www.churchofjesuschrist.org/study/scriptures/ot/jer/16?lang=eng&id=p1-p13#p1">Jeremiah 16:1–13</a>). The Babylonians destroyed it in King Zedekiah's day (<a href="https://www.churchofjesuschrist.org/study/scriptures/ot/jer/52?lang=eng">Jeremiah 52</a>). Jeremiah then wrote Lamentations.
 </div>
 
-<div class="mt-4 text-lg">
+<div class="mt-3 text-base">
 <em>Lamentation</em> means an expression of deep sorrow or grief.
+</div>
+
+</div>
+
 </div>
 
 <!--
 Presenter Notes:
-- About 1 minute. If you have the picture of Jeremiah in sorrow from the manual, show it and ask what students see and how it makes them feel.
+- About 1 minute. Ask what students see in the picture and how it makes them feel, then share the context.
 - Jeremiah wrote most of these verses as if the city itself were speaking.
 -->
 
@@ -372,8 +388,20 @@ layout: default
 
 # Back to the Young Man
 
+<div class="grid grid-cols-2 gap-6 items-center">
+
 <div class="p-5 bg-purple-50 rounded-lg text-xl text-gray-800">
 What would you share with him now, based on what you learned today?
+</div>
+
+<div>
+
+<img src="./images/meeting-the-savior.jpg" alt="The Savior embracing a young man who kneels before Him" class="rounded-lg" />
+
+<div class="mt-1 text-xs">Meeting the Savior</div>
+
+</div>
+
 </div>
 
 <!--
