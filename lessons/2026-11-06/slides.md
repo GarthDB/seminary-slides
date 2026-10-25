@@ -1,14 +1,13 @@
 ---
 theme: default
 routerMode: hash
-background: https://source.unsplash.com/1920x1080/?scripture,faith
 class: text-center
 highlighter: shiki
 lineNumbers: false
 info: |
   ## Seminary Lesson - November 6, 2026
-  Weekly lesson for Seminary class
-  Ezekiel 47: Blessings of the Temple
+  Ezekiel 47 - Lesson 141
+  Blessings of the Temple
   Source materials available in ./materials/
 drawings:
   persist: false
@@ -17,28 +16,21 @@ title: Seminary Lesson - November 6, 2026
 mdc: true
 ---
 
-# Seminary Lesson
-## November 6, 2026
+# Blessings of the Temple
+## Ezekiel 47
 
-### Ezekiel 47
-**Blessings of the Temple**
+November 6, 2026 · Ezekiel 1–3; 33–34; 36–37; 47, Lesson 141
 
-<div class="pt-12">
-  <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
-    Press Space for next page <carbon:arrow-right class="inline"/>
-  </span>
-</div>
-
-<div class="abs-br m-6 flex gap-2">
-  <button @click="$slidev.nav.openInEditor()" title="Open in Editor" class="text-xl slidev-icon-btn opacity-50 !border-none !hover:text-white">
-    <carbon:edit />
-  </button>
+<div class="pt-8 text-xl">
+Feel a greater desire to worship God in the temple.
 </div>
 
 <!--
 Presenter Notes:
-- Class runs about 40 minutes total (adjust to your schedule).
-- Source: Church seminary student manual (scraped for outline).
+- Prepare spiritually and pray to understand the students' needs.
+- Source: the teacher-manual lesson linked in ./materials/README.md.
+- Student preparation in the manual: ask students to come ready to share (1) reasons a teenager may want to attend and worship in the temple, and (2) reasons they may not, and what makes it difficult.
+- Manual note: refer to blessings as coming from the Lord through the temple, not from the temple itself. Tone: invitation, not pressure. Some students live far from a temple or have not attended.
 -->
 
 ---
@@ -47,25 +39,26 @@ layout: default
 
 # Welcome to Seminary
 
-<div class="grid grid-cols-2 gap-4 text-sm">
+<div class="grid grid-cols-2 gap-6 text-base">
 
 <div>
 
-## Today's Focus
-- **Scripture Study**: Ezekiel 47
-- **Key idea**: This lesson can help students feel a greater desire to worship God in the temple.
-- **Application**: Look for one way to turn to Christ this week
+## Today's focus
+- **Ponder:** Our desire to worship in the temple
+- **Discover:** What Ezekiel saw flowing from the temple
+- **Learn:** What the river symbolizes
+- **Write:** Blessings the Lord gives through the temple
 
 </div>
 
 <div>
 
-## Class Structure (40 min)
-1. **Opening Prayer** (2 min)
-2. **QT Time** (10 min) — [Student Name]
-3. **Scripture / lesson focus** (15 min)
-4. **Discussion & application** (10 min)
-5. **Closing** (3 min)
+## Our 40 minutes
+1. **Opening prayer** — 2 min
+2. **QT Time** — 10 min
+3. **Scripture study** — 15 min
+4. **Discussion & application** — 10 min
+5. **Closing** — 3 min
 
 </div>
 
@@ -73,344 +66,323 @@ layout: default
 
 <!--
 Presenter Notes:
-- QT: student-led question, breakout groups, return and have one reporter per group share briefly.
+- Welcome and prayer share the first two minutes.
+- If time is short, skip the Dead Sea background and protect the blessings and reflection time.
+- Students will need paper or a study journal to draw on.
 -->
 
 ---
 layout: default
 ---
 
-# Opening Activities
+# Opening Prayer
 
-<div class="space-y-6">
-
-## 🙏 Opening Prayer
-
-<div class="bg-blue-50 p-4 rounded-lg text-gray-800">
-Ask someone to offer the opening prayer.
-</div>
-
-## 💬 QT Time
-
-<div class="bg-purple-50 p-4 rounded-lg text-gray-800">
-
-**[Student Name] is leading QT Time this week.**
-
-**Question:** *[Add the student’s discussion question before class]*
-
-**Flow:** Small groups → discuss → return together → one person per group shares a highlight.
-
-</div>
-
+<div class="p-6 bg-blue-50 rounded-lg text-xl text-gray-800">
+Let's invite the Spirit to increase our desire to worship in the Lord's house.
 </div>
 
 <!--
 Presenter Notes:
-- QT (~10 min): opening question, breakouts, gather and report.
-- If time is tight, shorten breakouts or limit group reporters to 1–2 sentences each.
--->
-
----
-layout: section
----
-
-# From the manual
-
-<!-- Presenter Notes: Transition -->
-
----
-layout: default
----
-
-# Lesson focus
-
-<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed text-gray-800">
-
-The Lord gives us many blessings through our worship in the temple. Ezekiel saw in a vision a latter-day temple that will be built in Jerusalem. He saw water flowing from this temple, healing the surrounding land and bringing life to the Dead Sea. The vision symbolizes the blessings the Lord gives us as we worship Him in His temple. This lesson can help students feel a greater desire to worship God in the temple.
-
-</div>
-
-<!--
-Presenter Notes:
-- Keep this tight; invite students to open scriptures / manual on their devices if helpful.
+- Invite a volunteer to pray without putting anyone on the spot.
 -->
 
 ---
 layout: default
 ---
 
-# Lesson focus
+# QT Time
 
-<div class="p-6 bg-blue-50 rounded-lg text-lg leading-relaxed text-gray-800">
+<div class="p-5 bg-purple-50 rounded-lg text-gray-800">
 
-As you study Ezekiel today, seek the Lord’s help to increase your desire to attend and worship in the temple.
+**[Student Name] is leading QT Time today.**
+
+**Question:** *[Add the student's discussion question before class]*
+
+</div>
+
+<div class="mt-6 text-lg">
+
+1. Listen to the question.
+2. Discuss in small groups.
+3. Return together.
+4. One person per group shares a brief highlight.
 
 </div>
 
 <!--
 Presenter Notes:
-- Keep this tight; invite students to open scriptures / manual on their devices if helpful.
+- QT: 10 minutes total. Question (1 min), groups (6 min), reports (3 min).
+- Keep reports to one or two sentences. The question need not match today's lesson.
+- Fallback if no question is submitted: "What's something you've learned or noticed recently that made you feel closer to God, even in a small way?"
+- QT leader was not named in the source request; fill in the name and question before class.
 -->
 
 ---
 layout: section
 ---
 
-# Lesson content
+# Our Desire for the Temple
 
-<!-- Presenter Notes: Transition -->
-
----
-layout: default
----
-
-# Lesson content
-
-<div class="space-y-3 text-base max-w-4xl mx-auto">
-
-- What are some reasons a teenager may want to attend and worship in the temple?
-- What are some reasons they may not want to attend the temple? What might make it difficult?
-- How strong is your desire to worship in the temple? Why?
-- What may keep you from wanting to attend the temple?
-
-</div>
+Why go? What gets in the way?
 
 <!--
 Presenter Notes:
-- Let students mark scriptures or share what stands out.
+- Begin the 15-minute scripture-study block.
+- Next 2 slides: about 3 minutes. Ezekiel's vision: about 8 minutes. Summary: about 4 minutes.
 -->
 
 ---
 layout: default
 ---
 
-# Lesson content
+# Reasons For and Against
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
+<div class="grid grid-cols-2 gap-4 text-lg">
 
-As you study Ezekiel today, seek the Lord’s help to increase your desire to attend and worship in the temple.
+<div class="p-4 bg-green-50 rounded-lg text-gray-800">
+What are some reasons a teenager may <strong>want</strong> to attend and worship in the temple?
+</div>
+
+<div class="p-4 bg-yellow-50 rounded-lg text-gray-800">
+What are some reasons they may <strong>not</strong> want to attend? What might make it difficult?
+</div>
 
 </div>
 
 <!--
 Presenter Notes:
-- Pause for questions; read verses together where appropriate.
--->
-
----
-layout: section
----
-
-# Lesson content
-
-<!-- Presenter Notes: Transition -->
-
----
-layout: default
----
-
-# Lesson content
-
-<div class="space-y-3 text-base max-w-4xl mx-auto">
-
-- How might water be a fitting symbol for the blessings of the Lord?
-- What do you think the Lord was teaching in this vision about the blessings He gives through the temple?
-- How would you summarize what you learned from Ezekiel’s vision?
-
-</div>
-
-<!--
-Presenter Notes:
-- Let students mark scriptures or share what stands out.
+- About 2 minutes. If you have a picture of a temple, display it and write answers to the first question on one side and the second on the other.
 -->
 
 ---
 layout: default
 ---
 
-# Lesson content
+# Ponder Quietly
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
+<div class="p-5 bg-purple-50 rounded-lg text-xl text-gray-800">
+How strong is your desire to worship in the temple? Why? What may keep you from wanting to attend?
+</div>
 
-In Ezekiel 47 (https://www.churchofjesuschrist.org/study/scriptures/ot/ezek/47?lang=eng) , Ezekiel saw a vision that could symbolize the blessings the Lord gives to all who do temple and family history work. It began with a heavenly messenger bringing Ezekiel to the temple door in Jerusalem. Read Ezekiel 47:1 (https://www.churchofjesuschrist.org/study/scriptures/ot/ezek/47?lang=eng&id=p1#p1) , looking for what Ezekiel saw coming from the temple.
-
+<div class="mt-6 text-lg">
+As we study Ezekiel today, ask the Lord to increase your desire.
 </div>
 
 <!--
 Presenter Notes:
-- Pause for questions; read verses together where appropriate.
+- About 1 minute of silent pondering; no sharing required.
 -->
 
 ---
 layout: default
 ---
 
-# Lesson content
+# Water From the Temple
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
+<div class="grid grid-cols-2 gap-6 items-center">
 
-Read Ezekiel 47:2–5 (https://www.churchofjesuschrist.org/study/scriptures/ot/ezek/47?lang=eng&id=p2-p5#p2) , looking for how deep the water became as it flowed out of the temple. Because the Lord’s teaching in this account is very visual, it can help to draw what we are learning. On the top half of a page in your study journal, draw a simple representation of a temple and the water coming from it. (You will draw more of where the water goes in the bottom half later.)
+<div>
+
+<img src="./images/temple-door-water.jpg" alt="A watercolor of temple doors with water flowing out from beneath them" class="rounded-lg" />
+
+</div>
+
+<div>
+
+<div class="p-4 bg-green-50 rounded-lg text-lg text-gray-800">
+A heavenly messenger brought Ezekiel to the temple door in Jerusalem. Read <a href="https://www.churchofjesuschrist.org/study/scriptures/ot/ezek/47?lang=eng&id=p1#p1">Ezekiel 47:1</a>. What did Ezekiel see coming from the temple?
+</div>
+
+<div class="mt-3 text-lg">
+How might water fit the Lord's blessings?
+</div>
+
+</div>
 
 </div>
 
 <!--
 Presenter Notes:
-- Pause for questions; read verses together where appropriate.
+- About 2 minutes. This vision can symbolize blessings the Lord gives to all who do temple and family history work.
+- Water gives life, is needed by everyone, cleans, and is available to all. The Savior compared Himself and His blessings to living water (John 4:10; 7:37–39).
+- Optional: the video “And the River Will Grow” (0:26 to 1:29) on ChurchofJesusChrist.org.
 -->
 
 ---
 layout: default
 ---
 
-# Lesson content
+# A Deepening River
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
+<div class="p-5 bg-green-50 rounded-lg text-xl text-gray-800">
+Read <a href="https://www.churchofjesuschrist.org/study/scriptures/ot/ezek/47?lang=eng&id=p2-p5#p2">Ezekiel 47:2–5</a>. How deep did the water become as it flowed out?
+</div>
 
-Read Ezekiel 47:8–9, 12 (https://www.churchofjesuschrist.org/study/scriptures/ot/ezek/47?lang=eng&id=p8-p9,p12#p8) , looking for what would happen to everything the water from the temple touched, including the Dead Sea.
+<div class="mt-6 text-lg">
+In the top half of your journal page, draw the temple and the water coming from it.
+</div>
 
+<div class="mt-4 text-lg">
+What was the Lord teaching about the blessings He gives through the temple?
 </div>
 
 <!--
 Presenter Notes:
-- Pause for questions; read verses together where appropriate.
--->
-
----
-layout: section
----
-
-# Lesson content
-
-<!-- Presenter Notes: Transition -->
-
----
-layout: default
----
-
-# Lesson content
-
-<div class="space-y-3 text-base max-w-4xl mx-auto">
-
-- What blessings stood out to you?
-- How might any of the blessings you identified heal or give life?
-- When have you or those you know experienced one of these blessings from the Lord through worshipping in the temple?
-
-</div>
-
-<!--
-Presenter Notes:
-- Let students mark scriptures or share what stands out.
+- About 3 minutes.
+- A cubit is a unit from elbow to fingertips, about 18 to 21 inches (45 to 53 cm). The water grows from ankle-deep to a river too deep to cross.
+- You will draw the bottom half later.
 -->
 
 ---
 layout: default
 ---
 
-# Lesson content
+# Where Nothing Lives
 
-<div class="p-5 bg-green-50 rounded-lg text-base leading-relaxed text-gray-800">
+<div class="p-5 bg-yellow-50 rounded-lg text-xl text-gray-800">
+If you drew something to show a place where nothing lives or thrives, what would it be, and why?
+</div>
 
-Read the handout “ Blessings of the Temple (https://assets.churchofjesuschrist.org/t5/0v/t50vwhmfp5wbzcdoxi57vk62h6djfs9424um52vp/old_testament.pdf) ” and underline or circle any blessings that stand out to you.
-
+<div class="mt-6 text-lg">
+Then read <a href="https://www.churchofjesuschrist.org/study/scriptures/ot/ezek/47?lang=eng&id=p8-p9,p12#p8">Ezekiel 47:8–9, 12</a>. What happens to everything the water touches, even the Dead Sea? Draw it on the bottom half.
 </div>
 
 <!--
 Presenter Notes:
-- Pause for questions; read verses together where appropriate.
+- About 3 minutes. To Ezekiel's audience the answer would likely be the Judean wilderness or the Dead Sea.
+- The Dead Sea cannot support animal or plant life, and its salt water is undrinkable.
+- Optional: the Gospel Library picture "Judean Wilderness" (Bible Photographs, no. 3) or "Physical Map of the Holy Land" (Bible Maps, no. 1).
+-->
+
+---
+layout: default
+---
+
+# What Did You Learn?
+
+<div class="p-5 bg-purple-50 rounded-lg text-xl text-gray-800">
+How would you summarize what you learned from Ezekiel's vision?
+</div>
+
+<div class="mt-6 p-4 bg-blue-50 rounded-lg text-lg text-gray-800">
+As we worship the Lord in the temple, <strong>He</strong> blesses us with healing, new life, and growth.
+</div>
+
+<!--
+Presenter Notes:
+- About 2 minutes. Thank students for their answers and ask why what they learned matters.
+- Reveal the principle only after students have shared theirs. Invite them to write a principle next to Ezekiel 47:1–9 in their scriptures.
+- Optional: finish the video “And the River Will Grow” (1:58 to 2:33).
 -->
 
 ---
 layout: section
 ---
 
-# Discussion
+# Blessings Through the Temple
 
-<!-- Presenter Notes: Transition -->
-
----
-layout: default
----
-
-# Discussion questions
-
-<div class="p-8 bg-gradient-to-r from-blue-50 to-purple-50 rounded-xl text-left text-lg space-y-4 max-w-4xl mx-auto">
-
-1. **What are some reasons a teenager may want to attend and worship in the temple?**
-
-2. **What are some reasons they may not want to attend the temple? What might make it difficult?**
-
-3. **How strong is your desire to worship in the temple? Why?**
-
-4. **What may keep you from wanting to attend the temple?**
-
-5. **In Ezekiel 47 (https://www.churchofjesuschrist.org/study/scriptures/ot/ezek/47?lang=eng) , Ezekiel saw a vision that could symbolize the blessings the Lord gives to all who do temple and family history work. It began with a heavenly messenger bringing Ezekiel to the temple door in Jerusalem.**
-
-6. **Read Ezekiel 47:1 (https://www.churchofjesuschrist.org/study/scriptures/ot/ezek/47?lang=eng&id=p1#p1) , looking for what Ezekiel saw coming from the temple.**
-
-</div>
+Add them to the river.
 
 <!--
 Presenter Notes:
-- Pick 1–2 questions if time is short.
+- Begin the 10-minute discussion/application block.
 -->
 
 ---
-layout: section
+layout: default
 ---
 
-# Application & closing
+# Healing Blessings
 
-<!-- Presenter Notes: Transition -->
+<div class="p-3 bg-yellow-50 rounded-lg text-sm leading-snug text-gray-800">
+“As we participate in family history and temple work today, we also lay claim to ‘healing’ blessings promised by prophets and apostles. … This long list includes these blessings:”
+</div>
+
+<div class="mt-2 grid grid-cols-2 gap-x-6 text-sm leading-snug text-left">
+
+<ul class="list-disc ml-5 space-y-1">
+<li>Increased understanding of the Savior and His atoning sacrifice</li>
+<li>Increased influence of the Holy Ghost, to feel strength and direction</li>
+<li>Increased faith, so that conversion to the Savior becomes deep and abiding</li>
+<li>Increased ability and motivation to learn and repent</li>
+<li>Increased refining, sanctifying, and moderating influences in our hearts</li>
+<li>Increased joy through an increased ability to feel the love of the Lord</li>
+</ul>
+
+<ul class="list-disc ml-5 space-y-1">
+<li>Increased family blessings, no matter our family situation or how imperfect our family tree may be</li>
+<li>Increased love and appreciation for ancestors and living relatives, so we no longer feel alone</li>
+<li>Increased power to discern that which needs healing and, with the Lord's help, serve others</li>
+<li>Increased protection from temptations and the intensifying influence of the adversary</li>
+<li>Increased assistance to mend troubled, broken, or anxious hearts and make the wounded whole</li>
+</ul>
+
+</div>
+
+<div class="mt-2 text-xs">
+Elder Dale G. Renlund, “Family History and Temple Work: Healing and Sealing,” Liahona, May 2018, 47
+</div>
+
+<!--
+Presenter Notes:
+- About 3 minutes. This is the manual's "Blessings of the Temple" handout; lightly shortened here (the full text, with scripture cross-references, is in the handout PDF linked in the manual lesson).
+- Students read the list (or a handout) and underline or circle blessings that stand out, then write them in the river on their drawings, adding any others they can think of.
+-->
 
 ---
 layout: default
 ---
 
-# This week
+# Share Your River
 
-<div class="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm">
-
-<div class="p-5 bg-yellow-50 rounded-lg text-gray-800">
-
-## Challenge
-- Complete **one** study option from the manual that fits your class time.
-- Write **one** sentence about what you felt during the lesson.
-
+<div class="p-5 bg-purple-50 rounded-lg text-xl text-gray-800">
+What blessings stood out to you? How might any of them heal or give life?
 </div>
 
-<div class="p-5 bg-pink-50 rounded-lg text-gray-800">
-
-## Personal reflection
-- What will you **do** differently because of Christ?
-
-</div>
-
+<div class="mt-6 text-lg">
+When have you, or someone you know, experienced one of these blessings from the Lord through worshipping in the temple?
 </div>
 
 <!--
 Presenter Notes:
-- Bear brief testimony as prompted by the Spirit.
+- About 4 minutes. Share with a partner or small group, or draw a river on the board and have students write blessings there.
+- Follow-ups: "Why is that meaningful to you?" "Has anyone else had a similar experience?" "What would you like to add?"
+- If many students live far from a temple or haven't attended, change the second question to blessings students or others experienced while preparing to worship in the temple.
+- Optional videos: “Temples Are a Beacon” (2:50); “Family History and Temple Work: Healing and Sealing” (7:36 to 12:20).
+-->
+
+---
+layout: default
+---
+
+# How Do You Feel?
+
+<div class="p-5 bg-green-50 rounded-lg text-xl text-gray-800">
+On your drawing or in your journal, write how you feel about worshipping in the temple and receiving the Lord's blessings.
+</div>
+
+<div class="mt-6 text-lg">
+Ask the Holy Ghost to help you write your feelings well and accurately.
+</div>
+
+<!--
+Presenter Notes:
+- About 3 minutes of quiet writing. Sharing is optional; invite willing students to share their testimony.
 -->
 
 ---
 layout: end
 ---
 
-# Closing
+# Living Water
 
-<div class="text-center space-y-6">
+The Lord blesses us through His house.
 
-## 🙏 Closing Prayer
-
-Ask someone to offer the closing prayer.
-
-</div>
-
-<div class="abs-br m-6 text-xs text-gray-400">
-Seminary Lesson - November 6, 2026
-</div>
+## Closing Prayer
 
 <!--
 Presenter Notes:
-- Thank students; remind them of reading for next time if applicable.
+- Closing: about 3 minutes, including prayer.
+- Share your own feelings and testimony of the temple as prompted by the Spirit.
+- Thank students and invite a volunteer to offer the closing prayer.
 -->
