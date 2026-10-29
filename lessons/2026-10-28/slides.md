@@ -137,12 +137,13 @@ layout: default
 # A Young Man's Morning After
 
 <div class="p-5 bg-blue-50 rounded-lg text-lg leading-relaxed text-gray-800">
-A young man has done his best to make good choices. At a party, he gives in to peer pressure and drinks alcohol to fit in. The next morning he wakes up feeling alone, guilty, and frustrated. He slowly begins making other poor choices and starts losing hope for his future.
+A young man has done his best to make good choices. One night, he gives in to pressure and does something he knows is wrong, just to fit in. The next morning he wakes up feeling alone, guilty, and frustrated. He slowly begins making other poor choices and starts losing hope for his future.
 </div>
 
 <!--
 Presenter Notes:
 - About 1 minute. Read it aloud.
+- The manual's version names drinking; it is kept generic here so it fits every student. Add specifics aloud if helpful.
 - Optional: show the video “Painted into a Corner” (3:41) on ChurchofJesusChrist.org, 0:00 to 1:47 now and the rest at the end of class.
 -->
 
@@ -170,6 +171,25 @@ layout: default
 
 <div class="p-5 bg-green-50 rounded-lg text-xl text-gray-800">
 Have you ever thought any of the statements on the board? Which do you know are false? Which are you unsure about?
+</div>
+
+<div class="mt-4 grid grid-cols-2 gap-6 text-lg text-gray-800">
+<div class="p-3 bg-gray-50 rounded-lg">
+
+**About myself**
+- I'm unworthy
+- I'm unlovable
+- I'm hopeless
+
+</div>
+<div class="p-3 bg-gray-50 rounded-lg">
+
+**About God**
+- He's angry with me
+- He's disappointed in me
+- He's far away
+
+</div>
 </div>
 
 <div class="mt-6 text-lg">
